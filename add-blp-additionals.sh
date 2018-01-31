@@ -10,5 +10,5 @@ cat $file | sed -e 's,\(.*/\),\1noliquid_,'
 
 for suff in $suffixes
 do
-  cat $file | grep blp$ | sed -e s,.m2$,$suff,
+  cat $file | grep blp$ | sed -e s,.blp$,$suff,
 done
