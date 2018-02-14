@@ -2,13 +2,17 @@
 
 set -euo pipefail
 
-file=${1}
+file="${1}"
 
 suffixes="$(echo _{n,e,s,hd,h}.blp)"
 
-cat $file | sed -e 's,\(.*/\),\1noliquid_,'
+cat "${file}" \
+  | (grep blp$ || true) \
+  | sed -e 's,\(.*/\),\1noliquid_,'
 
-for suff in $suffixes
+for suff in ${suffixes}
 do
-  cat $file | grep blp$ | sed -e s,.blp$,$suff,
+  cat "${file}" \
+    | (grep blp$ || true) \
+    | sed -e "s,.blp$,${suff},"
 done
