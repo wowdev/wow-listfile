@@ -2,13 +2,15 @@
 
 set -euo pipefail
 
-file=${1}
+file="${1}"
 
-suffixes="$(grep wmo$ listfile.txt | grep '_[0-9][0-9][0-9].wmo' | sed  -e 's,.*_\([0-9][0-9][0-9]\).wmo,\1,'  | sort -u | sed -e s,$,.wmo, -e s,^,_,) $(grep wmo$ listfile.txt | grep '_[0-9][0-9][0-9].wmo' | sed  -e 's,.*_\([0-9][0-9][0-9]\).wmo,\1,'  | sort -u | sed -e s,$,_lod1.wmo, -e s,^,_,) $(grep wmo$ listfile.txt | grep '_[0-9][0-9][0-9].wmo' | sed  -e 's,.*_\([0-9][0-9][0-9]\).wmo,\1,'  | sort -u | sed -e s,$,_lod2.wmo, -e s,^,_,)"
+suffixes="$(grep '_[0-9][0-9][0-9].wmo$' listfile.txt | sed  -e 's,.*_\([0-9][0-9][0-9]\).wmo,_\1.wmo _\1_lod1.wmo _\1_lod2.wmo _\1_lod1.blp _\1_lod2.blp,' | tr ' ' '\n' | sort -u)"
 
-for suff in $suffixes
+for suff in ${suffixes}
 do
-  cat $file | grep wmo$ | sed -e s,.wmo$,$suff,
+  cat "${file}" \
+    | (grep wmo$ || true) \
+    | (sed -e 's,_[0-9][0-9][0-9]\(_lod.\)*.wmo$,.wmo,' || true) \
+    | sort -u \
+    | sed -e "s,.wmo$,${suff},"
 done
-
-cat $file | grep _lod..wmo$ | sed -e s,.wmo$,.blp,
