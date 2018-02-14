@@ -1,7 +1,7 @@
 #!/bin/bash
 
 set -euo pipefail
-_scriptdir=$(greadlink -f ${BASH_SOURCE})
+_scriptdir=$($(which greadlink readlink 2>/dev/null | head -n 1) -f ${BASH_SOURCE})
 scriptdir="${_scriptdir%/*}"
 
 commitish=${@}

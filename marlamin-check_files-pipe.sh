@@ -1,6 +1,6 @@
 #!/bin/bash
 set -uo pipefail
-_scriptdir=$(greadlink -f ${BASH_SOURCE})
+_scriptdir=$($(which greadlink readlink 2>/dev/null | head -n 1) -f ${BASH_SOURCE})
 scriptdir="${_scriptdir%/*}"
 
 tmp_f=$(mktemp $PWD/check_files_XXXXXX)
