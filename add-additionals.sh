@@ -6,7 +6,11 @@ scriptdir="${_scriptdir%/*}"
 
 commitish=${@}
 
+tmp_f=$(mktemp $PWD/check_files_XXXXXX)
+trap 'rm -f "${tmp_f}"' EXIT
+git show ${commitish} listfile.txt | (grep ^+ || true) | (grep -v ^++ || true) | sed -e s,^+,, > "${tmp_f}"
+
 for script in "${scriptdir}"/add-*-additionals.sh
 do
-  echo "${script} <(git show ${commitish} | grep ^+ | grep -v ^++ | sed -e s,^+,,)"
-done | bash | "${scriptdir}/marlamin-check_files-pipe.sh"
+  "${script}" "${tmp_f}"
+done | "${scriptdir}/marlamin-check_files-pipe.sh"
