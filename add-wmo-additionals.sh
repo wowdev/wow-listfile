@@ -10,3 +10,5 @@ for suff in $suffixes
 do
   cat $file | grep wmo$ | sed -e s,.wmo$,$suff,
 done
+
+cat $file | grep _lod..wmo$ | sed -e s,.wmo$,.blp,
