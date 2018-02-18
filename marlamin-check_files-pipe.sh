@@ -4,7 +4,7 @@ _scriptdir=$($(which greadlink readlink 2>/dev/null | head -n 1) -f ${BASH_SOURC
 scriptdir="${_scriptdir%/*}"
 
 tmp_f=$(mktemp $PWD/check_files_XXXXXX)
-trap 'rm -f ${tmp_f}*' EXIT
+trap 'find ${PWD} -wholename "${tmp_f}*" -delete' EXIT
 
 sort -u > "${tmp_f}"
 if ! test -s "${tmp_f}"
@@ -16,6 +16,6 @@ echo "- checking $(head -n1 "${tmp_f}") and $(($(cat "${tmp_f}" | wc -l)-1)) oth
 
 split -a 5 -l 1000 "${tmp_f}" "${tmp_f}-part"
 
-"${scriptdir}/marlamin-check_files.sh" "${tmp_f}-part"*
+find ${PWD} -wholename "${tmp_f}-part*" | xargs "${scriptdir}/marlamin-check_files.sh"
 
 echo "- done" >&2
