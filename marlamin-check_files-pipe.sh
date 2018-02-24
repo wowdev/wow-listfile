@@ -16,6 +16,6 @@ echo "- checking $(head -n1 "${tmp_f}") and $(($(cat "${tmp_f}" | wc -l)-1)) oth
 
 split -a 5 -l 1000 "${tmp_f}" "${tmp_f}-part"
 
-find ${PWD} -wholename "${tmp_f}-part*" | xargs "${scriptdir}/marlamin-check_files.sh"
+find ${PWD} -wholename "${tmp_f}-part*" -print0 | xargs -0 "${scriptdir}/marlamin-check_files.sh"
 
 echo "- done" >&2
