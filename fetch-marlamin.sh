@@ -11,5 +11,8 @@ if ${1:-false}
 then
   git add listfile.txt
   git commit -m "bnet.marlam.in listfile $(LANG=C date)"
-  git push
+  if ${2:-true}
+  then
+    git push
+  fi
 fi
