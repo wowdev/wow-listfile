@@ -14,10 +14,10 @@ cat "${file}" \
   | (grep blp$ || true) \
   > "${tmp_f}"
 
-grep "world/minimaps/" "${tmp_f}" | sed -e 's,\(.*/\),\1noliquid_,'
+(grep "world/minimaps/" "${tmp_f}" || true) | sed -e 's,\(.*/\),\1noliquid_,'
 
 for suff in ${suffixes}
 do
   sed -e "s,.blp$,${suff}," "${tmp_f}"
-  grep '_[a-z].blp$' "${tmp_f}" | sed -e "s,_[a-z].blp$,${suff},"
+  (grep '_[a-z].blp$' "${tmp_f}" || true) | sed -e "s,_[a-z].blp$,${suff},"
 done
