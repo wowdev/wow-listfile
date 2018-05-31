@@ -4,4 +4,5 @@ set -euo pipefail
 
 file="${1}"
 
-sed -e "s,$,.meta," "${file}"
+(grep -v ".meta$" "${file}" || true) | sed -e "s,$,.meta,"
+(grep ".meta$" "${file}" || true) | sed -e 's,.meta$,,'
