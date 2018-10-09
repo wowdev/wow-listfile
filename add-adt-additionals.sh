@@ -18,3 +18,7 @@ for suff in ${suffixes}
 do
   sed -e "s,.adt$,${suff}," "${tmp_f}"
 done
+
+grep "_[0-9]*.adt$" "${tmp_f}" | sed -e 's,world/maps/,world/minimaps/,' -e 's,\(.*[^/]*/\).*_\([0-9]*_[0-9]*\).adt$,\1map\2.blp,'
+grep "_[0-9]*.adt$" "${tmp_f}" | sed -e 's,world/maps/,world/maptextures/,' -e 's,\(.*[^/]*/.*\)\([0-9]*_[0-9]*\).adt$,\1\2.blp,'
+grep "_[0-9]*.adt$" "${tmp_f}" | sed -e 's,world/maps/,world/maptextures/,' -e 's,\(.*[^/]*/.*\)\([0-9]*_[0-9]*\).adt$,\1\2_n.blp,'
