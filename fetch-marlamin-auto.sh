@@ -4,7 +4,7 @@ set -euo pipefail
 _scriptdir=$($(which greadlink readlink 2>/dev/null | head -n 1) -f ${BASH_SOURCE})
 scriptdir="${_scriptdir%/*}"
 
-curl --compressed "https://bnet.marlam.in/listfile.php" >> listfile.txt
+curl --compressed --silent --show-error "https://bnet.marlam.in/listfile.php" >> listfile.txt
 "${scriptdir}/normalize.sh"
 
 if ${1:-false}
