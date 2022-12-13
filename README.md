@@ -2,7 +2,7 @@
 This repository contains listfiles for use with World of Warcraft as well as some related scripts.
 
 ## Community listfile (community-listfile.csv)
-As of WoW: Battle for Azeroth, many files have lost their lookup hash which allowed us to verify and map filenames for a file. For that reason, a new listfile was created that binds names to file IDs instead. This listfile is currently automatically synchronized from wow.tools, where the community can submit filenames to add new files or improve existing names. 
+As of WoW: Battle for Azeroth, many files have lost their lookup hash which allowed us to verify and map filenames for a file. For that reason, a new listfile was created that binds names to file IDs instead.
 
 ### How to add things to community-listfile.csv
 Please open a pull request.
