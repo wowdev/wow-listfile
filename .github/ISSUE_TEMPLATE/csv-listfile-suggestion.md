@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-* [ ] I have attached a text file to this issue with lines formatted as `filedataid;filename`
+I have attached a text file to this issue with lines formatted as `filedataid;filename` and have removed this line from my issue after double-checking that or I'll look pretty silly.
