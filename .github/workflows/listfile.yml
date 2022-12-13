@@ -1,0 +1,21 @@
+on:
+  issues:
+    types: [opened, edited]
+    
+jobs:
+  listfile-test:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issues.labels.*.name, 'listfile-suggestion')
+    name: Check CSV listfile suggestion
+    permissions:
+      issues: write
+    steps:
+      - name: Add comment
+        uses: peter-evans/create-or-update-comment@v2
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            Hey there! Thanks for submitting your suggestion. I will now check it and let you know if this can be automatically merged.
+    
+    
+    
