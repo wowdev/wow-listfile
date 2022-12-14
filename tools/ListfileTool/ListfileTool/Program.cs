@@ -48,7 +48,7 @@ namespace ListfileTool
             if (args[2][0] == '#')
             {
                 var issueNumber = args[2].TrimStart('#');
-                var apiURL = "https://api.github.com/repos/Marlamin/wow-listfile/issues/" + issueNumber;
+                var apiURL = "https://api.github.com/repos/wowdev/wow-listfile/issues/" + issueNumber;
 
                 try
                 {
