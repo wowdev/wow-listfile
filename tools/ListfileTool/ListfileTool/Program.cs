@@ -193,7 +193,7 @@ namespace ListfileTool
                 }
             }
 
-            File.WriteAllText(outFile, string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower())));
+            File.WriteAllText(outFile, string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower())) + "\n");
         }
     }
 }
