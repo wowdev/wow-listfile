@@ -9,7 +9,7 @@ namespace ListfileTool
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("No arguments specified, available modes: check, merge");
+                Console.WriteLine("No arguments specified, available modes: check, merge, checkandmerge");
                 Environment.Exit(-1);
             }
 
@@ -114,6 +114,7 @@ namespace ListfileTool
                 if (split.Length != 2)
                     continue;
 
+                var checkDupe = true;
                 if (uint.TryParse(split[0], out var fileDataID))
                 {
                     if (sourceListfile.ContainsKey(fileDataID))
@@ -128,6 +129,7 @@ namespace ListfileTool
                         {
                             // FileDataID is present and the filename is the same
                             Console.WriteLine("FileDataID " + fileDataID + " is present in listfile and the filename is the same: " + split[1].Trim());
+                            checkDupe = false;
                         }
                     }
                     else
@@ -139,7 +141,7 @@ namespace ListfileTool
 
                 // Scan filenames in listfile to avoid duplicates
                 var filename = split[1].Trim();
-                if (sourceListfile.ContainsValue(filename))
+                if (checkDupe && sourceListfile.ContainsValue(filename))
                 {
                     Console.WriteLine("!!! Error !!! Filename " + filename + " is already present in listfile!");
                     Environment.Exit(-1);
