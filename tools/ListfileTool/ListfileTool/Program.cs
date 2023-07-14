@@ -96,7 +96,7 @@ namespace ListfileTool
 
             var sourceListfile = new SortedDictionary<uint, string>();
 
-            var sourceFileLines = File.ReadLines(args[1]);
+            var sourceFileLines = File.ReadLines(Path.Combine(args[1], "community-listfile-withcapitals.csv"));
             foreach (var line in sourceFileLines)
             {
                 var split = line.Split(';');
@@ -114,37 +114,37 @@ namespace ListfileTool
                 if (split.Length != 2)
                     continue;
 
-                var checkDupe = true;
+                var remove = split[1].Trim().Length == 0;
+
                 if (uint.TryParse(split[0], out var fileDataID))
                 {
-                    if (sourceListfile.ContainsKey(fileDataID))
+                    if (remove)
                     {
-                        // FileDataID is already present in listfile
-                        if (sourceListfile[fileDataID] != split[1].Trim())
-                        {
-                            // FileDataID is present, but the filename is different
-                            Console.WriteLine("FileDataID " + fileDataID + " is present in listfile, but the filename is different: " + split[1].Trim() + " vs " + sourceListfile[fileDataID]);
-                        }
-                        else
-                        {
-                            // FileDataID is present and the filename is the same
-                            Console.WriteLine("FileDataID " + fileDataID + " is present in listfile and the filename is the same: " + split[1].Trim());
-                            checkDupe = false;
-                        }
+                        Console.WriteLine("Removing " + fileDataID + " from listfile");
+                        sourceListfile.Remove(fileDataID);
                     }
                     else
                     {
-                        // FileDataID is new
-                        Console.WriteLine("FileDataID " + fileDataID + " is not present in listfile: " + split[1].Trim());
+                        if (sourceListfile.ContainsKey(fileDataID))
+                        {
+                            // FileDataID is already present in listfile
+                            if (sourceListfile[fileDataID] != split[1].Trim())
+                            {
+                                // FileDataID is present, but the filename is different
+                                Console.WriteLine("FileDataID " + fileDataID + " is present in listfile, but the filename is different: " + split[1].Trim() + " vs " + sourceListfile[fileDataID]);
+                            }
+                            else
+                            {
+                                // FileDataID is present and the filename is the same
+                                Console.WriteLine("FileDataID " + fileDataID + " is present in listfile and the filename is the same: " + split[1].Trim());
+                            }
+                        }
+                        else
+                        {
+                            // FileDataID is new
+                            Console.WriteLine("FileDataID " + fileDataID + " is not present in listfile: " + split[1].Trim());
+                        }
                     }
-                }
-
-                // Scan filenames in listfile to avoid duplicates
-                var filename = split[1].Trim();
-                if (checkDupe && sourceListfile.ContainsValue(filename))
-                {
-                    Console.WriteLine("!!! Error !!! Filename " + filename + " is already present in listfile!");
-                    Environment.Exit(-1);
                 }
             }
             return inFile;
@@ -158,13 +158,13 @@ namespace ListfileTool
                 Environment.Exit(-1);
             }
 
-            var sourceFile = args[1];
+            var sourceDir = args[1];
             var inFile = args[2];
-            var outFile = args.Length == 4 ? args[3] : sourceFile;
+            var outFile = args.Length == 4 ? args[3] : Path.Combine(sourceDir, "community-listfile-withcapitals.csv");
+            var outFileLC = args.Length == 4 ? Path.Combine(Path.GetDirectoryName(args[3]), "community-listfile.csv") : Path.Combine(sourceDir, "community-listfile.csv");
+            var mergedListfile = new Dictionary<uint, string>();
+            var sourceFileLines = File.ReadLines(Path.Combine(sourceDir, "community-listfile-withcapitals.csv"));
 
-            var mergedListfile = new SortedDictionary<uint, string>();
-
-            var sourceFileLines = File.ReadLines(sourceFile);
             foreach (var line in sourceFileLines)
             {
                 var split = line.Split(';');
@@ -172,8 +172,12 @@ namespace ListfileTool
                     continue;
 
                 if (uint.TryParse(split[0], out var fileDataID))
+                {
                     mergedListfile.Add(fileDataID, split[1].Trim());
+                }
             }
+
+            var sourceFilenames = mergedListfile.Values.ToHashSet();
 
             var inFileLines = File.ReadLines(inFile);
             foreach (var line in inFileLines)
@@ -182,20 +186,80 @@ namespace ListfileTool
                 if (split.Length != 2)
                     continue;
 
+                var remove = split[1].Trim().Length == 0;
+
                 if (uint.TryParse(split[0], out var fileDataID))
                 {
                     if (mergedListfile.ContainsKey(fileDataID))
                     {
-                        mergedListfile[fileDataID] = split[1].Trim();
+                        if (remove)
+                        {
+                            Console.WriteLine("Removing " + fileDataID + " from listfile");
+                            mergedListfile.Remove(fileDataID);
+                        }
+                        else
+                        {
+                            mergedListfile[fileDataID] = split[1].Trim();
+                        }
                     }
                     else
                     {
-                        mergedListfile.Add(fileDataID, split[1].Trim());
+                        if (sourceFilenames.Contains(split[1].Trim()))
+                        {
+                            if (split[1].Trim().EndsWith(".blp"))
+                            {
+                                Console.WriteLine("Appending FileDataID to duplicate BLP " + split[0] + " " + split[1].Trim());
+                                mergedListfile[fileDataID] = Path.GetDirectoryName(split[1].Trim()) + "/" + Path.GetFileNameWithoutExtension(split[1].Trim()) + "_" + fileDataID + ".blp";
+                            }
+                            else
+                            {
+                                Console.WriteLine("!!! DUPLICATE " + line);
+                                continue;
+                            }
+                        }
+                        else
+                        {
+                            mergedListfile.Add(fileDataID, split[1].Trim());
+                        }
                     }
                 }
             }
 
-            File.WriteAllText(outFile, string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower())) + "\n");
+            var mergedListfileCopy = mergedListfile.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
+
+            var existingFilenames = new HashSet<string>();
+
+            foreach (var file in mergedListfileCopy)
+            {
+                if (existingFilenames.Contains(file.Value.Trim().Replace("\\", "/").ToLower()))
+                {
+                    if (file.Value.EndsWith(".blp"))
+                    {
+                        Console.WriteLine("Appending FileDataID to duplicate BLP " + file.Key + " " + file.Value);
+                        mergedListfile[file.Key] = Path.GetDirectoryName(mergedListfile[file.Key]) + "/" + Path.GetFileNameWithoutExtension(mergedListfile[file.Key]) + "_" + file.Key + ".blp";
+                    }
+                    else
+                    {
+                        Console.WriteLine("Removing duplicate " + file.Key + " " + file.Value);
+                        mergedListfile.Remove(file.Key);
+                    }
+                }
+                else
+                {
+                    existingFilenames.Add(file.Value.Trim().Replace("\\", "/").ToLower());
+                }
+            }
+
+            mergedListfile = mergedListfile.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
+
+            var numWithCase = mergedListfile.Where(x => x.Value == x.Value.ToLower()).Count();
+
+            File.WriteAllText(outFile, string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
+            Console.WriteLine("Wrote " + mergedListfile.Count + " entries to " + outFile);
+            var percentage = (float)numWithCase / (float)mergedListfile.Count * 100.0f;
+            Console.WriteLine(numWithCase + " / " + mergedListfile.Count + " (" + percentage + "%) entries are lowercase");
+
+            File.WriteAllText(outFileLC, string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
         }
     }
 }
