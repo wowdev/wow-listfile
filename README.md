@@ -1,3 +1,18 @@
+# ⚠Important update⚠ 
+_(August 3rd 2023)_  
+
+Due to the 100MB size limit on files inside Git repositories, both `community-listfile.csv` and `community-listfile-withcapitals.csv` will from now on be distributed [through GitHub releases](https://github.com/wowdev/wow-listfile/releases). The versions currently in the repository do not have filenames that start with `world/unk` to save on space during the transition to a better solution. Further space saving will be applied by removing placeholder/unknown filenames until that no longer works, at which point the latest updated listfile will only be available through releases. 
+
+**This means that filenames for any patch after 10.1.7 _WILL NOT_ appear in the listfiles in the repository. These will only be in the releases.**
+
+Direct links for the latest full listfile release (for now, possibly permanently):  
+### **[community-listfile.csv](https://github.com/wowdev/wow-listfile/releases/latest/download/community-listfile.csv)**  
+### **[community-listfile-withcapitals.csv](https://github.com/wowdev/wow-listfile/releases/latest/download/community-listfile-withcapitals.csv)**
+
+Further updates will follow soon(tm). Thanks for flying wowdev! 🦜 out.
+
+----
+
 # Listfiles
 This repository contains listfiles for use with World of Warcraft as well as some related scripts.
 
