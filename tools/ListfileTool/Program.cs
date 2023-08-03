@@ -420,22 +420,28 @@ namespace ListfileTool
 
             var withCapitalOutput = Path.Combine(outputDir, "community-listfile-withcapitals.csv");
 
-            if (File.Exists(withCapitalOutput))
-                File.Move(withCapitalOutput, Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"));
+            if (force100MBLimit)
+            {
+                if (File.Exists(withCapitalOutput))
+                    File.Move(withCapitalOutput, Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"));
+            }
 
             File.WriteAllText(withCapitalOutput, string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
 
-            var sizeWithCase = new FileInfo(withCapitalOutput).Length;
-            if (sizeWithCase > 100 * 1024 * 1024)
+            if (force100MBLimit)
             {
-                Console.WriteLine("!!! Warning: community-listfile-withcapitals.csv is " + sizeWithCase + " bytes, which is over the 100MB limit, keeping old listfile!");
-                File.Delete(withCapitalOutput);
-                File.Move(Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"), withCapitalOutput);
-                Environment.Exit(-1);
-            }
-            else
-            {
-                File.Delete(Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"));
+                var sizeWithCase = new FileInfo(withCapitalOutput).Length;
+                if (sizeWithCase > 100 * 1024 * 1024)
+                {
+                    Console.WriteLine("!!! Warning: community-listfile-withcapitals.csv is " + sizeWithCase + " bytes, which is over the 100MB limit, keeping old listfile!");
+                    File.Delete(withCapitalOutput);
+                    File.Move(Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"), withCapitalOutput);
+                    Environment.Exit(-1);
+                }
+                else
+                {
+                    File.Delete(Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"));
+                }
             }
 
             File.WriteAllText(Path.Combine(outputDir, "community-listfile.csv"), string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
