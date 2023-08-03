@@ -432,6 +432,7 @@ namespace ListfileTool
                 Console.WriteLine("!!! Warning: community-listfile-withcapitals.csv is " + sizeWithCase + " bytes, which is over the 100MB limit, keeping old listfile!");
                 File.Delete(withCapitalOutput);
                 File.Move(Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"), withCapitalOutput);
+                Environment.Exit(-1);
             }
             else
             {
