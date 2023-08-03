@@ -1,4 +1,5 @@
-﻿using System.Text.Json;
+﻿using System.Collections.Immutable;
+using System.Text.Json;
 using System.Text.RegularExpressions;
 
 namespace ListfileTool
@@ -9,7 +10,7 @@ namespace ListfileTool
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("No arguments specified, available modes: check, merge, checkandmerge");
+                Console.WriteLine("No arguments specified, available modes: check, merge, checkandmerge, split, compile");
                 Environment.Exit(-1);
             }
 
@@ -26,6 +27,16 @@ namespace ListfileTool
                     case "checkandmerge":
                         var inFile = await Check(args);
                         Merge(new string[] { "merge", args[1], inFile });
+                        break;
+                    case "split":
+                        Split(args[1], args[2]);
+                        break;
+                    case "compile":
+                        var force100MBLimit = false;
+                        if (args.Length == 4)
+                            force100MBLimit = bool.Parse(args[3]);
+
+                        Compile(args[1], args[2], force100MBLimit);
                         break;
                     default:
                         Console.WriteLine("Unknown mode: " + args[0]);
@@ -79,6 +90,11 @@ namespace ListfileTool
                     Environment.Exit(-1);
                 }
             }
+            else if (Directory.Exists(args[2]))
+            {
+                var files = Directory.GetFiles(args[2], "*.csv");
+
+            }
             else
             {
                 if (File.Exists(args[2]))
@@ -120,7 +136,7 @@ namespace ListfileTool
                 {
                     if (remove)
                     {
-                        Console.WriteLine("Removing " + fileDataID + " from listfile");
+                        //Console.WriteLine("Removing " + fileDataID + " from listfile");
                         sourceListfile.Remove(fileDataID);
                     }
                     else
@@ -131,18 +147,18 @@ namespace ListfileTool
                             if (sourceListfile[fileDataID] != split[1].Trim())
                             {
                                 // FileDataID is present, but the filename is different
-                                Console.WriteLine("FileDataID " + fileDataID + " is present in listfile, but the filename is different: " + split[1].Trim() + " vs " + sourceListfile[fileDataID]);
+                                //Console.WriteLine("FileDataID " + fileDataID + " is present in listfile, but the filename is different: " + split[1].Trim() + " vs " + sourceListfile[fileDataID]);
                             }
                             else
                             {
                                 // FileDataID is present and the filename is the same
-                                Console.WriteLine("FileDataID " + fileDataID + " is present in listfile and the filename is the same: " + split[1].Trim());
+                                //Console.WriteLine("FileDataID " + fileDataID + " is present in listfile and the filename is the same: " + split[1].Trim());
                             }
                         }
                         else
                         {
                             // FileDataID is new
-                            Console.WriteLine("FileDataID " + fileDataID + " is not present in listfile: " + split[1].Trim());
+                            // Console.WriteLine("FileDataID " + fileDataID + " is not present in listfile: " + split[1].Trim());
                         }
                     }
                 }
@@ -260,6 +276,130 @@ namespace ListfileTool
             Console.WriteLine(numWithCase + " / " + mergedListfile.Count + " (" + percentage + "%) entries are lowercase");
 
             File.WriteAllText(outFileLC, string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
+        }
+
+        static void Split(string input, string outputDir)
+        {
+            if (!File.Exists(input)) return;
+
+            if (!Directory.Exists(outputDir))
+                Directory.CreateDirectory(outputDir);
+
+            var sourceListfile = new Dictionary<uint, string>();
+
+            foreach (var line in File.ReadLines(input))
+            {
+                var splitLine = line.Split(';');
+                if (splitLine.Length != 2)
+                    continue;
+
+                if (uint.TryParse(splitLine[0], out var fileDataID))
+                    sourceListfile.Add(fileDataID, splitLine[1].Trim());
+            }
+
+
+            var placeholderFiles = new Dictionary<uint, string>();
+            foreach (var file in sourceListfile)
+            {
+                var filenameLower = file.Value.ToLower();
+                if (
+                    filenameLower.Contains(file.Key.ToString()) ||
+                    filenameLower.Contains("unk_exp09") ||
+                    filenameLower.Contains("unknown_901_33978_000") ||
+                    filenameLower.Contains("nazjatar_unused") ||
+                    filenameLower.Contains("mechagon_unused") ||
+                    filenameLower.Contains("tileset/unused")
+                    )
+                {
+                    placeholderFiles.TryAdd(file.Key, file.Value);
+                }
+            }
+
+            sourceListfile = sourceListfile.Where(x => !placeholderFiles.ContainsKey(x.Key)).ToDictionary(x => x.Key, x => x.Value);
+
+            // Ensure that referenced files from unknown M2s are also added
+            var placeholderM2s = placeholderFiles.Where(x => x.Value.ToLower().EndsWith(".m2")).Select(x => x.Key.ToString()).ToList();
+            foreach (var file in sourceListfile)
+            {
+                var filename = Path.GetFileNameWithoutExtension(file.Value);
+                if (filename.Length == 0 || !char.IsDigit(filename[0]))
+                    continue;
+
+                foreach (var phFile in placeholderM2s)
+                {
+                    if (filename.StartsWith(phFile))
+                        placeholderFiles.Add(file.Key, file.Value);
+                }
+            }
+
+            sourceListfile = sourceListfile.Where(x => !placeholderFiles.ContainsKey(x.Key)).ToDictionary(x => x.Key, x => x.Value);
+
+            File.WriteAllText(Path.Combine(outputDir, "placeholder.csv"), string.Join("\n", placeholderFiles.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\n");
+
+            var splitFilters = new string[] { "creature", "item", "spells", "sound", "interface", "world/maps", "world/wmo", "world/minimaps", "world" };
+
+            foreach (var filter in splitFilters)
+            {
+                var filteredListfile = sourceListfile.Where(x => x.Value.ToLower().StartsWith(filter)).OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
+                File.WriteAllText(Path.Combine(outputDir, filter.Replace("/", "-") + ".csv"), string.Join("\n", filteredListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\n");
+                sourceListfile = sourceListfile.Where(x => !filteredListfile.ContainsKey(x.Key)).ToDictionary(x => x.Key, x => x.Value);
+            }
+
+            File.WriteAllText(Path.Combine(outputDir, "misc.csv"), string.Join("\n", sourceListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\n");
+        }
+
+        static void Compile(string inputDir, string outputDir, bool force100MBLimit = false)
+        {
+            var mergedListfile = new Dictionary<uint, string>();
+            
+            foreach (var file in Directory.GetFiles(inputDir, "*.csv"))
+            {
+                foreach (var line in File.ReadLines(file))
+                {
+                    var split = line.Split(';');
+                    if (split.Length != 2)
+                        continue;
+
+                    // If we're forcing a 100MB limit, skip all .meta, .unk and .dat files, that gives us some temporary breathing room.
+                    if (force100MBLimit)
+                        if (split[1].EndsWith(".meta") || split[1].EndsWith(".unk") || split[1].EndsWith(".dat"))
+                            continue;
+
+                    if (uint.TryParse(split[0], out var fileDataID))
+                    {
+                        if (mergedListfile.ContainsKey(fileDataID))
+                        {
+                            Console.WriteLine("!!! Warning: duplicate FileDataID " + fileDataID + " in " + file);
+                            continue;
+                        }
+
+                        mergedListfile.Add(fileDataID, split[1].Trim());
+                    }
+                }
+            }
+
+            mergedListfile = mergedListfile.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
+
+            var withCapitalOutput = Path.Combine(outputDir, "community-listfile-withcapitals.csv");
+
+            if (File.Exists(withCapitalOutput))
+                File.Move(withCapitalOutput, Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"));
+
+            File.WriteAllText(withCapitalOutput, string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
+
+            var sizeWithCase = new FileInfo(withCapitalOutput).Length;
+            if(sizeWithCase > 100 * 1024 * 1024)
+            {
+                Console.WriteLine("!!! Warning: community-listfile-withcapitals.csv is " + sizeWithCase + " bytes, which is over the 100MB limit, keeping old listfile!");
+                File.Delete(withCapitalOutput);
+                File.Move(Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"), withCapitalOutput);
+            }
+            else
+            {
+                File.Delete(Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"));
+            }
+
+            File.WriteAllText(Path.Combine(outputDir, "community-listfile.csv"), string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
         }
     }
 }
