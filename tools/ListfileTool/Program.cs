@@ -1,12 +1,11 @@
-﻿using System.Collections.Immutable;
-using System.Text.Json;
+﻿using System.Text.Json;
 using System.Text.RegularExpressions;
 
 namespace ListfileTool
 {
     internal class Program
     {
-        static async Task Main(string[] args)
+        static void Main(string[] args)
         {
             if (args.Length == 0)
             {
@@ -77,7 +76,7 @@ namespace ListfileTool
 
             if (Directory.Exists(baseLocation))
             {
-                foreach(var sourceFile in Directory.GetFiles(baseLocation, "*.csv"))
+                foreach (var sourceFile in Directory.GetFiles(baseLocation, "*.csv"))
                 {
                     var sourceFileLines = File.ReadLines(sourceFile);
                     foreach (var line in sourceFileLines)
@@ -89,7 +88,7 @@ namespace ListfileTool
                         if (uint.TryParse(split[0], out var fileDataID))
                             sourceListfile.Add(fileDataID, split[1].Trim());
                     }
-                }   
+                }
             }
             else if (File.Exists(baseLocation))
             {
@@ -299,40 +298,40 @@ namespace ListfileTool
         static string DownloadGitHubAttachment(int issueNumber)
         {
             var inFile = "";
-                var apiURL = "https://api.github.com/repos/wowdev/wow-listfile/issues/" + issueNumber;
+            var apiURL = "https://api.github.com/repos/wowdev/wow-listfile/issues/" + issueNumber;
 
-                try
-                {
-                    using HttpClient client = new HttpClient();
-                    client.DefaultRequestHeaders.Add("User-Agent", "ListfileTool");
-                    Console.WriteLine("Getting issue JSON " + apiURL);
-                    var response = client.GetStringAsync(apiURL).Result;
-                    using var doc = JsonDocument.Parse(response);
-                    var root = doc.RootElement;
-                    var attachmentRegex = new Regex(@"!?\[([^\]]*)\]\(([^\)]+)\)", RegexOptions.Multiline);
+            try
+            {
+                using HttpClient client = new HttpClient();
+                client.DefaultRequestHeaders.Add("User-Agent", "ListfileTool");
+                Console.WriteLine("Getting issue JSON " + apiURL);
+                var response = client.GetStringAsync(apiURL).Result;
+                using var doc = JsonDocument.Parse(response);
+                var root = doc.RootElement;
+                var attachmentRegex = new Regex(@"!?\[([^\]]*)\]\(([^\)]+)\)", RegexOptions.Multiline);
 
-                    var issueBody = root.GetProperty("body").GetString();
-                    if (issueBody == null)
-                        throw new Exception("Unable to load body from JSON!");
+                var issueBody = root.GetProperty("body").GetString();
+                if (issueBody == null)
+                    throw new Exception("Unable to load body from JSON!");
 
-                    var matches = attachmentRegex.Matches(issueBody);
-                    if (matches.Count == 0)
-                        throw new Exception("No attachment found in issue body!");
+                var matches = attachmentRegex.Matches(issueBody);
+                if (matches.Count == 0)
+                    throw new Exception("No attachment found in issue body!");
 
-                    var attachmentURL = matches[0].Groups[2].Value;
-                    Console.WriteLine("Retrieving " + attachmentURL);
-                    var attachmentContents = client.GetStringAsync(attachmentURL).Result;
-                    File.WriteAllText(inFile = "wow-listfile-" + issueNumber + ".txt", attachmentContents);
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine("Unable to retrieve attachment from GitHub issue: " + e.Message);
-                    Environment.Exit(-1);
-                }
+                var attachmentURL = matches[0].Groups[2].Value;
+                Console.WriteLine("Retrieving " + attachmentURL);
+                var attachmentContents = client.GetStringAsync(attachmentURL).Result;
+                File.WriteAllText(inFile = "wow-listfile-" + issueNumber + ".txt", attachmentContents);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Unable to retrieve attachment from GitHub issue: " + e.Message);
+                Environment.Exit(-1);
+            }
 
             return inFile;
 
-            
+
         }
         static void Split(Dictionary<uint, string> sourceListfile, string outputDir)
         {
@@ -390,7 +389,7 @@ namespace ListfileTool
         static void Compile(string inputDir, string outputDir, bool force100MBLimit = false)
         {
             var mergedListfile = new Dictionary<uint, string>();
-            
+
             foreach (var file in Directory.GetFiles(inputDir, "*.csv"))
             {
                 foreach (var line in File.ReadLines(file))
@@ -424,10 +423,10 @@ namespace ListfileTool
             if (File.Exists(withCapitalOutput))
                 File.Move(withCapitalOutput, Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"));
 
-            File.WriteAllText(withCapitalOutput, string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
+            File.WriteAllText(withCapitalOutput, string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
 
             var sizeWithCase = new FileInfo(withCapitalOutput).Length;
-            if(sizeWithCase > 100 * 1024 * 1024)
+            if (sizeWithCase > 100 * 1024 * 1024)
             {
                 Console.WriteLine("!!! Warning: community-listfile-withcapitals.csv is " + sizeWithCase + " bytes, which is over the 100MB limit, keeping old listfile!");
                 File.Delete(withCapitalOutput);
@@ -439,7 +438,7 @@ namespace ListfileTool
                 File.Delete(Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"));
             }
 
-            File.WriteAllText(Path.Combine(outputDir, "community-listfile.csv"), string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
+            File.WriteAllText(Path.Combine(outputDir, "community-listfile.csv"), string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
         }
     }
 }
