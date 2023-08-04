@@ -344,9 +344,9 @@ namespace ListfileTool
                 var filenameLower = file.Value.ToLower();
                 if (
                     filenameLower.StartsWith("models") ||
+                    filenameLower.StartsWith("unkmaps") ||
                     filenameLower.Contains(file.Key.ToString()) ||
-                    filenameLower.Contains("unk_exp09") ||
-                    filenameLower.Contains("unknown_901_33978") ||
+                    filenameLower.Contains("unk_exp") ||
                     filenameLower.Contains("tileset/unused")
                     )
                 {
