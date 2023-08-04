@@ -343,9 +343,10 @@ namespace ListfileTool
             {
                 var filenameLower = file.Value.ToLower();
                 if (
+                    filenameLower.StartsWith("models") ||
                     filenameLower.Contains(file.Key.ToString()) ||
                     filenameLower.Contains("unk_exp09") ||
-                    filenameLower.Contains("unknown_901_33978_000") ||
+                    filenameLower.Contains("unknown_901_33978") ||
                     filenameLower.Contains("tileset/unused")
                     )
                 {
