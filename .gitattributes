@@ -1,1 +1,2 @@
 listfile.txt text eol=lf
+*.csv text eol=crlf
