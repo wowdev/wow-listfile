@@ -284,14 +284,14 @@ namespace ListfileTool
                 var noCapitalOutput = Path.Combine(baseLocation, "community-listfile.csv");
                 var withCapitalOutput = Path.Combine(baseLocation, "community-listfile-withcapitals.csv");
 
-                File.WriteAllText(withCapitalOutput, string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
+                File.WriteAllText(withCapitalOutput, string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
                 Console.WriteLine("Wrote " + mergedListfile.Count + " entries to " + withCapitalOutput);
 
                 var numWithCase = mergedListfile.Where(x => x.Value == x.Value.ToLower()).Count();
                 var percentage = (float)numWithCase / (float)mergedListfile.Count * 100.0f;
                 Console.WriteLine(numWithCase + " / " + mergedListfile.Count + " (" + percentage + "%) entries are lowercase");
 
-                File.WriteAllText(noCapitalOutput, string.Join("\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
+                File.WriteAllText(noCapitalOutput, string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
             }
         }
 
@@ -373,18 +373,18 @@ namespace ListfileTool
 
             sourceListfile = sourceListfile.Where(x => !placeholderFiles.ContainsKey(x.Key)).ToDictionary(x => x.Key, x => x.Value);
 
-            File.WriteAllText(Path.Combine(outputDir, "placeholder.csv"), string.Join("\n", placeholderFiles.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\n");
+            File.WriteAllText(Path.Combine(outputDir, "placeholder.csv"), string.Join("\r\n", placeholderFiles.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
 
             var splitFilters = new string[] { "creature", "item", "spells", "sound", "interface", "world/maps", "world/wmo", "world/minimaps", "world" };
 
             foreach (var filter in splitFilters)
             {
                 var filteredListfile = sourceListfile.Where(x => x.Value.ToLower().StartsWith(filter)).OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
-                File.WriteAllText(Path.Combine(outputDir, filter.Replace("/", "-") + ".csv"), string.Join("\n", filteredListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\n");
+                File.WriteAllText(Path.Combine(outputDir, filter.Replace("/", "-") + ".csv"), string.Join("\r\n", filteredListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
                 sourceListfile = sourceListfile.Where(x => !filteredListfile.ContainsKey(x.Key)).ToDictionary(x => x.Key, x => x.Value);
             }
 
-            File.WriteAllText(Path.Combine(outputDir, "misc.csv"), string.Join("\n", sourceListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\n");
+            File.WriteAllText(Path.Combine(outputDir, "misc.csv"), string.Join("\r\n", sourceListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
         }
 
         static void Compile(string inputDir, string outputDir, bool force100MBLimit = false)
