@@ -345,6 +345,7 @@ namespace ListfileTool
                 if (
                     filenameLower.StartsWith("models") ||
                     filenameLower.StartsWith("unkmaps") ||
+                    filenameLower.Contains("autogen-names") ||
                     filenameLower.Contains(file.Key.ToString()) ||
                     filenameLower.Contains("unk_exp") ||
                     filenameLower.Contains("tileset/unused")
