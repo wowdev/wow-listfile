@@ -62132,7 +62132,7 @@
 4500101;creature/igc_winterqueen/igc_winterqueen_lod02.skin
 4500102;creature/igc_winterqueen/igc_winterqueen_lod03.skin
 4500203;creature/tuskarrglider/tuskarrglider.m2
-4500205;creature/tuskarrglider_classic/tuskarrglider_classic.m2
+4500205;creature/TuskarrGliderWOTLK/TuskarrGliderWOTLK.m2
 4500220;creature/tuskarrglider/tuskarrglider_blue.blp
 4500221;creature/tuskarrglider/tuskarrglider_effect.blp
 4500222;creature/tuskarrglider/tuskarrglider_emissive.blp
@@ -62140,7 +62140,7 @@
 4500224;creature/tuskarrglider/tuskarrglider_lod01.skin
 4500225;creature/tuskarrglider/tuskarrglider_lod02.skin
 4500226;creature/tuskarrglider/tuskarrglider_lod03.skin
-4500237;creature/tuskarrglider_classic/tuskarrglider_classic00.skin
+4500237;creature/TuskarrGliderWOTLK/TuskarrGliderWOTLK00.skin
 4500511;creature/infinitedragon/infinitedragon.m2
 4500605;creature/infinitedragon/infinitedragon0074-00.anim
 4500606;creature/infinitedragon/infinitedragon0060-00.anim
