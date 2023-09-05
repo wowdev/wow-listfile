@@ -26098,6 +26098,7 @@
 4696995;spells/10FX_Aberrus_Kazzara_Hellbeam_Precast01.m2
 4696996;spells/10FX_DragonIsles_TheZaqaliElders_VakansMight_Aura.m2
 4696997;spells/10FX_Aberrus_Zskarn_ActivateDragonfireTrap_Precast.m2
+4696999;spells/FX_TransformVisageDragonFyrakk_Cast.m2
 4697000;spells/FX_HellsteelCarnage_Cast.m2
 4697001;spells/10FX_Aberrus_Kazzara_WingsofExtinction_Impact.m2
 4697002;spells/FX_WrithingFlames_Cast.m2
@@ -26110,6 +26111,7 @@
 4697889;spells/10FX_Aberrus_Kazzara_HellsteelFragment_Cast_lod01.skin
 4697890;spells/10FX_Aberrus_Kazzara_HellsteelFragment_Cast_lod02.skin
 4697891;spells/10FX_Aberrus_Kazzara_HellsteelFragment_Cast_lod03.skin
+4697915;spells/FX_TransformVisageDragonFyrakk_Cast00.skin
 4697927;spells/CFX_Evoker_FuryoftheAspects_Aura.m2
 4697938;spells/CFX_Evoker_FuryoftheAspects_Aura00.skin
 4697940;spells/CFX_Evoker_FuryoftheAspects_Aura_lod01.skin
