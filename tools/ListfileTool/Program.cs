@@ -394,6 +394,9 @@ namespace ListfileTool
 
             foreach (var file in Directory.GetFiles(inputDir, "*.csv"))
             {
+                if (force100MBLimit && Path.GetFileNameWithoutExtension(file) == "placeholder")
+                    continue;
+
                 foreach (var line in File.ReadLines(file))
                 {
                     var split = line.Split(';');
