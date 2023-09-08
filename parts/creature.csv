@@ -65865,6 +65865,7 @@
 5316183;creature/gryphon/gryphon_ghost_mount_lod01.skin
 5316185;creature/gryphon/gryphon_ghost_mount_lod02.skin
 5316187;creature/gryphon/gryphon_ghost_mount_lod03.skin
+5324521;creature/djaradin_male/djaradin_male.skel
 5333531;creature/ravager2/ravager2mount_lod01.skin
 5333532;creature/ravager2/ravager2mount_lod02.skin
 5333533;creature/ravager2/ravager2mount_lod03.skin
@@ -65938,3 +65939,19 @@
 5363158;creature/IGC_Alexstrasza4/IGC_Alexstrasza41452-16.anim
 5363159;creature/IGC_Alexstrasza4/IGC_Alexstrasza41452-17.anim
 5363160;creature/IGC_Alexstrasza4/IGC_Alexstrasza41452-18.anim
+5366188;creature/butterfly/butterfly_lod01.skin
+5366194;creature/butterfly/butterfly_lod02.skin
+5366195;creature/butterfly/butterfly_lod03.skin
+5371134;Creature/Murloc2/Murloc20082-00.anim
+5371135;creature/murloc2shark/murloc2shark0082-00.anim
+5371136;creature/murloc2shark/murloc2shark_lod01.skin
+5371137;creature/murloc2shark/murloc2shark_lod02.skin
+5371138;creature/murloc2shark/murloc2shark_lod03.skin
+5371139;creature/murloc2maria/murloc2maria0082-00.anim
+5371140;creature/murlocblueblack/murlocblueblack0082-00.anim
+5371154;creature/encrypted18/encrypted180082-00.anim
+5371156;creature/encrypted19/encrypted190082-00.anim
+5371157;Creature/DHMurloc/DHMurloc0082-00.anim
+5371158;Creature/DHMurloc/DHMurloc_lod01.skin
+5371159;Creature/DHMurloc/DHMurloc_lod02.skin
+5371160;Creature/DHMurloc/DHMurloc_lod03.skin
