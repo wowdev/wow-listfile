@@ -362,7 +362,7 @@ namespace ListfileTool
             foreach (var file in sourceListfile)
             {
                 var filename = Path.GetFileNameWithoutExtension(file.Value);
-                if (filename.Length == 0 || !char.IsDigit(filename[0]))
+                if (filename.Length == 0 || !char.IsDigit(filename[0]) || file.Value.ToLower().StartsWith("textures"))
                     continue;
 
                 foreach (var phFile in placeholderM2s)
