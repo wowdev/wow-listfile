@@ -26164,6 +26164,7 @@
 4697942;spells/CFX_Evoker_FuryoftheAspects_Aura_lod03.skin
 4697947;spells/FX_ShadowyToss_Impact00.skin
 4699058;spells/FX_Snowblind_Aura.m2
+4699059;spells/FX_NullBlast_Precast.m2
 4699060;spells/FX_Corruption_Aura.m2
 4699061;spells/10FX_Aberrus_Sarkareth_InfiniteDuress_Aura.m2
 4699146;spells/FX_Snowblind_Aura00.skin
@@ -26242,6 +26243,7 @@
 4725790;spells/FX_Corruption_Aura_lod01.skin
 4725791;spells/FX_Corruption_Aura_lod02.skin
 4725792;spells/FX_Corruption_Aura_lod03.skin
+4726037;spells/FX_NullBlast_Precast00.skin
 4726075;spells/10FX_Aberrus_Sarkareth_InfiniteDuress_Aura00.skin
 4726076;spells/10FX_Aberrus_Sarkareth_InfiniteDuress_Aura_lod01.skin
 4726078;spells/10FX_Aberrus_Sarkareth_InfiniteDuress_Aura_lod02.skin
@@ -26868,7 +26870,9 @@
 5098232;spells/FX_CenterConduitActivateVisual_lod02.skin
 5098233;spells/FX_CenterConduitActivateVisual_lod03.skin
 5098316;spells/10FX_AmirdrassiltheDreamsHope_FyrakktheBlazing_Incinerated_Aura.m2
+5098318;spells/FX_FlayingTorment_Aura.m2
 5098322;spells/10FX_AmirdrassiltheDreamsHope_FyrakktheBlazing_Incinerated_Aura00.skin
+5098409;spells/FX_FlayingTorment_Aura00.skin
 5098905;spells/FX_LavaOrbVisual_Aura.m2
 5098907;spells/FX_TotemVisual2_Aura.m2
 5099009;spells/FX_UnboundSurge_Aura.m2
@@ -27500,6 +27504,7 @@
 5344564;spells/FX_WorldInFlames_lod01.skin
 5344566;spells/FX_WorldInFlames_lod02.skin
 5344569;spells/FX_WorldInFlames_lod03.skin
+5344955;spells/10FX_AmirdrassiltheDreamsHope_Smolderon_BlazingSoul_Aura.m2
 5345129;spells/FX_WorldInFlames03.m2
 5345242;spells/FX_WorldInFlames0300.skin
 5345244;spells/FX_WorldInFlames03_lod01.skin
@@ -27538,6 +27543,8 @@
 5350145;spells/FX_NoxiousBlossom01_lod02.skin
 5350147;spells/FX_NoxiousBlossom01_lod03.skin
 5351128;spells/FX_HelpfulWisp_Aura.m2
+5351743;spells/10FX_AmirdrassiltheDreamsHope_Smolderon_BlazingSoul_Aura00.skin
+5351744;spells/10FX_AmirdrassiltheDreamsHope_Smolderon_BlazingSoul_Aura_lod01.skin
 5352357;spells/FX_BreathoftheDream_Precast03.m2
 5352358;spells/10FX_AmirdrassiltheDreamsHope_CouncilofDreams_SongoftheDragon_Cast.m2
 5352359;spells/10FX_AmirdrassiltheDreamsHope_CouncilofDreams_SongoftheDragon_Precast.m2
@@ -27585,6 +27592,7 @@
 5369864;spells/FX_CoilingFlames_Aura_lod03.skin
 5369865;spells/FX_BurningTransformation_Aura00.skin
 5369870;spells/FX_Barrier_Aura.m2
+5369871;spells/FX_BrandofDamnation_Aura.m2
 5369874;spells/10FX_AmirdrassiltheDreamsHope_NymueWeaveroftheCycle_WeaversBurden_Aura.m2
 5369875;spells/10FX_AmirdrassiltheDreamsHope_NymueWeaveroftheCycle_WeaversBurden_Aura01.m2
 5369883;spells/10FX_AmirdrassiltheDreamsHope_IgiratheCruel_WrackingSkewer_Aura.m2
@@ -27605,6 +27613,7 @@
 5369994;spells/10FX_AmirdrassiltheDreamsHope_IgiratheCruel_WrackingSkewer_Aura_lod03.skin
 5370000;spells/FX_DreamTether_Aura.m2
 5370015;spells/FX_DreamTether_Aura00.skin
+5370017;spells/FX_BrandofDamnation_Aura00.skin
 5370308;spells/FX_VerdantMatrix_Aura0500.skin
 5370309;spells/FX_VerdantMatrix_Aura05_lod01.skin
 5370310;spells/FX_VerdantMatrix_Aura05_lod02.skin
@@ -27672,12 +27681,14 @@
 5384626;spells/10FX_AmirdrassiltheDreamsHope_FyrakktheBlazing_Corrupt_Channel_lod02.skin
 5384628;spells/10FX_AmirdrassiltheDreamsHope_FyrakktheBlazing_Corrupt_Channel_lod03.skin
 5384961;spells/FX_HelpfulWisps_Aura.m2
+5384968;spells/FX_CoiledSerpentIdol.m2
 5384998;spells/FX_HelpfulWisps_Aura00.skin
 5384999;spells/FX_HelpfulWisps_Aura_lod01.skin
 5385000;spells/FX_HelpfulWisps_Aura_lod02.skin
 5385001;spells/FX_HelpfulWisps_Aura_lod03.skin
 5385459;spells/FX_Bloom.m2
 5385467;spells/FX_SpiritsoftheKaldorei_Travel.m2
+5385591;spells/FX_CoiledSerpentIdol00.skin
 5385873;spells/FX_Bloom00.skin
 5385874;spells/FX_Bloom_lod01.skin
 5385875;spells/FX_Bloom_lod02.skin
@@ -27689,3 +27700,5 @@
 5385922;spells/FX_Blaze_Aura0100.skin
 5386951;spells/CFX_Evoker_SleepWalk_Aura01.m2
 5387522;spells/CFX_Evoker_SleepWalk_Aura0100.skin
+5394113;spells/FX_SolarBeam.m2
+5394115;spells/FX_SolarBeam00.skin
