@@ -26192,6 +26192,7 @@
 4703527;spells/10FX_Aberrus_Kazzara_RevenantsBlood_Cast.m2
 4703530;spells/FX_FXTestBeam_Aura.m2
 4703535;spells/FX_BattleReady_Impact.m2
+4703537;spells/10FX_AmirdrassiltheDreamsHope_IgiratheCruel_TwistingBlade01.m2
 4703538;spells/FX_TenebrousOutburst_Precast.m2
 4703539;spells/FX_Wildfire_Travel.m2
 4703540;spells/10FX_Aberrus_Rashok_ShatteredConduit_Travel.m2
@@ -26278,6 +26279,7 @@
 4730352;spells/FX_Wildfire_Travel00.skin
 4730355;spells/10FX_Aberrus_Rashok_SearingSlam_Precast00.skin
 4730362;spells/FX_TenebrousOutburst_Precast00.skin
+4730363;spells/10FX_AmirdrassiltheDreamsHope_IgiratheCruel_TwistingBlade0100.skin
 4730366;spells/10FX_Aberrus_Rashok_SearingSlam_Cast00.skin
 4730371;spells/FX_BattleReady_Impact00.skin
 4730375;spells/FX_FXTestBeam_Aura00.skin
@@ -26924,10 +26926,10 @@
 5103921;spells/FX_CosmeticVisual_lod01.skin
 5103922;spells/FX_CosmeticVisual_lod02.skin
 5103923;spells/FX_CosmeticVisual_lod03.skin
-5104074;spells/FX_ThreadsofLife_Cast00.skin
-5104075;spells/FX_ThreadsofLife_Cast_lod01.skin
-5104076;spells/FX_ThreadsofLife_Cast_lod02.skin
-5104077;spells/FX_ThreadsofLife_Cast_lod03.skin
+5104074;spells/FX_BarrierBlossom00.skin
+5104075;spells/FX_BarrierBlossom_lod01.skin
+5104076;spells/FX_BarrierBlossom_lod02.skin
+5104077;spells/FX_BarrierBlossom_lod03.skin
 5104273;spells/FX_InfusedHourglass_Aura00.skin
 5104274;spells/FX_InfusedHourglass_Aura_lod01.skin
 5104275;spells/FX_InfusedHourglass_Aura_lod02.skin
@@ -27527,6 +27529,8 @@
 5345528;spells/FX_VerdantMatrix_Aura_lod02.skin
 5345529;spells/FX_VerdantMatrix_Aura_lod03.skin
 5345555;spells/FX_SeedofFormation_Aura.m2
+5346308;spells/FX_RagingFlames.m2
+5346424;spells/FX_RagingFlames00.skin
 5346526;spells/FX_VerdantMatrix_Aura0100.skin
 5346527;spells/FX_VerdantMatrix_Aura01_lod01.skin
 5346528;spells/FX_VerdantMatrix_Aura01_lod02.skin
@@ -27564,8 +27568,13 @@
 5355922;spells/FX_BreathoftheDream_Precast03_lod03.skin
 5355926;spells/10FX_AmirdrassiltheDreamsHope_CouncilofDreams_SongoftheDragon_Precast00.skin
 5355935;spells/10FX_AmirdrassiltheDreamsHope_CouncilofDreams_SongoftheDragon_Cast00.skin
+5357399;spells/FX_ChillingCelebrationBanner_Aura.m2
 5357723;spells/FX_DreamEssence.m2
 5357828;spells/FX_DreamEssence00.skin
+5358182;spells/FX_ChillingCelebrationBanner_Aura00.skin
+5358183;spells/FX_ChillingCelebrationBanner_Aura_lod01.skin
+5358184;spells/FX_ChillingCelebrationBanner_Aura_lod02.skin
+5358185;spells/FX_ChillingCelebrationBanner_Aura_lod03.skin
 5358847;spells/FX_BurningTransformation_Cast.m2
 5358849;spells/FX_BurningTransformation_Cast00.skin
 5358852;spells/FX_BurningTransformation_Cast_lod01.skin
