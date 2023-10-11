@@ -59216,6 +59216,7 @@
 4051981;creature/tarantula2/tarantula2_magma_1.blp
 4051982;creature/tarantula2/tarantula2_pale.blp
 4052268;creature/snowelemental/snowelemental.m2
+4052270;creature/snowelementalmount/snowelementalmount.m2
 4054345;creature/snowelemental/snowelemental00.skin
 4054346;creature/snowelemental/snowelemental_lod01.skin
 4054347;creature/snowelemental/snowelemental_lod02.skin
@@ -59230,6 +59231,10 @@
 4056161;creature/salamanderwaterbaby/salamanderwaterbaby_orange.blp
 4056162;creature/salamanderwaterbaby/salamanderwaterbaby_pink.blp
 4056163;creature/salamanderwaterbaby/salamanderwaterbaby_purple.blp
+4056214;creature/snowelementalmount/snowelementalmount00.skin
+4056215;creature/snowelementalmount/snowelementalmount_lod01.skin
+4056216;creature/snowelementalmount/snowelementalmount_lod02.skin
+4056217;creature/snowelementalmount/snowelementalmount_lod03.skin
 4058980;creature/gnoll2/gnoll20123-00.anim
 4058981;creature/gnoll2/gnoll20129-00.anim
 4058982;creature/gnoll2/gnoll20128-00.anim
