@@ -24442,23 +24442,7 @@
 4484424;spells/FX_SnailSnacks_Aura_lod01.skin
 4484427;spells/FX_SnailSnacks_Aura_lod02.skin
 4484430;spells/FX_SnailSnacks_Aura_lod03.skin
-4484531;spells/FX_NurturingPresence_TravelE0100.skin
-4484535;spells/FX_NurturingPresence_TravelE01_lod01.skin
-4484539;spells/FX_NurturingPresence_TravelE01_lod02.skin
-4484543;spells/FX_NurturingPresence_TravelE01_lod03.skin
-4484548;spells/FX_NurturingPresence_TravelE0200.skin
-4484549;spells/FX_NurturingPresence_TravelE02_lod01.skin
-4484550;spells/FX_NurturingPresence_TravelE02_lod02.skin
-4484551;spells/FX_NurturingPresence_TravelE02_lod03.skin
 4484677;spells/FX_StormsurgeTotem_Aura.m2
-4484850;spells/FX_NurturingPresence_TravelE00.skin
-4484852;spells/FX_NurturingPresence_TravelE_lod01.skin
-4484855;spells/FX_NurturingPresence_TravelE_lod02.skin
-4484858;spells/FX_NurturingPresence_TravelE_lod03.skin
-4484864;spells/FX_NurturingPresence_TravelE0300.skin
-4484867;spells/FX_NurturingPresence_TravelE03_lod01.skin
-4484868;spells/FX_NurturingPresence_TravelE03_lod02.skin
-4484871;spells/FX_NurturingPresence_TravelE03_lod03.skin
 4484908;spells/FX_Banner_Aura03.m2
 4484909;spells/FX_Banner_Aura02.m2
 4484912;spells/FX_Banner_Aura01.m2
@@ -24555,7 +24539,6 @@
 4489424;spells/FX_MonarchsRitualStone_lod01.skin
 4489426;spells/FX_MonarchsRitualStone_lod02.skin
 4489428;spells/FX_MonarchsRitualStone_lod03.skin
-4492587;spells/FX_ButterflyVisual_Aura00.skin
 4492658;spells/CFX_Evoker_ShatteringStar_Impact.m2
 4492659;spells/CFX_Evoker_Unravel_Cast.m2
 4492768;spells/CFX_Evoker_ShatteringStar_Impact00.skin
@@ -27214,6 +27197,7 @@
 5198702;spells/FX_PurifyingTangle_TravelE.m2
 5198703;spells/FX_ViolentFlora.m2
 5198706;spells/FX_PetalStorm_Travel.m2
+5198707;spells/10FX_AmirdrassiltheDreamsHope_NymueWeaveroftheCycle_FullBloom_Precast.m2
 5198709;spells/FX_NoxiousBlossoms_Travel.m2
 5198711;spells/FX_NoxiousBlossom.m2
 5198790;spells/FX_PurifyingTangle_TravelE00.skin
@@ -27226,6 +27210,7 @@
 5198847;spells/FX_ViolentFlora_lod02.skin
 5198848;spells/FX_ViolentFlora_lod03.skin
 5198867;spells/FX_PetalStorm_Travel00.skin
+5198872;spells/10FX_AmirdrassiltheDreamsHope_NymueWeaveroftheCycle_FullBloom_Precast00.skin
 5198878;spells/FX_NoxiousBlossoms_Travel00.skin
 5198885;spells/FX_NoxiousBlossom00.skin
 5201374;spells/CFX_Evoker_BreathofEons_Aura02.m2
