@@ -66385,6 +66385,7 @@
 5197767;creature/futurebotpet/futurebotpet_lod01.skin
 5197770;creature/futurebotpet/futurebotpet_lod02.skin
 5197774;creature/futurebotpet/futurebotpet_lod03.skin
+5199457;creature/FirelordMount/FirelordMount.m2
 5199528;creature/drakemount/armoredtwilightdrake_lod01.skin
 5199529;creature/drakemount/armoredtwilightdrake_lod02.skin
 5199530;creature/drakemount/armoredtwilightdrake_lod03.skin
@@ -66880,6 +66881,9 @@
 5319035;creature/PrimalistDragonFireMount/PrimalistDragonFireMount_lod01.skin
 5319036;creature/PrimalistDragonFireMount/PrimalistDragonFireMount_lod02.skin
 5319037;creature/PrimalistDragonFireMount/PrimalistDragonFireMount_lod03.skin
+5324501;creature/FirelordMount/FirelordMount.blp
+5324502;creature/FirelordMount/FirelordMount_Glow.blp
+5324503;creature/FirelordMount/FirelordMount_Fire.blp
 5324521;creature/djaradin_male/djaradin_male.skel
 5332554;Creature/DreamOwl/DreamOwl_FireMount.blp
 5332556;Creature/DreamOwl/DreamOwl_FireMount_Glow_1.blp
