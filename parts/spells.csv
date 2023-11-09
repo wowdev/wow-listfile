@@ -24579,6 +24579,7 @@
 4493401;spells/10FX_AzureVault_Azureblade_SealEmpowerment_Channel_lod02.skin
 4494520;spells/10FX_DragonIsles_Liskanoth_ChillingBreath_Impact.m2
 4494522;spells/10FX_VaultOfTheIncarnates_Sennarth_ApexofIce_Channel01.m2
+4494523;spells/FX_MarkElementalwithFrost_Aura.m2
 4494524;spells/FX_IncarnateDeath_Precast01.m2
 4494525;spells/FX_WinterpeltTotem01.m2
 4494526;spells/FX_IncarnateDeath_Precast.m2
@@ -24659,6 +24660,10 @@
 4497619;spells/FX_HealingWinds_Aura_lod01.skin
 4497621;spells/FX_HealingWinds_Aura_lod02.skin
 4497623;spells/FX_HealingWinds_Aura_lod03.skin
+4497808;spells/FX_MarkElementalwithFrost_Aura00.skin
+4497809;spells/FX_MarkElementalwithFrost_Aura_lod01.skin
+4497810;spells/FX_MarkElementalwithFrost_Aura_lod02.skin
+4497811;spells/FX_MarkElementalwithFrost_Aura_lod03.skin
 4497814;spells/FX_IncarnateDeath_Precast0100.skin
 4497815;spells/FX_IncarnateDeath_Precast01_lod01.skin
 4497816;spells/FX_IncarnateDeath_Precast01_lod02.skin
