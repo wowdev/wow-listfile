@@ -64055,6 +64055,7 @@
 4754926;creature/wrathion/wrathion1452-02.anim
 4754927;creature/wrathion/wrathion_lod01.skin
 4754928;creature/wrathion/wrathion_lod02.skin
+4755140;creature/MagicalFishPetClassic/MagicalFishPetClassic.m2
 4760672;creature/oracle/oracle_lod01.skin
 4760673;creature/oracle/oracle_lod02.skin
 4760674;creature/oracle/oracle_lod03.skin
@@ -64085,6 +64086,7 @@
 4776116;creature/peacock/peacock_lod01.skin
 4776117;creature/peacock/peacock_lod02.skin
 4776118;creature/peacock/peacock_lod03.skin
+4777625;creature/MagicalFishPetClassic/MagicalFishPetClassic00.skin
 4777667;creature/magicalfishpet/magicalfishpet.m2
 4777694;creature/magicalfishpet/magicalfishpet00.skin
 4777695;creature/magicalfishpet/magicalfishpet_lod01.skin
@@ -64103,6 +64105,7 @@
 4787478;creature/foxwyvernpet/foxwyvernpet0060-00.anim
 4787479;creature/foxwyvernpet/foxwyvernpet0100-00.anim
 4787480;creature/foxwyvernpet/foxwyvernpet0101-00.anim
+4788400;creature/ArfusPet_Classic/ArfusPet_Classic.m2
 4788402;creature/arfuspet/ArfusPet.m2
 4822552;creature/drakonid2primalist_ice/drakonid2primalist_ice0097-00.anim
 4822553;creature/drakonid2primalist_ice/drakonid2primalist_ice0096-00.anim
@@ -64517,6 +64520,7 @@
 4878563;Creature/EmeraldDreamStag/EmeraldDreamStag_EyeGlow_Green.blp
 4878566;Creature/EmeraldDreamStag/EmeraldDreamStag_EyeGlow_Ashes.blp
 4878567;Creature/EmeraldDreamStag/EmeraldDreamStag_EyeGlow_Frost.blp
+4878995;creature/ArfusPet_Classic/ArfusPet_Classic00.skin
 4879656;creature/djaradin_male/djaradin_male0065-00.anim
 4879727;creature/babyhornswog/babyhornswog_yellow.blp
 4879728;creature/babyhornswog/babyhornswog_black.blp
@@ -66386,6 +66390,7 @@
 5197770;creature/futurebotpet/futurebotpet_lod02.skin
 5197774;creature/futurebotpet/futurebotpet_lod03.skin
 5199457;creature/RagnarosMount/RagnarosMount.m2
+5199459;creature/RagnarosMount_Classic/RagnarosMount_Classic.m2
 5199528;creature/drakemount/armoredtwilightdrake_lod01.skin
 5199529;creature/drakemount/armoredtwilightdrake_lod02.skin
 5199530;creature/drakemount/armoredtwilightdrake_lod03.skin
@@ -66925,6 +66930,7 @@
 5340935;creature/Volcoross/Volcoross_lod02.skin
 5340936;creature/Volcoross/Volcoross_lod03.skin
 5341093;creature/Sandbox_Gryphon/Sandbox_Gryphon.m2
+5341580;creature/RagnarosMount_Classic/RagnarosMount_Classic00.skin
 5341663;creature/facelessgeneralnzothtentacle/facelessgeneralnzothtentacle_lod01.skin
 5341664;creature/facelessgeneralnzothtentacle/facelessgeneralnzothtentacle_lod02.skin
 5341665;creature/facelessgeneralnzothtentacle/facelessgeneralnzothtentacle_lod03.skin
