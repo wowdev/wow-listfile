@@ -63438,10 +63438,10 @@
 4680288;creature/rafgoblinpet/rafgoblinpet_lod01.skin
 4680289;creature/rafgoblinpet/rafgoblinpet_lod02.skin
 4680291;creature/rafgoblinpet/rafgoblinpet_lod03.skin
-4680342;creature/hoplet/hoplet.m2
-4680680;creature/hoplet/hoplet00.skin
-4680728;creature/rabbitmount_low/rabbitmount_low.m2
-4681134;creature/rabbitmount_low/rabbitmount_low00.skin
+4680342;creature/LunarRabbitPet/LunarRabbitPet.m2
+4680680;creature/LunarRabbitPet/LunarRabbitPet00.skin
+4680728;creature/RabbitMountClassic/RabbitMountClassic.m2
+4681134;creature/RabbitMountClassic/RabbitMountClassic00.skin
 4681630;creature/helyra_tentacle/helyra_tentacle_lod01.skin
 4681634;creature/helyra_tentacle/helyra_tentacle_lod02.skin
 4681636;creature/helyra_tentacle/helyra_tentacle_lod03.skin
