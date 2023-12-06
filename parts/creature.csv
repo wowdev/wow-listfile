@@ -54105,7 +54105,7 @@
 3482593;creature/lich2/lich2_brass.blp
 3482594;creature/lich2/lich2_pewter.blp
 3482595;creature/lich2/lich2_gold.blp
-3482620;creature/ardenwealddryadfemale/ardenwealddryadfemale0060_00.anim
+3482620;creature/ardenwealddryadfemale/ardenwealddryadfemale0060-00.anim
 3482625;creature/ardenwealddryadmale/ardenwealddryadmale0060-00.anim
 3483604;creature/igc_yseradragon/igc_yseradragon.m2
 3483610;creature/yseradragonshadowlands/yseradragonshadowlands.m2
@@ -54592,8 +54592,8 @@
 3493328;creature/runesmith/runesmith00.skin
 3493331;creature/runesmith/runesmith.blp
 3493332;creature/runesmith/runesmith_fx.blp
-3493343;creature/ardenwealddryadfemale/ardenwealddryadfemale1480_00.anim
-3493344;creature/ardenwealddryadfemale/ardenwealddryadfemale0113_00.anim
+3493343;creature/ardenwealddryadfemale/ardenwealddryadfemale1480-00.anim
+3493344;creature/ardenwealddryadfemale/ardenwealddryadfemale0113-00.anim
 3493345;creature/ardenwealddryadmale/ardenwealddryadmale1480-00.anim
 3493349;creature/ardenwealddryadmale/ardenwealddryadmale0113-00.anim
 3500354;creature/vampireapothecary/vampireapothecary.m2
@@ -54725,7 +54725,7 @@
 3515855;creature/madscientist2/madscientist20069-00.anim
 3515856;creature/madscientist2/madscientist20069-01.anim
 3515857;creature/madscientist2/madscientist20069-02.anim
-3515858;creature/madscientist2/madscientist20069_03.anim
+3515858;creature/madscientist2/madscientist20069-03.anim
 3515859;creature/madscientist2/madscientist20185-00.anim
 3515860;creature/madscientist2/madscientist20186-00.anim
 3515861;creature/madscientist2/madscientist20195-00.anim
@@ -55065,8 +55065,8 @@
 3549317;creature/vampire_male/vampire_male_lod02.skin
 3549318;creature/vampire_male/vampire_male_lod03.skin
 3550766;creature/drustnative/drustnative.m2
-3550817;creature/ardenwealddryadfemale/ardenwealddryadfemale0066_00.anim
-3550818;creature/ardenwealddryadfemale/ardenwealddryadfemale0068_00.anim
+3550817;creature/ardenwealddryadfemale/ardenwealddryadfemale0066-00.anim
+3550818;creature/ardenwealddryadfemale/ardenwealddryadfemale0068-00.anim
 3550819;creature/ardenwealddryadmale/ardenwealddryadmale0066-00.anim
 3550820;creature/ardenwealddryadmale/ardenwealddryadmale0068-00.anim
 3550827;creature/drustnative/flowerstar_blendadd.blp
@@ -56682,8 +56682,8 @@
 3734989;creature/mawnecromancer/mawnecromancer0069-00.anim
 3734990;creature/mawnecromancer/mawnecromancer0069-01.anim
 3734991;creature/mawnecromancer/mawnecromancer0069-02.anim
-3734992;creature/mawnecromancer/mawnecromancer0069_03.anim
-3734993;creature/mawnecromancer/mawnecromancer0069_04.anim
+3734992;creature/mawnecromancer/mawnecromancer0069-03.anim
+3734993;creature/mawnecromancer/mawnecromancer0069-04.anim
 3734994;creature/mawnecromancer/mawnecromancer0195-00.anim
 3734995;creature/mawnecromancer/mawnecromancer0185-00.anim
 3734996;creature/mawnecromancer/mawnecromancer0186-00.anim
@@ -56709,8 +56709,8 @@
 3735016;creature/mawnecromancer/mawnecromancer0590-00.anim
 3735017;creature/mawnecromancer/mawnecromancer0590-01.anim
 3735018;creature/mawnecromancer/mawnecromancer0590-02.anim
-3735019;creature/mawnecromancer/mawnecromancer0590_03.anim
-3735020;creature/mawnecromancer/mawnecromancer0590_04.anim
+3735019;creature/mawnecromancer/mawnecromancer0590-03.anim
+3735020;creature/mawnecromancer/mawnecromancer0590-04.anim
 3735021;creature/mawnecromancer/mawnecromancer1314-00.anim
 3735022;creature/mawnecromancer/mawnecromancer0604-00.anim
 3735023;creature/mawnecromancer/mawnecromancer0592-00.anim
