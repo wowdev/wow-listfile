@@ -67124,6 +67124,8 @@
 5400256;Creature/DarkPhoenix/DarkPhoenix_lod01.skin
 5400258;Creature/DarkPhoenix/DarkPhoenix_lod02.skin
 5400260;Creature/DarkPhoenix/DarkPhoenix_lod03.skin
+5404220;creature/manaraymount/manaraymount_lod01.skin
+5404222;creature/manaraymount/manaraymount_lod02.skin
 5423626;CREATURE/FireHawk/FireHawk_NoArmor_lod01.skin
 5423627;CREATURE/FireHawk/FireHawk_NoArmor_lod02.skin
 5423628;CREATURE/FireHawk/FireHawk_NoArmor_lod03.skin
@@ -67358,3 +67360,9 @@
 5525311;creature/HearthstoneMount/HearthstoneMount_lod01.skin
 5525312;creature/HearthstoneMount/HearthstoneMount_lod02.skin
 5525313;creature/HearthstoneMount/HearthstoneMount_lod03.skin
+5546998;Creature/SalamanderHunter/SalamanderHunter_lod01.skin
+5547000;Creature/SalamanderHunter/SalamanderHunter_lod02.skin
+5547002;Creature/SalamanderHunter/SalamanderHunter_lod03.skin
+5547946;creature/robot_bulldog/robot_bulldog_lod01.skin
+5547947;creature/robot_bulldog/robot_bulldog_lod02.skin
+5547948;creature/robot_bulldog/robot_bulldog_lod03.skin
