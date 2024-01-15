@@ -64108,6 +64108,7 @@
 4787480;creature/foxwyvernpet/foxwyvernpet0101-00.anim
 4788400;creature/ArfusPetClassic/ArfusPetClassic.m2
 4788402;creature/arfuspet/ArfusPet.m2
+4788406;creature/WoodDragonMount/WoodDragonMount.m2
 4822552;creature/drakonid2primalist_ice/drakonid2primalist_ice0097-00.anim
 4822553;creature/drakonid2primalist_ice/drakonid2primalist_ice0096-00.anim
 4822554;creature/drakonid2primalist_ice/drakonid2primalist_ice0098-00.anim
@@ -64906,6 +64907,7 @@
 4954327;creature/igc_ebyssian/igc_ebyssian_lod03.skin
 4954741;creature/dragonelementiummount/dragonelementiummount.m2
 4954743;creature/snailrockmount/snailrockmount.m2
+4954750;creature/WoodDragonPet/WoodDragonPet.m2
 4954782;creature/hydraprimal/hydraprimal0100-00.anim
 4954783;creature/hydraprimal/hydraprimal0061-00.anim
 4954784;creature/hydraprimal/hydraprimal00.skin
@@ -65102,6 +65104,10 @@
 5003585;creature/snailrockmount/snailrockmount_lod01.skin
 5003586;creature/snailrockmount/snailrockmount_lod02.skin
 5003587;creature/snailrockmount/snailrockmount_lod03.skin
+5004740;creature/WoodDragonPet/WoodDragonPet00.skin
+5004741;creature/WoodDragonPet/WoodDragonPet_lod01.skin
+5004742;creature/WoodDragonPet/WoodDragonPet_lod02.skin
+5004743;creature/WoodDragonPet/WoodDragonPet_lod03.skin
 5006281;creature/protodragonshadowflame/protodragonshadowflame_glow.blp
 5008711;Creature/DreamSaber/DreamSaber.m2
 5009794;creature/ElderRashok/ElderRashok.m2
@@ -65527,6 +65533,17 @@
 5098339;creature/monstrouseel/monstrouseel_lod01.skin
 5098344;creature/monstrouseel/monstrouseel_lod02.skin
 5098347;creature/monstrouseel/monstrouseel_lod03.skin
+5098360;creature/WoodDragonMount/WoodDragonMount0070-00.anim
+5098361;creature/WoodDragonMount/WoodDragonMount0097-00.anim
+5098362;creature/WoodDragonMount/WoodDragonMount0096-00.anim
+5098363;creature/WoodDragonMount/WoodDragonMount0098-00.anim
+5098364;creature/WoodDragonMount/WoodDragonMount0100-00.anim
+5098365;creature/WoodDragonMount/WoodDragonMount0099-00.anim
+5098366;creature/WoodDragonMount/WoodDragonMount0101-00.anim
+5098367;creature/WoodDragonMount/WoodDragonMount00.skin
+5098368;creature/WoodDragonMount/WoodDragonMount_lod01.skin
+5098369;creature/WoodDragonMount/WoodDragonMount_lod02.skin
+5098370;creature/WoodDragonMount/WoodDragonMount_lod03.skin
 5098429;creature/Morchie/Morchie.m2
 5098993;creature/scaleddrakemount/scaleddrakemount_lod01.skin
 5099005;creature/scaleddrakemount/scaleddrakemount_lod02.skin
@@ -66831,6 +66848,7 @@
 5262901;creature/IGC_Chromie2/IGC_Chromie21454-15.anim
 5262903;creature/IGC_Chromie2/IGC_Chromie21454-16.anim
 5262905;creature/IGC_Chromie2/IGC_Chromie21454-17.anim
+5262986;creature/WoodDragonMount/WoodDragonMount0060-00.anim
 5275513;creature/Nymue/Nymue.m2
 5278836;creature/Nymue/Nymue0060-00.anim
 5278840;creature/Nymue/Nymue00.skin
