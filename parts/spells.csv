@@ -27897,6 +27897,7 @@
 5371815;spells/FX_BreathoftheDream_Cast_lod03.skin
 5371867;spells/FX_ScorchingPlume.m2
 5371895;spells/FX_ScorchingPlume00.skin
+5372441;spells/FX_CallLilian_Aura.m2
 5372693;spells/FX_PollenBurn_Impact.m2
 5372694;spells/10FX_AmirdrassiltheDreamsHope_Smolderon_WorldInFlames_Aura.m2
 5372699;spells/FX_ThornSpirit_Aura00.skin
@@ -27976,6 +27977,10 @@
 5386431;spells/FX_DelicateSilkParasol_Aura_lod02.skin
 5386432;spells/FX_DelicateSilkParasol_Aura_lod03.skin
 5386951;spells/CFX_Evoker_SleepWalk_Aura01.m2
+5387430;spells/FX_CallLilian_Aura00.skin
+5387431;spells/FX_CallLilian_Aura_lod01.skin
+5387432;spells/FX_CallLilian_Aura_lod02.skin
+5387433;spells/FX_CallLilian_Aura_lod03.skin
 5387522;spells/CFX_Evoker_SleepWalk_Aura0100.skin
 5390162;spells/CFX_Paladin_DivineToll_Cast.m2
 5390207;spells/CFX_Paladin_DivineToll_Cast00.skin
