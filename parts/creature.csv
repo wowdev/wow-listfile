@@ -65533,6 +65533,8 @@
 5098339;creature/monstrouseel/monstrouseel_lod01.skin
 5098344;creature/monstrouseel/monstrouseel_lod02.skin
 5098347;creature/monstrouseel/monstrouseel_lod03.skin
+5098357;creature/WoodDragonMount/WoodDragonMount_Saddle.blp
+5098359;creature/WoodDragonMount/WoodDragonMount.blp
 5098360;creature/WoodDragonMount/WoodDragonMount0070-00.anim
 5098361;creature/WoodDragonMount/WoodDragonMount0097-00.anim
 5098362;creature/WoodDragonMount/WoodDragonMount0096-00.anim
@@ -67301,6 +67303,8 @@
 5482608;creature/LoveFoxMount/LoveFoxMount_lod03.skin
 5488240;creature/IGC_YseraVisage3/IGC_YseraVisage31452-00.anim
 5490376;creature/FlyingCarpet3/FlyingCarpet3.m2
+5493554;Creature/FoxMount/FoxMount_White.blp
+5493555;Creature/FoxMount/FoxMountSaddle_White.blp
 5499965;Creature/DreamOwl/DreamOwl0061-00.anim
 5499967;Creature/DreamOwl_Fire/DreamOwl_Fire0061-00.anim
 5499968;creature/SomnowlLoa/SomnowlLoa0061-00.anim
