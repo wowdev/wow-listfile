@@ -55389,7 +55389,7 @@
 3593569;creature/shadebeastflying/shadebeastflying02.skin
 3593570;creature/shadebeastflying/shadebeastflying03.skin
 3593614;creature/shadebeastflying/shadebeastflying_black.blp
-3593640;creature/shadebeastmount/smoke_generic_paintymask01_blend.blp
+3593640;Creature/ShadeBeastMount/smoke_generic_paintymask01_blend.blp
 3593641;creature/shadebeastmount/8fx_explosionsmoke_a.blp
 3593645;creature/shadebeastmount/7fx_energybeam_scroll.blp
 3593647;creature/shadebeastmount/7fx_wavey_mask_horizontal.blp
@@ -56524,7 +56524,7 @@
 3731888;creature/mawguardhandmount/7fx_energybeam_scroll.blp
 3731891;creature/mawguardhandmount/7fx_wavey_mask_horizontal.blp
 3731894;creature/mawguardhandmount/smoke_generic_paintymask01_blend.blp
-3731897;creature/mawguardhandmount/8fx_explosionsmoke_a.blp
+3731897;creature/mawguardhandmount/8FX_ExplosionSmoke_A.blp
 3731900;creature/mawguardhandmount/mawguardhandmount00.skin
 3731906;creature/mawguardhandmount/mawguardhandmount_lod01.skin
 3731912;creature/mawguardhandmount/mawguardhandmount_lod02.skin
@@ -57626,6 +57626,7 @@
 3851043;creature/progenitorgeode/progenitorgeode_red.blp
 3851424;creature/phoenix2mount/phoenix2mount.m2
 3851426;creature/phoenix2/phoenix2.m2
+3851432;creature/phoenix2mount/8FX_ExplosionSmoke_A.blp
 3851437;creature/phoenix2mount/phoenix2mount00.skin
 3851438;creature/phoenix2mount/phoenix2mount_lod01.skin
 3851439;creature/phoenix2mount/phoenix2mount_lod02.skin
@@ -57781,7 +57782,7 @@
 3860421;creature/igc_mawjailer/7FX_AlphaMask_Glow.blp
 3862252;creature/maweyeboss/maweyeboss.m2
 3863107;creature/maweyeboss/smoke_generic_paintymask01_blend.blp
-3863109;creature/maweyeboss/8fx_explosionsmoke_a.blp
+3863109;creature/maweyeboss/8FX_ExplosionSmoke_A.blp
 3863113;creature/maweyeboss/maweyeboss00.skin
 3863114;creature/maweyeboss/maweyeboss_lod01.skin
 3863115;creature/maweyeboss/maweyeboss_lod02.skin
@@ -58849,6 +58850,8 @@
 4006511;creature/progenitorstagmount/progenitorstagmount0100-00.anim
 4006512;creature/progenitorstagmount/progenitorstagmount0101-00.anim
 4006519;creature/mammoth2lava/mammoth2lava.m2
+4006535;Creature/mammoth2lava/smoke_generic_paintymask01_blend.blp
+4006537;creature/mammoth2lava/8FX_ExplosionSmoke_A.blp
 4006549;creature/mammoth2lava/mammoth2lava00.skin
 4006550;creature/mammoth2lava/mammoth2lava_lod01.skin
 4006552;creature/mammoth2lava/mammoth2lava_lod02.skin
@@ -59049,6 +59052,8 @@
 4034778;creature/mawtormentor/mawtormentor_lod03.skin
 4034801;creature/mammoth2mount/mammoth2mount.m2
 4034803;creature/mammoth2lavamount/mammoth2lavamount.m2
+4034818;Creature/mammoth2lavamount/smoke_generic_paintymask01_blend.blp
+4034819;creature/mammoth2lavamount/8FX_ExplosionSmoke_A.blp
 4034822;creature/mammoth2lavamount/mammoth2lavamount00.skin
 4034823;creature/mammoth2lavamount/mammoth2lavamount_lod01.skin
 4034824;creature/mammoth2lavamount/mammoth2lavamount_lod02.skin
@@ -59174,7 +59179,7 @@
 4038005;creature/progenitorbotbuilder/progenitorbotbuilder0062-00.anim
 4038006;creature/progenitorbotbuilder/progenitorbotbuilder0123-00.anim
 4038151;creature/devourerflier/smoke_generic_paintymask01_blend.blp
-4038152;creature/devourerflier/8fx_explosionsmoke_a.blp
+4038152;creature/devourerflier/8FX_ExplosionSmoke_A.blp
 4038154;creature/devourerflier/7fx_energybeam_scroll.blp
 4038155;creature/devourerflier/7fx_wavey_mask_horizontal.blp
 4038450;creature/giro/giro0063-00.anim
@@ -59371,6 +59376,7 @@
 4060295;creature/icespider/icespider_lod03.skin
 4060296;creature/icespider/icespider_dark.blp
 4060297;creature/icespider/icespider_green.blp
+4060307;creature/tarantula2/8FX_ExplosionSmoke_A.blp
 4060448;creature/beargod/glowball.blp
 4060449;creature/beargod/beargod_lod01.skin
 4060450;creature/beargod/beargod_lod02.skin
@@ -59698,6 +59704,7 @@
 4094300;creature/eagle2windmount/eagle2windmount_lod01.skin
 4094301;creature/eagle2windmount/eagle2windmount_lod02.skin
 4094302;creature/eagle2windmount/eagle2windmount_lod03.skin
+4094803;creature/murkastrasza/8FX_ExplosionSmoke_A.blp
 4094817;creature/murkastrasza/7FX_AlphaMask_Glow.blp
 4095154;creature/progenitorwormpet/progenitorwormpet.m2
 4095270;creature/progenitorwormpet/progenitorwormpet00.skin
@@ -60202,6 +60209,7 @@
 4205810;creature/KodoPet/KodoPet_lod03.skin
 4205811;creature/KodoPet/KodoPet.blp
 4205823;creature/devourerfliermut/devourerfliermut.m2
+4205890;creature/devourerfliermut/8FX_ExplosionSmoke_A.blp
 4205896;creature/devourerfliermut/devourerfliermut00.skin
 4205897;creature/devourerfliermut/devourerfliermut_lod01.skin
 4205898;creature/devourerfliermut/devourerfliermut_lod02.skin
@@ -61572,6 +61580,7 @@
 4329975;creature/mantidprimal/mantidprimal_black.blp
 4329976;creature/mantidprimal/mantidprimal_pink.blp
 4329977;creature/mantidprimal/mantidprimal_yellow.blp
+4331953;Creature/TurtleMount2/8FX_ExplosionSmoke_A.blp
 4331958;Creature/TurtleMount2/7FX_AlphaMask_Glow.blp
 4332556;creature/sabertoothprimal/sabertoothprimal_beige.blp
 4332557;creature/sabertoothprimal/sabertoothprimal_light.blp
@@ -61980,6 +61989,7 @@
 4479217;creature/yoggsaron/yoggsarontentaclethin_lod03.skin
 4484262;creature/crystallinemonster2/crystallinemonster2.m2
 4484375;creature/protodragonfire_boss/protodragonfire_boss.m2
+4484492;creature/protodragonfire_boss/8FX_ExplosionSmoke_A.blp
 4484496;creature/protodragonfire_boss/7FX_AlphaMask_Glow.blp
 4484499;creature/protodragonfire_boss/ArmorReflect4.blp
 4484500;creature/protodragonfire_boss/protodragonfire_boss0100-00.anim
@@ -62098,6 +62108,7 @@
 4495259;creature/alexstraszadragon/alexstraszadragon_lod02.skin
 4495260;creature/alexstraszadragon/alexstraszadragon_lod03.skin
 4496325;creature/protodragonfire/protodragonfire.m2
+4496428;creature/protodragonfire/8FX_ExplosionSmoke_A.blp
 4496429;creature/protodragonfire/7FX_AlphaMask_Glow.blp
 4496430;creature/protodragonfire/ArmorReflect4.blp
 4496431;creature/protodragonfire/protodragonfire0100-00.anim
@@ -62896,6 +62907,7 @@
 4553775;creature/stormelemental/stormelemental_lod01.skin
 4553776;creature/stormelemental/stormelemental_lod02.skin
 4553777;creature/stormelemental/stormelemental_lod03.skin
+4554323;creature/lavaelementalprimal/8FX_ExplosionSmoke_A.blp
 4555908;creature/deathelementalmount/deathelementalmount_02_purple.blp
 4555910;creature/deathelementalmount/deathelementalmount_01_purple.blp
 4557859;creature/peacock2/peacock2.m2
@@ -63574,6 +63586,7 @@
 4677636;creature/sandtrollcouncilor/sandtrollcouncilor_lod01.skin
 4677637;creature/sandtrollcouncilor/sandtrollcouncilor_lod02.skin
 4677638;creature/sandtrollcouncilor/sandtrollcouncilor_lod03.skin
+4680285;creature/rafgoblinpet/8FX_ExplosionSmoke_A.blp
 4680286;creature/rafgoblinpet/ArmorReflect4.blp
 4680287;creature/rafgoblinpet/rafgoblinpet00.skin
 4680288;creature/rafgoblinpet/rafgoblinpet_lod01.skin
@@ -63720,6 +63733,7 @@
 4695615;creature/MagicalOwlbearMount/MagicalOwlbearMount_Saddle.blp
 4695617;creature/MagicalOwlbearMount/MagicalOwlbearMount_Blue.blp
 4696155;creature/rocketshredder9001/rocketshredder9001.m2
+4696201;Creature/MurkyYsera/MurkyYsera.m2
 4696729;Creature/OwlBearBaby/OwlBearBaby.m2
 4697857;creature/igc_wrathion/igc_wrathion1454-00.anim
 4697858;creature/igc_wrathion/igc_wrathion1454-01.anim
@@ -64213,6 +64227,10 @@
 4754927;creature/wrathion/wrathion_lod01.skin
 4754928;creature/wrathion/wrathion_lod02.skin
 4755140;creature/MagicalFishPetClassic/MagicalFishPetClassic.m2
+4755169;Creature/MurkyYsera/MurkyYsera00.skin
+4755170;Creature/MurkyYsera/MurkyYsera_lod01.skin
+4755171;Creature/MurkyYsera/MurkyYsera_lod02.skin
+4755172;Creature/MurkyYsera/MurkyYsera_lod03.skin
 4760672;creature/oracle/oracle_lod01.skin
 4760673;creature/oracle/oracle_lod02.skin
 4760674;creature/oracle/oracle_lod03.skin
@@ -65088,6 +65106,7 @@
 4954791;creature/hydraprimal/hydraprimal_body.blp
 4954792;creature/hydraprimal/hydraprimal_glow.blp
 4954793;creature/hydraprimal/hydraprimal_head.blp
+4954799;creature/fyrakkvisage/8FX_ExplosionSmoke_A.blp
 4954803;creature/fyrakkvisage/7FX_AlphaMask_Glow.blp
 4954804;creature/fyrakkvisage/fyrakkvisage00.skin
 4954805;creature/fyrakkvisage/fyrakkvisage_lod01.skin
@@ -65790,6 +65809,8 @@
 5104509;creature/igc_sarkareth2/igc_sarkareth2.m2
 5104511;creature/igc_sindragosa2/igc_sindragosa2.m2
 5104513;Creature/IGC_Wrathion2/IGC_Wrathion2.m2
+5104932;Creature/protodragonshadowflame/smoke_generic_paintymask01_blend.blp
+5104933;creature/protodragonshadowflame/8FX_ExplosionSmoke_A.blp
 5104938;creature/protodragonshadowflame/7FX_AlphaMask_Glow.blp
 5104939;creature/protodragonshadowflame/GenericGlow_Alpha_128.blp
 5126233;creature/Morchie/ArmorReflect4.blp
@@ -66516,6 +66537,7 @@
 5194267;creature/apocalypticwhelp/apocalypticwhelp_blue.blp
 5194268;creature/apocalypticwhelp/apocalypticwhelp_red.blp
 5194269;creature/ApocalypticWhelp/ApocalypticWhelp_black.blp
+5194271;creature/ApocalypticWhelp/8FX_ExplosionSmoke_A.blp
 5194276;creature/ApocalypticWhelp/ArmorReflect4.blp
 5194278;creature/ApocalypticWhelp/ApocalypticWhelp0100-00.anim
 5194279;creature/ApocalypticWhelp/ApocalypticWhelp0101-00.anim
@@ -66524,6 +66546,8 @@
 5194282;creature/ApocalypticWhelp/ApocalypticWhelp_lod01.skin
 5194283;creature/ApocalypticWhelp/ApocalypticWhelp_lod02.skin
 5194284;creature/ApocalypticWhelp/ApocalypticWhelp_lod03.skin
+5194534;Creature/ViciousOwlbearMount/smoke_generic_paintymask01_blend.blp
+5194535;Creature/ViciousOwlbearMount/8FX_ExplosionSmoke_A.blp
 5194536;Creature/ViciousOwlbearMount/7FX_AlphaMask_Glow.blp
 5194537;Creature/ViciousOwlbearMount/ArmorReflect4.blp
 5194538;Creature/ViciousOwlbearMount/ViciousOwlbearMount0097-00.anim
@@ -66554,6 +66578,7 @@
 5194586;creature/MerithraDragon/MerithraDragon_lod01.skin
 5194587;creature/MerithraDragon/MerithraDragon_lod02.skin
 5194588;creature/MerithraDragon/MerithraDragon_lod03.skin
+5195479;creature/Vyranoth/8FX_ExplosionSmoke_A.blp
 5197360;creature/futurebotpet/futurebotpet0080-00.anim
 5197368;creature/futurebotpet/futurebotpet0079-00.anim
 5197373;creature/futurebotpet/futurebotpet0066-00.anim
@@ -66676,6 +66701,7 @@
 5201756;creature/ForsakenCatapult2/ForsakenCatapult2_lod02.skin
 5201757;creature/ForsakenCatapult2/ForsakenCatapult2_lod03.skin
 5201776;creature/DragonWhelpWrathionClassic/DragonWhelpWrathionClassic.m2
+5201949;creature/azmerlothmurlocpet/8FX_ExplosionSmoke_A.blp
 5201963;creature/azmerlothmurlocpet/7FX_AlphaMask_Glow.blp
 5201967;creature/azmerlothmurlocpet/ArmorReflect4.blp
 5201969;creature/azmerlothmurlocpet/azmerlothmurlocpet00.skin
@@ -66846,6 +66872,8 @@
 5210696;creature/DragonWhelpWrathionClassic/DragonWhelpWrathionClassic_lod01.skin
 5210698;creature/DragonWhelpWrathionClassic/DragonWhelpWrathionClassic_lod02.skin
 5210700;creature/DragonWhelpWrathionClassic/DragonWhelpWrathionClassic_lod03.skin
+5211417;Creature/Fyrakk/smoke_generic_paintymask01_blend.blp
+5211418;creature/Fyrakk/8FX_ExplosionSmoke_A.blp
 5211422;creature/Fyrakk/7FX_AlphaMask_Glow.blp
 5211423;creature/Fyrakk/Fyrakk0060-00.anim
 5211424;creature/Fyrakk/Fyrakk00.skin
@@ -67035,6 +67063,7 @@
 5262380;creature/IGC_Nozdormu3/IGC_Nozdormu31454-15.anim
 5262381;creature/IGC_Nozdormu3/IGC_Nozdormu31454-16.anim
 5262382;creature/IGC_Nozdormu3/IGC_Nozdormu31454-17.anim
+5262388;creature/IGC_Vyranoth/8FX_ExplosionSmoke_A.blp
 5262396;creature/IGC_Vyranoth/ArmorReflect4.blp
 5262399;creature/IGC_Vyranoth/IGC_Vyranoth1452-01.anim
 5262400;creature/IGC_Vyranoth/IGC_Vyranoth1452-02.anim
@@ -67239,6 +67268,7 @@
 5359117;Creature/CelestialHorse/CelestialHorse_lod01.skin
 5359118;Creature/CelestialHorse/CelestialHorse_lod02.skin
 5359119;Creature/CelestialHorse/CelestialHorse_lod03.skin
+5363064;creature/IGC_Vyranoth2/8FX_ExplosionSmoke_A.blp
 5363076;creature/IGC_Vyranoth2/ArmorReflect4.blp
 5363079;creature/IGC_Vyranoth2/IGC_Vyranoth21452-00.anim
 5363080;creature/IGC_Vyranoth2/IGC_Vyranoth21452-01.anim
@@ -67273,6 +67303,7 @@
 5363109;creature/IGC_Vyranoth2/IGC_Vyranoth21454-11.anim
 5363110;creature/IGC_Vyranoth2/IGC_Vyranoth21454-12.anim
 5363111;creature/IGC_Vyranoth2/IGC_Vyranoth21454-13.anim
+5363113;creature/IGC_Fyrakk/8FX_ExplosionSmoke_A.blp
 5363115;creature/IGC_Fyrakk/7FX_AlphaMask_Glow.blp
 5363118;creature/IGC_Fyrakk/IGC_Fyrakk1452-00.anim
 5363119;creature/IGC_Fyrakk/IGC_Fyrakk1452-01.anim
@@ -67334,6 +67365,7 @@
 5370374;Creature/MotorcycleFelreaverMount/MotorcycleFelreaverMount_Shadow.blp
 5370375;Creature/MotorcycleFelreaverMount/MotorcycleFelreaverMount_Glow_1_Shadow.blp
 5370376;Creature/MotorcycleFelreaverMount/MotorcycleFelreaverMount_Glow_2_Shadow.blp
+5370820;Creature/MotorcycleFelreaverMount/8FX_ExplosionSmoke_A.blp
 5370823;Creature/MotorcycleFelreaverMount/ArmorReflect4.blp
 5370825;Creature/MotorcycleFelreaverMount/MotorcycleFelreaverMount00.skin
 5370826;Creature/MotorcycleFelreaverMount/MotorcycleFelreaverMount_lod01.skin
@@ -67517,6 +67549,7 @@
 5480295;creature/IGC_Tyrande5/IGC_Tyrande51454-08.anim
 5480296;creature/IGC_Tyrande5/IGC_Tyrande51454-09.anim
 5480297;creature/IGC_Tyrande5/IGC_Tyrande51454-10.anim
+5480442;creature/IGC_Vyranoth3/8FX_ExplosionSmoke_A.blp
 5480466;creature/IGC_Vyranoth3/ArmorReflect4.blp
 5480476;creature/IGC_Vyranoth3/IGC_Vyranoth31458-00.anim
 5480478;creature/IGC_Vyranoth3/IGC_Vyranoth31458-01.anim
