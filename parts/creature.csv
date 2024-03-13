@@ -45430,7 +45430,7 @@
 2200825;creature/skiff/8fx_wispwall_caustic_large.blp
 2200832;creature/skiff/7fx_arcane_wisps_blank.blp
 2200846;creature/elitenagamale/ArmorReflect4.blp
-2200848;creature/elitenagamale/armorreflect4blue.blp
+2200848;creature/elitenagamale/ArmorReflect4Blue.blp
 2200849;creature/elitenagamale/elitenagamale0060-00.anim
 2200850;creature/elitenagamale/elitenagamale00.skin
 2200851;creature/elitenagamale/elitenagamale01.skin
@@ -47097,7 +47097,7 @@
 2263651;creature/gorillaboss/gorillaboss00.skin
 2263652;creature/gorillaboss/gorillaboss.blp
 2264740;creature/babynaga/babynaga.m2
-2264904;creature/babynaga/armorreflect_rainbow.blp
+2264904;creature/babynaga/ArmorReflect_Rainbow.blp
 2264905;creature/babynaga/babynaga0060-00.anim
 2264906;creature/babynaga/babynaga0062-00.anim
 2264907;creature/babynaga/babynaga00.skin
@@ -49389,7 +49389,7 @@
 2744908;creature/wolfeel/troll raid_31_30_30_28.blp
 2744909;creature/wolfeel/wolfeel00.skin
 2746822;creature/fishbunch/fishbunch.m2
-2746845;creature/fishbunch/armorreflect_hard.blp
+2746845;creature/fishbunch/ArmorReflect_Hard.blp
 2746846;creature/fishbunch/fishbunch00.skin
 2751316;creature/elitenagamale/elitenagamale0123-00.anim
 2763586;creature/flyingbomber2/flyingbomber2.m2
@@ -49411,7 +49411,7 @@
 2763632;creature/seaslug/seaslug_purple.blp
 2763633;creature/seaslug/seaslug_red.blp
 2764070;creature/snapdragonmount/oldglass3.blp
-2764071;creature/snapdragonmount/armorreflect_rainbow.blp
+2764071;creature/snapdragonmount/ArmorReflect_Rainbow.blp
 2764072;creature/snapdragonmount/snapdragonmount0097-00.anim
 2764073;creature/snapdragonmount/snapdragonmount0096-00.anim
 2764074;creature/snapdragonmount/snapdragonmount0098-00.anim
@@ -49454,7 +49454,7 @@
 2819965;creature/heraldofnzoth/heraldofnzoth.m2
 2819974;creature/heraldofnzoth/heraldofnzoth_armor.blp
 2819975;creature/heraldofnzoth/heraldofnzoth_body.blp
-2820795;creature/heraldofnzoth/armorreflect_rainbow.blp
+2820795;creature/heraldofnzoth/ArmorReflect_Rainbow.blp
 2820796;creature/heraldofnzoth/fresnelreflect3.blp
 2820797;creature/heraldofnzoth/orbreflectdark_reverse.blp
 2820798;creature/heraldofnzoth/heraldofnzoth0074-00.anim
@@ -49766,7 +49766,7 @@
 2888290;creature/bloodqueen/smoke02.blp
 2888291;creature/bloodqueen/smokewispy_roundsponge_edit.blp
 2888504;creature/thrall/thrall_body.blp
-2888505;creature/thrall/armorreflect_rainbow.blp
+2888505;creature/thrall/ArmorReflect_Rainbow.blp
 2888506;creature/thrall/thrall_armor.blp
 2888507;creature/thrall/thrall0066-00.anim
 2888508;creature/thrall/thrall0069-00.anim
@@ -49881,7 +49881,7 @@
 2907972;creature/rageofazshara/water_rough_slide.blp
 2907973;creature/rageofazshara/water_foam.blp
 2907974;creature/rageofazshara/rageofazshara_14_1.blp
-2907975;creature/rageofazshara/armorreflect_hard.blp
+2907975;creature/rageofazshara/ArmorReflect_Hard.blp
 2907976;creature/rageofazshara/gradient64flipa.blp
 2907977;creature/rageofazshara/snowball_1.blp
 2907978;creature/rageofazshara/reticle_brightground_contrast.blp
@@ -49929,7 +49929,7 @@
 2914901;creature/aqirflyingmount/aqirflyingmount_red.blp
 2915208;creature/tidalguardian/tidalguardian.m2
 2915210;creature/tidalguardianhulk/tidalguardianhulk.m2
-2915299;creature/tidalguardian/armorreflect_rainbow.blp
+2915299;creature/tidalguardian/ArmorReflect_Rainbow.blp
 2915301;creature/tidalguardian/waterfallmist.blp
 2915302;creature/tidalguardian/rock1.blp
 2915303;creature/tidalguardian/t_vfx_blood06.blp
@@ -49938,7 +49938,7 @@
 2915306;creature/tidalguardian/tidalguardian01.skin
 2915403;creature/tidalguardianhulk/t_vfx_lava2.blp
 2915404;creature/tidalguardianhulk/dust3alpha.blp
-2915405;creature/tidalguardianhulk/armorreflect_rainbow.blp
+2915405;creature/tidalguardianhulk/ArmorReflect_Rainbow.blp
 2915407;creature/tidalguardianhulk/7fx_chunky_soft.blp
 2915408;creature/tidalguardianhulk/tidalguardianhulk00.skin
 2915447;creature/tidalguardian/tidalguardian_body_black.blp
@@ -50102,7 +50102,7 @@
 2924400;creature/mechacycle/7fx_alphamask_glow_redoverbright.blp
 2924401;creature/mechacycle/white_64.blp
 2924402;creature/mechacycle/Smoke_Loose_01.blp
-2924706;creature/vampire_male/armorreflect_rainbow.blp
+2924706;creature/vampire_male/ArmorReflect_Rainbow.blp
 2924741;creature/encrypted19/encrypted19.m2
 2924969;creature/vampire_male/vampire_male_body_1.blp
 2924970;creature/vampire_male/vampire_male_body_2.blp
@@ -50140,7 +50140,7 @@
 2957410;creature/encrypted21/encrypted21.blp
 2957414;creature/encrypted21/encrypted2100.skin
 2958646;creature/babytentacleface/babytentacleface.m2
-2958677;creature/babytentacleface/armorreflect_rainbow.blp
+2958677;creature/babytentacleface/ArmorReflect_Rainbow.blp
 2958678;creature/babytentacleface/babytentacleface0060-00.anim
 2958679;creature/babytentacleface/babytentacleface00.skin
 2958743;creature/babytentacleface/babytentacleface.blp
@@ -50275,7 +50275,7 @@
 2966416;creature/giantvampirebat/giantvampirebat_purple.blp
 2966417;creature/giantvampirebat/giantvampirebat_red.blp
 2966418;creature/giantvampirebat/giantvampirebat_stone.blp
-2966419;creature/giantvampirebat/armorreflect_rainbow.blp
+2966419;creature/giantvampirebat/ArmorReflect_Rainbow.blp
 2966422;creature/giantvampirebat/giantvampirebat00.skin
 2966427;creature/greaterslime_nzoth/greaterslime_nzoth.m2
 2966446;creature/greaterslime_nzoth/greaterslimetrailnzoth_black.blp
@@ -50451,7 +50451,7 @@
 2997347;creature/stormdragonvoidmount/stormdragonvoidmount02.skin
 2997348;creature/stormdragonvoidmount/stormdragonvoidmount03.skin
 2997555;creature/caliamenethil/caliamenethil.m2
-2997571;creature/caliamenethil/armorreflect_hard.blp
+2997571;creature/caliamenethil/ArmorReflect_Hard.blp
 2997574;creature/caliamenethil/caliamenethil0082-00.anim
 2997575;creature/caliamenethil/caliamenethil0076-00.anim
 2997576;creature/caliamenethil/caliamenethil0074-00.anim
@@ -50606,7 +50606,7 @@
 3013852;creature/automatonbrute/automatonbrute00.skin
 3016204;creature/blingtron2/blingtron2.m2
 3016206;creature/ratmount2/ratmount2.m2
-3016705;creature/ratmount2/armorreflect_hard.blp
+3016705;creature/ratmount2/ArmorReflect_Hard.blp
 3016706;creature/ratmount2/ratmount200.skin
 3016710;creature/blingtron2/sparkle.blp
 3016711;creature/blingtron2/blingtron20080-00.anim
@@ -51231,7 +51231,7 @@
 3049367;creature/valeera/oldglass3.blp
 3049368;creature/valeera/valeera00.skin
 3049899;creature/vampire_female/vampire_female.m2
-3050152;creature/vampire_female/armorreflect_rainbow.blp
+3050152;creature/vampire_female/ArmorReflect_Rainbow.blp
 3050153;creature/vampire_female/vampire_female00.skin
 3050231;creature/dredger/dredger_01.skin
 3050232;creature/dredger/dredger_02.skin
@@ -51649,7 +51649,7 @@
 3063096;creature/saurfangnoarmor/saurfangnoarmor0223-00.anim
 3063103;creature/wrathiondragoncorrupted/wrathiondragoncorrupted.m2
 3063105;creature/wrathiondragoncorrupted/wrathiondragoncorrupted.blp
-3063108;creature/wrathiondragoncorrupted/armorreflect_rainbow.blp
+3063108;creature/wrathiondragoncorrupted/ArmorReflect_Rainbow.blp
 3063109;creature/wrathiondragoncorrupted/wrathiondragoncorrupted_glow.blp
 3063110;creature/wrathiondragoncorrupted/smoke_generic_paintymask01_blend.blp
 3063113;creature/wrathiondragoncorrupted/8FX_ExplosionSmoke_A.blp
@@ -51862,7 +51862,7 @@
 3067223;creature/darkspeartroll_m/darkspeartroll_m_lod01.skin
 3067224;creature/darkspeartroll_m/darkspeartroll_m_lod02.skin
 3067262;creature/ashvampire/ashvampire.m2
-3067264;creature/ashvampire/armorreflect_rainbow.blp
+3067264;creature/ashvampire/ArmorReflect_Rainbow.blp
 3067266;creature/ashvampire/ashvampire0060-00.anim
 3067268;creature/ashvampire/ashvampire0084-00.anim
 3067270;creature/ashvampire/ashvampire0079-00.anim
@@ -52115,7 +52115,7 @@
 3083205;creature/titanracorrupted/titanracorrupted00.skin
 3084069;creature/decomposermedium/smoothreflect_round.blp
 3084112;creature/decomposermount/decomposermount.m2
-3084114;creature/decomposermount/armorreflect_hard.blp
+3084114;creature/decomposermount/ArmorReflect_Hard.blp
 3084116;creature/decomposermount/smoothreflect_round.blp
 3084118;creature/decomposermount/decomposermount0100-00.anim
 3084120;creature/decomposermount/decomposermount00.skin
@@ -52127,7 +52127,7 @@
 3084137;creature/decomposermount/decomposermountyellow.blp
 3084654;creature/wrathiondrake/wrathiondrake.m2
 3084801;creature/wrathiondrake/wrathiondrake.blp
-3084803;creature/wrathiondrake/armorreflect_rainbow.blp
+3084803;creature/wrathiondrake/ArmorReflect_Rainbow.blp
 3084804;creature/wrathiondrake/wrathiondrake00.skin
 3086051;creature/ardenwealdstag/GenericGlow_Alpha_128.blp
 3087294;creature/ardenwealdstagmount/ardenwealdstagmount.m2
@@ -52243,7 +52243,7 @@
 3087785;creature/giantvampirebatmount/giantvampirebatmount_saddle_purple.blp
 3087786;creature/giantvampirebatmount/giantvampirebatmount_saddle_silver.blp
 3087788;creature/giantvampirebatmount/giantvampirebatmount_saddle_white.blp
-3087807;creature/giantvampirebatmount/armorreflect_rainbow.blp
+3087807;creature/giantvampirebatmount/ArmorReflect_Rainbow.blp
 3087810;creature/giantvampirebatmount/giantvampirebatmount00.skin
 3087813;creature/giantvampirebatmount/giantvampirebatmount_01.skin
 3087816;creature/giantvampirebatmount/giantvampirebatmount_02.skin
@@ -52366,10 +52366,10 @@
 3149007;creature/horse2ardenwealdmount/horse2ardenwealdmount_dark.blp
 3149008;creature/horse2ardenwealdmount/horse2ardenwealdmount_doe.blp
 3149009;creature/horse2ardenwealdmount/GenericGlow_Alpha_128.blp
-3149010;creature/horse2ardenwealdmount/armorreflect_rainbow.blp
+3149010;creature/horse2ardenwealdmount/ArmorReflect_Rainbow.blp
 3149011;creature/horse2ardenwealdmount/horse2ardenwealdmount00.skin
 3149012;creature/horse2ardenwealdmount/horse2ardenwealdmount01.skin
-3149014;creature/horse2bastion/armorreflect_rainbow.blp
+3149014;creature/horse2bastion/ArmorReflect_Rainbow.blp
 3149015;creature/horse2bastion/horse2bastion00.skin
 3149016;creature/horse2bastion/horse2bastion01.skin
 3149017;creature/horse2bastion/horse2bastion_blue.blp
@@ -52377,12 +52377,12 @@
 3149019;creature/horse2bastion/horse2bastion_yellow.blp
 3149020;creature/horse2bastionmount/horse2bastionmount_blue.blp
 3149021;creature/horse2bastionmount/horse2bastionmount_purple.blp
-3149025;creature/horse2bastionmount/armorreflect_rainbow.blp
+3149025;creature/horse2bastionmount/ArmorReflect_Rainbow.blp
 3149028;creature/horse2bastionmount/horse2bastionmount00.skin
 3149031;creature/horse2bastionmount/horse2bastionmount01.skin
 3149034;creature/horse2bastionmount/horse2bastionmount_yellow.blp
 3149035;creature/horse2ardenweald/GenericGlow_Alpha_128.blp
-3149036;creature/horse2ardenweald/armorreflect_rainbow.blp
+3149036;creature/horse2ardenweald/ArmorReflect_Rainbow.blp
 3149037;creature/horse2ardenweald/horse2ardenweald_blue.blp
 3149038;creature/horse2ardenweald/horse2ardenweald00.skin
 3149039;creature/horse2ardenweald/horse2ardenweald01.skin
@@ -52465,7 +52465,7 @@
 3155028;creature/spider/spider00.skin
 3155029;creature/spider/spider_01.skin
 3155039;creature/decomposerlarge/decomposerlarge.m2
-3155074;creature/decomposerlarge/armorreflect_hard.blp
+3155074;creature/decomposerlarge/ArmorReflect_Hard.blp
 3155077;creature/decomposerlarge/decomposerlarge00.skin
 3155080;creature/decomposerlarge/decomposerlargeblack.blp
 3155081;creature/decomposerlarge/decomposerlargeblue.blp
@@ -52477,7 +52477,7 @@
 3155408;creature/aspirantmale/aspirantmale1194-00.anim
 3155414;creature/voidetherealbosstentacle02/voidetherealbosstentacle0200.skin
 3155463;creature/gargoyle2_female/gargoyle2_female.m2
-3155894;creature/gargoyle2_female/armorreflect_rainbow.blp
+3155894;creature/gargoyle2_female/ArmorReflect_Rainbow.blp
 3155896;creature/gargoyle2_female/gargoyle2_female0060-00.anim
 3155898;creature/gargoyle2_female/gargoyle2_female0123-00.anim
 3155900;creature/gargoyle2_female/gargoyle2_female0128-00.anim
@@ -52748,7 +52748,7 @@
 3196590;creature/vampire_female/vampire_female_01.skin
 3196591;creature/vampire_female/vampire_female_02.skin
 3196592;creature/vampire_female/vampire_female_03.skin
-3196782;creature/denathrius/armorreflect_rainbow.blp
+3196782;creature/denathrius/ArmorReflect_Rainbow.blp
 3196783;creature/denathrius/denathrius00.skin
 3197237;creature/superzombie2/superzombie2.m2
 3197245;creature/sinstonegolem/sinstonegolem.m2
@@ -53333,7 +53333,7 @@
 3256429;creature/waterelementalboss_stormsong/waterelementalboss_stormsong_lod02.skin
 3256430;creature/encrypted05/encrypted05_lod01.skin
 3256431;creature/encrypted05/encrypted05_lod02.skin
-3256652;creature/bolvar/armorreflect_rainbow.blp
+3256652;creature/bolvar/ArmorReflect_Rainbow.blp
 3256653;creature/bolvar/bolvar0066-00.anim
 3256654;creature/bolvar/bolvar0067-00.anim
 3256655;creature/bolvar/bolvar0068-00.anim
@@ -53622,7 +53622,7 @@
 3269106;creature/turalyon/turalyon_lod01.skin
 3269107;creature/turalyon/turalyon_lod02.skin
 3269108;creature/turalyon/turalyon_lod03.skin
-3281972;creature/deathwing/armorreflect_rainbow.blp
+3281972;creature/deathwing/ArmorReflect_Rainbow.blp
 3281975;creature/deathwing/elementium_0re_01_mask.blp
 3284341;creature/maldraxxusgladiator/maldraxxusgladiator.m2
 3284376;creature/eyeballjellyfishmount/eyeballjellyfishmount_lod01.skin
@@ -53837,7 +53837,7 @@
 3396250;creature/maldraxxusmutant/maldraxxusmutant_green.blp
 3396251;creature/maldraxxusmutant/maldraxxusmutant_light.blp
 3396252;creature/maldraxxusmutant/maldraxxusmutant_red.blp
-3405530;creature/maldraxxusmutant/armorreflect_rainbow.blp
+3405530;creature/maldraxxusmutant/ArmorReflect_Rainbow.blp
 3405531;creature/maldraxxusmutant/maldraxxusmutant_glow.blp
 3405532;creature/maldraxxusmutant/maldraxxusmutant0060-00.anim
 3405533;creature/maldraxxusmutant/maldraxxusmutant0123-00.anim
@@ -53916,7 +53916,7 @@
 3431624;creature/decomposerflier/decomposerflierblack.blp
 3431625;creature/decomposerflier/decomposerflierblue.blp
 3431626;creature/decomposerflier/decomposerfliergreen.blp
-3431627;creature/decomposerflier/armorreflect_hard.blp
+3431627;creature/decomposerflier/ArmorReflect_Hard.blp
 3431629;creature/decomposerflier/decomposerflier0097-00.anim
 3431631;creature/decomposerflier/decomposerflier00.skin
 3431633;creature/decomposerflier/decomposerflier01.skin
@@ -53986,7 +53986,7 @@
 3449767;creature/gargoylebruteboss/gargoylebruteboss_white_gear2.blp
 3449768;creature/gargoylebruteboss/gargoylebruteboss_stone_gear2.blp
 3449960;creature/gargoyle2_femaleboss/gargoyle2_femaleboss.blp
-3449961;creature/gargoyle2_femaleboss/armorreflect_rainbow.blp
+3449961;creature/gargoyle2_femaleboss/ArmorReflect_Rainbow.blp
 3449962;creature/gargoyle2_femaleboss/gargoyle2_femaleboss0060-00.anim
 3449963;creature/gargoyle2_femaleboss/gargoyle2_femaleboss0123-00.anim
 3449964;creature/gargoyle2_femaleboss/gargoyle2_femaleboss0128-00.anim
@@ -54089,7 +54089,7 @@
 3482456;creature/giantbeastmount2/giantbeastmount202.skin
 3482534;creature/drustmonster/drustmonster.m2
 3482536;creature/drustmonster/drustmonster.blp
-3482537;creature/drustmonster/armorreflect_rainbow.blp
+3482537;creature/drustmonster/ArmorReflect_Rainbow.blp
 3482538;creature/drustmonster/testttttme.blp
 3482539;creature/drustmonster/7fx_lightning_scroll_deathmagicspirit_v2.blp
 3482543;creature/drustmonster/7fx_lightning_scroll_deathmagicspirit.blp
@@ -54316,7 +54316,7 @@
 3487331;creature/kaelthasshadowlandscorrupted/kaelthasshadowlandscorrupted02.skin
 3487332;creature/kaelthasshadowlandscorrupted/kaelthasshadowlandscorrupted03.skin
 3487358;creature/maldraxxusskeleton/maldraxxusskeleton.m2
-3487413;creature/maldraxxusskeleton/armorreflect_rainbow.blp
+3487413;creature/maldraxxusskeleton/ArmorReflect_Rainbow.blp
 3487416;creature/maldraxxusskeleton/maldraxxusskeleton0061-00.anim
 3487420;creature/maldraxxusskeleton/maldraxxusskeleton0096-00.anim
 3487422;creature/maldraxxusskeleton/maldraxxusskeleton0098-00.anim
@@ -54603,7 +54603,7 @@
 3493349;creature/ardenwealddryadmale/ardenwealddryadmale0113-00.anim
 3500354;creature/vampireapothecary/vampireapothecary.m2
 3500427;creature/vampireapothecary/vampireapothecary.blp
-3501460;creature/vampireapothecary/armorreflect_rainbow.blp
+3501460;creature/vampireapothecary/ArmorReflect_Rainbow.blp
 3501464;creature/vampireapothecary/smoke_soft_01.blp
 3501470;creature/vampireapothecary/grey50percentsquare16x16_a.blp
 3501494;creature/vampireapothecary/vampireapothecary0084-00.anim
@@ -54932,7 +54932,7 @@
 3544506;creature/maldraxxusgladiatorfemale/maldraxxusgladiatorfemale_body_blue.blp
 3544507;creature/maldraxxusgladiatorfemale/maldraxxusgladiatorfemale_armor_blue.blp
 3544664;creature/guarm_nochains/guarm_nochains.m2
-3544676;creature/guarm_nochains/armorreflect_rainbow.blp
+3544676;creature/guarm_nochains/ArmorReflect_Rainbow.blp
 3544678;creature/guarm_nochains/guarm_nochains0100-00.anim
 3544680;creature/guarm_nochains/guarm_nochains0061-00.anim
 3544681;creature/guarm_nochains/guarm_nochains00.skin
@@ -54944,7 +54944,7 @@
 3544736;creature/bloodabomination/bloodabomination_olivegreen.blp
 3544737;creature/bloodabomination/bloodabomination_orange.blp
 3544899;creature/necrodragon/necrodragon.blp
-3544901;creature/necrodragon/armorreflect_rainbow.blp
+3544901;creature/necrodragon/ArmorReflect_Rainbow.blp
 3544902;creature/necrodragon/necrodragon0074-00.anim
 3544904;creature/necrodragon/necrodragon0060-00.anim
 3544906;creature/necrodragon/necrodragon0065-00.anim
@@ -55263,7 +55263,7 @@
 3578130;creature/vampireapothecary/vampireapothecary0061-00.anim
 3578131;creature/vampireapothecary/vampireapothecary0113-00.anim
 3578440;creature/drustnative_female/drustnative_female.m2
-3578442;creature/drustnative_female/armorreflect_rainbow.blp
+3578442;creature/drustnative_female/ArmorReflect_Rainbow.blp
 3578444;creature/drustnative_female/drustnative_female_glow.blp
 3578447;creature/drustnative_female/drustnative_female_dark.blp
 3578449;creature/drustnative_female/drustnative_female00.skin
@@ -56206,6 +56206,7 @@
 3676219;creature/necromancer2/necromancer2_lod01.skin
 3676220;creature/necromancer2/necromancer2_lod02.skin
 3676221;creature/necromancer2/necromancer2_lod03.skin
+3677212;creature/catmount/ArmorReflect_Hard.blp
 3677213;creature/catmount/catmount_lod01.skin
 3677214;creature/catmount/catmount_lod02.skin
 3677215;creature/catmount/catmount_lod03.skin
@@ -56430,7 +56431,7 @@
 3731441;creature/batpetrevendreth/batpetrevendreth_purple.blp
 3731442;creature/batpetrevendreth/batpetrevendreth_red.blp
 3731443;creature/batpetrevendreth/batpetrevendreth_stone.blp
-3731444;creature/batpetrevendreth/armorreflect_rainbow.blp
+3731444;creature/batpetrevendreth/ArmorReflect_Rainbow.blp
 3731451;creature/batpetrevendreth/batpetrevendreth00.skin
 3731458;creature/batpetrevendreth/batpetrevendreth_lod01.skin
 3731465;creature/batpetrevendreth/batpetrevendreth_lod02.skin
@@ -56754,7 +56755,7 @@
 3735050;creature/mawnecromancer/mawnecromancer_20.bone
 3735051;creature/mawnecromancer/mawnecromancer_21.bone
 3738420;creature/progenitorjellyfish/progenitorjellyfish.m2
-3738423;creature/wingedlionpet/armorreflect_rainbow.blp
+3738423;creature/wingedlionpet/ArmorReflect_Rainbow.blp
 3738424;creature/wingedlionpet/smoke02.blp
 3738426;creature/wingedlionpet/ribbonblur1.blp
 3738430;creature/wingedlionpet/orbreflect.blp
@@ -56858,7 +56859,7 @@
 3743344;creature/dreadlordshadowlands/dreadlordshadowlands_body_2.blp
 3743345;creature/dreadlordshadowlands/dreadlordshadowlands_body_3.blp
 3743346;creature/dreadlordshadowlands/dreadlordshadowlands_body_4.blp
-3743347;creature/dreadlordshadowlands/armorreflect_rainbow.blp
+3743347;creature/dreadlordshadowlands/ArmorReflect_Rainbow.blp
 3743348;creature/dreadlordshadowlands/dreadlordshadowlands0061-00.anim
 3743349;creature/dreadlordshadowlands/dreadlordshadowlands0060-00.anim
 3743350;creature/dreadlordshadowlands/dreadlordshadowlands0129-00.anim
@@ -56987,6 +56988,7 @@
 3749260;creature/gryphon/gryphon_skeletal_mount_lod02.skin
 3749262;creature/gryphon/gryphon_skeletal_mount_lod03.skin
 3751332;creature/riverotter/riverotter.m2
+3751348;creature/riverotter/ArmorReflect_Hard.blp
 3751350;creature/riverotter/riverotter00.skin
 3751351;creature/riverotter/riverotter_lod01.skin
 3751352;creature/riverotter/riverotter_lod02.skin
@@ -57064,13 +57066,13 @@
 3753335;creature/hippogryph/smoke02_flip.blp
 3753337;creature/hippogryph/flamelicksmall.blp
 3753339;creature/hippogryph/smoke02a.blp
-3753341;creature/hippogryph/armorreflect_hard.blp
+3753341;creature/hippogryph/ArmorReflect_Hard.blp
 3753343;creature/hippogryph/burnthippogryph_lod01.skin
 3753344;creature/hippogryph/burnthippogryph_lod02.skin
 3753346;creature/hippogryph/burnthippogryph_lod03.skin
 3753348;creature/pyrogryph/dust1.blp
 3753349;creature/pyrogryph/flamelicksmall.blp
-3753350;creature/pyrogryph/armorreflect_hard.blp
+3753350;creature/pyrogryph/ArmorReflect_Hard.blp
 3753351;creature/pyrogryph/smoke02a.blp
 3753352;creature/pyrogryph/smoke02_flip.blp
 3753353;creature/pyrogryph/pyrogryph0100-00.anim
@@ -57195,7 +57197,7 @@
 3755646;creature/gryphon/gryphon_skeletal_mount_deathknight_lod01.skin
 3755647;creature/gryphon/gryphon_skeletal_mount_deathknight_lod02.skin
 3755648;creature/gryphon/gryphon_skeletal_mount_deathknight_lod03.skin
-3755657;creature/gryphonpet/armorreflect_hard.blp
+3755657;creature/gryphonpet/ArmorReflect_Hard.blp
 3755658;creature/gryphonpet/gryphonpet_lod01.skin
 3755659;creature/gryphonpet/gryphonpet_lod02.skin
 3755660;creature/gryphonpet/gryphonpet_lod03.skin
@@ -57613,7 +57615,7 @@
 3846302;creature/hand_1h_progenitorraid_d_01/hand_1h_progenitorraid_d_01_LightGold.blp
 3846303;creature/hand_1h_progenitorraid_d_01/hand_1h_progenitorraid_d_01_Red.blp
 3846310;creature/dreadqueen/dreadqueen.m2
-3846316;creature/dreadqueen/armorreflect_rainbow.blp
+3846316;creature/dreadqueen/ArmorReflect_Rainbow.blp
 3846317;creature/dreadqueen/dreadqueen0061-00.anim
 3846318;creature/dreadqueen/dreadqueen0060-00.anim
 3846319;creature/dreadqueen/dreadqueen0129-00.anim
@@ -57640,11 +57642,13 @@
 3851426;creature/phoenix2/phoenix2.m2
 3851430;creature/phoenix2mount/White8x8.blp
 3851432;creature/phoenix2mount/8FX_ExplosionSmoke_A.blp
+3851433;creature/phoenix2mount/ArmorReflect_Rainbow.blp
 3851437;creature/phoenix2mount/phoenix2mount00.skin
 3851438;creature/phoenix2mount/phoenix2mount_lod01.skin
 3851439;creature/phoenix2mount/phoenix2mount_lod02.skin
 3851440;creature/phoenix2mount/phoenix2mount_lod03.skin
 3851445;creature/phoenix2/White8x8.blp
+3851452;creature/phoenix2/ArmorReflect_Rainbow.blp
 3851458;creature/phoenix2/phoenix200.skin
 3851460;creature/phoenix2/phoenix2_lod01.skin
 3851463;creature/phoenix2/phoenix2_lod02.skin
@@ -58252,7 +58256,7 @@
 3937810;creature/devourerflier/devourerflier_lod02.skin
 3937811;creature/devourerflier/devourerflier_lod03.skin
 3939973;creature/ancientmount/ancientmount.m2
-3939976;creature/ancientmount/armorreflect_rainbow.blp
+3939976;creature/ancientmount/ArmorReflect_Rainbow.blp
 3939977;creature/ancientmount/ancientmount_summer_1.blp
 3939978;creature/ancientmount/ancientmount_summer_2.blp
 3939979;creature/ancientmount/ancientmount00.skin
@@ -58371,7 +58375,7 @@
 3949843;creature/viciousgorm/viciousgorm_alliance.blp
 3949844;creature/viciousgorm/viciousgorm_horde.blp
 3949845;creature/viciousgorm/armorreflect5.blp
-3949846;creature/viciousgorm/armorreflect_hard.blp
+3949846;creature/viciousgorm/ArmorReflect_Hard.blp
 3949847;creature/viciousgorm/viciousgorm0100-00.anim
 3949848;creature/viciousgorm/viciousgorm00.skin
 3949849;creature/viciousgorm/viciousgorm_lod01.skin
@@ -58891,7 +58895,7 @@
 4006563;creature/mammoth2lava/mammoth2lava_yellow.blp
 4006564;creature/vampire_male_band/smoke_soft_01.blp
 4006566;creature/vampire_male_band/grey50percentsquare16x16_a.blp
-4006572;creature/vampire_male_band/armorreflect_rainbow.blp
+4006572;creature/vampire_male_band/ArmorReflect_Rainbow.blp
 4006576;creature/vampire_male_band/7fx_alphamask_shockwavesoft_256.blp
 4006578;creature/vampire_male_band/ring_distortion.blp
 4006592;creature/vampire_male_band/vampire_male_band0084-00.anim
@@ -58910,6 +58914,7 @@
 4006606;creature/vampire_male_band/vampire_male_band_lod02.skin
 4006607;creature/vampire_male_band/vampire_male_band_lod03.skin
 4007097;creature/phoenix2pet/phoenix2pet.blp
+4007100;creature/phoenix2pet/ArmorReflect_Rainbow.blp
 4007103;creature/phoenix2pet/phoenix2pet0061-00.anim
 4007107;creature/phoenix2pet/phoenix2pet0097-00.anim
 4007109;creature/phoenix2pet/phoenix2pet0097-01.anim
@@ -59100,7 +59105,7 @@
 4034985;creature/vampire_female_band/vampire_female_band.m2
 4035010;creature/vampire_female_band/smoke_soft_01.blp
 4035013;creature/vampire_female_band/grey50percentsquare16x16_a.blp
-4035028;creature/vampire_female_band/armorreflect_rainbow.blp
+4035028;creature/vampire_female_band/ArmorReflect_Rainbow.blp
 4035038;creature/vampire_female_band/7fx_alphamask_shockwavesoft_256.blp
 4035043;creature/vampire_female_band/ring_distortion.blp
 4035085;creature/vampire_female_band/vampire_female_band0084-00.anim
@@ -59254,6 +59259,7 @@
 4048847;creature/DuckBaby/DuckBaby_lod02.skin
 4048848;creature/DuckBaby/DuckBaby_lod03.skin
 4050665;creature/murkastrasza/murkastrasza.m2
+4050679;creature/murkastrasza/ArmorReflect_Rainbow.blp
 4050681;creature/murkastrasza/murkastrasza00.skin
 4050682;creature/murkastrasza/murkastrasza_lod01.skin
 4050683;creature/murkastrasza/murkastrasza_lod02.skin
@@ -59313,6 +59319,7 @@
 4059006;creature/drakemount/drakemount_lod03.skin
 4059402;creature/uther/uther.m2
 4059442;creature/rhino/rhino.m2
+4059446;creature/rhino/smoothreflect_round.blp
 4059447;creature/rhino/rhino00.skin
 4059448;creature/rhino/rhino_lod01.skin
 4059449;creature/rhino/rhino_lod02.skin
@@ -59441,6 +59448,7 @@
 4061165;creature/nerzhulshadowlands/nerzhulshadowlands_lod03.skin
 4061820;creature/gnoll2caster/gnoll2caster.m2
 4061822;creature/gnoll2caster_corrupted/gnoll2caster_corrupted.m2
+4061837;creature/gnoll2caster_corrupted/Ember_Offset_Streak_Desat2_A.blp
 4061841;creature/gnoll2caster_corrupted/gnoll2caster_corrupted_armor_teal.blp
 4061843;creature/gnoll2caster_corrupted/gnoll2caster_corrupted0123-00.anim
 4061844;creature/gnoll2caster_corrupted/gnoll2caster_corrupted0129-00.anim
@@ -59599,6 +59607,7 @@
 4069526;creature/riverotterlarge/riverotterlarge_white.blp
 4069527;creature/riverotterlarge/riverotterlarge_yellow.blp
 4070290;creature/lightforgedtalbuk/lightforgedtalbuk.blp
+4070291;creature/lightforgedtalbuk/ArmorReflect_Rainbow.blp
 4070292;creature/lightforgedtalbuk/ArmorReflect4.blp
 4070294;creature/lightforgedtalbuk/lightforgedtalbuk0061-00.anim
 4070295;creature/lightforgedtalbuk/lightforgedtalbuk0062-00.anim
@@ -59616,6 +59625,7 @@
 4074868;creature/furbolgprimal/furbolgprimal.m2
 4074873;creature/furbolgprimal/furbolgprimal_black.blp
 4074874;creature/furbolgprimal/furbolgprimal_brown.blp
+4074875;creature/furbolgprimal/ArmorReflect_Rainbow.blp
 4074876;creature/furbolgprimal/furbolgprimal0061-00.anim
 4074877;creature/furbolgprimal/furbolgprimal0060-00.anim
 4074878;creature/furbolgprimal/furbolgprimal0062-00.anim
@@ -59677,6 +59687,7 @@
 4091752;creature/dreadqueen/7FX_AlphaMask_Glow.blp
 4091756;creature/dreadqueen/White8x8.blp
 4091757;creature/dreadqueen/7fx_alphamask_shockwavesoft_256.blp
+4093269;creature/eagle2wind/ArmorReflect_Rainbow.blp
 4093270;creature/eagle2wind/eagle2wind0061-00.anim
 4093271;creature/eagle2wind/eagle2wind0097-00.anim
 4093272;creature/eagle2wind/eagle2wind0097-01.anim
@@ -59740,6 +59751,8 @@
 4094288;creature/eagle2windmount/eagle2windmount_saddle_3.blp
 4094289;creature/eagle2windmount/eagle2windmount_saddle_4.blp
 4094290;creature/eagle2windmount/eagle2windmount_saddle_5.blp
+4094293;creature/eagle2windmount/ArmorReflect_Rainbow.blp
+4094294;creature/eagle2windmount/ArmorReflect_Hard.blp
 4094295;creature/eagle2windmount/eagle2windmount0097-00.anim
 4094296;creature/eagle2windmount/eagle2windmount0097-01.anim
 4094297;creature/eagle2windmount/eagle2windmount0096-00.anim
@@ -59770,10 +59783,12 @@
 4095401;creature/pandarenserpent/pvppandarenserpentmount_lod03.skin
 4096362;creature/progenitorchicken/progenitorchicken.m2
 4096364;creature/drakemountemerald/drakemountemerald.m2
+4096368;creature/drakemountemerald/smoothreflect_round.blp
 4096370;creature/drakemountemerald/drakemountemerald00.skin
 4096371;creature/drakemountemerald/drakemountemerald_lod01.skin
 4096372;creature/drakemountemerald/drakemountemerald_lod02.skin
 4096373;creature/drakemountemerald/drakemountemerald_lod03.skin
+4096520;creature/progenitorchicken/ArmorReflect_Rainbow.blp
 4096524;creature/progenitorchicken/progenitorchicken00.skin
 4096525;creature/progenitorchicken/progenitorchicken_lod01.skin
 4096526;creature/progenitorchicken/progenitorchicken_lod02.skin
@@ -59789,6 +59804,7 @@
 4178520;creature/ratmounthearthstone/ratmounthearthstone.blp
 4178523;creature/ratmounthearthstone/Ember_Offset_Grey.blp
 4178524;creature/ratmounthearthstone/White8x8.blp
+4178528;creature/ratmounthearthstone/ArmorReflect_Hard.blp
 4178531;creature/ratmounthearthstone/ratmounthearthstone00.skin
 4178532;creature/ratmounthearthstone/ratmounthearthstone_lod01.skin
 4178533;creature/ratmounthearthstone/ratmounthearthstone_lod02.skin
@@ -59810,6 +59826,7 @@
 4178635;creature/vicioushordewolf/vicioushordewolf0101-00.anim
 4179101;creature/tigermount/tigermount.m2
 4179976;creature/tigermount/8fx_water_scroll_alpha2.blp
+4179977;creature/tigermount/8fx_water_scroll_alphadissolve.blp
 4180002;creature/tigermount/tigermount00.skin
 4180003;creature/tigermount/tigermount_lod01.skin
 4180004;creature/tigermount/tigermount_lod02.skin
@@ -59853,6 +59870,7 @@
 4183214;creature/dogprimal/dogprimal_white.blp
 4183215;creature/dogprimal/dogprimal_yellow.blp
 4183216;creature/dogprimal/dogprimal_blacktan.blp
+4183479;creature/dragonspawn2/ArmorReflect_Rainbow.blp
 4183480;creature/dragonspawn2/dragonspawn200.skin
 4183481;creature/dragonspawn2/dragonspawn2_lod01.skin
 4183482;creature/dragonspawn2/dragonspawn2_lod02.skin
@@ -59934,6 +59952,7 @@
 4185891;creature/hellhoundskeleton/hellhoundskeleton_lod02.skin
 4185892;creature/hellhoundskeleton/hellhoundskeleton_lod03.skin
 4186039;creature/sylvanasbanshee/sylvanasbanshee0066-00.anim
+4186048;creature/drakks/ArmorReflect_Hard.blp
 4186049;creature/drakks/drakks0120-00.anim
 4186050;creature/drakks/drakks0119-00.anim
 4186051;creature/drakks/drakks0123-00.anim
@@ -60069,6 +60088,8 @@
 4196081;creature/igc_anduinshadowlands/igc_anduinshadowlands00.skin
 4196082;creature/igc_anduinshadowlands/igc_anduinshadowlands_lod01.skin
 4198151;creature/tyrande3/tyrande3.m2
+4198230;creature/tyrande3/ArmorReflect4Blue.blp
+4198232;creature/tyrande3/smoothreflect_round.blp
 4198233;creature/tyrande3/tyrande30066-00.anim
 4198234;creature/tyrande3/tyrande30067-00.anim
 4198235;creature/tyrande3/tyrande30060-00.anim
@@ -60281,6 +60302,7 @@
 4205937;creature/devourersandworm/devourersandworm_lod02.skin
 4205938;creature/devourersandworm/devourersandworm_lod03.skin
 4206083;creature/harvestgolempet/harvestgolempet.m2
+4206563;creature/harvestgolempet/ArmorReflect_Rainbow.blp
 4206564;creature/harvestgolempet/harvestgolempet00.skin
 4206565;creature/harvestgolempet/harvestgolempet_lod01.skin
 4206566;creature/harvestgolempet/harvestgolempet_lod02.skin
@@ -60343,6 +60365,7 @@
 4207517;creature/protodenathrius/protodenathrius.m2
 4207579;creature/protodenathrius/smoke_soft_01.blp
 4207580;creature/protodenathrius/grey50percentsquare16x16_a.blp
+4207590;creature/protodenathrius/ArmorReflect_Rainbow.blp
 4207594;creature/protodenathrius/7fx_alphamask_shockwavesoft_256.blp
 4207631;creature/protodenathrius/protodenathrius0080-00.anim
 4207634;creature/protodenathrius/protodenathrius0070-00.anim
@@ -60464,6 +60487,7 @@
 4215251;creature/ogrepet/ogrepet_red.blp
 4215252;creature/ogrepet/ogrepet_purple.blp
 4215253;creature/ogrepet/ogrepet_orange.blp
+4215266;creature/ogrepet/ArmorReflect_Rainbow.blp
 4215268;creature/ogrepet/ogrepet0074-00.anim
 4215270;creature/ogrepet/ogrepet0062-00.anim
 4215272;creature/ogrepet/ogrepet0060-00.anim
@@ -60524,6 +60548,7 @@
 4216730;creature/dragonspawn2caster/dragonspawn2caster_armor_red.blp
 4216731;creature/dragonspawn2caster/dragonspawn2caster_body_black.blp
 4216732;creature/dragonspawn2caster/dragonspawn2caster_body_blue.blp
+4216733;creature/dragonspawn2caster/ArmorReflect_Rainbow.blp
 4216734;creature/dragonspawn2caster/dragonspawn2caster00.skin
 4216735;creature/dragonspawn2caster/dragonspawn2caster_lod01.skin
 4216736;creature/dragonspawn2caster/dragonspawn2caster_lod02.skin
@@ -60658,6 +60683,7 @@
 4218757;creature/foxwyvernmount/foxwyvernmount_saddle_white.blp
 4218758;creature/foxwyvernmount/foxwyvernmount_saddle_yellow.blp
 4218763;creature/foxwyvernmount/ArmorReflect4.blp
+4218764;creature/foxwyvernmount/ArmorReflect_Rainbow.blp
 4218765;creature/foxwyvernmount/foxwyvernmount00.skin
 4218766;creature/foxwyvernmount/foxwyvernmount_lod01.skin
 4218767;creature/foxwyvernmount/foxwyvernmount_lod02.skin
@@ -61048,6 +61074,7 @@
 4226835;creature/progenitorgeode/7FX_AlphaMask_Glow.blp
 4226984;creature/mountaingiant2ice/mountaingiant2ice.m2
 4227034;creature/tyr/tyr.m2
+4227050;creature/tyr/ArmorReflect_Rainbow.blp
 4227053;creature/tyr/tyr0075-00.anim
 4227054;creature/tyr/tyr0084-00.anim
 4227057;creature/tyr/tyr0074-00.anim
@@ -61166,6 +61193,7 @@
 4237060;creature/revenant2_fire/revenant2_fire_weapon_red.blp
 4237061;creature/revenant2_fire/revenant2_fire_weapon_yellow.blp
 4237062;creature/revenant2_fire/revenant2_fire_body_yellow.blp
+4237278;creature/revenant2_fire/ArmorReflect_Hard.blp
 4238520;creature/kalecgos2/kalecgos2.m2
 4238561;creature/kalecgos2/kalecgos20066-00.anim
 4238562;creature/kalecgos2/kalecgos20067-00.anim
@@ -61612,8 +61640,12 @@
 4325108;creature/progenitorbotmount/progenitorbotmount_lod03.skin
 4327591;creature/revenant2_water/revenant2_water.m2
 4327782;creature/revenant2_water/8fx_water_scroll_alpha2.blp
+4327783;creature/revenant2_water/8fx_water_scroll_alphadissolve.blp
+4327784;creature/revenant2_water/water_caustic_blendadd_radial.blp
 4327785;creature/revenant2_water/smoke_loose_02_256_blend_contrast.blp
+4327786;creature/revenant2_water/8fx_water_scroll5.blp
 4327787;creature/revenant2_water/White8x8.blp
+4327789;creature/revenant2_water/ArmorReflect4Blue.blp
 4327803;creature/revenant2_water/revenant2_water0084-00.anim
 4327804;creature/revenant2_water/revenant2_water0060-00.anim
 4327805;creature/revenant2_water/revenant2_water00.skin
@@ -61717,6 +61749,7 @@
 4381353;creature/dogprimal/dogprimal0096-00.anim
 4381354;creature/dogprimal/dogprimal0098-00.anim
 4381779;creature/protodragonearth_boss/protodragonearth_boss.m2
+4381796;creature/protodragonearth_boss/ArmorReflect_Hard.blp
 4381797;creature/protodragonearth_boss/protodragonearth_boss0100-00.anim
 4381798;creature/protodragonearth_boss/protodragonearth_boss0099-00.anim
 4381799;creature/protodragonearth_boss/protodragonearth_boss0101-00.anim
@@ -61769,6 +61802,7 @@
 4391552;creature/fancykleia/fancykleia_lod01.skin
 4391554;creature/fancykleia/fancykleia_lod02.skin
 4391555;creature/fancykleia/fancykleia_lod03.skin
+4391889;creature/catmount/ArmorReflect_Rainbow.blp
 4395408;creature/amalgamofrage/amalgamofrage.m2
 4395434;creature/amalgamofrage/amalgamofrage_body.blp
 4395437;creature/amalgamofrage/amalgamofrage_mount.blp
@@ -61814,6 +61848,8 @@
 4395713;creature/igc_sylvanasshadowlands3/igc_sylvanasshadowlands3_lod01.skin
 4395714;creature/igc_sylvanasshadowlands3/igc_sylvanasshadowlands3_lod02.skin
 4395715;creature/igc_sylvanasshadowlands3/igc_sylvanasshadowlands3_lod03.skin
+4395718;creature/igc_tyrande3/ArmorReflect4Blue.blp
+4395722;creature/igc_tyrande3/smoothreflect_round.blp
 4395726;creature/igc_tyrande3/igc_tyrande31456-00.anim
 4395728;creature/igc_tyrande3/igc_tyrande31456-01.anim
 4395729;creature/igc_tyrande3/igc_tyrande31456-02.anim
@@ -61844,6 +61880,7 @@
 4397243;creature/igc_arbiter2/igc_arbiter2_lod01.skin
 4397244;creature/igc_arbiter2/igc_arbiter2_lod02.skin
 4397245;creature/igc_arbiter2/igc_arbiter2_lod03.skin
+4397541;creature/dragonhawk/ArmorReflect_Rainbow.blp
 4397545;creature/dragonhawk/ArmorReflect4.blp
 4397549;creature/dragonhawk/dragonhawkarmormounthorde_lod01.skin
 4397551;creature/dragonhawk/dragonhawkarmormounthorde_lod02.skin
@@ -61859,6 +61896,7 @@
 4397633;creature/protodragon/mdprotodrakemount_lod01.skin
 4397634;creature/protodragon/mdprotodrakemount_lod02.skin
 4397635;creature/protodragon/mdprotodrakemount_lod03.skin
+4402917;creature/lilursoc/ArmorReflect_Rainbow.blp
 4402930;creature/lilursoc/lilursoc_lod01.skin
 4402931;creature/lilursoc/lilursoc_lod02.skin
 4402932;creature/lilursoc/lilursoc_lod03.skin
@@ -62003,6 +62041,7 @@
 4419856;creature/windingslitherdrake/windingslitherdrake_lod01.skin
 4419857;creature/windingslitherdrake/windingslitherdrake_lod02.skin
 4419858;creature/windingslitherdrake/windingslitherdrake_lod03.skin
+4420268;creature/stonewatcher/ArmorReflect_Rainbow.blp
 4420269;creature/stonewatcher/stonewatcher0075-00.anim
 4420270;creature/stonewatcher/stonewatcher0084-00.anim
 4420271;creature/stonewatcher/stonewatcher0074-00.anim
@@ -62108,6 +62147,7 @@
 4485699;creature/tarasek/tarasek_armor_green.blp
 4485700;creature/tarasek/tarasek_armor_blue.blp
 4485701;creature/tarasek/dragonarmorspec.blp
+4485702;creature/tarasek/ArmorReflect_Hard.blp
 4485704;creature/tarasek/tarasek0080-00.anim
 4485705;creature/tarasek/tarasek0079-00.anim
 4485706;creature/tarasek/tarasek0066-00.anim
@@ -62156,6 +62196,7 @@
 4492526;creature/protodragonearth/protodragonearth_grey.blp
 4492527;creature/protodragonearth/protodragonearth_pale.blp
 4492528;creature/protodragonearth/protodragonearth_red.blp
+4492529;creature/protodragonearth/ArmorReflect_Rainbow.blp
 4492532;creature/protodragonearth/protodragonearth0100-00.anim
 4492533;creature/protodragonearth/protodragonearth0099-00.anim
 4492534;creature/protodragonearth/protodragonearth0101-00.anim
@@ -62262,6 +62303,7 @@
 4497938;creature/igc_yseradragon/igc_yseradragon_lod02.skin
 4497939;creature/igc_yseradragon/igc_yseradragon_lod03.skin
 4497970;creature/refti/refti.m2
+4497974;creature/refti/ArmorReflect_Rainbow.blp
 4497975;creature/refti/refti00.skin
 4497976;creature/refti/refti_lod01.skin
 4497977;creature/refti/refti_lod02.skin
@@ -62400,6 +62442,7 @@
 4500615;creature/infinitedragon/infinitedragon_lod03.skin
 4501217;creature/rabbitmount/White8x8.blp
 4501238;creature/raszagethboss/raszagethboss.m2
+4501242;creature/raszagethboss/ArmorReflect_Rainbow.blp
 4501250;creature/raszagethboss/raszagethboss0100-00.anim
 4501252;creature/raszagethboss/raszagethboss0099-00.anim
 4501254;creature/raszagethboss/raszagethboss0101-00.anim
@@ -62415,6 +62458,7 @@
 4504434;creature/centaur2_male/centaur2_male0128-00.anim
 4504435;creature/centaur2_male/centaur2_male0123-00.anim
 4504437;creature/centaur2_male/centaur2_male0129-00.anim
+4504550;creature/igc_caliamenethil/ArmorReflect_Hard.blp
 4504554;creature/igc_caliamenethil/igc_caliamenethil00.skin
 4504555;creature/igc_caliamenethil/igc_caliamenethil_lod01.skin
 4504556;creature/igc_caliamenethil/igc_caliamenethil_lod02.skin
@@ -62459,6 +62503,7 @@
 4509364;creature/twistedancient/twistedancient_gray.blp
 4509365;creature/twistedancient/twistedancient_green.blp
 4509366;creature/twistedancient/twistedancient_purple.blp
+4509367;creature/twistedancient/Ember_Offset_Streak_Desat2_A.blp
 4509371;creature/twistedancient/7FX_AlphaMask_Glow.blp
 4509373;creature/twistedancient/ArmorReflect4.blp
 4509375;creature/twistedancient/twistedancient00.skin
@@ -62472,6 +62517,7 @@
 4509773;creature/shirenkboss/shirenkboss_lod02.skin
 4509775;creature/shirenkboss/shirenkboss_lod03.skin
 4509877;creature/protodragonair/protodragonair.m2
+4509940;creature/protodragonair/ArmorReflect_Rainbow.blp
 4509943;creature/protodragonair/protodragonair0100-00.anim
 4509944;creature/protodragonair/protodragonair0099-00.anim
 4509945;creature/protodragonair/protodragonair0101-00.anim
@@ -62659,6 +62705,10 @@
 4511500;creature/taurenprimalist_light/taurenprimalist_light_lod01.skin
 4511501;creature/taurenprimalist_light/taurenprimalist_light_lod02.skin
 4511502;creature/taurenprimalist_light/taurenprimalist_light_lod03.skin
+4511517;creature/progenitorwolf/Ribbon_Magic_02_BA22.blp
+4511518;creature/progenitorwolf/7fx_crystalized01_gold.blp
+4511519;creature/progenitorwolf/7fx_energyscroll_holy_dark.blp
+4511544;creature/kuroggrimtotem/ArmorReflect4Blue.blp
 4511546;creature/kuroggrimtotem/kuroggrimtotem0067-00.anim
 4511551;creature/kuroggrimtotem/kuroggrimtotem0068-00.anim
 4511554;creature/kuroggrimtotem/kuroggrimtotem0066-00.anim
@@ -62713,7 +62763,11 @@
 4511751;creature/kuroggrimtotem/kuroggrimtotem_lod01.skin
 4511754;creature/kuroggrimtotem/kuroggrimtotem_lod02.skin
 4511757;creature/kuroggrimtotem/kuroggrimtotem_lod03.skin
+4516981;creature/progenitorwolf/alpha_streak_mid.blp
+4516982;creature/progenitorwolf/7fx_swirl_zandalarigold_desat.blp
 4516983;creature/progenitorwolf/grey50percentsquare16x16_a.blp
+4516984;creature/progenitorwolf/Ember_Offset_Streak_Desat2_A.blp
+4516985;creature/progenitorwolf/FairyDust2_2x2_A.blp
 4517622;creature/dragonwhelp3/DragonWhelp30100-00.anim
 4517623;creature/dragonwhelp3/DragonWhelp30101-00.anim
 4518767;creature/eranog/eranog.m2
@@ -62769,7 +62823,7 @@
 4521747;creature/centaur2_brute/centaur2_brute_2.blp
 4521748;creature/centaur2_brute/centaur2_brute_3.blp
 4521749;creature/centaur2_brute/centaur2_brute_4.blp
-4521750;creature/centaur2_brute/centaur2_brute_5.blp
+4521750;creature/centaur2_brute/ArmorReflect_Rainbow.blp
 4521751;creature/centaur2_brute/centaur2_brute0060-00.anim
 4521752;creature/centaur2_brute/centaur2_brute00.skin
 4521753;creature/centaur2_brute/centaur2_brute_lod01.skin
@@ -62789,6 +62843,7 @@
 4523364;creature/crystaldragonboss/crystaldragonboss_lod03.skin
 4524238;creature/stonewatcherbroken/stonewatcherbroken.m2
 4524379;creature/stonewatcherbroken/White8x8.blp
+4524380;creature/stonewatcherbroken/ArmorReflect_Rainbow.blp
 4524382;creature/stonewatcherbroken/stonewatcherbroken0075-00.anim
 4524383;creature/stonewatcherbroken/stonewatcherbroken0084-00.anim
 4524384;creature/stonewatcherbroken/stonewatcherbroken0074-00.anim
@@ -62910,6 +62965,7 @@
 4528359;creature/igc_winterqueen/igc_winterqueen1452-08.anim
 4528360;creature/igc_winterqueen/igc_winterqueen1452-09.anim
 4531032;creature/bromach/bromach.m2
+4531041;creature/bromach/smoothreflect_round.blp
 4531045;creature/bromach/bromach0062-00.anim
 4531046;creature/bromach/bromach00.skin
 4531047;creature/bromach/bromach_lod01.skin
@@ -63000,8 +63056,22 @@
 4546487;creature/kirinmount/kirinmount0101-00.anim
 4546488;creature/kirin/kirin0100-00.anim
 4546489;creature/kirin/kirin0101-00.anim
+4547504;creature/viciousalliancewolf/alpha_streak_mid.blp
+4547505;creature/viciousalliancewolf/7fx_swirl_zandalarigold_desat.blp
 4547506;creature/viciousalliancewolf/grey50percentsquare16x16_a.blp
+4547507;creature/viciousalliancewolf/Ember_Offset_Streak_Desat2_A.blp
+4547508;creature/viciousalliancewolf/FairyDust2_2x2_A.blp
+4547509;creature/viciousalliancewolf/Ribbon_Magic_02_BA22.blp
+4547510;creature/viciousalliancewolf/7fx_crystalized01_gold.blp
+4547511;creature/viciousalliancewolf/7fx_energyscroll_holy_dark.blp
+4547516;creature/vicioushordewolf/alpha_streak_mid.blp
+4547517;creature/vicioushordewolf/7fx_swirl_zandalarigold_desat.blp
 4547518;creature/vicioushordewolf/grey50percentsquare16x16_a.blp
+4547519;creature/vicioushordewolf/Ember_Offset_Streak_Desat2_A.blp
+4547520;creature/vicioushordewolf/FairyDust2_2x2_A.blp
+4547521;creature/vicioushordewolf/Ribbon_Magic_02_BA22.blp
+4547522;creature/vicioushordewolf/7fx_crystalized01_gold.blp
+4547523;creature/vicioushordewolf/7fx_energyscroll_holy_dark.blp
 4553342;creature/drakonid2/drakonid20061-00.anim
 4553742;creature/stormelemental/stormelemental.m2
 4553771;creature/stormelemental/ArmorReflect4.blp
@@ -63146,6 +63216,7 @@
 4559721;creature/ent2corrupted/ent2corrupted_gray.blp
 4559722;creature/ent2corrupted/ent2corrupted_green.blp
 4559723;creature/ent2corrupted/ent2corrupted_purple.blp
+4559732;creature/ent2corrupted/Ember_Offset_Streak_Desat2_A.blp
 4559737;creature/ent2corrupted/ArmorReflect4.blp
 4559745;creature/ent2corrupted/7FX_AlphaMask_Glow.blp
 4559752;creature/ent2corrupted/ent2corrupted0100-00.anim
@@ -63192,7 +63263,9 @@
 4570253;creature/lavaelementalprimal/lavaelementalprimal_purple_2.blp
 4571488;Creature/Drake2MountGladiator/Drake2MountGladiator.m2
 4571569;Creature/Drake2MountGladiator/Drake2MountGladiator_Body_Red.blp
+4571570;Creature/Drake2MountGladiator/ArmorReflect_Hard.blp
 4571571;Creature/Drake2MountGladiator/Drake2MountGladiator_Armor_Red.blp
+4571572;Creature/Drake2MountGladiator/ArmorReflect_Rainbow.blp
 4571573;Creature/Drake2MountGladiator/Drake2MountGladiator00.skin
 4571574;Creature/Drake2MountGladiator/Drake2MountGladiator_lod01.skin
 4571575;Creature/Drake2MountGladiator/Drake2MountGladiator_lod02.skin
@@ -63240,6 +63313,8 @@
 4580312;creature/dracthyrskeleton/dracthyrskeleton_lod03.skin
 4606464;creature/igc_alexstrasza/igc_alexstrasza00.skin
 4609970;creature/igc_wrathion/ArmorReflect4.blp
+4609971;creature/igc_wrathion/ArmorReflect_Hard.blp
+4609974;creature/igc_wrathion/smoothreflect_round.blp
 4609975;creature/igc_wrathion/igc_wrathion00.skin
 4611111;creature/lavatentacle/lavatentacle.m2
 4611548;creature/lavatentacle/lavatentacle00.skin
@@ -63487,6 +63562,7 @@
 4631233;creature/dracthyrfemale_nochar/dracthyrfemale_nochar1480-00.anim
 4631235;creature/dracthyrfemale_nochar/dracthyrfemale_nochar1194-00.anim
 4631237;creature/dracthyrfemale_nochar/dracthyrfemale_nochar1492-00.anim
+4631585;creature/wrathiondrake2/ArmorReflect_Hard.blp
 4631587;creature/wrathiondrake2/wrathiondrake200.skin
 4631588;creature/wrathiondrake2/wrathiondrake2_lod01.skin
 4631589;creature/wrathiondrake2/wrathiondrake2_lod02.skin
@@ -63630,6 +63706,7 @@
 4669668;creature/viperrock2/viperrock2_green.blp
 4669788;creature/tallstriderprimal/tallstriderprimal_pink.blp
 4672491;creature/frostbroodprotowyrm/frostbroodprotowyrm.m2
+4672936;creature/frostbroodprotowyrm/ArmorReflect_Rainbow.blp
 4672939;creature/frostbroodprotowyrm/frostbroodprotowyrm0100-00.anim
 4672941;creature/frostbroodprotowyrm/frostbroodprotowyrm0099-00.anim
 4672943;creature/frostbroodprotowyrm/frostbroodprotowyrm0101-00.anim
@@ -63647,6 +63724,8 @@
 4673435;creature/stormcrowmount_solar/stormcrowmount_solar_lod03.skin
 4673980;creature/rafgoblinpet/rafgoblinpet.m2
 4674716;creature/igc_yseravisage2/igc_yseravisage200.skin
+4674736;creature/igc_tyrande4/ArmorReflect4Blue.blp
+4674746;creature/igc_tyrande4/smoothreflect_round.blp
 4674759;creature/igc_tyrande4/igc_tyrande400.skin
 4674766;Creature/IGC_Sabellian/ArmorReflect4.blp
 4674768;Creature/IGC_Sabellian/IGC_Sabellian00.skin
@@ -63674,6 +63753,7 @@
 4675252;creature/drakonid2/drakonid21194-00.anim
 4675253;creature/drakonid2/drakonid21196-00.anim
 4675519;creature/raszagethmount/raszagethmount.m2
+4675531;creature/raszagethmount/ArmorReflect_Rainbow.blp
 4675539;creature/raszagethmount/raszagethmount0100-00.anim
 4675540;creature/raszagethmount/raszagethmount0099-00.anim
 4675541;creature/raszagethmount/raszagethmount0101-00.anim
@@ -63764,6 +63844,7 @@
 4684463;creature/igc_sindragosa/ArmorReflect4.blp
 4684467;creature/igc_sindragosa/igc_sindragosa00.skin
 4684523;creature/igc_raszageth/igc_raszageth00.skin
+4684535;creature/igc_khadgar/ArmorReflect_Rainbow.blp
 4684536;creature/igc_khadgar/igc_khadgar00.skin
 4684561;creature/igc_nozdormu/ArmorReflect4.blp
 4684565;creature/igc_nozdormu/igc_nozdormu00.skin
@@ -63876,6 +63957,7 @@
 4697870;Creature/IGC_Sabellian/IGC_Sabellian1454-06.anim
 4697871;Creature/IGC_Sabellian/IGC_Sabellian1454-07.anim
 4697872;Creature/IGC_Sabellian/IGC_Sabellian1454-08.anim
+4699282;creature/murloc/ArmorReflect_Rainbow.blp
 4699284;creature/murloc/deathwingbabymurloc_lod01.skin
 4699285;creature/murloc/deathwingbabymurloc_lod02.skin
 4699286;creature/murloc/deathwingbabymurloc_lod03.skin
@@ -64235,6 +64317,7 @@
 4736914;creature/windelemental/windelemental_lod05.skin
 4736915;creature/windelemental/windelemental_lod06.skin
 4736916;creature/windelemental/windelemental_lod07.skin
+4736936;creature/igc_tuskarrchef/ArmorReflect_Hard.blp
 4736937;creature/igc_tuskarrchef/ArmorReflect4.blp
 4736939;creature/igc_tuskarrchef/igc_tuskarrchef00.skin
 4736953;creature/igc_chromie/ArmorReflect4.blp
@@ -64354,6 +64437,7 @@
 4755140;creature/MagicalFishPetClassic/MagicalFishPetClassic.m2
 4755157;Creature/MurkyYsera/White8x8.blp
 4755163;Creature/MurkyYsera/7FX_AlphaMask_Glow.blp
+4755167;Creature/MurkyYsera/ArmorReflect_Rainbow.blp
 4755169;Creature/MurkyYsera/MurkyYsera00.skin
 4755170;Creature/MurkyYsera/MurkyYsera_lod01.skin
 4755171;Creature/MurkyYsera/MurkyYsera_lod02.skin
@@ -64372,6 +64456,7 @@
 4763210;creature/drakonid2/drakonid20097-00.anim
 4763211;creature/drakonid2/drakonid20096-00.anim
 4763212;creature/drakonid2/drakonid20098-00.anim
+4763243;creature/dogprimalmount/ArmorReflect_Hard.blp
 4763244;creature/dogprimalmount/dogprimalmount0061-00.anim
 4763245;creature/dogprimalmount/dogprimalmount0100-00.anim
 4763246;creature/dogprimalmount/dogprimalmount0100-01.anim
@@ -64554,6 +64639,8 @@
 4867897;creature/dogprimalbaby/dogprimalbaby.blp
 4870441;creature/magicalfishmount/magicalfishmount.m2
 4870443;creature/MagicalFish/MagicalFish.m2
+4870446;creature/magicalfishmount/ArmorReflect_Rainbow.blp
+4870448;creature/magicalfishmount/ArmorReflect_Hard.blp
 4870450;creature/magicalfishmount/magicalfishmount00.skin
 4870451;creature/magicalfishmount/magicalfishmount_lod01.skin
 4870452;creature/magicalfishmount/magicalfishmount_lod02.skin
@@ -64935,6 +65022,7 @@
 4892107;Creature/DreamBear/DreamBear_lod02.skin
 4892109;Creature/DreamBear/DreamBear_lod03.skin
 4892417;creature/dragonspawn2boss/dragonspawn2boss_armor.blp
+4892419;creature/dragonspawn2boss/ArmorReflect_Rainbow.blp
 4892421;creature/dragonspawn2boss/dragonspawn2boss0060-00.anim
 4892422;creature/dragonspawn2boss/dragonspawn2boss0186-00.anim
 4892423;creature/dragonspawn2boss/dragonspawn2boss0185-00.anim
@@ -64986,6 +65074,7 @@
 4895326;creature/fyrakkvisage/fyrakkvisage.m2
 4895350;creature/magicalfishmount/8fx_water_scroll_alpha2.blp
 4895351;creature/magicalfishmount/White8x8.blp
+4895353;creature/magicalfishmount/8fx_water_scroll_alphadissolve.blp
 4896154;Creature/SabretoothRaptorMount/SabretoothRaptorMount_Saddle_1_Green.blp
 4896155;Creature/SabretoothRaptorMount/SabretoothRaptorMount_Saddle_2_Green.blp
 4896156;Creature/SabretoothRaptorMount/SabretoothRaptorMount_Saddle_3_Green.blp
@@ -65534,6 +65623,7 @@
 5041631;creature/ElderIgira/ElderIgira_lod01.skin
 5041632;creature/ElderIgira/ElderIgira_lod02.skin
 5041633;creature/ElderIgira/ElderIgira_lod03.skin
+5041634;creature/boundfireelemental/ArmorReflect_Rainbow.blp
 5041636;creature/boundfireelemental/boundfireelemental_lod01.skin
 5041637;creature/boundfireelemental/boundfireelemental_lod02.skin
 5041638;creature/boundfireelemental/boundfireelemental_lod03.skin
@@ -65546,12 +65636,14 @@
 5041776;creature/dragonelementiummount/dragonelementiummount_lod02.skin
 5041777;creature/dragonelementiummount/dragonelementiummount_lod03.skin
 5041798;creature/DreamMoonkin/DreamMoonkin.m2
+5042004;creature/boundwaterelemental/ArmorReflect_Rainbow.blp
 5042009;creature/boundwaterelemental/boundwaterelemental_lod01.skin
 5042010;creature/boundwaterelemental/boundwaterelemental_lod02.skin
 5042012;creature/boundwaterelemental/boundwaterelemental_lod03.skin
 5044296;creature/boundearthelemental/boundearthelemental_lod01.skin
 5044297;creature/boundearthelemental/boundearthelemental_lod02.skin
 5044298;creature/boundearthelemental/boundearthelemental_lod03.skin
+5044410;creature/boundairelemental/ArmorReflect_Rainbow.blp
 5044412;creature/boundairelemental/boundairelemental_lod01.skin
 5044413;creature/boundairelemental/boundairelemental_lod02.skin
 5044414;creature/boundairelemental/boundairelemental_lod03.skin
@@ -65804,6 +65896,7 @@
 5076250;creature/azmerlothmurlocpet/azmerlothmurlocpet.m2
 5091210;creature/SerpentMountGladiator/White8x8.blp
 5091211;creature/SerpentMountGladiator/SerpentMountGladiator.blp
+5091212;creature/SerpentMountGladiator/ArmorReflect_Rainbow.blp
 5091214;creature/SerpentMountGladiator/SerpentMountGladiator0070-00.anim
 5091215;creature/SerpentMountGladiator/SerpentMountGladiator0097-00.anim
 5091216;creature/SerpentMountGladiator/SerpentMountGladiator0096-00.anim
@@ -66232,6 +66325,7 @@
 5145429;creature/dragonspawn2darkshade/dragonspawn2darkshade_armor.blp
 5145430;creature/dragonspawn2darkshade/dragonspawn2darkshade_body.blp
 5145431;creature/dragonspawn2darkshade/dragonspawn2darkshade_fx.blp
+5145432;creature/dragonspawn2darkshade/ArmorReflect_Rainbow.blp
 5145433;creature/dragonspawn2darkshade/dragonspawn2darkshade0060-00.anim
 5145434;creature/dragonspawn2darkshade/dragonspawn2darkshade0186-00.anim
 5145435;creature/dragonspawn2darkshade/dragonspawn2darkshade0185-00.anim
@@ -66248,6 +66342,7 @@
 5145446;creature/dragonspawn2darkshade/dragonspawn2darkshade_lod01.skin
 5145447;creature/dragonspawn2darkshade/dragonspawn2darkshade_lod02.skin
 5145448;creature/dragonspawn2darkshade/dragonspawn2darkshade_lod03.skin
+5145449;creature/dragonspawn2casterdarkshade/ArmorReflect_Rainbow.blp
 5145450;creature/dragonspawn2casterdarkshade/dragonspawn2casterdarkshade0060-00.anim
 5145451;creature/dragonspawn2casterdarkshade/dragonspawn2casterdarkshade0186-00.anim
 5145452;creature/dragonspawn2casterdarkshade/dragonspawn2casterdarkshade0185-00.anim
@@ -66271,6 +66366,7 @@
 5145929;creature/RumbleFigure/RumbleFigure_WhelpEgg01_lod03.skin
 5145985;Creature/Drake2MountGladiator/Drake2MountGladiator_Armor_Purple.blp
 5145986;Creature/Drake2MountGladiator/Drake2MountGladiator_Body_Purple.blp
+5147212;Creature/DreamOwl/ArmorReflect_Rainbow.blp
 5147213;Creature/DreamOwl/DreamOwl0097-00.anim
 5147214;Creature/DreamOwl/DreamOwl0097-01.anim
 5147215;Creature/DreamOwl/DreamOwl0096-00.anim
@@ -66534,6 +66630,8 @@
 5165756;creature/igc_sindragosa2/igc_sindragosa21454-12.anim
 5165757;creature/igc_sindragosa2/igc_sindragosa21454-13.anim
 5165760;Creature/IGC_Wrathion2/ArmorReflect4.blp
+5165761;Creature/IGC_Wrathion2/ArmorReflect_Hard.blp
+5165763;Creature/IGC_Wrathion2/smoothreflect_round.blp
 5165765;Creature/IGC_Wrathion2/IGC_Wrathion21452-01.anim
 5165766;Creature/IGC_Wrathion2/IGC_Wrathion21452-02.anim
 5165767;Creature/IGC_Wrathion2/IGC_Wrathion21452-03.anim
@@ -66598,6 +66696,7 @@
 5171350;Creature/DreamOwl_FireMount/ArmorReflect4.blp
 5171351;Creature/DreamOwl_FireMount/DreamOwl_FireMount_Saddle_Glow.blp
 5171352;Creature/DreamOwl_FireMount/DreamOwl_FireMount.blp
+5171353;Creature/DreamOwl_FireMount/ArmorReflect_Rainbow.blp
 5171354;Creature/DreamOwl_FireMount/DreamOwl_FireMount_Glow_1.blp
 5171355;Creature/DreamOwl_FireMount/DreamOwl_FireMount0097-00.anim
 5171356;Creature/DreamOwl_FireMount/DreamOwl_FireMount0097-01.anim
@@ -66608,6 +66707,7 @@
 5171361;Creature/DreamOwl_FireMount/DreamOwl_FireMount_lod02.skin
 5171362;Creature/DreamOwl_FireMount/DreamOwl_FireMount_lod03.skin
 5171368;Creature/DreamOwl_Fire/DreamOwl_Fire.blp
+5171369;Creature/DreamOwl_Fire/ArmorReflect_Rainbow.blp
 5171370;Creature/DreamOwl_Fire/DreamOwl_Fire_Glow_1.blp
 5171371;Creature/DreamOwl_Fire/DreamOwl_Fire_Glow_2.blp
 5171372;Creature/DreamOwl_Fire/DreamOwl_Fire0097-00.anim
@@ -66950,6 +67050,8 @@
 5206904;creature/felhound4/felhound4_lod03.skin
 5207412;creature/MagicalFish/8fx_water_scroll_alpha2.blp
 5207413;creature/MagicalFish/White8x8.blp
+5207415;creature/MagicalFish/8fx_water_scroll_alphadissolve.blp
+5207437;creature/MagicalFish/ArmorReflect_Hard.blp
 5207439;creature/MagicalFish/MagicalFish00.skin
 5207442;creature/MagicalFish/MagicalFish_lod01.skin
 5207443;creature/MagicalFish/MagicalFish_lod02.skin
@@ -66976,6 +67078,7 @@
 5209369;creature/Ebyssian/Ebyssian_lod03.skin
 5209702;creature/grommash_fel/grommash_fel.m2
 5209704;creature/grommash_fel/grommash_fel_body.blp
+5209706;creature/grommash_fel/ArmorReflect_Rainbow.blp
 5209707;creature/grommash_fel/grommash_fel_armor.blp
 5209708;creature/grommash_fel/grommash_fel0067-00.anim
 5209710;creature/grommash_fel/grommash_fel0068-00.anim
@@ -67099,6 +67202,7 @@
 5223717;creature/FaerieDragonGhost/FaerieDragonGhost_lod01.skin
 5223719;creature/FaerieDragonGhost/FaerieDragonGhost_lod02.skin
 5223721;creature/FaerieDragonGhost/FaerieDragonGhost_lod03.skin
+5223723;Creature/FaerieDragon3/ArmorReflect_Rainbow.blp
 5223725;Creature/FaerieDragon3/FaerieDragon300.skin
 5223726;Creature/FaerieDragon3/FaerieDragon3_lod01.skin
 5223727;Creature/FaerieDragon3/FaerieDragon3_lod02.skin
@@ -67145,6 +67249,7 @@
 5242517;creature/oldgodpet/oldgodpet_green.blp
 5242518;creature/oldgodpet/oldgodpet_white.blp
 5242519;creature/oldgodpet/oldgodpet_blue.blp
+5242541;creature/frostwurm/ArmorReflect_Rainbow.blp
 5242543;creature/frostwurm/frostwurm_lod01.skin
 5242544;creature/frostwurm/frostwurm_lod02.skin
 5242545;creature/frostwurm/frostwurm_lod03.skin
@@ -67206,6 +67311,7 @@
 5260434;creature/encrypted13/encrypted13_glow_blue.blp
 5260513;creature/dragonwhelpcataclysm/dragonwhelpcataclysm_blue.blp
 5260619;creature/Smolderon/White8x8.blp
+5260626;creature/Smolderon/ArmorReflect_Rainbow.blp
 5260629;creature/Smolderon/Smolderon0061-00.anim
 5260630;creature/Smolderon/Smolderon0060-00.anim
 5260631;creature/Smolderon/Smolderon0129-00.anim
@@ -67706,6 +67812,8 @@
 5480205;creature/IGC_Nozdormu4/IGC_Nozdormu41458-03.anim
 5480206;creature/IGC_Nozdormu4/IGC_Nozdormu41458-04.anim
 5480207;creature/IGC_Nozdormu4/IGC_Nozdormu41458-05.anim
+5480263;creature/IGC_Tyrande5/ArmorReflect4Blue.blp
+5480270;creature/IGC_Tyrande5/smoothreflect_round.blp
 5480275;creature/IGC_Tyrande5/IGC_Tyrande51452-00.anim
 5480276;creature/IGC_Tyrande5/IGC_Tyrande51452-01.anim
 5480277;creature/IGC_Tyrande5/IGC_Tyrande51452-02.anim
@@ -67785,8 +67893,10 @@
 5502725;creature/MagicalOwlbearMount/star5b.blp
 5502726;creature/MagicalOwlbearMount/Gray8x8.blp
 5502727;creature/MagicalOwlbearMount/White8x8.blp
+5502728;creature/MagicalOwlbearMount/alpha_streak_mid.blp
 5502731;creature/MagicalOwlbearMount/Smoke_Loose_01.blp
 5502734;creature/MagicalOwlbearMount/grey50percentsquare16x16.blp
+5502735;creature/MagicalOwlbearMount/7fx_lightraysup.blp
 5502744;creature/MouseHearthstone/MouseHearthstone.m2
 5502862;creature/MouseHearthstone/MouseHearthstone0123-00.anim
 5502864;creature/MouseHearthstone/MouseHearthstone0129-00.anim
@@ -67811,6 +67921,8 @@
 5503567;Creature/IGC_Shandris/IGC_Shandris.m2
 5503569;Creature/IGC_Tess/IGC_Tess.m2
 5503571;Creature/IGC_Genn/IGC_Genn.m2
+5503807;Creature/IGC_Tyrande6/ArmorReflect4Blue.blp
+5503814;Creature/IGC_Tyrande6/smoothreflect_round.blp
 5503815;Creature/IGC_Tyrande6/IGC_Tyrande600.skin
 5503831;Creature/IGC_Shandris/IGC_Shandris00.skin
 5503836;Creature/IGC_Malfurion2/IGC_Malfurion200.skin
@@ -67908,6 +68020,7 @@
 5553764;Creature/IGC_Malfurion2/IGC_Malfurion21452-06.anim
 5553765;Creature/IGC_Malfurion2/IGC_Malfurion21452-07.anim
 5553766;Creature/IGC_Malfurion2/IGC_Malfurion21452-08.anim
+5553769;Creature/IGC_Shandris/ArmorReflect_Hard.blp
 5553771;Creature/IGC_Shandris/IGC_Shandris1452-00.anim
 5553772;Creature/IGC_Shandris/IGC_Shandris1452-01.anim
 5553773;Creature/IGC_Shandris/IGC_Shandris1452-02.anim
