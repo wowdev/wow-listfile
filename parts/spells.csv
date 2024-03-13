@@ -22874,6 +22874,7 @@
 3180255;spells/cfx_kyrian_deathknight_debuff.m2
 3180258;spells/cfx_kyrian_warlock_impactchest00.skin
 3180260;spells/cfx_kyrian_warlock_precasttarget00.skin
+3185156;spells/Gray8x8.blp
 3185359;spells/cfx_kyrian_shaman_stateworld.m2
 3186571;spells/cfx_kyrian_deathknight_debuff00.skin
 3187766;spells/cfx_kyrian_shaman_stateworld00.skin
@@ -23056,7 +23057,7 @@
 3521940;spells/cfx_kyrian_priest_novahigh00.skin
 3521942;spells/cfx_kyrian_shaman_nova00.skin
 3521964;spells/cfx_necrolord_rogue_casthand00.skin
-3521968;spells/armorreflect_hard_round.blp
+3521968;spells/ArmorReflect_Hard_Round.blp
 3521971;spells/cfx_necrolord_rogue_debuff00.skin
 3521974;spells/cfx_necrolord_rogue_casttarget00.skin
 3521980;spells/cfx_necrolord_rogue_impactlow00.skin
@@ -27800,6 +27801,7 @@
 5358183;spells/FX_ChillingCelebrationBanner_Aura_lod01.skin
 5358184;spells/FX_ChillingCelebrationBanner_Aura_lod02.skin
 5358185;spells/FX_ChillingCelebrationBanner_Aura_lod03.skin
+5358424;spells/textures/Gray8x8.blp
 5358847;spells/FX_BurningTransformation_Cast.m2
 5358849;spells/FX_BurningTransformation_Cast00.skin
 5358852;spells/FX_BurningTransformation_Cast_lod01.skin
