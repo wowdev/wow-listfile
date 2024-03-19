@@ -50216,7 +50216,7 @@
 2964822;creature/deepjinyumelee/deepjinyumelee_lod03.skin
 2964881;creature/titancapturedmod/titancapturedmod0060-00.anim
 2965483;creature/mawguard/mawguard.m2
-2965841;creature/mawguard/mawreflect.blp
+2965841;creature/mawguard/MawReflect.blp
 2965845;creature/mawguard/mawguard0061-00.anim
 2965847;creature/mawguard/mawguard0096-00.anim
 2965849;creature/mawguard/mawguard0098-00.anim
@@ -50528,7 +50528,7 @@
 2997995;creature/jailerhound/jailerhound.m2
 2998000;creature/jailerhound/jailerhound_black.blp
 2998001;creature/jailerhound/jailerhound_gray.blp
-2998002;creature/jailerhound/mawreflect.blp
+2998002;creature/jailerhound/MawReflect.blp
 2998004;creature/jailerhound/jailerhound0097-00.anim
 2998005;creature/jailerhound/jailerhound0096-00.anim
 2998006;creature/jailerhound/jailerhound0098-00.anim
@@ -50550,7 +50550,7 @@
 2998181;creature/jailerhoundmount/jailerhoundmount_saddle_white.blp
 2998186;creature/jailerhoundmount/jailerhoundmount_black.blp
 2998187;creature/jailerhoundmount/jailerhoundmount_gray.blp
-2998190;creature/jailerhoundmount/mawreflect.blp
+2998190;creature/jailerhoundmount/MawReflect.blp
 2998191;creature/jailerhoundmount/jailerhoundmount0097-00.anim
 2998192;creature/jailerhoundmount/jailerhoundmount0096-00.anim
 2998194;creature/jailerhoundmount/jailerhoundmount0098-00.anim
@@ -51100,7 +51100,7 @@
 3045242;creature/wingedlion2mount/wingedlion2mount.m2
 3045245;creature/mawguardcaster/7fx_energybeam_scroll.blp
 3045246;creature/mawguardcaster/8fx_wavey_maskfade_horizontal.blp
-3045247;creature/mawguardcaster/mawreflect.blp
+3045247;creature/mawguardcaster/MawReflect.blp
 3045248;creature/mawguardcaster/mawguardcaster0061-00.anim
 3045249;creature/mawguardcaster/mawguardcaster0060-00.anim
 3045250;creature/mawguardcaster/mawguardcaster0062-00.anim
@@ -51266,7 +51266,7 @@
 3052707;creature/treefolk/treefolk.m2
 3052713;creature/treefolk/treefolk00.skin
 3053063;creature/kyrianmaw/kyrianmaw.m2
-3053072;creature/kyrianmaw/mawreflect.blp
+3053072;creature/kyrianmaw/MawReflect.blp
 3053074;creature/kyrianmaw/kyrianmaw0061-00.anim
 3053076;creature/kyrianmaw/kyrianmaw0075-00.anim
 3053078;creature/kyrianmaw/kyrianmaw0060-00.anim
@@ -52311,7 +52311,7 @@
 3095241;creature/spider/spider_brightgreen.blp
 3095966;creature/mawjailer/mawjailer.m2
 3096495;creature/mawjailer/mawjailer_clothes.blp
-3096497;creature/mawjailer/mawreflect.blp
+3096497;creature/mawjailer/MawReflect.blp
 3096499;creature/mawjailer/mawjailer_body.blp
 3096507;creature/mawjailer/mawjailer00.skin
 3096543;creature/lifeburdenmedium/lifeburdenmedium_green.blp
@@ -52893,7 +52893,7 @@
 3221738;creature/sylvanasshadowlands/sylvanasshadowlands_body.blp
 3221739;creature/sylvanasshadowlands/ArmorReflect4.blp
 3221741;creature/sylvanasshadowlands/sylvanasshadowlands_armor.blp
-3221743;creature/sylvanasshadowlands/mawreflect.blp
+3221743;creature/sylvanasshadowlands/MawReflect.blp
 3221745;creature/sylvanasshadowlands/sylvanasshadowlands_cloak.blp
 3221747;creature/sylvanasshadowlands/sylvanasshadowlands_glow.blp
 3221753;creature/sylvanasshadowlands/sylvanasshadowlands0081-00.anim
@@ -53300,7 +53300,7 @@
 3256286;creature/alpacamount/alpacamount_lod01.skin
 3256287;creature/alpacamount/alpacamount_lod02.skin
 3256288;creature/alpacamount/alpacamount_lod03.skin
-3256293;creature/mawgiant/mawreflect.blp
+3256293;creature/mawgiant/MawReflect.blp
 3256297;creature/mawgiant/nexus_glowalpha.blp
 3256299;creature/mawgiant/mawgiant00.skin
 3256300;creature/mawgiant/mawgiant01.skin
@@ -54644,7 +54644,7 @@
 3503844;creature/deathelemental/smoke_wispyalt3_maskscaled_blendadd.blp
 3503846;creature/deathelemental/smoke_painterly_thick_mask_at.blp
 3503850;creature/deathelemental/wispymagic_necroblur_a.blp
-3503854;creature/deathelemental/mawreflect.blp
+3503854;creature/deathelemental/MawReflect.blp
 3503858;creature/deathelemental/deathelemental00.skin
 3503860;creature/deathelemental/deathelemental_01.skin
 3503861;creature/deathelemental/deathelemental_blue.blp
@@ -55170,7 +55170,7 @@
 3567431;creature/druidflightform/druidflightform0096-00.anim
 3567433;creature/druidflightform/druidflightform0098-00.anim
 3567528;creature/mawguardhand/mawguardhand.m2
-3567531;creature/mawguardhand/mawreflect.blp
+3567531;creature/mawguardhand/MawReflect.blp
 3567533;creature/mawguardhand/mawguardhand00.skin
 3567534;creature/mawguardhand/mawguardhand_black.blp
 3567535;creature/mawguardhand/mawguardhand_grey.blp
@@ -55288,7 +55288,7 @@
 3578453;creature/drustnative_female/drustnative_female02.skin
 3578455;creature/drustnative_female/drustnative_female03.skin
 3579765;creature/mawroach/mawroach.m2
-3579767;creature/mawroach/mawreflect.blp
+3579767;creature/mawroach/MawReflect.blp
 3579770;creature/mawroach/mawroach0062-00.anim
 3579771;creature/mawroach/mawroach00.skin
 3579774;creature/mawroach/mawroach01.skin
@@ -55319,7 +55319,7 @@
 3580514;creature/maldraxxusconstruct/maldraxxusconstruct0064-00.anim
 3580516;creature/maldraxxusconstruct/maldraxxusconstruct0061-00.anim
 3580603;creature/maweye/maweye.m2
-3580637;creature/maweye/mawreflect.blp
+3580637;creature/maweye/MawReflect.blp
 3580644;creature/maweye/7fx_energybeam_scroll.blp
 3580647;creature/maweye/7fx_wavey_mask_horizontal.blp
 3580650;creature/maweye/Smoke_Generic_PaintyMask01_Blend.blp
@@ -55357,7 +55357,7 @@
 3590338;creature/aspirantmale/aspirantmale1198-00.anim
 3590340;creature/aspirantmale/aspirantmale1494-00.anim
 3590368;creature/mawguardcasterelite/mawguardcasterelite.m2
-3590371;creature/mawguardcasterelite/mawreflect.blp
+3590371;creature/mawguardcasterelite/MawReflect.blp
 3590375;creature/mawguardcasterelite/7fx_energybeam_scroll.blp
 3590378;creature/mawguardcasterelite/8fx_wavey_maskfade_horizontal.blp
 3590384;creature/mawguardcasterelite/mawguardcasterelite00.skin
@@ -55379,7 +55379,7 @@
 3591523;creature/mawconstruct/Smoke_Generic_PaintyMask01_Blend.blp
 3591525;creature/mawconstruct/8FX_ExplosionSmoke_A.blp
 3591527;creature/mawconstruct/Smoke_Soft_01.blp
-3591529;creature/mawconstruct/mawreflect.blp
+3591529;creature/mawconstruct/MawReflect.blp
 3591533;creature/mawconstruct/mawconstruct0097-00.anim
 3591535;creature/mawconstruct/mawconstruct0096-00.anim
 3591537;creature/mawconstruct/mawconstruct0098-00.anim
@@ -55415,7 +55415,7 @@
 3593641;creature/shadebeastmount/8FX_ExplosionSmoke_A.blp
 3593645;creature/shadebeastmount/7fx_energybeam_scroll.blp
 3593647;creature/shadebeastmount/7fx_wavey_mask_horizontal.blp
-3593661;creature/shadebeastmount/mawreflect.blp
+3593661;creature/shadebeastmount/MawReflect.blp
 3593663;creature/shadebeastmount/shadebeastmount00.skin
 3593664;creature/shadebeastmount/shadebeastmount01.skin
 3593666;creature/shadebeastmount/shadebeastmount02.skin
@@ -55450,7 +55450,7 @@
 3598960;creature/mawgiantfire/7FX_AlphaMask_Glow.blp
 3598962;creature/mawgiantfire/ember_chunky_blankmorerotation_A.blp
 3598964;creature/mawgiantfire/nexus_glowalpha.blp
-3598966;creature/mawgiantfire/mawreflect.blp
+3598966;creature/mawgiantfire/MawReflect.blp
 3598968;creature/mawgiantfire/7fx_energyring_tileorangered3.blp
 3598970;creature/mawgiantfire/mawgiantfire00.skin
 3598971;creature/mawgiantfire/mawgiantfire01.skin
@@ -55484,7 +55484,7 @@
 3614334;creature/deathelementalmount/smoke_wispyalt3_maskscaled_blendadd.blp
 3614336;creature/deathelementalmount/smoke_painterly_thick_mask_at.blp
 3614338;creature/deathelementalmount/wispymagic_necroblur_a.blp
-3614340;creature/deathelementalmount/mawreflect.blp
+3614340;creature/deathelementalmount/MawReflect.blp
 3614342;creature/deathelementalmount/deathelementalmount00.skin
 3614344;creature/deathelementalmount/deathelementalmount01.skin
 3614346;creature/deathelementalmount/deathelementalmount_02_black.blp
@@ -56047,7 +56047,7 @@
 3636378;creature/druidcat2/druidcat2_artifact4_lod01.skin
 3636379;creature/druidcat2/druidcat2_artifact4_lod02.skin
 3636380;creature/druidcat2/druidcat2_artifact4_lod03.skin
-3636403;creature/mawhorsespikes/mawreflect.blp
+3636403;creature/mawhorsespikes/MawReflect.blp
 3636404;creature/mawhorsespikes/mawhorsespikes00.skin
 3636405;creature/mawhorsespikes/mawhorsespikes_lod01.skin
 3636406;creature/mawhorsespikes/mawhorsespikes_lod02.skin
@@ -56089,7 +56089,7 @@
 3637546;creature/encrypted16/encrypted16_lod01.skin
 3637547;creature/encrypted16/encrypted16_lod02.skin
 3637548;creature/encrypted16/encrypted16_lod03.skin
-3637564;creature/anduinshadowlands/mawreflect.blp
+3637564;creature/anduinshadowlands/MawReflect.blp
 3637570;creature/anduinshadowlands/anduinshadowlands00.skin
 3637573;creature/anduinshadowlands/anduinshadowlands_lod01.skin
 3637575;creature/anduinshadowlands/anduinshadowlands_lod02.skin
@@ -56466,7 +56466,7 @@
 3731486;creature/wingedlion2pet/wingedlion2pet_gold.blp
 3731487;creature/wingedlion2pet/wingedlion2pet_silver.blp
 3731583;creature/mawguardpet/mawguardpet.m2
-3731588;creature/mawguardpet/mawreflect.blp
+3731588;creature/mawguardpet/MawReflect.blp
 3731589;creature/mawguardpet/mawguardpet.blp
 3731590;creature/mawguardpet/mawguardpet0060-00.anim
 3731591;creature/mawguardpet/mawguardpet0096-00.anim
@@ -56615,7 +56615,7 @@
 3732473;creature/catslime/catslime_lod01.skin
 3732474;creature/catslime/catslime_lod02.skin
 3732475;creature/catslime/catslime_lod03.skin
-3732484;creature/mawinquisitor/mawreflect.blp
+3732484;creature/mawinquisitor/MawReflect.blp
 3732485;creature/mawinquisitor/mawinquisitor0060-00.anim
 3732486;creature/mawinquisitor/mawinquisitor00.skin
 3732488;creature/mawinquisitor/mawinquisitor_lod01.skin
@@ -56674,7 +56674,7 @@
 3734275;creature/progenitorwombat/progenitorwombat_lod02.skin
 3734278;creature/progenitorwombat/progenitorwombat_lod03.skin
 3734916;creature/mawnecromancer/mawnecromancer.blp
-3734917;creature/mawnecromancer/mawreflect.blp
+3734917;creature/mawnecromancer/MawReflect.blp
 3734918;creature/mawnecromancer/mawnecromancer0066-00.anim
 3734920;creature/mawnecromancer/mawnecromancer0067-00.anim
 3734922;creature/mawnecromancer/mawnecromancer0068-00.anim
@@ -56861,7 +56861,7 @@
 3743070;creature/camel/camelmount_lod01.skin
 3743073;creature/camel/camelmount_lod02.skin
 3743075;creature/camel/camelmount_lod03.skin
-3743199;creature/mawguardspikes/mawreflect.blp
+3743199;creature/mawguardspikes/MawReflect.blp
 3743200;creature/mawguardspikes/mawguardspikes_lod01.skin
 3743201;creature/mawguardspikes/mawguardspikes_lod02.skin
 3743202;creature/mawguardspikes/mawguardspikes_lod03.skin
@@ -57702,7 +57702,7 @@
 3851631;creature/igc_anduin3/igc_anduin3_lod03.skin
 3851840;creature/igc_mawjailer/Fire_FlameLicks_DissolveFBs_Blend.blp
 3851841;creature/igc_mawjailer/White8x8.blp
-3851843;creature/igc_mawjailer/mawreflect.blp
+3851843;creature/igc_mawjailer/MawReflect.blp
 3851852;creature/igc_mawjailer/igc_mawjailer1452-00.anim
 3851853;creature/igc_mawjailer/igc_mawjailer1452-01.anim
 3851854;creature/igc_mawjailer/igc_mawjailer1452-02.anim
@@ -58118,7 +58118,7 @@
 3911515;creature/pitlord/pitlord_lod03.skin
 3920462;creature/warpstalkermount/ArmorReflect4.blp
 3920857;creature/progenitorbotdrifter/progenitorbotdrifter0060-00.anim
-3921822;creature/maweyeboss/mawreflect.blp
+3921822;creature/maweyeboss/MawReflect.blp
 3921827;creature/mawexpansionbear/mawexpansionbear.m2
 3921829;creature/mawexpansionbearmount/mawexpansionbearmount.m2
 3921892;creature/waterelemental/dust1.blp
@@ -58267,7 +58267,7 @@
 3934558;creature/progenitoraxolotl/ArmorReflect4.blp
 3937269;creature/mawjailerarmored/mawjailerarmored.m2
 3937271;creature/mawjailerarmored/7FX_AlphaMask_Glow.blp
-3937273;creature/mawjailerarmored/mawreflect.blp
+3937273;creature/mawjailerarmored/MawReflect.blp
 3937279;creature/mawjailerarmored/mawjailerarmored0060-00.anim
 3937280;creature/mawjailerarmored/mawjailerarmored0084-00.anim
 3937281;creature/mawjailerarmored/mawjailerarmored00.skin
@@ -58368,7 +58368,7 @@
 3948051;creature/vicioushordewolf/vicioushordewolf.m2
 3948222;creature/sylvanasbanshee/sylvanasbanshee.m2
 3948252;creature/sylvanasbanshee/ArmorReflect4.blp
-3948254;creature/sylvanasbanshee/mawreflect.blp
+3948254;creature/sylvanasbanshee/MawReflect.blp
 3948269;creature/sylvanasbanshee/sylvanasbanshee00.skin
 3948270;creature/sylvanasbanshee/sylvanasbanshee_lod01.skin
 3948271;creature/sylvanasbanshee/sylvanasbanshee_lod02.skin
@@ -58690,7 +58690,7 @@
 3995711;creature/primaldragonflymount/primaldragonflymount_yellow.blp
 3996205;creature/lavasnailmount/lavasnailmount.m2
 3996207;creature/mawnecromancerboss/mawnecromancerboss.m2
-3996242;creature/mawnecromancerboss/mawreflect.blp
+3996242;creature/mawnecromancerboss/MawReflect.blp
 3996244;creature/mawnecromancerboss/mawnecromancerboss0066-00.anim
 3996246;creature/mawnecromancerboss/mawnecromancerboss0067-00.anim
 3996248;creature/mawnecromancerboss/mawnecromancerboss0068-00.anim
@@ -58990,7 +58990,7 @@
 4015814;creature/mawinquisitorboss/mawinquisitorboss.m2
 4015847;creature/mawinquisitorboss/fb_shadoweataway_void1_ba_blurred_v22.blp
 4015848;creature/mawinquisitorboss/glowball.blp
-4015850;creature/mawinquisitorboss/mawreflect.blp
+4015850;creature/mawinquisitorboss/MawReflect.blp
 4015853;creature/mawinquisitorboss/mawinquisitorboss0060-00.anim
 4015854;creature/mawinquisitorboss/mawinquisitorboss00.skin
 4015855;creature/mawinquisitorboss/mawinquisitorboss_lod01.skin
@@ -58999,7 +58999,7 @@
 4033723;creature/dragonhawkmountshadowlands/dragonhawkmountshadowlands.m2
 4033730;creature/dragonhawkmountshadowlands/smoke_loose_02_256_blend_contrast.blp
 4033734;creature/dragonhawkmountshadowlands/dragonhawkmountshadowlands.blp
-4033737;creature/dragonhawkmountshadowlands/mawreflect.blp
+4033737;creature/dragonhawkmountshadowlands/MawReflect.blp
 4033749;creature/dragonhawkmountshadowlands/dragonhawkmountshadowlands00.skin
 4033750;creature/dragonhawkmountshadowlands/dragonhawkmountshadowlands_lod01.skin
 4033751;creature/dragonhawkmountshadowlands/dragonhawkmountshadowlands_lod02.skin
@@ -59059,7 +59059,7 @@
 4034684;creature/salamanderwater/salamanderwater_lod01.skin
 4034685;creature/salamanderwater/salamanderwater_lod02.skin
 4034686;creature/salamanderwater/salamanderwater_lod03.skin
-4034711;creature/mawtormentor/mawreflect.blp
+4034711;creature/mawtormentor/MawReflect.blp
 4034719;creature/mawtormentor/mawtormentor0061-00.anim
 4034721;creature/mawtormentor/mawtormentor0096-00.anim
 4034723;creature/mawtormentor/mawtormentor0098-00.anim
@@ -59887,7 +59887,7 @@
 4181235;creature/sharkrayprimal/sharkrayprimal_gold.blp
 4181236;creature/sharkrayprimal/sharkrayprimal_green.blp
 4181237;creature/sharkrayprimal/sharkrayprimal_red.blp
-4181421;creature/sharkrayprimal/mawreflect.blp
+4181421;creature/sharkrayprimal/MawReflect.blp
 4181424;creature/sharkrayprimal/sharkrayprimal00.skin
 4181426;creature/sharkrayprimal/sharkrayprimal_lod01.skin
 4181428;creature/sharkrayprimal/sharkrayprimal_lod02.skin
@@ -60078,7 +60078,7 @@
 4187209;creature/dragonhawk/dragonhawkmount_lod02.skin
 4187211;creature/dragonhawk/dragonhawkmount_lod03.skin
 4187284;creature/progenitorbotbuildermaw/progenitorbotbuildermaw.m2
-4187286;creature/progenitorbotbuildermaw/mawreflect.blp
+4187286;creature/progenitorbotbuildermaw/MawReflect.blp
 4187290;creature/progenitorbotbuildermaw/progenitorbotbuildermaw0062-00.anim
 4187291;creature/progenitorbotbuildermaw/progenitorbotbuildermaw0123-00.anim
 4187292;creature/progenitorbotbuildermaw/progenitorbotbuildermaw00.skin
@@ -60091,7 +60091,7 @@
 4189069;creature/devourerlargemut/devourerlargemut_lod02.skin
 4189071;creature/devourerlargemut/devourerlargemut_lod03.skin
 4190632;creature/progenitorbotguardmaw/progenitorbotguardmaw.m2
-4190862;creature/progenitorbotguardmaw/mawreflect.blp
+4190862;creature/progenitorbotguardmaw/MawReflect.blp
 4190866;creature/progenitorbotguardmaw/progenitorbotguardmaw0060-00.anim
 4190867;creature/progenitorbotguardmaw/progenitorbotguardmaw00.skin
 4190868;creature/progenitorbotguardmaw/progenitorbotguardmaw_lod01.skin
@@ -60103,7 +60103,7 @@
 4192808;creature/igc_anduinshadowlands/igc_anduinshadowlands.m2
 4192810;creature/igc_sylvanasshadowlands/igc_sylvanasshadowlands.m2
 4196030;creature/igc_sylvanasshadowlands/ArmorReflect4.blp
-4196034;creature/igc_sylvanasshadowlands/mawreflect.blp
+4196034;creature/igc_sylvanasshadowlands/MawReflect.blp
 4196044;creature/igc_sylvanasshadowlands/igc_sylvanasshadowlands1452-00.anim
 4196046;creature/igc_sylvanasshadowlands/igc_sylvanasshadowlands1452-01.anim
 4196047;creature/igc_sylvanasshadowlands/igc_sylvanasshadowlands1452-02.anim
@@ -60115,7 +60115,7 @@
 4196053;creature/igc_sylvanasshadowlands/igc_sylvanasshadowlands_lod01.skin
 4196054;creature/igc_sylvanasshadowlands/igc_sylvanasshadowlands_lod02.skin
 4196055;creature/igc_sylvanasshadowlands/igc_sylvanasshadowlands_lod03.skin
-4196068;creature/igc_anduinshadowlands/mawreflect.blp
+4196068;creature/igc_anduinshadowlands/MawReflect.blp
 4196074;creature/igc_anduinshadowlands/igc_anduinshadowlands1452-00.anim
 4196075;creature/igc_anduinshadowlands/igc_anduinshadowlands1452-01.anim
 4196076;creature/igc_anduinshadowlands/igc_anduinshadowlands1452-02.anim
@@ -60200,7 +60200,7 @@
 4199960;creature/progenitorbotsorceressmaw/progenitorbotsorceressmaw.m2
 4199970;creature/progenitorbotgiantmaw/progenitorbotgiantmaw.m2
 4199991;creature/devourersmallmut/devourersmallmut.m2
-4199993;creature/progenitorbotgiantmaw/mawreflect.blp
+4199993;creature/progenitorbotgiantmaw/MawReflect.blp
 4199999;creature/progenitorbotgiantmaw/progenitorbotgiantmaw00.skin
 4200000;creature/progenitorbotgiantmaw/progenitorbotgiantmaw_lod01.skin
 4200001;creature/progenitorbotgiantmaw/progenitorbotgiantmaw_lod02.skin
@@ -60221,7 +60221,7 @@
 4200309;creature/progenitorbotsorceressmaw/White8x8.blp
 4200311;creature/progenitorbotsorceressmaw/grey50percentsquare16x16.blp
 4200315;creature/progenitorbotsorceressmaw/7FX_AlphaMask_Glow.blp
-4200319;creature/progenitorbotsorceressmaw/mawreflect.blp
+4200319;creature/progenitorbotsorceressmaw/MawReflect.blp
 4200320;creature/progenitorbotsorceressmaw/progenitorbotsorceressmaw0084-00.anim
 4200321;creature/progenitorbotsorceressmaw/progenitorbotsorceressmaw0060-00.anim
 4200322;creature/progenitorbotsorceressmaw/progenitorbotsorceressmaw0128-00.anim
@@ -60422,7 +60422,7 @@
 4207654;creature/protodenathrius/protodenathrius_lod02.skin
 4207655;creature/protodenathrius/protodenathrius_lod03.skin
 4207659;creature/progenitorbotdriftermaw/progenitorbotdriftermaw.m2
-4207663;creature/progenitorbotdriftermaw/mawreflect.blp
+4207663;creature/progenitorbotdriftermaw/MawReflect.blp
 4207666;creature/progenitorbotdriftermaw/progenitorbotdriftermaw0060-00.anim
 4207667;creature/progenitorbotdriftermaw/progenitorbotdriftermaw0061-00.anim
 4207668;creature/progenitorbotdriftermaw/progenitorbotdriftermaw0128-00.anim
@@ -60467,7 +60467,7 @@
 4212397;creature/foxwyvern/foxwyvern_lod02.skin
 4212398;creature/foxwyvern/foxwyvern_lod03.skin
 4212631;creature/constellarmaw/constellarmaw.m2
-4212656;creature/constellarmaw/mawreflect.blp
+4212656;creature/constellarmaw/MawReflect.blp
 4212672;creature/constellarmaw/constellarmaw0097-00.anim
 4212673;creature/constellarmaw/constellarmaw0096-00.anim
 4212674;creature/constellarmaw/constellarmaw0098-00.anim
@@ -61572,7 +61572,7 @@
 4287329;creature/dragon/taerar_q_lod02.skin
 4287330;creature/dragon/taerar_q_lod03.skin
 4287493;creature/mawratmount/mawratmount.m2
-4287535;creature/mawratmount/mawreflect.blp
+4287535;creature/mawratmount/MawReflect.blp
 4287537;creature/mawratmount/mawratmount0100-00.anim
 4287538;creature/mawratmount/mawratmount0099-00.anim
 4287539;creature/mawratmount/mawratmount0101-00.anim
@@ -62047,7 +62047,7 @@
 4417260;creature/dragon2/dragon2_green.blp
 4417261;creature/dragon2/dragon2_red.blp
 4417262;creature/dragon2/dragon2_bronze.blp
-4418288;creature/dragon2/mawreflect.blp
+4418288;creature/dragon2/MawReflect.blp
 4418290;creature/dragon2/dragon2_lod01.skin
 4418292;creature/dragon2/dragon2_lod02.skin
 4418293;creature/dragon2/dragon2_lod03.skin
@@ -62281,7 +62281,7 @@
 4493308;creature/primalistorb/Snowflake_Flipping_01.blp
 4495214;creature/alexstraszadragon/alexstraszadragon.m2
 4495245;creature/alexstraszadragon/alexstraszadragon_red.blp
-4495248;creature/alexstraszadragon/mawreflect.blp
+4495248;creature/alexstraszadragon/MawReflect.blp
 4495249;creature/alexstraszadragon/dragonarmorspec.blp
 4495250;creature/alexstraszadragon/alexstraszadragon0074-00.anim
 4495251;creature/alexstraszadragon/alexstraszadragon0060-00.anim
@@ -63167,7 +63167,7 @@
 4558000;creature/peacock2/peacock2_lod03.skin
 4558001;creature/peacock2/peacock2_blue.blp
 4558002;creature/peacock2/peacock2_white.blp
-4558026;creature/dragonlowpoly/mawreflect.blp
+4558026;creature/dragonlowpoly/MawReflect.blp
 4558028;creature/dragonlowpoly/dragonlowpoly0074-00.anim
 4558029;creature/dragonlowpoly/dragonlowpoly0060-00.anim
 4558030;creature/dragonlowpoly/dragonlowpoly0065-00.anim
@@ -63446,7 +63446,7 @@
 4616708;creature/mouserock/mouserock_lod02.skin
 4616709;creature/mouserock/mouserock_lod03.skin
 4618722;creature/doragosa/ArmorReflect_Hard_Round.blp
-4618723;creature/doragosa/mawreflect.blp
+4618723;creature/doragosa/MawReflect.blp
 4618724;creature/doragosa/doragosa0074-00.anim
 4618725;creature/doragosa/doragosa0060-00.anim
 4618726;creature/doragosa/doragosa0065-00.anim
@@ -67870,6 +67870,7 @@
 5457180;creature/IGC_Alexstrasza5/IGC_Alexstrasza51458-09.anim
 5457181;creature/IGC_Alexstrasza5/IGC_Alexstrasza51458-10.anim
 5457182;creature/IGC_Alexstrasza5/IGC_Alexstrasza51458-11.anim
+5457243;creature/IGC_Fyrakk2/Smoke_Generic_PaintyMask01_Blend.blp
 5457245;creature/IGC_Fyrakk2/8FX_ExplosionSmoke_A.blp
 5457247;creature/IGC_Fyrakk2/7FX_AlphaMask_Glow.blp
 5457257;creature/IGC_Fyrakk2/ArmorReflect4.blp
@@ -68011,6 +68012,12 @@
 5480488;creature/IGC_Vyranoth3/IGC_Vyranoth31458-06.anim
 5480490;creature/IGC_Vyranoth3/IGC_Vyranoth31458-07.anim
 5480492;creature/IGC_Vyranoth3/IGC_Vyranoth31458-08.anim
+5480558;Creature/SpectralWyvern/SpectralWyvern_lod01.skin
+5480559;Creature/SpectralWyvern/SpectralWyvern_lod02.skin
+5480560;Creature/SpectralWyvern/SpectralWyvern_lod03.skin
+5480565;Creature/EliteWyvern/EliteWyvern_lod01.skin
+5480566;Creature/EliteWyvern/EliteWyvern_lod02.skin
+5480567;Creature/EliteWyvern/EliteWyvern_lod03.skin
 5482588;creature/LoveFoxMount/LoveFoxMount_Body_Blue.blp
 5482589;creature/LoveFoxMount/LoveFoxMount_Body_Pink.blp
 5482590;creature/LoveFoxMount/LoveFoxMount_Body_Purple.blp
@@ -68123,6 +68130,8 @@
 5518423;Creature/Harpy2/Harpy2_lod01.skin
 5518424;Creature/Harpy2/Harpy2_lod02.skin
 5518425;Creature/Harpy2/Harpy2_lod03.skin
+5518478;creature/parrotmount/parrotmount0097-00.anim
+5518480;creature/parrotmount/parrotmount0097-01.anim
 5519020;creature/HearthstoneMount/HearthstoneMount.m2
 5524664;creature/FlyingCarpet3/FlyingCarpet3.blp
 5525229;creature/PeacockMount/PeacockMount_Body_Blue.blp
@@ -68242,3 +68251,11 @@
 5553843;Creature/IGC_Tyrande6/IGC_Tyrande61452-17.anim
 5553844;Creature/IGC_Tyrande6/IGC_Tyrande61452-18.anim
 5553845;Creature/IGC_Tyrande6/IGC_Tyrande61452-19.anim
+5556670;Creature/ShaleSpider/ShaleSpider_lod01.skin
+5556671;Creature/ShaleSpider/ShaleSpider_lod02.skin
+5556672;Creature/ShaleSpider/ShaleSpider_lod03.skin
+5665274;creature/giantparrot/giantparrot0097-00.anim
+5665275;creature/giantparrot/giantparrot0097-01.anim
+5665276;creature/giantparrot/giantparrot_lod01.skin
+5665277;creature/giantparrot/giantparrot_lod02.skin
+5665278;creature/giantparrot/giantparrot_lod03.skin
