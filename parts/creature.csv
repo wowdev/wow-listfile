@@ -64433,11 +64433,11 @@
 4741718;creature/dogprimalmount/dogprimalmount_white.blp
 4741719;creature/dogprimalmount/dogprimalmount_yellow.blp
 4741720;creature/dogprimalmount/dogprimalmount_blacktan.blp
-4741721;creature/dogprimalmount/dogprimalmount_black_saddle.blp
-4741722;creature/dogprimalmount/dogprimalmount_brown_saddle.blp
-4741723;creature/dogprimalmount/dogprimalmount_red_saddle.blp
-4741724;creature/dogprimalmount/dogprimalmount_white_saddle.blp
-4741725;creature/dogprimalmount/dogprimalmount_yellow_saddle.blp
+4741721;creature/dogprimalmount/dogprimalmount_saddle_1.blp
+4741722;creature/dogprimalmount/dogprimalmount_saddle_2.blp
+4741723;creature/dogprimalmount/dogprimalmount_saddle_3.blp
+4741724;creature/dogprimalmount/dogprimalmount_saddle_4.blp
+4741725;creature/dogprimalmount/dogprimalmount_saddle_5.blp
 4742068;creature/nethergorgedgreatwyrm/nethergorgedgreatwyrm_lod04.skin
 4742069;creature/nethergorgedgreatwyrm/nethergorgedgreatwyrm_lod05.skin
 4742070;creature/nethergorgedgreatwyrm/nethergorgedgreatwyrm_lod06.skin
