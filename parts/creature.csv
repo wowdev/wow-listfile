@@ -63863,8 +63863,12 @@
 4680289;creature/rafgoblinpet/rafgoblinpet_lod02.skin
 4680291;creature/rafgoblinpet/rafgoblinpet_lod03.skin
 4680342;creature/LunarRabbitPet/LunarRabbitPet.m2
+4680678;creature/LunarRabbitPet/ArmorReflect4.blp
 4680680;creature/LunarRabbitPet/LunarRabbitPet00.skin
 4680728;creature/RabbitMountClassic/RabbitMountClassic.m2
+4681122;creature/RabbitMountClassic/White8x8.blp
+4681125;creature/RabbitMountClassic/8fx_water_scroll_alpha2.blp
+4681130;creature/RabbitMountClassic/ArmorReflect4.blp
 4681134;creature/RabbitMountClassic/RabbitMountClassic00.skin
 4681630;creature/helyra_tentacle/helyra_tentacle_lod01.skin
 4681634;creature/helyra_tentacle/helyra_tentacle_lod02.skin
@@ -64991,6 +64995,7 @@
 4878563;Creature/EmeraldDreamStag/EmeraldDreamStag_EyeGlow_Green.blp
 4878566;Creature/EmeraldDreamStag/EmeraldDreamStag_EyeGlow_Ashes.blp
 4878567;Creature/EmeraldDreamStag/EmeraldDreamStag_EyeGlow_Frost.blp
+4878990;creature/ArfusPetClassic/ArmorReflect4.blp
 4878995;creature/ArfusPetClassic/ArfusPetClassic00.skin
 4879656;creature/djaradin_male/djaradin_male0065-00.anim
 4879727;creature/babyhornswog/babyhornswog_yellow.blp
