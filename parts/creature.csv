@@ -68348,6 +68348,7 @@
 5548979;creature/NightElfChildFemale/NightElfChildFemale_lod02.skin
 5548980;creature/NightElfChildFemale/NightElfChildFemale_lod03.skin
 5548981;creature/NightElfChildFemale/NightElfChildFemale_Skin.blp
+5550017;Creature/BioWorm/ArmorReflect4.blp
 5550018;Creature/BioWorm/BioWorm2_lod01.skin
 5550019;Creature/BioWorm/BioWorm2_lod02.skin
 5550020;Creature/BioWorm/BioWorm2_lod03.skin
@@ -68523,6 +68524,7 @@
 5648326;creature/zeppelinmount/zeppelinmount_lod01.skin
 5648327;creature/zeppelinmount/zeppelinmount_lod02.skin
 5648328;creature/zeppelinmount/zeppelinmount_lod03.skin
+5648409;Creature/HHMount/ArmorReflect4.blp
 5648411;Creature/HHMount/HHMount_lod01.skin
 5648412;Creature/HHMount/HHMount_lod02.skin
 5648413;Creature/HHMount/HHMount_lod03.skin
@@ -68591,6 +68593,7 @@
 5690186;Creature/PandarenPhoenixMount/PandarenPhoenixMountBodyWhite.blp
 5690193;Creature/PandarenPhoenixMount/PandarenPhoenixMountSaddleWhite.blp
 5690194;Creature/PandarenPhoenixMount/PandarenPhoenixMountWingWhite.blp
+5690242;Creature/TyraelMount/ArmorReflect4.blp
 5690245;Creature/TyraelMount/TyraelMount_lod01.skin
 5690246;Creature/TyraelMount/TyraelMount_lod02.skin
 5690247;Creature/TyraelMount/TyraelMount_lod03.skin
@@ -68647,6 +68650,7 @@
 5751892;Creature/YakPet/YakPet_lod01.skin
 5751894;Creature/YakPet/YakPet_lod02.skin
 5751896;Creature/YakPet/YakPet_lod03.skin
+5752316;Creature/OnyxPanther/ArmorReflect_Rainbow.blp
 5752319;Creature/OnyxPanther/OnyxPanther_lod01.skin
 5752320;Creature/OnyxPanther/OnyxPanther_lod02.skin
 5752321;Creature/OnyxPanther/OnyxPanther_lod03.skin
@@ -68696,3 +68700,17 @@
 5794802;creature/babynaga/babynaga_lod02.skin
 5794804;creature/babynaga/babynaga_lod03.skin
 5838022;creature/jaina3/jaina3.skel
+5850374;Creature/Goat/Goat_lod01.skin
+5850375;Creature/Goat/Goat_lod02.skin
+5850376;Creature/Goat/Goat_lod03.skin
+5852148;creature/silkiechicken/silkiechicken_lod01.skin
+5852149;creature/silkiechicken/silkiechicken_lod02.skin
+5852150;creature/silkiechicken/silkiechicken_lod03.skin
+5854986;creature/greaterslime_gold/greaterslime_gold_lod01.skin
+5854987;creature/greaterslime_gold/greaterslime_gold_lod02.skin
+5854988;creature/greaterslime_gold/greaterslime_gold_lod03.skin
+5860627;Creature/ThunderPterodactyl/ThunderPterodactyl_lod01.skin
+5860628;Creature/ThunderPterodactyl/ThunderPterodactyl_lod02.skin
+5860629;Creature/ThunderPterodactyl/ThunderPterodactyl_lod03.skin
+5862871;creature/titanfemale2/titanfemale2_lod01.skin
+5862872;creature/titanfemale2/titanfemale2_lod02.skin
