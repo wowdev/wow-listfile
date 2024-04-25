@@ -61547,10 +61547,7 @@
 4279045;creature/sabertoothprimal/sabertoothprimal_stripedgrey.blp
 4279046;creature/sabertoothprimal/sabertoothprimal_stripedorange.blp
 4279060;creature/forestgiant/forestgiant.m2
-4279062;creature/forestgiant/forestgiant_tree_spring.blp
 4279063;creature/forestgiant/forestgiant_tree_summer.blp
-4279065;creature/forestgiant/forestgiant_tree_fall.blp
-4279068;creature/forestgiant/forestgiant_tree_winter.blp
 4279070;creature/forestgiant/forestgiant_body_spring.blp
 4279071;creature/forestgiant/forestgiant_body_summer.blp
 4279072;creature/forestgiant/forestgiant_body_fall.blp
@@ -69251,7 +69248,7 @@
 5684330;creature/seaslug/seaslug_lod02.skin
 5684331;creature/seaslug/seaslug_lod03.skin
 5688796;creature/LoveFoxMount/LoveFoxMount0062-00.anim
-5688859;Creature/CaveBorerWormMount//ArmorReflect4.blp
+5688859;Creature/CaveBorerWormMount/ArmorReflect4.blp
 5688860;Creature/CaveBorerWormMount/CaveBorerWormMount0097-00.anim
 5688861;Creature/CaveBorerWormMount/CaveBorerWormMount0099-00.anim
 5688862;Creature/CaveBorerWormMount/CaveBorerWormMount0098-00.anim
@@ -69635,3 +69632,9 @@
 5860629;Creature/ThunderPterodactyl/ThunderPterodactyl_lod03.skin
 5862871;creature/titanfemale2/titanfemale2_lod01.skin
 5862872;creature/titanfemale2/titanfemale2_lod02.skin
+5868273;Creature/Chimera2/ChromaticChimera_lod01.skin
+5868274;Creature/Chimera2/ChromaticChimera_lod02.skin
+5868275;Creature/Chimera2/ChromaticChimera_lod03.skin
+5869333;Creature/Chimera2/IronChimera_lod01.skin
+5869334;Creature/Chimera2/IronChimera_lod02.skin
+5869335;Creature/Chimera2/IronChimera_lod03.skin
