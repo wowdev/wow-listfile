@@ -70193,6 +70193,7 @@
 5764899;Creature/NerubianBeetlePet/NerubianBeetlePet_lod01.skin
 5764900;Creature/NerubianBeetlePet/NerubianBeetlePet_lod02.skin
 5764901;Creature/NerubianBeetlePet/NerubianBeetlePet_lod03.skin
+5767091;creature/thaurissan2/thaurissan2.m2
 5767122;Creature/CaveBorerWormMount/CaveBorerWormMount_Blue.blp
 5767123;Creature/CaveBorerWormMount/CaveBorerWormMount_Brown.blp
 5767124;Creature/CaveBorerWormMount/CaveBorerWormMount_Forest.blp
@@ -70201,7 +70202,16 @@
 5767127;Creature/CaveBorerWormMount/CaveBorerWormMount_Saddle_Orange.blp
 5767128;Creature/CaveBorerWormMount/CaveBorerWormMount_Saddle_Purple.blp
 5767129;Creature/CaveBorerWormMount/CaveBorerWormMount_Saddle_Red.blp
+5767550;creature/thaurissan2/thaurissan2_skin.blp
+5767551;creature/thaurissan2/thaurissan2_fx2.blp
+5767552;creature/thaurissan2/thaurissan2_fx1.blp
+5767553;creature/thaurissan2/thaurissan2_eyes.blp
 5768160;Creature/FaerinLothar/FaerinLothar_Shield.blp
+5768270;creature/thaurissan2/armorreflect4.blp
+5768425;creature/thaurissan2/thaurissan200.skin
+5768429;creature/thaurissan2/thaurissan2_lod01.skin
+5768432;creature/thaurissan2/thaurissan2_lod02.skin
+5768435;creature/thaurissan2/thaurissan2_lod03.skin
 5769131;Creature/NerubianEvolvedBoss/NerubianEvolvedBoss0119-00.anim
 5771007;Creature/FireBeePet/ArmorReflect_Rainbow.blp
 5771009;Creature/FireBeePet/FireBeePet00.skin
@@ -70341,6 +70351,7 @@
 5795796;Creature/LeafBug/LeafBug_lod01.skin
 5795797;Creature/LeafBug/LeafBug_lod02.skin
 5795798;Creature/LeafBug/LeafBug_lod03.skin
+5829467;creature/thaurissan2/thaurissan2.skel
 5833481;Creature/DireKobold/Fire_FlameLicks_DissolveFBs_Blend.blp
 5838022;creature/jaina3/jaina3.skel
 5850374;Creature/Goat/Goat_lod01.skin
