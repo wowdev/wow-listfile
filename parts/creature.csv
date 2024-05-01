@@ -69264,6 +69264,7 @@
 5519229;Creature/BabyCryptFiend/BabyCryptFiend0129-00.anim
 5519230;Creature/BabyCryptFiend/BabyCryptFiend0123-00.anim
 5519231;Creature/BabyCryptFiend/BabyCryptFiend0128-00.anim
+5519392;creature/deepearthelemental/deepearthelemental.m2
 5519724;Creature/CryptFiend2/CryptFiend20065-00.anim
 5519910;Creature/EtherealAssassin/ArmorReflect4.blp
 5519911;Creature/EtherealAssassin/EtherealAssassin_Armor.blp
@@ -69594,6 +69595,15 @@
 5565680;Creature/DireKobold/DireKobold0097-01.anim
 5565681;Creature/DireKobold/DireKobold0097-02.anim
 5565682;Creature/DireKobold/DireKobold0096-00.anim
+5565792;creature/deepearthelemental/armorreflect4.blp
+5565793;creature/deepearthelemental/deepearthelemental0060-00.anim
+5565794;creature/deepearthelemental/deepearthelemental00.skin
+5565795;creature/deepearthelemental/deepearthelemental_lod01.skin
+5565796;creature/deepearthelemental/deepearthelemental_lod02.skin
+5565797;creature/deepearthelemental/deepearthelemental_lod03.skin
+5565798;creature/deepearthelemental/deepearthelemental_brown.blp
+5565799;creature/deepearthelemental/deepearthelemental_blue.blp
+5565800;creature/deepearthelemental/deepearthelemental_gray.blp
 5568134;Creature/Gryphon_Air/ArmorReflect7.blp
 5568135;Creature/Gryphon_Air_Mount/ArmorReflect7.blp
 5568566;Creature/ParrotPirateMount/ParrotPirateMount.m2
