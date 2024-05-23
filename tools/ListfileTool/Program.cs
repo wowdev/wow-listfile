@@ -9,16 +9,19 @@ namespace ListfileTool
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("No arguments specified, available modes: check, merge, split, compile");
+                Console.WriteLine("No arguments specified, available modes: check, merge, split, compile, compileVerified");
                 Console.WriteLine("Check input CSV file against listfile: check <base listfile|parts directory> <input listfile>");
                 Console.WriteLine("Merge input CSV file into listfile (parts): merge <base listfile|parts directory> <input listfile>");
                 Console.WriteLine("Split single CSV listfile into parts: split <listfile> <output directory>");
                 Console.WriteLine("Compile listfile parts into single CSV: compile <parts directory> <output directory> [force 100MB limit]");
+                Console.WriteLine("Compile listfile parts with verified names into single CSV: compileVerified <parts directory> <output directory> [force 100MB limit]");
                 Environment.Exit(-1);
             }
 
             if (args.Length > 1)
             {
+                var force100MBLimit = false;
+
                 switch (args[0])
                 {
                     case "check":
@@ -43,11 +46,16 @@ namespace ListfileTool
                         Split(sourceListfile, args[2]);
                         break;
                     case "compile":
-                        var force100MBLimit = false;
                         if (args.Length == 4)
                             force100MBLimit = bool.Parse(args[3]);
 
-                        Compile(args[1], args[2], force100MBLimit);
+                        Compile(args[1], args[2], force100MBLimit, false);
+                        break;
+                    case "compileVerified":
+                        if (args.Length == 4)
+                            force100MBLimit = bool.Parse(args[3]);
+
+                        Compile(args[1], args[2], force100MBLimit, true);
                         break;
                     default:
                         Console.WriteLine("Unknown mode: " + args[0]);
@@ -388,9 +396,20 @@ namespace ListfileTool
             File.WriteAllText(Path.Combine(outputDir, "misc.csv"), string.Join("\r\n", sourceListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
         }
 
-        static void Compile(string inputDir, string outputDir, bool force100MBLimit = false)
+        static void Compile(string inputDir, string outputDir, bool force100MBLimit = false, bool verifiedNames = false)
         {
             var mergedListfile = new Dictionary<uint, string>();
+
+            var outputNameCapitals = "community-listfile-withcapitals.csv";
+            var outputNameCapitalsOld = "community-listfile-withcapitals-old.csv";
+            var outputNameNoCapitals = "community-listfile.csv";
+
+            if (verifiedNames)
+            {
+                outputNameCapitals = "verified-listfile-withcapitals.csv";
+                outputNameCapitalsOld = "verified-listfile-withcapitals-old.csv";
+                outputNameNoCapitals = "verified-listfile.csv";
+            }
 
             foreach (var file in Directory.GetFiles(inputDir, "*.csv"))
             {
@@ -421,14 +440,57 @@ namespace ListfileTool
                 }
             }
 
+            if (verifiedNames)
+            {
+                // meta/lookup.csv hould be one path above inputDir
+                var lookupFile = Path.Combine(Directory.GetParent(inputDir).FullName, "meta", "lookup.csv");
+
+                if(!File.Exists(lookupFile))
+                {
+                    Console.WriteLine("!!! Warning: lookup.csv not found, skipping verified names compilation");
+                    return;
+                }
+
+                var hasher = new Jenkins96();
+
+                var lookups = new Dictionary<uint, ulong>();
+
+                foreach(var line in File.ReadLines(lookupFile))
+                {
+                    var split = line.Split(';');
+                    if (split.Length != 2)
+                        continue;
+
+                    var fileDataID = uint.Parse(split[0]);
+                    var lookup = Convert.ToUInt64(split[1], 16);
+
+                    lookups.Add(fileDataID, lookup);
+                }
+
+                foreach(var mergedEntry in mergedListfile)
+                {
+                    if(lookups.TryGetValue(mergedEntry.Key, out var lookup))
+                    {
+                        if (lookup != hasher.ComputeHash(mergedEntry.Value))
+                        {
+                            mergedListfile.Remove(mergedEntry.Key);
+                        }
+                    }
+                    else
+                    {
+                        mergedListfile.Remove(mergedEntry.Key);
+                    }
+                }
+            }
+
             mergedListfile = mergedListfile.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
 
-            var withCapitalOutput = Path.Combine(outputDir, "community-listfile-withcapitals.csv");
+            var withCapitalOutput = Path.Combine(outputDir, outputNameCapitals);
 
             if (force100MBLimit)
             {
                 if (File.Exists(withCapitalOutput))
-                    File.Move(withCapitalOutput, Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"));
+                    File.Move(withCapitalOutput, Path.Combine(outputDir, outputNameCapitalsOld));
             }
 
             File.WriteAllText(withCapitalOutput, string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
@@ -438,18 +500,18 @@ namespace ListfileTool
                 var sizeWithCase = new FileInfo(withCapitalOutput).Length;
                 if (sizeWithCase > 100 * 1024 * 1024)
                 {
-                    Console.WriteLine("!!! Warning: community-listfile-withcapitals.csv is " + sizeWithCase + " bytes, which is over the 100MB limit, keeping old listfile!");
+                    Console.WriteLine("!!! Warning: " + outputNameCapitals + " is " + sizeWithCase + " bytes, which is over the 100MB limit, keeping old listfile!");
                     File.Delete(withCapitalOutput);
-                    File.Move(Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"), withCapitalOutput);
+                    File.Move(Path.Combine(outputDir, outputNameCapitalsOld), withCapitalOutput);
                     Environment.Exit(-1);
                 }
                 else
                 {
-                    File.Delete(Path.Combine(outputDir, "community-listfile-withcapitals-old.csv"));
+                    File.Delete(Path.Combine(outputDir, outputNameCapitalsOld));
                 }
             }
 
-            File.WriteAllText(Path.Combine(outputDir, "community-listfile.csv"), string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
+            File.WriteAllText(Path.Combine(outputDir, outputNameNoCapitals), string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
         }
     }
 }
