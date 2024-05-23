@@ -50,7 +50,7 @@ jobs:
     - name: Compile community listfile with ListfileTool
       run: mkdir $PWD/tmp && dotnet run --project $PWD/tools/ListfileTool --configuration Release -- compile $PWD/parts $PWD/tmp
     - name: Compile verified listfile with ListfileTool
-      run: mkdir $PWD/tmp && dotnet run --project $PWD/tools/ListfileTool --configuration Release -- compileVerified $PWD/parts $PWD/tmp
+      run: dotnet run --project $PWD/tools/ListfileTool --configuration Release -- compileVerified $PWD/parts $PWD/tmp
     - name: Create Release
       id: create_release
       uses: softprops/action-gh-release@v0.1.13
