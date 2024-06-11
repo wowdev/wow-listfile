@@ -132,13 +132,13 @@ namespace ListfileTool
                     }
                     else
                     {
-                        if (sourceListfile.ContainsKey(fileDataID))
+                        if (sourceListfile.TryGetValue(fileDataID, out string? sourceName))
                         {
                             // FileDataID is already present in listfile
-                            if (sourceListfile[fileDataID] != split[1].Trim())
+                            if (sourceName != split[1].Trim())
                             {
                                 // FileDataID is present, but the filename is different
-                                Console.WriteLine("FileDataID " + fileDataID + " is present in listfile, but the filename is different: " + split[1].Trim() + " vs " + sourceListfile[fileDataID]);
+                                Console.WriteLine("FileDataID " + fileDataID + " is present in listfile, but the filename is different: " + split[1].Trim() + " vs " + sourceName);
                             }
                             else
                             {
