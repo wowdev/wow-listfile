@@ -28986,6 +28986,7 @@
 5545918;spells/FX_SmallEgg_Aura_lod03.skin
 5545941;spells/11FX_TheStonevault_HighSpeakerEirich_EntropicReckoning_TravelE.m2
 5545966;spells/11FX_TheStonevault_HighSpeakerEirich_EntropicReckoning_TravelE00.skin
+5546561;Spells/11FX_VoidBolt02.m2
 5546579;spells/FX_CosmeticHoldingLightOrb_Aura00.skin
 5546649;spells/FX_LeechingSwarm_Channel.m2
 5546650;spells/CFX_EnhancedSight_Aura.m2
@@ -28995,6 +28996,10 @@
 5546655;spells/11FX_DarkflameCleft_TheCandleKing_ParanoidMind_Precast.m2
 5546660;spells/FX_FlameVisual_Aura00.skin
 5546662;spells/FX_LightMaintainAuraBiggest_Aura00.skin
+5546884;Spells/11FX_VoidBolt0200.skin
+5546891;Spells/11FX_VoidBolt02_lod01.skin
+5546898;Spells/11FX_VoidBolt02_lod02.skin
+5546906;Spells/11FX_VoidBolt02_lod03.skin
 5546997;spells/CFX_EnhancedSight_Aura00.skin
 5547005;spells/FX_LeechingSwarm_Channel00.skin
 5547950;spells/11FX_DarkflameCleft_TheCandleKing_ParanoidMind_Precast00.skin
