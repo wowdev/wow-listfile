@@ -69400,7 +69400,6 @@
 5517484;creature/druidcatkultiran/druidcatkultiran0120-00.anim
 5517485;Creature/DruidCat2/DruidCatTauren20120-00.anim
 5517486;Creature/DruidCat2/DruidCatTroll20120-00.anim
-5517488;Creature/Arathi_NerubianTargetDummy/ArmorReflect4.blp
 5517496;creature/druidcatzandalaritroll/druidcatzandalaritroll0120-00.anim
 5517497;creature/druidcatzandalaritroll_noarmor/druidcatzandalaritroll_noarmor0120-00.anim
 5517514;creature/druidtravelcat/druidtravelcat0120-00.anim
@@ -70507,6 +70506,16 @@
 5740535;Creature/ArathiLynx/ArathiLynxMount_Armor_Purple.blp
 5740536;Creature/ArathiLynx/ArathiLynxMount_Armor_Red.blp
 5740537;Creature/ArathiLynx/ArathiLynxMount_Armor_Yellow.blp
+5742596;Creature/NerubianIce/NerubianIce.m2
+5742606;Creature/NerubianIce/NerubianIce0060-00.anim
+5742607;Creature/NerubianIce/NerubianIce0062-00.anim
+5742608;Creature/NerubianIce/NerubianIce0129-00.anim
+5742609;Creature/NerubianIce/NerubianIce0123-00.anim
+5742610;Creature/NerubianIce/NerubianIce0128-00.anim
+5742611;Creature/NerubianIce/NerubianIce00.skin
+5742612;Creature/NerubianIce/NerubianIce_lod01.skin
+5742613;Creature/NerubianIce/NerubianIce_lod02.skin
+5742614;Creature/NerubianIce/NerubianIce_lod03.skin
 5746451;Creature/NerubianEvolved/NerubianEvolved0061-01.anim
 5746549;Creature/FlyingNerubian2Mount/FlyingNerubian2Mount0061-00.anim
 5746550;Creature/FlyingNerubian2Mount/FlyingNerubian2Mount0061-01.anim
