@@ -1,5 +1,5 @@
 # ⚠Important update⚠ 
-_(Last updated May 23rd 2024 @ 17:00 CEST)_  
+_(Last updated June 27th 2024 @ 23:00 CEST)_  
 
 **_TL;DR Use the listfiles from releases from now on, NOT the listfiles in the repository as these will be removed soon._**
 
@@ -10,6 +10,8 @@ Direct links for the latest full listfile from the latest release:
 **Longer explanation:** Due to the 100MB size limit on files inside GitHub repos, complete versions of the community listfiles will from now on be distributed [through GitHub releases](https://github.com/wowdev/wow-listfile/releases). The compiled listfiles currently in the repository do not have [placeholder filenames](https://github.com/wowdev/wow-listfile/blob/master/tools/ListfileTool/Program.cs#L354-L359) to save on space to temporarily allow them to stay updated with new files/changes. 
 
 **Update May 23rd 2024:** As announced in August 2023, the community listfiles in the repository will soon be removed.
+
+**Update June 27th 2024:** The listfiles in the repo are no longer updated because they hit max size again. Only listfiles from releases will still receive updates.
 
 ----
 
