@@ -4,25 +4,6 @@ on:
     paths:
       -  parts/**
 jobs:
-  compile-repo-listfile:
-    name: Build repo listfile
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
-      with:
-        submodules: recursive
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v3
-      with:
-        dotnet-version: 7.0.x
-    - name: Compile 100MB-limited community listfile with ListfileTool
-      run: dotnet run --project $PWD/tools/ListfileTool --configuration Release -- compile $PWD/parts $PWD/ true
-    - name: Update repo
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Update in-repo listfile
-        file_pattern: '*.csv'
   compile-release-listfile:
     name: Build release listfile
     runs-on: ubuntu-latest
