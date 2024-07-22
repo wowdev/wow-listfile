@@ -361,6 +361,11 @@ namespace ListfileTool
                 {
                     placeholderFiles.TryAdd(file.Key, file.Value);
                 }
+
+                if (file.Value.EndsWith(".ogg") && file.Value.Substring(file.Value.Length - 10, 6).All(char.IsDigit))
+                {
+                    placeholderFiles.TryAdd(file.Key, file.Value);
+                }
             }
 
             sourceListfile = sourceListfile.Where(x => !placeholderFiles.ContainsKey(x.Key)).ToDictionary(x => x.Key, x => x.Value);
@@ -445,7 +450,7 @@ namespace ListfileTool
                 // meta/lookup.csv hould be one path above inputDir
                 var lookupFile = Path.Combine(Directory.GetParent(inputDir).FullName, "meta", "lookup.csv");
 
-                if(!File.Exists(lookupFile))
+                if (!File.Exists(lookupFile))
                 {
                     Console.WriteLine("!!! Warning: lookup.csv not found, skipping verified names compilation");
                     return;
@@ -455,7 +460,7 @@ namespace ListfileTool
 
                 var lookups = new Dictionary<uint, ulong>();
 
-                foreach(var line in File.ReadLines(lookupFile))
+                foreach (var line in File.ReadLines(lookupFile))
                 {
                     var split = line.Split(';');
                     if (split.Length != 2)
@@ -467,9 +472,9 @@ namespace ListfileTool
                     lookups.Add(fileDataID, lookup);
                 }
 
-                foreach(var mergedEntry in mergedListfile)
+                foreach (var mergedEntry in mergedListfile)
                 {
-                    if(lookups.TryGetValue(mergedEntry.Key, out var lookup))
+                    if (lookups.TryGetValue(mergedEntry.Key, out var lookup))
                     {
                         if (lookup != hasher.ComputeHash(mergedEntry.Value))
                         {
