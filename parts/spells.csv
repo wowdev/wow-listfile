@@ -28564,6 +28564,7 @@
 5404740;spells/FX_CarryingABox_Aura_lod01.skin
 5404741;spells/FX_CarryingABox_Aura_lod02.skin
 5404742;spells/FX_CarryingABox_Aura_lod03.skin
+5404817;Spells/11FX_CloudyBackgroundMask01.m2
 5404818;spells/FX_EmpoweredFeather01.m2
 5404821;spells/FX_EmpoweredFeather0100.skin
 5404822;spells/FX_EmpoweredFeather01_lod01.skin
@@ -28576,6 +28577,10 @@
 5405838;spells/FX_Sticky_Aura.m2
 5405839;Spells/11FX_Embers01.m2
 5405840;spells/FX_FlameHoneyChanneling_Aura.m2
+5405894;Spells/11FX_CloudyBackgroundMask0100.skin
+5405897;Spells/11FX_CloudyBackgroundMask01_lod01.skin
+5405898;Spells/11FX_CloudyBackgroundMask01_lod02.skin
+5405902;Spells/11FX_CloudyBackgroundMask01_lod03.skin
 5406031;spells/FX_VerdantMatrix_Aura0600.skin
 5406032;spells/FX_VerdantMatrix_Aura06_lod01.skin
 5406033;spells/FX_VerdantMatrix_Aura06_lod02.skin
@@ -30007,6 +30012,8 @@
 5869195;spells/FX_WebAssault_Aura01_lod01.skin
 5869196;spells/FX_WebAssault_Aura01_lod02.skin
 5869197;spells/FX_WebAssault_Aura01_lod03.skin
+5869273;Spells/11FX_WindCircle01.m2
+5869509;Spells/11FX_WindCircle0100.skin
 5869870;Spells/11FX_SkullCoin01.m2
 5869988;Spells/11FX_SkullCoin02.m2
 5869989;Spells/11FX_SkullCoin03.m2
@@ -30057,6 +30064,11 @@
 5870326;Spells/11FX_SwordSkullCoin01_lod01.skin
 5870327;Spells/11FX_SwordSkullCoin01_lod02.skin
 5870328;Spells/11FX_SwordSkullCoin01_lod03.skin
+5870480;Spells/11FX_ArcanePortal01.m2
+5870549;Spells/11FX_ArcanePortal0100.skin
+5870752;Spells/11FX_LightShield01.m2
+5870937;Spells/11FX_LightShield0100.skin
+5871194;Spells/11FX_WindEffect01.m2
 5871824;Spells/11FX_Forged_Legends_Pennant0100.skin
 5871825;Spells/11FX_Forged_Legends_Pennant01_lod01.skin
 5871826;Spells/11FX_Forged_Legends_Pennant01_lod02.skin
@@ -30069,6 +30081,10 @@
 5872128;Spells/11FX_Unknown_Pennant02_lod01.skin
 5872129;Spells/11FX_Unknown_Pennant02_lod02.skin
 5872130;Spells/11FX_Unknown_Pennant02_lod03.skin
+5872150;Spells/11FX_WindEffect0100.skin
+5872152;Spells/11FX_WindEffect01_lod01.skin
+5872154;Spells/11FX_WindEffect01_lod02.skin
+5872156;Spells/11FX_WindEffect01_lod03.skin
 5872160;Spells/11FX_Unbound_Legends_Pennant0100.skin
 5872161;Spells/11FX_Unbound_Legends_Pennant01_lod01.skin
 5872162;Spells/11FX_Unbound_Legends_Pennant01_lod02.skin
@@ -30096,6 +30112,8 @@
 5874932;Spells/11FX_Unbound_Strategists_Pennant01_lod01.skin
 5874933;Spells/11FX_Unbound_Strategists_Pennant01_lod02.skin
 5874934;Spells/11FX_Unbound_Strategists_Pennant01_lod03.skin
+5876234;Spells/11FX_SparklySparkles01.m2
+5876720;Spells/11FX_SparklySparkles0100.skin
 5890149;Spells/11FX_WebWrap0100.skin
 5890150;Spells/11FX_WebWrap01_lod01.skin
 5890151;Spells/11FX_WebWrap01_lod02.skin
@@ -30106,6 +30124,11 @@
 5902796;Spells/Priest_Halo_ArtifactVariant_Cast_lod01.skin
 5902797;Spells/Priest_Halo_ArtifactVariant_Cast_lod02.skin
 5902798;Spells/Priest_Halo_ArtifactVariant_Cast_lod03.skin
+5932321;Spells/11FX_VoidBoltExhaust01.m2
+5932325;Spells/11FX_VoidBoltExhaust0100.skin
+5932326;Spells/11FX_VoidBoltExhaust01_lod01.skin
+5932327;Spells/11FX_VoidBoltExhaust01_lod02.skin
+5932328;Spells/11FX_VoidBoltExhaust01_lod03.skin
 5935247;Spells/10FX_Remix_TimePortal01.m2
 5935483;Spells/10FX_Remix_TimePortal0100.skin
 5935484;Spells/10FX_Remix_TimePortal01_lod01.skin
