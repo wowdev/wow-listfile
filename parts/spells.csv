@@ -19726,6 +19726,10 @@
 2054043;spells/8fx_bloodgod_powermatrix_slow00.skin
 2054045;spells/8fx_bloodgod_powermatrix_root.m2
 2054047;spells/8fx_bloodgod_powermatrix_root00.skin
+2054049;Spells/CFX_SpellVisualPlaceholder_01.m2
+2054051;Spells/CFX_SpellVisualPlaceholder_0100.skin
+2054053;Spells/CFX_SpellVisualPlaceholder_02.m2
+2054055;Spells/CFX_SpellVisualPlaceholder_0200.skin
 2054057;spells/8fx_bloodgod_explosivecorruption_debuff.m2
 2054059;spells/8fx_bloodgod_explosivecorruption_debuff00.skin
 2054061;spells/8fx_bloodgod_explosivecorruption_impact.m2
@@ -19916,6 +19920,8 @@
 2102088;spells/energy1b_bloodtroll_bloodgoop_corruption_ba.blp
 2102090;spells/8fx_oldcorruption_03_a.blp
 2102153;spells/flare1_tc_holy2tone_pala.blp
+2102155;Spells/CFX_SpellVisualPlaceholder_03.m2
+2102157;Spells/CFX_SpellVisualPlaceholder_0300.skin
 2102161;spells/8fx_bloodgod_darkbargain_impactworld.m2
 2102163;spells/8fx_bloodgod_darkbargain_impactworld00.skin
 2102363;spells/8fx_bloodgod_darkbargain_statechest.m2
@@ -20182,6 +20188,8 @@
 2132919;spells/textures/caustic_soft_distortion_light.blp
 2133046;spells/cfx_warlock_implosion_areaimpact.m2
 2133048;spells/cfx_warlock_implosion_areaimpact00.skin
+2135440;Spells/CFX_SpellVisualPlaceholder_04.m2
+2135443;Spells/CFX_SpellVisualPlaceholder_0400.skin
 2138369;spells/cfx_warlock_bilescourgebombers_areaimpact.m2
 2138371;spells/cfx_warlock_bilescourgebombers_areaimpact00.skin
 2138647;spells/8fx_explosionsmoke_a.blp
@@ -20386,6 +20394,8 @@
 2167075;spells/8fx_lordaeronscenario_ringoffrost_statelow00.skin
 2167080;spells/8fx_lordaeronscenario_iceblock_basestatelow.m2
 2167082;spells/8fx_lordaeronscenario_iceblock_basestatelow00.skin
+2167353;Spells/CFX_SpellVisualPlaceholder_05.m2
+2167355;Spells/CFX_SpellVisualPlaceholder_0500.skin
 2167360;spells/8fx_lordaeronscenario_tornado_statelow.m2
 2167362;spells/8fx_lordaeronscenario_tornado_statelow00.skin
 2167468;spells/8fx_lordaeronscenario_smokebomb_statelow.m2
@@ -21526,6 +21536,10 @@
 2203959;spells/alpha_doubleedge_redfade.blp
 2204480;spells/glow_painted_shadow_ba.blp
 2204482;spells/glow_painted_grey_ba.blp
+2204512;Spells/CFX_SpellVisualPlaceholder_06.m2
+2204514;Spells/CFX_SpellVisualPlaceholder_0600.skin
+2204521;Spells/CFX_SpellVisualPlaceholder_07.m2
+2204523;Spells/CFX_SpellVisualPlaceholder_0700.skin
 2205129;spells/shoulder_robe_plague_a_01.blp
 2205132;spells/firearm_2h_rifle_plague_a_01.blp
 2205133;spells/building_base1_alpha.blp
@@ -22947,6 +22961,8 @@
 3258621;spells/cfx_mechagnome_racial_buff_base00.skin
 3260135;spells/7fx_argusraid_worldsoul_lod01.skin
 3260136;spells/7fx_argusraid_worldsoul_lod02.skin
+3260365;Spells/CFX_SpellVisualPlaceholder_08.m2
+3260367;Spells/CFX_SpellVisualPlaceholder_0800.skin
 3260465;spells/helm_raidpriest_c_01.blp
 3287856;spells/cfx_venthyr_deathknight_statebase.m2
 3288054;spells/cfx_venthyr_deathknight_statebase00.skin
