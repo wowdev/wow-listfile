@@ -65730,6 +65730,11 @@
 5004743;creature/WoodDragonPet/WoodDragonPet_lod03.skin
 5006281;creature/protodragonshadowflame/protodragonshadowflame_glow.blp
 5008711;Creature/DreamSaber/DreamSaber.m2
+5009474;Creature/VoidElemental/10xp_VoidElemental01.m2
+5009503;Creature/VoidElemental/10xp_VoidElemental0100.skin
+5009506;Creature/VoidElemental/10xp_VoidElemental01_lod01.skin
+5009508;Creature/VoidElemental/10xp_VoidElemental01_lod02.skin
+5009510;Creature/VoidElemental/10xp_VoidElemental01_lod03.skin
 5009794;creature/ElderRashok/ElderRashok.m2
 5011146;creature/Larodar/Larodar.m2
 5012305;creature/Nutraal/Nutraal.m2
@@ -66019,6 +66024,8 @@
 5061913;creature/KeeperTyrInfiniteBoss/KeeperTyrInfiniteBoss0098-00.anim
 5061921;creature/KeeperTyrInfiniteBoss/KeeperTyrInfiniteBoss0060-00.anim
 5061928;creature/KeeperTyrInfiniteBoss/KeeperTyrInfiniteBoss00.skin
+5062091;Creature/GreySquare/10XP_GreySquare01.m2
+5062182;Creature/GreySquare/10XP_GreySquare0100.skin
 5062265;creature/blingtronprime/blingtronprime.m2
 5062378;creature/blingtronprime/Metal_Reflect.blp
 5062379;creature/blingtronprime/blingtronprime0080-00.anim
@@ -69560,6 +69567,7 @@
 5545846;Creature/WolfDraenor/WolfDraenorMount_lod02.skin
 5545847;Creature/WolfDraenor/WolfDraenorMount_lod03.skin
 5545848;Creature/StormGryphon/StormGryphon0061-00.anim
+5545991;Creature/WaterElementalBoss/10XP_WaterElementalBoss01.m2
 5545992;Creature/EarthenConstruct/Smoke_Loose_01.blp
 5545993;Creature/EarthenConstruct/Cloud_Soft_Painterly_Alpha.blp
 5545994;Creature/EarthenConstruct/Gray_64.blp
@@ -69570,6 +69578,10 @@
 5546000;Creature/EarthenConstruct/EarthenConstruct_lod01.skin
 5546001;Creature/EarthenConstruct/EarthenConstruct_lod02.skin
 5546002;Creature/EarthenConstruct/EarthenConstruct_lod03.skin
+5546009;Creature/WaterElementalBoss/10XP_WaterElementalBoss0100.skin
+5546010;Creature/WaterElementalBoss/10XP_WaterElementalBoss01_lod01.skin
+5546011;Creature/WaterElementalBoss/10XP_WaterElementalBoss01_lod02.skin
+5546012;Creature/WaterElementalBoss/10XP_WaterElementalBoss01_lod03.skin
 5546041;Creature/EarthenConstruct/EarthenConstruct_1.blp
 5546546;Creature/EarthenConstruct/EarthenConstruct_2.blp
 5546981;Creature/IGC_Alleria/IGC_Alleria.m2
@@ -69982,6 +69994,7 @@
 5633963;Creature/ArathiLynx/ArathiLynx_lod01.skin
 5633964;Creature/ArathiLynx/ArathiLynx_lod02.skin
 5633965;Creature/ArathiLynx/ArathiLynx_lod03.skin
+5633991;Creature/OwlMount/10XP_OwlMount01.m2
 5634793;creature/alleria/alleria1492-00.anim
 5634794;creature/alleria/alleria1310-00.anim
 5634795;creature/alleria/alleria1220-00.anim
@@ -70031,6 +70044,16 @@
 5656841;Creature/Cloudmount/cloudMount_lod01.skin
 5656842;Creature/Cloudmount/cloudMount_lod02.skin
 5656843;Creature/Cloudmount/cloudMount_lod03.skin
+5656954;Creature/OwlMount/10XP_OwlMount010097-00.anim
+5656955;Creature/OwlMount/10XP_OwlMount010097-01.anim
+5656956;Creature/OwlMount/10XP_OwlMount010096-00.anim
+5656957;Creature/OwlMount/10XP_OwlMount010098-00.anim
+5656958;Creature/OwlMount/10XP_OwlMount010123-00.anim
+5656959;Creature/OwlMount/10XP_OwlMount010061-00.anim
+5656960;Creature/OwlMount/10XP_OwlMount0100.skin
+5656961;Creature/OwlMount/10XP_OwlMount01_lod01.skin
+5656962;Creature/OwlMount/10XP_OwlMount01_lod02.skin
+5656963;Creature/OwlMount/10XP_OwlMount01_lod03.skin
 5658060;Creature/SpiderUndergroundNoBody/SpiderUndergroundNoBody.m2
 5658133;Creature/SpiderUndergroundNoBody/SpiderUndergroundNoBody0097-00.anim
 5658134;Creature/SpiderUndergroundNoBody/SpiderUndergroundNoBody0096-00.anim
@@ -70462,6 +70485,7 @@
 5725708;Creature/ViciousFlyingNerubian2/ViciousFlyingNerubian2_Body_Green.blp
 5725709;Creature/ViciousFlyingNerubian2/ViciousFlyingNerubian2_Body_Purple.blp
 5725710;Creature/ViciousFlyingNerubian2/ViciousFlyingNerubian2_Body_Tan.blp
+5725979;Creature/OwlPet/OwlPet02.m2
 5726058;creature/kakapo/kakapo_lod01.skin
 5726059;creature/kakapo/kakapo_lod02.skin
 5726060;creature/kakapo/kakapo_lod03.skin
@@ -70503,6 +70527,10 @@
 5737109;Creature/Arathi_NerubianTargetDummy/Arathi_NerubianTargetDummy_lod01.skin
 5737110;Creature/Arathi_NerubianTargetDummy/Arathi_NerubianTargetDummy_lod02.skin
 5737112;Creature/Arathi_NerubianTargetDummy/Arathi_NerubianTargetDummy_lod03.skin
+5738409;Creature/OwlPet/OwlPet0200.skin
+5738410;Creature/OwlPet/OwlPet02_lod01.skin
+5738411;Creature/OwlPet/OwlPet02_lod02.skin
+5738412;Creature/OwlPet/OwlPet02_lod03.skin
 5738444;Creature/CrystalMech/CrystalMech.m2
 5738446;Creature/NerubianWarbeastMount/NerubianWarbeastMount.m2
 5738900;Creature/DireKobold/DireKobold0062-00.anim
@@ -70789,6 +70817,8 @@
 5770615;Creature/MoiraThaurissan/MoiraThaurissan_lod01.skin
 5770616;Creature/MoiraThaurissan/MoiraThaurissan_lod02.skin
 5770617;Creature/MoiraThaurissan/MoiraThaurissan_lod03.skin
+5770751;Creature/OwlPet/OwlPet020097-00.anim
+5770752;Creature/OwlPet/OwlPet020097-01.anim
 5770798;Creature/MoiraThaurissan/MoiraThaurissan_Eyes.blp
 5771007;Creature/FireBeePet/ArmorReflect_Rainbow.blp
 5771009;Creature/FireBeePet/FireBeePet00.skin
