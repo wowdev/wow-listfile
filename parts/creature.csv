@@ -52513,7 +52513,7 @@
 3159168;creature/broker/broker02.skin
 3159170;creature/broker/broker03.skin
 3159424;creature/aspirantmale/aspirantmale.skel
-3159888;creature/murlocmount/murlocmount.m2
+3159888;Creature/MurlocMount/MurlocMount.m2
 3159890;creature/felbeast/lavadrip.blp
 3159891;creature/felbeast/genericglow1.blp
 3159892;creature/felbeast/ArmorReflect4.blp
@@ -52527,11 +52527,11 @@
 3159997;creature/murlocmount/murlocmount0098-00.anim
 3159998;creature/murlocmount/murlocmount0100-00.anim
 3160000;creature/murlocmount/murlocmount0099-00.anim
-3160001;creature/murlocmount/murlocmount_body.blp
+3160001;Creature/MurlocMount/MurlocMount_Body.blp
 3160003;creature/murlocmount/murlocmount0101-00.anim
-3160004;creature/murlocmount/murlocmount00.skin
+3160004;Creature/MurlocMount/MurlocMount00.skin
 3160005;creature/murlocmount/murlocmount01.skin
-3160006;creature/murlocmount/murlocmount_saddle.blp
+3160006;Creature/MurlocMount/MurlocMount_Saddle.blp
 3160008;creature/ardenwealdstagmount2/ardenwealdstagmount201.skin
 3160218;creature/vampire_male/vampire_male_hair_1.blp
 3160219;creature/vampire_male/vampire_male_hair_2.blp
@@ -53467,8 +53467,8 @@
 3257654;creature/faunfemale/faunfemale_clothes_purple.blp
 3257655;creature/faunfemale/faunfemale_clothes_red.blp
 3258358;creature/thunderislebird/ArmorReflect4.blp
-3258549;creature/murlocmount/White8x8.blp
-3258550;creature/murlocmount/8fx_precast_smoke.blp
+3258549;Creature/MurlocMount/White8x8.blp
+3258550;Creature/MurlocMount/8fx_precast_smoke.blp
 3258552;creature/murlocmount/murlocmount03.skin
 3258830;creature/broker/broker0518-00.anim
 3258832;creature/broker/broker0520-00.anim
@@ -53595,9 +53595,9 @@
 3269014;creature/piratebaron/piratebaron_lod01.skin
 3269015;creature/piratebaron/piratebaron_lod02.skin
 3269016;creature/piratebaron/piratebaron_lod03.skin
-3269017;creature/murlocmount/murlocmount_lod01.skin
-3269018;creature/murlocmount/murlocmount_lod02.skin
-3269019;creature/murlocmount/murlocmount_lod03.skin
+3269017;Creature/MurlocMount/MurlocMount_lod01.skin
+3269018;Creature/MurlocMount/MurlocMount_lod02.skin
+3269019;Creature/MurlocMount/MurlocMount_lod03.skin
 3269020;creature/lightforgedmale_megalow/lightforgedmale_megalow_lod01.skin
 3269021;creature/lightforgedmale_megalow/lightforgedmale_megalow_lod02.skin
 3269022;creature/lightforgedmale_megalow/lightforgedmale_megalow_lod03.skin
@@ -67688,8 +67688,8 @@
 5243100;Creature/RhinoPrimalMountDream/RhinoPrimalMountDream_lod02.skin
 5243101;Creature/RhinoPrimalMountDream/RhinoPrimalMountDream_lod03.skin
 5244691;creature/murlocbrute/murlocbrute_purple.blp
-5244692;creature/murlocmount/murlocmount_saddle_purple.blp
-5244694;creature/murlocmount/murlocmount_body_purple.blp
+5244692;Creature/MurlocMount/MurlocMount_Saddle_Purple.blp
+5244694;Creature/MurlocMount/MurlocMount_Body_Purple.blp
 5245363;creature/IGC_Alexstrasza4/IGC_Alexstrasza400.skin
 5245371;creature/IGC_Vyranoth2/IGC_Vyranoth200.skin
 5245372;creature/IGC_Fyrakk/IGC_Fyrakk00.skin
@@ -71281,6 +71281,8 @@
 5900853;creature/magnibronzebeardcrystal2/magnibronzebeard_crystal2_lod01.skin
 5900854;creature/magnibronzebeardcrystal2/magnibronzebeard_crystal2_lod02.skin
 5900855;creature/magnibronzebeardcrystal2/magnibronzebeard_crystal2_lod03.skin
+5901799;Creature/MurlocMount/MurlocMount_Saddle_Orange.blp
+5901801;Creature/MurlocMount/MurlocMount_Body_Orange.blp
 5903038;creature/babyoctopus/babyoctopus_lod01.skin
 5903040;creature/babyoctopus/babyoctopus_lod02.skin
 5903042;creature/babyoctopus/babyoctopus_lod03.skin
