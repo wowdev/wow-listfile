@@ -65731,6 +65731,7 @@
 5006281;creature/protodragonshadowflame/protodragonshadowflame_glow.blp
 5008711;Creature/DreamSaber/DreamSaber.m2
 5009474;Creature/VoidElemental/10xp_VoidElemental01.m2
+5009500;Creature/VoidElemental/ArmorReflect4.blp
 5009503;Creature/VoidElemental/10xp_VoidElemental0100.skin
 5009506;Creature/VoidElemental/10xp_VoidElemental01_lod01.skin
 5009508;Creature/VoidElemental/10xp_VoidElemental01_lod02.skin
@@ -69578,6 +69579,8 @@
 5546000;Creature/EarthenConstruct/EarthenConstruct_lod01.skin
 5546001;Creature/EarthenConstruct/EarthenConstruct_lod02.skin
 5546002;Creature/EarthenConstruct/EarthenConstruct_lod03.skin
+5546005;Creature/WaterElementalBoss/arcane_wisps_oil.blp
+5546006;Creature/WaterElementalBoss/slime03_s2.blp
 5546009;Creature/WaterElementalBoss/10XP_WaterElementalBoss0100.skin
 5546010;Creature/WaterElementalBoss/10XP_WaterElementalBoss01_lod01.skin
 5546011;Creature/WaterElementalBoss/10XP_WaterElementalBoss01_lod02.skin
@@ -70045,6 +70048,7 @@
 5656842;Creature/Cloudmount/cloudMount_lod02.skin
 5656843;Creature/Cloudmount/cloudMount_lod03.skin
 5656948;Creature/OwlDragonMount/OwlDragonMount_Saddle.blp
+5656949;Creature/OwlDragonMount/ArmorReflect4.blp
 5656951;Creature/OwlDragonMount/OwlDragonMount.blp
 5656953;Creature/OwlDragonMount/OwlDragonMount_Glow.blp
 5656954;Creature/OwlDragonMount/OwlDragonMount0097-00.anim
@@ -70530,6 +70534,7 @@
 5737109;Creature/Arathi_NerubianTargetDummy/Arathi_NerubianTargetDummy_lod01.skin
 5737110;Creature/Arathi_NerubianTargetDummy/Arathi_NerubianTargetDummy_lod02.skin
 5737112;Creature/Arathi_NerubianTargetDummy/Arathi_NerubianTargetDummy_lod03.skin
+5738407;Creature/OwlPet/ArmorReflect4.blp
 5738408;Creature/SnowOwlPet/SnowOwlPet_fx.blp
 5738409;Creature/SnowOwlPet/SnowOwlPet00.skin
 5738410;Creature/SnowOwlPet/SnowOwlPet_lod01.skin
@@ -70590,6 +70595,7 @@
 5746597;Creature/OldGodFishMount/OldGodFishMount_Saddle_Blue.blp
 5746957;Creature/ViciousFlyingNerubian2/ViciousFlyingNerubian2_Horde0061-00.anim
 5746958;Creature/ViciousFlyingNerubian2/ViciousFlyingNerubian2_Horde0061-01.anim
+5747313;Creature/OwlDragonMount/ArmorReflect_Rainbow.blp
 5749203;Creature/EtherealAssassin/EtherealAssassin0123-00.anim
 5749573;creature/dhmount2/dhmount2_lod03.skin
 5751589;Creature/CelestialSerpent/CelestialSerpentMount_03_Gold.blp
@@ -70601,6 +70607,9 @@
 5751892;Creature/YakPet/YakPet_lod01.skin
 5751894;Creature/YakPet/YakPet_lod02.skin
 5751896;Creature/YakPet/YakPet_lod03.skin
+5751925;Creature/OwlPet/Snowflake_Flipping_01.blp
+5751931;Creature/OwlPet/White8x8.blp
+5751936;Creature/OwlPet/Ember_Offset_Grey.blp
 5752188;Creature/SpiderPet/SpiderPet.m2
 5752316;Creature/OnyxPanther/ArmorReflect_Rainbow.blp
 5752319;Creature/OnyxPanther/OnyxPanther_lod01.skin
