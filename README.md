@@ -7,7 +7,7 @@ Direct links for the latest full listfile from the latest release:
 **[community-listfile.csv](https://github.com/wowdev/wow-listfile/releases/latest/download/community-listfile.csv)**  
 **[community-listfile-withcapitals.csv](https://github.com/wowdev/wow-listfile/releases/latest/download/community-listfile-withcapitals.csv)**
 
-**Longer explanation:** Due to the 100MB size limit on files inside GitHub repos, complete versions of the community listfiles will from now on be distributed [through GitHub releases](https://github.com/wowdev/wow-listfile/releases).
+Due to the 100MB size limit on files inside GitHub repos, complete versions of the community listfiles will from now on be distributed [through GitHub releases](https://github.com/wowdev/wow-listfile/releases).
 
 **Update May 23rd 2024:** As announced in August 2023, the community listfiles in the repository will soon be removed.
 
