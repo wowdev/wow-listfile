@@ -71538,6 +71538,7 @@
 5929332;Creature/IGC_FaerinLothar/IGC_FaerinLothar1456-21.anim
 5929335;Creature/IGC_FaerinLothar/IGC_FaerinLothar1456-22.anim
 5929338;Creature/IGC_FaerinLothar/IGC_FaerinLothar1456-23.anim
+5930359;Creature/BlizzardPhoenixMount/BlizzardPhoenixMount.m2
 5946460;Creature/ArthasLichKing/ArmorReflect_Rainbow.blp
 5946464;Creature/ArthasLichKing/ArthasLichKing_Unarmed_lod01.skin
 5946465;Creature/ArthasLichKing/ArthasLichKing_Unarmed_lod02.skin
@@ -71548,6 +71549,11 @@
 5948112;Creature/KorKronEliteWolf/KorKronEliteWolf_lod01.skin
 5948113;Creature/KorKronEliteWolf/KorKronEliteWolf_lod02.skin
 5948115;Creature/KorKronEliteWolf/KorKronEliteWolf_lod03.skin
+6015524;Creature/BlizzardPhoenixMount/grey50percentsquare16x16_a.blp
+6015526;Creature/BlizzardPhoenixMount/BlizzardPhoenixMount_Armor.blp
+6015527;Creature/BlizzardPhoenixMount/ArmorReflect4.blp
+6015528;Creature/BlizzardPhoenixMount/BlizzardPhoenixMount_Body.blp
+6015530;Creature/BlizzardPhoenixMount/BlizzardPhoenixMount_FX.blp
 6017274;Creature/CelestialSerpent/CelestialSerpent_lod01.skin
 6017276;Creature/CelestialSerpent/CelestialSerpent_lod02.skin
 6017278;Creature/CelestialSerpent/CelestialSerpent_lod03.skin
@@ -71712,6 +71718,9 @@
 6056022;Creature/IGC_Turalyon/IGC_Turalyon1462-10.anim
 6056028;Creature/IGC_Turalyon/IGC_Turalyon1462-11.anim
 6056035;Creature/IGC_Turalyon/IGC_Turalyon1462-12.anim
+6077231;Creature/Balloon/Balloon_DarkBlue.blp
+6077232;Creature/Balloon/Balloon_LightBlue.blp
+6077233;Creature/Balloon/Balloon_Gold.blp
 6080722;Creature/TwighlightDragon/TwighlightDragon_lod01.skin
 6080723;Creature/TwighlightDragon/TwighlightDragon_lod02.skin
 6080724;Creature/TwighlightDragon/TwighlightDragon_lod03.skin
