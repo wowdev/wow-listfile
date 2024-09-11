@@ -71360,6 +71360,7 @@
 5899818;creature/fox2/fox20097-00.anim
 5899820;creature/fox2/fox20096-00.anim
 5899822;creature/fox2/fox20098-00.anim
+5900847;Creature/GrizzlyBearMount/GrizzlyBearMount.m2
 5900851;Creature/MagniBronzebeard3/MagniBronzebeard31770-00.anim
 5900852;creature/magnibronzebeardcrystal2/magnibronzebeard_crystal21770-00.anim
 5900853;creature/magnibronzebeardcrystal2/magnibronzebeard_crystal2_lod01.skin
@@ -71367,6 +71368,8 @@
 5900855;creature/magnibronzebeardcrystal2/magnibronzebeard_crystal2_lod03.skin
 5901799;Creature/MurlocMount/MurlocMount_Saddle_Orange.blp
 5901801;Creature/MurlocMount/MurlocMount_Body_Orange.blp
+5901806;Creature/GrizzlyBearMount/GrizzlyBearMount_Body.blp
+5901807;Creature/GrizzlyBearMount/GrizzlyBearMount_Saddle.blp
 5903038;creature/babyoctopus/babyoctopus_lod01.skin
 5903040;creature/babyoctopus/babyoctopus_lod02.skin
 5903042;creature/babyoctopus/babyoctopus_lod03.skin
@@ -71375,6 +71378,22 @@
 5904552;creature/birdsofprey/birdsofprey_lod03.skin
 5905028;Creature/ChinaBearMount/ChinaBearMount.m2
 5905037;Creature/ChinaBearMount/ChinaBearMount00.skin
+5905049;Creature/GrizzlyBearMount/GrizzlyBearMount0097-00.anim
+5905050;Creature/GrizzlyBearMount/GrizzlyBearMount0096-00.anim
+5905051;Creature/GrizzlyBearMount/GrizzlyBearMount0098-00.anim
+5905052;Creature/GrizzlyBearMount/GrizzlyBearMount0100-00.anim
+5905053;Creature/GrizzlyBearMount/GrizzlyBearMount0099-00.anim
+5905054;Creature/GrizzlyBearMount/GrizzlyBearMount0101-00.anim
+5905055;Creature/GrizzlyBearMount/GrizzlyBearMount0123-00.anim
+5905056;Creature/GrizzlyBearMount/GrizzlyBearMount0069-00.anim
+5905057;Creature/GrizzlyBearMount/GrizzlyBearMount0133-00.anim
+5905058;Creature/GrizzlyBearMount/GrizzlyBearMount0134-00.anim
+5905059;Creature/GrizzlyBearMount/GrizzlyBearMount0061-00.anim
+5905060;Creature/GrizzlyBearMount/GrizzlyBearMount0075-00.anim
+5905061;Creature/GrizzlyBearMount/GrizzlyBearMount00.skin
+5905062;Creature/GrizzlyBearMount/GrizzlyBearMount_lod01.skin
+5905063;Creature/GrizzlyBearMount/GrizzlyBearMount_lod02.skin
+5905064;Creature/GrizzlyBearMount/GrizzlyBearMount_lod03.skin
 5905152;Creature/ChinaBearMount/ChinaBearMount0097-00.anim
 5905153;Creature/ChinaBearMount/ChinaBearMount0096-00.anim
 5905154;Creature/ChinaBearMount/ChinaBearMount0098-00.anim
@@ -71402,6 +71421,7 @@
 5915770;CREATURE/FogCreature_Nightmare/fogcreature_nightmare_lod01.skin
 5915771;CREATURE/FogCreature_Nightmare/fogcreature_nightmare_lod02.skin
 5915772;CREATURE/FogCreature_Nightmare/fogcreature_nightmare_lod03.skin
+5916070;Creature/GrizzlyBearMount/GrizzlyBearMount_Glow.blp
 5916982;Creature/RobotPet/RobotPet_lod01.skin
 5916983;Creature/RobotPet/RobotPet_lod02.skin
 5916984;Creature/RobotPet/RobotPet_lod03.skin
