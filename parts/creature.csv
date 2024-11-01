@@ -70852,6 +70852,7 @@
 5770617;Creature/MoiraThaurissan/MoiraThaurissan_lod03.skin
 5770751;Creature/SnowOwlPet/SnowOwlPet0097-00.anim
 5770752;Creature/SnowOwlPet/SnowOwlPet0097-01.anim
+5770793;Creature/MurlocBabyThrall/MurlocBabyThrall.m2
 5770798;Creature/MoiraThaurissan/MoiraThaurissan_Eyes.blp
 5771007;Creature/FireBeePet/ArmorReflect_Rainbow.blp
 5771009;Creature/FireBeePet/FireBeePet00.skin
@@ -71221,6 +71222,12 @@
 5830206;Creature/NerubianWarbeast/NerubianWarbeast_lod03.skin
 5833481;Creature/DireKobold/Fire_FlameLicks_DissolveFBs_Blend.blp
 5833482;Creature/DireKobold/WispyMagic_Vert_Grey.blp
+5834795;Creature/MurlocBabyThrall/MurlocBabyThrall_Skin.blp
+5834796;Creature/MurlocBabyThrall/ArmorReflect4.blp
+5834799;Creature/MurlocBabyThrall/MurlocBabyThrall00.skin
+5834800;Creature/MurlocBabyThrall/MurlocBabyThrall_lod01.skin
+5834801;Creature/MurlocBabyThrall/MurlocBabyThrall_lod02.skin
+5834802;Creature/MurlocBabyThrall/MurlocBabyThrall_lod03.skin
 5838022;creature/jaina3/jaina3.skel
 5838264;Creature/MoiraThaurissan/MoiraThaurissan1770-00.anim
 5840121;Creature/EirichSkardyn/EirichSkardyn0069-04.anim
@@ -71746,6 +71753,12 @@
 6026035;Creature/BoundWaterElemental/UnboundWaterElemental_lod01.skin
 6026036;Creature/BoundWaterElemental/UnboundWaterElemental_lod02.skin
 6026037;Creature/BoundWaterElemental/UnboundWaterElemental_lod03.skin
+6027161;Creature/MurlocBabyThrall/dirt_02.blp
+6027162;Creature/MurlocBabyThrall/Gray8x8.blp
+6027167;Creature/MurlocBabyThrall/White8x8.blp
+6027177;Creature/MurlocBabyThrall/smoke_loose_02_256_blend_contrast.blp
+6027178;Creature/MurlocBabyThrall/grey50percentsquare16x16_a.blp
+6027189;Creature/MurlocBabyThrall/8FX_Painted_CloudScroll_02.blp
 6035099;Creature/BrontosaurusMount2/BrontosaurusMount2_Body.blp
 6035100;Creature/BrontosaurusMount2/ArmorReflect4.blp
 6035101;Creature/BrontosaurusMount2/BrontosaurusMount2_Armor.blp
