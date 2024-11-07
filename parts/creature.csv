@@ -71414,6 +71414,7 @@
 5901807;Creature/GrizzlyBearMount/GrizzlyBearMount_Saddle.blp
 5902794;Creature/GrizzlyBearMount_Anvil/GrizzlyBearMount_Anvil.m2
 5902795;Creature/GrizzlyBearMount_Satchel/GrizzlyBearMount_Satchel.m2
+5902806;Creature/GrizzlyBearMount_Satchel/ArmorReflect4.blp
 5902807;Creature/GrizzlyBearMount_Anvil/GrizzlyBearMount_Anvil00.skin
 5902808;Creature/GrizzlyBearMount_Anvil/GrizzlyBearMount_Anvil_lod01.skin
 5902809;Creature/GrizzlyBearMount_Anvil/GrizzlyBearMount_Anvil_lod02.skin
@@ -71422,6 +71423,7 @@
 5902812;Creature/GrizzlyBearMount_Satchel/GrizzlyBearMount_Satchel_lod01.skin
 5902813;Creature/GrizzlyBearMount_Satchel/GrizzlyBearMount_Satchel_lod02.skin
 5902814;Creature/GrizzlyBearMount_Satchel/GrizzlyBearMount_Satchel_lod03.skin
+5902815;Creature/Gazlowe/ArmorReflect4.blp
 5902817;Creature/Gazlowe/Gazlowe0120-00.anim
 5902818;Creature/Gazlowe/Gazlowe0119-00.anim
 5902819;Creature/Gazlowe/Gazlowe0123-00.anim
@@ -71673,6 +71675,7 @@
 5930363;Creature/BatMount_30thAnniv/BatMount_30thAnniv.m2
 5930365;Creature/HippogryphMount_30thAnniv/HippogryphMount_30thAnniv.m2
 5930367;Creature/GryphonMount_30thAnniv/GryphonMount_30thAnniv.m2
+5931568;Creature/Yeti_Greench2/ArmorReflect4.blp
 5931570;Creature/Yeti_Greench2/Yeti_Greench200.skin
 5931571;Creature/Yeti_Greench2/Yeti_Greench2_lod01.skin
 5931572;Creature/Yeti_Greench2/Yeti_Greench2_lod02.skin
@@ -71840,6 +71843,7 @@
 6026036;Creature/BoundWaterElemental/UnboundWaterElemental_lod02.skin
 6026037;Creature/BoundWaterElemental/UnboundWaterElemental_lod03.skin
 6026644;Creature/11fx_winterholiday_popper/11fx_winterholiday_popper.m2
+6026658;Creature/11fx_winterholiday_popper/ArmorReflect4.blp
 6026685;Creature/11fx_winterholiday_popper/11fx_winterholiday_popper00.skin
 6026691;Creature/11fx_winterholiday_popper/11fx_winterholiday_popper_lod01.skin
 6026697;Creature/11fx_winterholiday_popper/11fx_winterholiday_popper_lod02.skin
@@ -71861,6 +71865,8 @@
 6035110;Creature/BrontosaurusMount2/BrontosaurusMount2_lod03.skin
 6035284;Creature/DoomGuard_Pet2/DoomGuard_Pet2.m2
 6036544;Creature/exp10_20Anniversary_balloonbox/exp10_20Anniversary_balloonbox.m2
+6036550;Creature/exp10_20Anniversary_balloonbox/AlphaMask_VerticalGradient.blp
+6036552;Creature/exp10_20Anniversary_balloonbox/FairyDust2_2x2_A.blp
 6036554;Creature/exp10_20Anniversary_balloonbox/exp10_20Anniversary_balloonbox00.skin
 6036555;Creature/exp10_20Anniversary_balloonbox/exp10_20Anniversary_balloonbox_lod01.skin
 6036556;Creature/exp10_20Anniversary_balloonbox/exp10_20Anniversary_balloonbox_lod02.skin
@@ -71935,6 +71941,7 @@
 6056022;Creature/IGC_Turalyon/IGC_Turalyon1462-10.anim
 6056028;Creature/IGC_Turalyon/IGC_Turalyon1462-11.anim
 6056035;Creature/IGC_Turalyon/IGC_Turalyon1462-12.anim
+6065473;Creature/IGC_QueenAnsurek2/ArmorReflect4.blp
 6065484;Creature/IGC_QueenAnsurek2/IGC_QueenAnsurek21452-01.anim
 6065488;Creature/IGC_QueenAnsurek2/IGC_QueenAnsurek21452-02.anim
 6065490;Creature/IGC_QueenAnsurek2/IGC_QueenAnsurek21452-03.anim
@@ -71945,6 +71952,7 @@
 6065508;Creature/IGC_QueenAnsurek2/IGC_QueenAnsurek21452-08.anim
 6065511;Creature/IGC_QueenAnsurek2/IGC_QueenAnsurek21452-09.anim
 6065515;Creature/IGC_QueenAnsurek2/IGC_QueenAnsurek21452-10.anim
+6065527;Creature/IGC_QueenAnsurek/ArmorReflect4.blp
 6065540;Creature/IGC_QueenAnsurek/IGC_QueenAnsurek1452-01.anim
 6065542;Creature/IGC_QueenAnsurek/IGC_QueenAnsurek1452-02.anim
 6065546;Creature/IGC_QueenAnsurek/IGC_QueenAnsurek1452-03.anim
@@ -71992,6 +72000,10 @@
 6080722;Creature/TwighlightDragon/TwighlightDragon_lod01.skin
 6080723;Creature/TwighlightDragon/TwighlightDragon_lod02.skin
 6080724;Creature/TwighlightDragon/TwighlightDragon_lod03.skin
+6099748;Creature/ShamanAscendant_Energetic/ember_chunky_blankmorerotation_A.blp
+6099749;Creature/ShamanAscendant_Energetic/White8x8.blp
+6099757;Creature/ShamanAscendant_Energetic/8fx_water_scroll_alpha2.blp
+6099758;Creature/ShamanAscendant_Energetic/8fx_water_scroll_alphadissolve.blp
 6099764;Creature/ShamanAscendant_Energetic/ShamanAscendant_Energetic0066-00.anim
 6099767;Creature/ShamanAscendant_Energetic/ShamanAscendant_Energetic0067-00.anim
 6099770;Creature/ShamanAscendant_Energetic/ShamanAscendant_Energetic0068-00.anim
@@ -72051,6 +72063,7 @@
 6099880;Creature/ShamanAscendant_Energetic/ShamanAscendant_Energetic_lod01.skin
 6099881;Creature/ShamanAscendant_Energetic/ShamanAscendant_Energetic_lod02.skin
 6099883;Creature/ShamanAscendant_Energetic/ShamanAscendant_Energetic_lod03.skin
+6116573;Creature/DoomGuard_Pet2/ArmorReflect4.blp
 6116576;Creature/DoomGuard_Pet2/DoomGuard_Pet20060-00.anim
 6116577;Creature/DoomGuard_Pet2/DoomGuard_Pet20084-00.anim
 6116578;Creature/DoomGuard_Pet2/DoomGuard_Pet20074-00.anim
@@ -72112,6 +72125,10 @@
 6224683;Creature/Raccoon2/Raccoon2_lod01.skin
 6224686;Creature/Raccoon2/Raccoon2_lod02.skin
 6224689;Creature/Raccoon2/Raccoon2_lod03.skin
+6224749;Creature/ShamanAscendant_Traditional/8fx_water_scroll_alpha2.blp
+6224750;Creature/ShamanAscendant_Traditional/8fx_water_scroll_alphadissolve.blp
+6224751;Creature/ShamanAscendant_Traditional/ember_chunky_blankmorerotation_A.blp
+6224752;Creature/ShamanAscendant_Traditional/White8x8.blp
 6224771;Creature/ShamanAscendant_Traditional/ShamanAscendant_Traditional0066-00.anim
 6224773;Creature/ShamanAscendant_Traditional/ShamanAscendant_Traditional0067-00.anim
 6224775;Creature/ShamanAscendant_Traditional/ShamanAscendant_Traditional0068-00.anim
@@ -72261,3 +72278,9 @@
 6320073;Creature/Shark/Shark_lod02.skin
 6320075;Creature/Shark/Shark_lod03.skin
 6331912;Creature/HarronirBat/HarronirBat0123-00.anim
+6358892;Creature/VrykulMystic/VrykulMystic_lod01.skin
+6358894;Creature/VrykulMystic/VrykulMystic_lod02.skin
+6358896;Creature/VrykulMystic/VrykulMystic_lod03.skin
+6365306;Creature/VrykulFemale2/VrykulFemale2_lod01.skin
+6365308;Creature/VrykulFemale2/VrykulFemale2_lod02.skin
+6365310;Creature/VrykulFemale2/VrykulFemale2_lod03.skin
