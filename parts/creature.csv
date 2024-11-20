@@ -71238,11 +71238,11 @@
 5838264;Creature/MoiraThaurissan/MoiraThaurissan1770-00.anim
 5840121;Creature/EirichSkardyn/EirichSkardyn0069-04.anim
 5846316;Creature/CelestialCatMount/CelestialCatMount.m2
-5846547;Creature/StarCatMount/StarCatMount.blp
-5846548;Creature/StarCatMount/ArmorReflect4.blp
-5846549;Creature/StarCatMount/StarCatMount_Glow.blp
-5846551;Creature/StarCatMount/StarCatMount_EyeGlow1.blp
-5846552;Creature/StarCatMount/StarCatMount_EyeGlow2.blp
+5846547;Creature/CelestialCatMount/CelestialCatMount.blp
+5846548;Creature/CelestialCatMount/ArmorReflect4.blp
+5846549;Creature/CelestialCatMount/CelestialCatMount_Glow.blp
+5846551;Creature/CelestialCatMount/CelestialCatMount_EyeGlow1.blp
+5846552;Creature/CelestialCatMount/CelestialCatMount_EyeGlow2.blp
 5846556;Creature/CelestialCatMount/CelestialCatMount00.skin
 5846557;Creature/CelestialCatMount/CelestialCatMount_lod01.skin
 5846558;Creature/CelestialCatMount/CelestialCatMount_lod02.skin
@@ -71389,7 +71389,7 @@
 5871965;Creature/MagniBronzebeard/MagniBronzebeard_lod02.skin
 5871966;Creature/MagniBronzebeard/MagniBronzebeard_lod03.skin
 5880035;Creature/Yeti_Greench2/Yeti_Greench2.m2
-5882335;Creature/StarCatMount/grey50percentsquare16x16_a.blp
+5882335;Creature/CelestialCatMount/grey50percentsquare16x16_a.blp
 5882674;Creature/AirshipMountVoid/AirshipMountVoid.m2
 5883810;Creature/AirshipMountVoid/AirshipMountVoid.blp
 5883937;Creature/AirshipMountVoid/8FX_Painted_CloudScroll_02.blp
