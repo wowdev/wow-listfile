@@ -26218,6 +26218,9 @@
 4675605;spells/CFX_Evoker_LavaShield_Aura.m2
 4675606;spells/10FX_DragonIsles_TheZaqaliElders_Incineration_Channel.m2
 4675608;spells/FX_Swoghorn_Aura.m2
+4676112;SPELLS/Firearm_2H_Rifle_01_SpellObject_lod01.skin
+4676113;SPELLS/Firearm_2H_Rifle_01_SpellObject_lod02.skin
+4676114;SPELLS/Firearm_2H_Rifle_01_SpellObject_lod03.skin
 4676133;spells/CFX_Warlock_Oblivion_Aura.m2
 4676134;spells/CFX_Warlock_Oblivion_Channel.m2
 4676135;spells/FX_ExtractFruitJuice_Precast.m2
@@ -30728,3 +30731,6 @@
 6212567;Spells/11fx_1107_Cyrce_ring/11fx_1107_Cyrce_ring_lod01.skin
 6212570;Spells/11fx_1107_Cyrce_ring/11fx_1107_Cyrce_ring_lod02.skin
 6212572;Spells/11fx_1107_Cyrce_ring/11fx_1107_Cyrce_ring_lod03.skin
+6373436;SPELLS/CFX_Warrior_SpellReflect_ImpactPlayerName_lod01.skin
+6373437;SPELLS/CFX_Warrior_SpellReflect_ImpactPlayerName_lod02.skin
+6373439;SPELLS/CFX_Warrior_SpellReflect_ImpactPlayerName_lod03.skin
