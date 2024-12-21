@@ -9200,7 +9200,7 @@
 947325;Spells/Podling_Root_State_Base01.skin
 947709;Spells/GladiatorStance_HelmSwordShield01.blp
 947710;Spells/Shockwave_spikes02.blp
-947711;SPELLS/Dirt_02.blp
+947711;SPELLS/dirt_02.blp
 947712;Spells/GladiatorStance_Impact_Head.m2
 947713;Spells/GladiatorStance_Impact_Head00.skin
 947994;SPELLS/Plague_01.blp
@@ -14354,7 +14354,7 @@
 1400796;SPELLS/7FX_Druid_PowerOfTheArchdruid_CastChest00.skin
 1402439;SPELLS/7FX_LegionInvasion_ElectricChest.m2
 1403205;SPELLS/7FX_LegionInvasion_ElectricChest00.skin
-1403861;SPELLS/TEXTURES/GREY50PERCENTSQUARE16X16.BLP
+1403861;SPELLS/TEXTURES/grey50percentsquare16x16.blp
 1405605;Spells/WeaponTrail_Rogue_FinalityEviscerateSubtlety.blp
 1405606;Spells/WeaponTrail_Rogue_FinalityNightblade.blp
 1405661;SPELLS/7FX_Warden_ElevatorShaft02.m2
@@ -16009,7 +16009,7 @@
 1616731;SPELLS/Dirt_Scroll_Wispy_Blue_v2.blp
 1616732;SPELLS/Dirt_Scroll_Wispy_sigilofsilance.blp
 1616733;SPELLS/7FX_EnergyScroll_LightBlue.blp
-1616734;SPELLS/7FX_LightraysUp.blp
+1616734;SPELLS/7fx_lightraysup.blp
 1616735;SPELLS/7FX_EnergyScroll_Holy.blp
 1616736;SPELLS/Dirt_Scroll_Wispy_firecloudtest.blp
 1616737;SPELLS/footprint_horse_holy_purple0100.skin
@@ -16749,7 +16749,7 @@
 1671777;SPELLS/7FX_AlphaMask_FlairBlur_A.blp
 1671783;SPELLS/7FX_Argus_LightforgedDissolve_Camera00.skin
 1671784;SPELLS/7FX_Argus_LightforgedDissolve_Camera.mdx
-1671785;SPELLS/7FX_EnergyScroll_Holy_Dark.blp
+1671785;SPELLS/7fx_energyscroll_holy_dark.blp
 1671786;SPELLS/AlphaMask_LightRays_DoubleSided_A.blp
 1672443;SPELLS/CFX_Priest_MindFlay_ChannelHead.m2
 1672444;SPELLS/CFX_Priest_MindFlay_ChannelHead.mdx
@@ -19014,7 +19014,6 @@
 1867470;spells/tortollan_green.blp
 1867472;spells/windslash_streak_cyan.blp
 1867475;spells/incense_faded.blp
-1867478;spells/alpha_streak_mid_big.blp
 1867481;spells/dirt_scroll_wispy_noa.blp
 1868423;spells/8fx_toldagor_ignitionmage_cinderflame_cast.m2
 1868425;spells/8fx_toldagor_ignitionmage_cinderflame_cast00.skin
@@ -19633,7 +19632,7 @@
 2024283;spells/8fx_discboss_roilingdeceit_missile.m2
 2024285;spells/8fx_discboss_roilingdeceit_missile00.skin
 2024327;spells/7fx_alphamask_glowbright_black.blp
-2024409;spells/7fx_alphamask_glow_donut2.blp
+2024409;spells/7FX_AlphaMask_Glow_Donut2.blp
 2024821;spells/flares_varied_stormsage.blp
 2024911;spells/clouds01_discpriest_blue256_alphalift.blp
 2024933;spells/7fx_crystal_geometric2_256.blp
@@ -19995,7 +19994,7 @@
 2113597;spells/dissolvemask_granite_lift.blp
 2114552;spells/textures/alphamasks/7fx_alphamask_glow_red.blp
 2114689;spells/7fx_energyscroll_holy_des.blp
-2114691;spells/7fx_alphamask_glow_dirtyyellow512.blp
+2114691;spells/7FX_AlphaMask_Glow_DirtyYellow512.blp
 2114699;spells/wispymagic_vert_holypriestblur_hostile.blp
 2114704;spells/8fx_mythrax_void_trail.blp
 2114708;spells/world_circle_02.blp
@@ -21957,7 +21956,7 @@
 2458839;spells/8fx_mekkatorque_signal_flare00.skin
 2458921;spells/8fx_mekkatorque_lightning_pulse00.skin
 2458922;spells/8du_zuldazar_electro_grenade01.blp
-2458924;spells/gray_64.blp
+2458924;spells/Gray_64.blp
 2458925;spells/8fx_mekkatorque_lightning_grenade00.skin
 2458926;spells/8fx_mekkatorque_lightning_grenade_missile00.skin
 2458927;spells/8fx_mekkatorque_lightning_grenade_cast00.skin
@@ -22073,7 +22072,7 @@
 2484183;spells/8fx_ice02.blp
 2484184;spells/8fx_jaina_rune04.blp
 2484185;spells/wispymagic_vert_grey50_noa.blp
-2484186;spells/ember_offset_grey.blp
+2484186;spells/Ember_Offset_Grey.blp
 2484187;spells/cloud_soft_mod2x_darkspirit_light.blp
 2484188;spells/8fx_jaina_icetomb_state00.skin
 2484189;spells/8fx_jaina_icetomb_state01.skin
