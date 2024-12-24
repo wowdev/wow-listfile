@@ -72531,6 +72531,7 @@
 6126061;Creature/GoblinShredderMechBoss/GoblinShredderMechBoss_lod01.skin
 6126063;Creature/GoblinShredderMechBoss/GoblinShredderMechBoss_lod02.skin
 6126065;Creature/GoblinShredderMechBoss/GoblinShredderMechBoss_lod03.skin
+6127278;creature/Ethereal2_F/ArmorReflect_Rainbow.blp
 6127279;creature/Ethereal2_M/Ethereal2_M00.skin
 6127280;creature/Ethereal2_M/Ethereal2_M_lod01.skin
 6127281;creature/Ethereal2_M/Ethereal2_M_lod02.skin
@@ -72542,6 +72543,7 @@
 6129775;Creature/KoboldChild/KoboldChild_Pick_3.blp
 6129776;Creature/KoboldChild/KoboldChild_Body_Purple.blp
 6129777;Creature/KoboldChild/KoboldChild_Body_Red.blp
+6129778;creature/KoboldChild/ArmorReflect4.blp
 6129781;creature/KoboldChild/KoboldChild0097-00.anim
 6129784;creature/KoboldChild/KoboldChild0096-00.anim
 6129786;creature/KoboldChild/KoboldChild0098-00.anim
@@ -72950,8 +72952,13 @@
 6367113;Creature/SpottingEagle/SpottingEagle_lod03.skin
 6367696;creature/IGC_Gazlowe/ArmorReflect4.blp
 6367704;creature/IGC_Gazlowe/IGC_Gazlowe00.skin
+6368405;Creature/IGC_Gallywix/ArmorReflect4.blp
+6368419;Creature/IGC_Gallywix/Metal_Reflect.blp
 6368423;Creature/IGC_Gallywix/IGC_Gallywix00.skin
+6368470;Creature/IGC_Renzik/ArmorReflect4.blp
 6368486;Creature/IGC_Renzik/IGC_Renzik00.skin
+6368513;Creature/IGC_Xalatath2/Metal_Reflect.blp
+6368517;Creature/IGC_Xalatath2/ArmorReflect4.blp
 6368524;Creature/IGC_Xalatath2/IGC_Xalatath200.skin
 6368609;creature/GoblinTrike02_HD/Smoke_Puffy_Mask_BlendAdd.blp
 6368611;creature/GoblinTrike02_HD/7FX_EnergyScroll_Fire_A.blp
@@ -73017,6 +73024,12 @@
 6386593;creature/GallywixMech_Head/Smoke_Soft_01.blp
 6386595;creature/GallywixMech_Head/grey50percentsquare16x16_a.blp
 6386599;creature/GallywixMech_Head/8FX_Basic_Spark_Sheet.blp
+6392032;Creature/IGC_NikkiTheFixer/IGC_NikkiTheFixer.m2
+6401951;Creature/IGC_NikkiTheFixer/ArmorReflect4.blp
+6401969;Creature/IGC_NikkiTheFixer/IGC_NikkiTheFixer00.skin
+6401972;Creature/IGC_NikkiTheFixer/IGC_NikkiTheFixer_lod01.skin
+6401975;Creature/IGC_NikkiTheFixer/IGC_NikkiTheFixer_lod02.skin
+6401978;Creature/IGC_NikkiTheFixer/IGC_NikkiTheFixer_lod03.skin
 6431498;Creature/GallywixMechMount/Smoke_Loose_01.blp
 6431500;Creature/GallywixMechMount/8FX_ExplosionSmoke_A.blp
 6431501;Creature/GallywixMechMount/Smoke_Soft_01.blp
