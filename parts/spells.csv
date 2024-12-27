@@ -30785,6 +30785,7 @@
 6008979;spells/CFX_Paladin_BlindingLight_Aura_lod02.skin
 6008980;spells/CFX_Paladin_BlindingLight_Aura_lod03.skin
 6013968;spells/FX_CrowdDivider_Precast.m2
+6013970;spells/FX_ArcaneBombardment_Cast01.m2
 6020251;spells/CFX_Evoker_WingBuffet_Cast.m2
 6020264;spells/CFX_Mage_MassTeleport_Precast.m2
 6020791;spells/FX_HouseofCards_Impact00.skin
@@ -30857,6 +30858,10 @@
 6081140;spells/FX_GarbagemancersLastResort_Missile_lod01.skin
 6081144;spells/FX_GarbagemancersLastResort_Missile_lod02.skin
 6081149;spells/FX_GarbagemancersLastResort_Missile_lod03.skin
+6100390;spells/FX_ArcaneBombardment_Cast0100.skin
+6100392;spells/FX_ArcaneBombardment_Cast01_lod01.skin
+6100394;spells/FX_ArcaneBombardment_Cast01_lod02.skin
+6100396;spells/FX_ArcaneBombardment_Cast01_lod03.skin
 6105161;spells/FX_ColdflameTempest_Precast00.skin
 6105164;spells/FX_ColdflameTempest_Precast_lod01.skin
 6105167;spells/FX_ColdflameTempest_Precast_lod02.skin
@@ -31071,6 +31076,7 @@
 6316166;spells/FX_ZeppelinTargetingTrigger_AreaTrigger_lod02.skin
 6316169;spells/FX_ZeppelinTargetingTrigger_AreaTrigger_lod03.skin
 6321036;spells/FX_ChromebustibleBombSuit_Aura.m2
+6321205;spells/8FX_Basic_Spark_Sheet.blp
 6321209;spells/FX_ChromebustibleBombSuit_Aura00.skin
 6321211;spells/FX_ChromebustibleBombSuit_Aura_lod01.skin
 6321213;spells/FX_ChromebustibleBombSuit_Aura_lod02.skin
