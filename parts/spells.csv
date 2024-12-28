@@ -27912,7 +27912,7 @@
 5205103;spells/FX_TimeRiftSpawnFX_Impact_lod01.skin
 5205104;spells/FX_TimeRiftSpawnFX_Impact_lod02.skin
 5205105;spells/FX_TimeRiftSpawnFX_Impact_lod03.skin
-5205169;spells/FX_EssenceVessel_Aura.m2
+5205169;spells/FX_EssenceVessel_DarkHeart_Aura.m2
 5205973;spells/CFX_Mage_ShiftingPower_Cast.m2
 5205974;spells/CFX_Mage_ShiftingPower_Channel01.m2
 5205975;spells/CFX_Mage_ShiftingPower_Channel.m2
@@ -27933,10 +27933,10 @@
 5206221;spells/CFX_Evoker_SpatialParadox_Aura_lod03.skin
 5206905;spells/FX_InfusedHourglass_Aura01.m2
 5206906;spells/FX_InfusedHourglass_Aura0100.skin
-5207560;spells/FX_EssenceVessel_Aura00.skin
-5207561;spells/FX_EssenceVessel_Aura_lod01.skin
-5207562;spells/FX_EssenceVessel_Aura_lod02.skin
-5207563;spells/FX_EssenceVessel_Aura_lod03.skin
+5207560;spells/FX_EssenceVessel_DarkHeart_Aura00.skin
+5207561;spells/FX_EssenceVessel_DarkHeart_Aura_lod01.skin
+5207562;spells/FX_EssenceVessel_DarkHeart_Aura_lod02.skin
+5207563;spells/FX_EssenceVessel_DarkHeart_Aura_lod03.skin
 5207583;Spells/10FX_Spell13.m2
 5207610;Spells/10FX_Spell1300.skin
 5207611;Spells/10FX_Spell13_lod01.skin
