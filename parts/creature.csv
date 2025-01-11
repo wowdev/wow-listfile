@@ -59895,6 +59895,7 @@
 4179101;creature/tigermount/tigermount.m2
 4179976;creature/tigermount/8fx_water_scroll_alpha2.blp
 4179977;creature/tigermount/8fx_water_scroll_alphadissolve.blp
+4179982;creature/tigermount/7fx_alphamask_liquid_puddle.blp
 4180002;creature/tigermount/tigermount00.skin
 4180003;creature/tigermount/tigermount_lod01.skin
 4180004;creature/tigermount/tigermount_lod02.skin
@@ -61367,6 +61368,7 @@
 4239238;creature/frostsabre/tigerskingreen.blp
 4239545;creature/test_ai_collision01/test_ai_collision01.m2
 4239548;creature/test_ai_collision01/test_ai_collision0100.skin
+4240636;creature/revenant2_fire/7fx_heroaura_fire_noedge.blp
 4244966;creature/djaradin_male/djaradin_male0074-00.anim
 4244967;creature/djaradin_male/djaradin_male0100-00.anim
 4244968;creature/djaradin_male/djaradin_male0101-00.anim
@@ -61868,6 +61870,7 @@
 4381912;creature/rabbitmount/rabbitmount_droplets.blp
 4381914;creature/rabbitmount/8fx_water_scroll_alpha2.blp
 4381918;creature/rabbitmount/ArmorReflect4.blp
+4381921;creature/rabbitmount/7fx_alphamask_liquid_puddle.blp
 4381929;creature/rabbitmount/rabbitmount00.skin
 4381930;creature/rabbitmount/rabbitmount_lod01.skin
 4381931;creature/rabbitmount/rabbitmount_lod02.skin
@@ -67249,6 +67252,7 @@
 5197114;Creature/Firefly2/Firefly2.m2
 5197328;Creature/FutureBotPet/8FX_Basic_Spark_Sheet.blp
 5197338;creature/futurebotpet/White8x8.blp
+5197344;Creature/FutureBotPet/lightning_large_02_v3.blp
 5197360;Creature/FutureBotPet/FutureBotPet0080-00.anim
 5197368;Creature/FutureBotPet/FutureBotPet0079-00.anim
 5197373;Creature/FutureBotPet/FutureBotPet0066-00.anim
@@ -73115,6 +73119,7 @@
 6431501;Creature/GallywixMechMount/Smoke_Soft_01.blp
 6431503;Creature/GallywixMechMount/grey50percentsquare16x16_a.blp
 6431504;Creature/GallywixMechMount/8FX_Basic_Spark_Sheet.blp
+6431516;Creature/GallywixMechMount/7fx_heroaura_fire_noedge.blp
 6436495;Creature/GoblinBombBot/GoblinBombBot_lod01.skin
 6436499;Creature/GoblinBombBot/GoblinBombBot_lod02.skin
 6436502;Creature/GoblinBombBot/GoblinBombBot_lod03.skin
