@@ -72234,8 +72234,8 @@
 6025344;Creature/IGC_Jaina2/IGC_Jaina21452-04.anim
 6025345;Creature/IGC_Jaina2/IGC_Jaina21452-05.anim
 6025347;Creature/IGC_Jaina2/IGC_Jaina21452-06.anim
-6025479;Creature/RidingPhoenix2/RidingPhoenix2_gray8x8.blp
-6025481;Creature/RidingPhoenix2/RidingPhoenix2_white8x8.blp
+6025479;Creature/RidingPhoenix2/Gray8x8.blp
+6025481;Creature/RidingPhoenix2/White8x8.blp
 6025966;Creature/MimicPresent/MimicPresent.m2
 6025974;Creature/MimicPresent/MimicPresent00.skin
 6025975;Creature/MimicPresent/MimicPresent_lod01.skin
@@ -72573,6 +72573,10 @@
 6101977;Creature/LunarSnakeMount/LunarSnakeMount_Body.blp
 6101979;Creature/LunarSnakeMount/ArmorReflect4.blp
 6101981;Creature/LunarSnakeMount/LunarSnakeMount_Saddle.blp
+6101998;Creature/LunarSnakeMount/LunarSnakeMount00.skin
+6101999;Creature/LunarSnakeMount/LunarSnakeMount_lod01.skin
+6102001;Creature/LunarSnakeMount/LunarSnakeMount_lod02.skin
+6102003;Creature/LunarSnakeMount/LunarSnakeMount_lod03.skin
 6104740;Creature/IGC_Hannan/IGC_Hannan01.m2
 6104748;Creature/IGC_Orweyna/IGC_Orweyna01.m2
 6116573;Creature/DoomGuard_Pet2/ArmorReflect4.blp
@@ -72587,6 +72591,10 @@
 6116584;Creature/DoomGuard_Pet2/DoomGuard_Pet2_lod03.skin
 6116590;Creature/LunarSnakePet/LunarSnake.blp
 6116591;Creature/LunarSnakePet/ArmorReflect4.blp
+6116592;Creature/LunarSnakePet/LunarSnakePet00.skin
+6116593;Creature/LunarSnakePet/LunarSnakePet_lod01.skin
+6116594;Creature/LunarSnakePet/LunarSnakePet_lod02.skin
+6116595;Creature/LunarSnakePet/LunarSnakePet_lod03.skin
 6118115;Creature/FireHawk/Firehawk_lod01.skin
 6118116;Creature/FireHawk/Firehawk_lod02.skin
 6118117;Creature/FireHawk/Firehawk_lod03.skin
