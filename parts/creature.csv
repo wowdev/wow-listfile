@@ -72976,6 +72976,7 @@
 6245891;Creature/GallywixMechMount/GallywixMechMount_lod03.skin
 6254350;Creature/IGC_Gallywix/IGC_Gallywix.m2
 6254351;creature/IGC_Gazlowe/IGC_Gazlowe.m2
+6254353;Creature/IGC_Azir/IGC_Azir.m2
 6254354;Creature/IGC_Renzik/IGC_Renzik.m2
 6254355;Creature/IGC_Xalatath2/IGC_Xalatath2.m2
 6254460;Creature/MechaDevilsaurMount/ember_chunky_blankmorerotation_A.blp
@@ -73146,6 +73147,8 @@
 6368405;Creature/IGC_Gallywix/ArmorReflect4.blp
 6368419;Creature/IGC_Gallywix/Metal_Reflect.blp
 6368423;Creature/IGC_Gallywix/IGC_Gallywix00.skin
+6368448;Creature/IGC_Azir/ArmorReflect_Rainbow.blp
+6368460;Creature/IGC_Azir/IGC_Azir00.skin
 6368470;Creature/IGC_Renzik/ArmorReflect4.blp
 6368486;Creature/IGC_Renzik/IGC_Renzik00.skin
 6368513;Creature/IGC_Xalatath2/Metal_Reflect.blp
@@ -73318,3 +73321,12 @@
 6648527;Creature/IGC_Gallywix/IGC_Gallywix1456-09.anim
 6648529;Creature/IGC_Gallywix/IGC_Gallywix1456-10.anim
 6648531;Creature/IGC_Gallywix/IGC_Gallywix1456-11.anim
+6648567;Creature/IGC_Azir/Metal_Reflect.blp
+6648569;Creature/IGC_Azir/ArmorReflect4.blp
+6648570;Creature/IGC_Azir/IGC_Azir1452-00.anim
+6648571;Creature/IGC_Azir/IGC_Azir1452-01.anim
+6648572;Creature/IGC_Azir/IGC_Azir1452-02.anim
+6648573;Creature/IGC_Azir/IGC_Azir1452-03.anim
+6648574;Creature/IGC_Azir/IGC_Azir1452-04.anim
+6648576;Creature/IGC_Azir/IGC_Azir1452-05.anim
+6648577;Creature/IGC_Azir/IGC_Azir1452-06.anim
