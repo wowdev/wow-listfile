@@ -338,8 +338,6 @@ namespace ListfileTool
             }
 
             return inFile;
-
-
         }
         static void Split(Dictionary<uint, string> sourceListfile, string outputDir)
         {
