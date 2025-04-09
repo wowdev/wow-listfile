@@ -55316,6 +55316,7 @@
 3579816;creature/gargoyle2_boss2/gargoyle2_boss201.skin
 3579818;creature/gargoyle2_boss2/gargoyle2_boss202.skin
 3579820;creature/gargoyle2_boss2/gargoyle2_boss203.skin
+3580010;creature/skeletonhandpet/ArmorReflect4.blp
 3580013;creature/crawlinghandpet/crawlinghandpet - copy.blp
 3580410;creature/maldraxxusboneguard/maldraxxusboneguard02_zhcn.skin
 3580412;creature/maldraxxusboneguard/maldraxxusboneguard03_zhcn.skin
@@ -55470,6 +55471,7 @@
 3604112;Creature/DogPetGolden/ArmorReflect4.blp
 3604113;Creature/DogPetGolden/DogPetGolden_Glow.blp
 3604129;Creature/DogPetGolden/DogPetGolden00.skin
+3606368;creature/abominationsmall/ArmorReflect4.blp
 3610256;creature/deathwargmount/skeletonmaleskin00_00.blp
 3610257;creature/deathwargmount2/skeletonmaleskin00_00.blp
 3610916;creature/mawguardcasterelite/mawguardcasterelite01.skin
@@ -73603,6 +73605,11 @@
 6658677;Creature/RidingTurtle/RidingTurtle_lod01.skin
 6658678;Creature/RidingTurtle/RidingTurtle_lod02.skin
 6658680;Creature/RidingTurtle/RidingTurtle_lod03.skin
+6684557;Creature/FacelessGeneralNZothTentacle/FacelessGeneralNZothTentacle02.m2
+6684558;Creature/FacelessGeneralNZothTentacle/FacelessGeneralNZothTentacle0200.skin
+6684559;Creature/FacelessGeneralNZothTentacle/FacelessGeneralNZothTentacle02_lod01.skin
+6684560;Creature/FacelessGeneralNZothTentacle/FacelessGeneralNZothTentacle02_lod02.skin
+6684561;Creature/FacelessGeneralNZothTentacle/FacelessGeneralNZothTentacle02_lod03.skin
 6684629;Creature/ElectricEelViciousMount/7FX_AlphaMask_Glow.blp
 6694201;Creature/HedgeHogMount/HedgeHogMount.m2
 6694241;Creature/ChromaticDragonPet2/ChromaticDragonPet2.blp
@@ -73690,3 +73697,12 @@
 6796734;Creature/Parrot/Parrot_lod01.skin
 6796735;Creature/Parrot/Parrot_lod02.skin
 6796741;Creature/Parrot/Parrot_lod03.skin
+6796874;creature/eyeofnzothpet/eyeofnzothpet_lod01.skin
+6796875;creature/eyeofnzothpet/eyeofnzothpet_lod02.skin
+6796876;creature/eyeofnzothpet/eyeofnzothpet_lod03.skin
+6798870;Creature/Scorpion/Scorpion_lod01.skin
+6798873;Creature/Scorpion/Scorpion_lod02.skin
+6798876;Creature/Scorpion/Scorpion_lod03.skin
+6838277;Creature/Chimera2/Chimera2_lod01.skin
+6838279;Creature/Chimera2/Chimera2_lod02.skin
+6838282;Creature/Chimera2/Chimera2_lod03.skin
