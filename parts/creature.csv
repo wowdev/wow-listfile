@@ -59851,6 +59851,7 @@
 4095399;creature/pandarenserpent/pvppandarenserpentmount_lod01.skin
 4095400;creature/pandarenserpent/pvppandarenserpentmount_lod02.skin
 4095401;creature/pandarenserpent/pvppandarenserpentmount_lod03.skin
+4095932;Creature/Nightbane/ArmorReflect4.blp
 4096362;creature/progenitorchicken/progenitorchicken.m2
 4096364;creature/drakemountemerald/drakemountemerald.m2
 4096368;creature/drakemountemerald/smoothreflect_round.blp
@@ -70004,6 +70005,7 @@
 5616979;Creature/NerubianHulk/NerubianHulk_Nightmare2.blp
 5617033;creature/TreasureCrabPetClassic/ArmorReflect4.blp
 5617036;creature/TreasureCrabPetClassic/TreasureCrabPetClassic00.skin
+5617094;creature/ParrotPirateMountClassic/ArmorReflect4.blp
 5617095;creature/ParrotPirateMountClassic/ParrotPirateMountClassic00.skin
 5617442;creature/ParrotPirateMountClassic/ParrotPirateMountClassic_Blue.blp
 5617443;creature/ParrotPirateMountClassic/ParrotPirateMountClassic_Green.blp
@@ -73096,6 +73098,12 @@
 6240526;Creature/ShaTigerMount/ShaTigerMount_lod02.skin
 6240529;Creature/ShaTigerMount/ShaTigerMount_lod03.skin
 6243084;Creature/ShaPetClassic/ShaPetClassic.m2
+6243135;Creature/LunarSnakePetClassic/Gray8x8.blp
+6243137;Creature/LunarSnakePetClassic/White8x8.blp
+6243143;Creature/LunarSnakePetClassic/7fx_explosionsmoke.blp
+6243149;Creature/LunarSnakePetClassic/8FX_ExplosionSmoke_A.blp
+6243150;Creature/LunarSnakePetClassic/8FX_Basic_Spark_Sheet.blp
+6243151;Creature/LunarSnakePetClassic/grey50percentsquare16x16_a.blp
 6243486;Creature/ShaPetClassic/ShaPetClassic.blp
 6243490;Creature/ShaPetClassic/ShaPetClassic_lod01.skin
 6243491;Creature/ShaPetClassic/ShaPetClassic_lod02.skin
