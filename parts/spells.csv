@@ -24355,6 +24355,9 @@
 4419746;spells/FX_BlastWave_Cast_lod02.skin
 4419747;spells/FX_BlastWave_Cast_lod03.skin
 4419806;spells/10FX_Neltharus_Gorek_BlazingHammer_Cast00.skin
+4419807;spells/10FX_Neltharus_Gorek_BlazingHammer_Cast_lod01.skin
+4419808;spells/10FX_Neltharus_Gorek_BlazingHammer_Cast_lod02.skin
+4419809;spells/10FX_Neltharus_Gorek_BlazingHammer_Cast_lod03.skin
 4419810;spells/FX_Burnout_Cast00.skin
 4419814;spells/FX_Burnout_Cast_lod01.skin
 4419816;spells/FX_Burnout_Cast_lod02.skin
@@ -24561,6 +24564,8 @@
 4485390;spells/FX_DNDAreaTriggerMedDisplay_Aura_lod03.skin
 4485444;spells/FX_CarryingEarthHeart_Aura00.skin
 4485445;spells/FX_CarryingEarthHeart_Aura_lod01.skin
+4485447;spells/FX_CarryingEarthHeart_Aura_lod02.skin
+4485448;spells/FX_CarryingEarthHeart_Aura_lod03.skin
 4485487;spells/FX_Banner_Aura00.skin
 4485490;spells/FX_AreaTriggerCircleGround00.skin
 4485494;spells/FX_ElementalRune_Aura00.skin
@@ -26039,6 +26044,9 @@
 4640581;spells/FX_ConjureBoiler_Travel_lod03.skin
 4640850;spells/FX_TuskarrDinghy_Aura03.m2
 4640864;spells/FX_TuskarrDinghy_Aura0300.skin
+4640865;spells/FX_TuskarrDinghy_Aura03_lod01.skin
+4640866;spells/FX_TuskarrDinghy_Aura03_lod02.skin
+4640867;spells/FX_TuskarrDinghy_Aura03_lod03.skin
 4640870;spells/FX_BarrierReinforcement_Cast.m2
 4640871;spells/FX_TitanicBulwark.m2
 4640872;spells/FX_EnergyCollector_Aura.m2
