@@ -55416,7 +55416,7 @@
 3593569;creature/shadebeastflying/shadebeastflying02.skin
 3593570;creature/shadebeastflying/shadebeastflying03.skin
 3593614;creature/shadebeastflying/shadebeastflying_black.blp
-3593640;Creature/ShadeBeastMount/smoke_generic_paintymask01_blend.blp
+3593640;Creature/ShadeBeastMount/Smoke_Generic_PaintyMask01_Blend.blp
 3593641;creature/shadebeastmount/8FX_ExplosionSmoke_A.blp
 3593645;creature/shadebeastmount/7fx_energybeam_scroll.blp
 3593647;creature/shadebeastmount/7fx_wavey_mask_horizontal.blp
@@ -58941,7 +58941,7 @@
 4006519;creature/mammoth2lava/mammoth2lava.m2
 4006531;creature/mammoth2lava/ember_chunky_blankmorerotation_A.blp
 4006533;creature/mammoth2lava/White8x8.blp
-4006535;Creature/mammoth2lava/smoke_generic_paintymask01_blend.blp
+4006535;Creature/mammoth2lava/Smoke_Generic_PaintyMask01_Blend.blp
 4006537;creature/mammoth2lava/8FX_ExplosionSmoke_A.blp
 4006549;creature/mammoth2lava/mammoth2lava00.skin
 4006550;creature/mammoth2lava/mammoth2lava_lod01.skin
@@ -59146,7 +59146,7 @@
 4034803;creature/mammoth2lavamount/mammoth2lavamount.m2
 4034813;creature/mammoth2lavamount/ember_chunky_blankmorerotation_A.blp
 4034814;creature/mammoth2lavamount/White8x8.blp
-4034818;Creature/mammoth2lavamount/smoke_generic_paintymask01_blend.blp
+4034818;Creature/mammoth2lavamount/Smoke_Generic_PaintyMask01_Blend.blp
 4034819;creature/mammoth2lavamount/8FX_ExplosionSmoke_A.blp
 4034822;creature/mammoth2lavamount/mammoth2lavamount00.skin
 4034823;creature/mammoth2lavamount/mammoth2lavamount_lod01.skin
@@ -62091,6 +62091,8 @@
 4415519;creature/ICG_Kleia/ICG_Kleia1452-11.anim
 4415520;creature/ICG_Kleia/ICG_Kleia1452-12.anim
 4416065;creature/IGC_Arbiter2/IGC_Arbiter21454-08.anim
+4416894;creature/highlanddrake/ArmorReflect_Hard.blp
+4416895;creature/highlanddrake/ArmorReflect_Rainbow.blp
 4416896;creature/highlanddrake/highlanddrake00.skin
 4416897;creature/highlanddrake/highlanddrake_lod01.skin
 4416898;creature/highlanddrake/highlanddrake_lod02.skin
@@ -62119,6 +62121,7 @@
 4419728;creature/windbornevelocidrake/windbornevelocidrake.m2
 4419730;creature/windingslitherdrake/windingslitherdrake.m2
 4419732;creature/cliffsidewylderdrake/cliffsidewylderdrake.m2
+4419749;creature/windbornevelocidrake/ArmorReflect_Rainbow.blp
 4419752;creature/windbornevelocidrake/windbornevelocidrake0100-00.anim
 4419754;creature/windbornevelocidrake/windbornevelocidrake0099-00.anim
 4419756;creature/windbornevelocidrake/windbornevelocidrake0101-00.anim
@@ -62126,6 +62129,7 @@
 4419758;creature/windbornevelocidrake/windbornevelocidrake_lod01.skin
 4419759;creature/windbornevelocidrake/windbornevelocidrake_lod02.skin
 4419760;creature/windbornevelocidrake/windbornevelocidrake_lod03.skin
+4419761;creature/renewedprotodrake/ArmorReflect_Rainbow.blp
 4419767;creature/renewedprotodrake/renewedprotodrake0100-00.anim
 4419768;creature/renewedprotodrake/renewedprotodrake0099-00.anim
 4419769;creature/renewedprotodrake/renewedprotodrake0101-00.anim
@@ -62138,6 +62142,7 @@
 4419781;creature/renewedprotodrake/renewedprotodrake_lod01.skin
 4419783;creature/renewedprotodrake/renewedprotodrake_lod02.skin
 4419786;creature/renewedprotodrake/renewedprotodrake_lod03.skin
+4419794;creature/cliffsidewylderdrake/ArmorReflect_Rainbow.blp
 4419799;creature/cliffsidewylderdrake/cliffsidewylderdrake0098-00.anim
 4419800;creature/cliffsidewylderdrake/cliffsidewylderdrake0097-00.anim
 4419801;creature/cliffsidewylderdrake/cliffsidewylderdrake0096-00.anim
@@ -62145,6 +62150,8 @@
 4419803;creature/cliffsidewylderdrake/cliffsidewylderdrake_lod01.skin
 4419804;creature/cliffsidewylderdrake/cliffsidewylderdrake_lod02.skin
 4419805;creature/cliffsidewylderdrake/cliffsidewylderdrake_lod03.skin
+4419847;creature/windingslitherdrake/ArmorReflect_Hard.blp
+4419849;creature/windingslitherdrake/ArmorReflect_Rainbow.blp
 4419852;creature/windingslitherdrake/windingslitherdrake0097-00.anim
 4419853;creature/windingslitherdrake/windingslitherdrake0096-00.anim
 4419854;creature/windingslitherdrake/windingslitherdrake0098-00.anim
