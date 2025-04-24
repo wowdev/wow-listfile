@@ -73443,6 +73443,7 @@
 6386593;creature/GallywixMech_Head/Smoke_Soft_01.blp
 6386595;creature/GallywixMech_Head/grey50percentsquare16x16_a.blp
 6386599;creature/GallywixMech_Head/8FX_Basic_Spark_Sheet.blp
+6386604;Creature/RavenMount/RavenMount.m2
 6389236;creature/Ethereal2_M/Ethereal2_M0186-00.anim
 6392032;Creature/IGC_NikkiTheFixer/IGC_NikkiTheFixer.m2
 6401951;Creature/IGC_NikkiTheFixer/ArmorReflect4.blp
@@ -73513,6 +73514,7 @@
 6436499;Creature/GoblinBombBot/GoblinBombBot_lod02.skin
 6436502;Creature/GoblinBombBot/GoblinBombBot_lod03.skin
 6597704;Creature/ChihuahuaDogPet/ChihuahuaDogPet.m2
+6637887;Creature/RavenMount/ArmorReflect4.blp
 6641572;Creature/ChihuahuaDogPet/ArmorReflect4.blp
 6641577;Creature/ChihuahuaDogPet/ChihuahuaDogPet00.skin
 6641582;Creature/ChihuahuaDogPet/ChihuahuaDogPet_lod01.skin
@@ -73693,6 +73695,10 @@
 6700145;Creature/ChimeraFireMount/ChimeraFireMount_Glow_Blue.blp
 6700146;Creature/ChimeraFireMount/ChimeraFireMount_Glow_Green.blp
 6700147;Creature/ChimeraFireMount/ChimeraFireMount_Glow_Yellow.blp
+6705371;Creature/RavenMount/RavenMount_White.blp
+6705372;Creature/RavenMount/RavenMount_Black.blp
+6706523;Creature/RavenMount/RavenMount_Black_Saddle.blp
+6706524;Creature/RavenMount/RavenMount_White_Saddle.blp
 6710578;Creature/InvisibleStalker/InvisibleStalker0223-00.anim
 6755506;Creature/BabyArathiLynxArmored/BabyArathiLynxArmored.m2
 6755545;Creature/BabyArathiLynxArmored/ArathiLynxMount_Armor_Nightfall.blp
