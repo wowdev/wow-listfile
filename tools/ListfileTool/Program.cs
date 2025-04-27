@@ -385,8 +385,23 @@ namespace ListfileTool
 
             foreach (var filter in splitFilters)
             {
-                var filteredListfile = sourceListfile.Where(x => x.Value.ToLower().StartsWith(filter)).OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
-                File.WriteAllText(Path.Combine(outputDir, filter.Replace("/", "-") + ".csv"), string.Join("\r\n", filteredListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
+                var filteredListfile = sourceListfile.Where(x => x.Value.StartsWith(filter, StringComparison.OrdinalIgnoreCase)).OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
+
+                var tries = 0;
+                while (tries < 10)
+                {
+                    try
+                    {
+                        File.WriteAllText(Path.Combine(outputDir, filter.Replace("/", "-") + ".csv"), string.Join("\r\n", filteredListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
+                        break;
+                    }
+                    catch (IOException e)
+                    {
+                        tries++;
+                        Console.WriteLine("Error writing file, retrying " + tries + "/10");
+                    }
+                }
+
                 sourceListfile = sourceListfile.Where(x => !filteredListfile.ContainsKey(x.Key)).ToDictionary(x => x.Key, x => x.Value);
             }
 
