@@ -1,4 +1,5 @@
-﻿using System.Text.Json;
+﻿using System.Diagnostics;
+using System.Text.Json;
 using System.Text.RegularExpressions;
 
 namespace ListfileTool
@@ -197,7 +198,8 @@ namespace ListfileTool
                 throw new Exception("Base directory or file " + baseLocation + " does not exist, cannot continue.");
             }
 
-            var sourceFilenames = mergedListfile.Values.ToHashSet();
+            var sourceFilenames = mergedListfile.Values.ToHashSet(StringComparer.OrdinalIgnoreCase);
+            var oldListfile = mergedListfile.ToDictionary(x => x.Key, x => x.Value);
 
             if (!File.Exists(input))
                 throw new Exception("Input file does not exist, cannot continue.");
@@ -230,7 +232,7 @@ namespace ListfileTool
                 if (split.Length != 2)
                     continue;
 
-                var inputName = split[1].Trim();
+                var inputName = split[1].Trim().Replace("\\", "/");
                 var remove = inputName.Length == 0;
 
                 if (uint.TryParse(split[0], out var fileDataID))
@@ -256,11 +258,12 @@ namespace ListfileTool
                             // Don't ignore case, we might want to prefer files with case over files that have no casing. Manual preference check before merging.
                             if (mergedListfile[fileDataID].Equals(inputName, StringComparison.Ordinal)) 
                             {
-                                Console.WriteLine("!!! Warning: input suggestion for FileDataID " + fileDataID + " (" + inputName + ") is the same as existing suggestion (" + mergedListfile[fileDataID] + ", skipping!");
+                                //Console.WriteLine("!!! Warning: input suggestion for FileDataID " + fileDataID + " (" + inputName + ") is the same as existing suggestion (" + mergedListfile[fileDataID] + ", skipping!");
                             }
                             else
                             {
                                 mergedListfile[fileDataID] = inputName;
+                                sourceFilenames.Add(inputName);
                                 anyChanges = true;
                             }
                         }
@@ -271,6 +274,16 @@ namespace ListfileTool
                         {
                             if (inputName.EndsWith(".blp"))
                             {
+                                var filenameMatch = mergedListfile.FirstOrDefault(x => x.Value.Equals(inputName, StringComparison.OrdinalIgnoreCase));
+                                if (lookups.TryGetValue(filenameMatch.Key, out ulong existingFileLookup))
+                                {
+                                    if (existingFileLookup == hasher.ComputeHash(inputName))
+                                    {
+                                        Console.WriteLine("!!! Warning: Incoming suggestion would append a FDID to existing name for " + filenameMatch.Key + " (" + filenameMatch.Value + ") but lookup matches for this file. Skipping change.");
+                                        continue;
+                                    }
+                                }
+
                                 Console.WriteLine("Appending FileDataID to duplicate BLP " + split[0] + " " + inputName);
                                 mergedListfile[fileDataID] = Path.GetDirectoryName(inputName) + "/" + Path.GetFileNameWithoutExtension(inputName) + "_" + fileDataID + ".blp";
                                 anyChanges = true;
@@ -284,22 +297,33 @@ namespace ListfileTool
                         else
                         {
                             mergedListfile.Add(fileDataID, inputName);
+                            sourceFilenames.Add(inputName);
                             anyChanges = true;
                         }
                     }
                 }
             }
 
+            var existingFilenames = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
             var mergedListfileCopy = mergedListfile.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
-
-            var existingFilenames = new HashSet<string>();
 
             foreach (var file in mergedListfileCopy)
             {
-                if (existingFilenames.Contains(file.Value.Trim().Replace("\\", "/").ToLower()))
+                if (existingFilenames.Contains(file.Value))
                 {
                     if (file.Value.EndsWith(".blp"))
                     {
+                        if (lookups.TryGetValue(file.Key, out ulong existingFileLookup))
+                        {
+                            if (existingFileLookup == hasher.ComputeHash(file.Value))
+                            {
+                                Console.WriteLine("!!! Warning: Was about to append a FDID to existing name for " + file.Key + " (" + file.Value + ") but lookup matches for this file.");
+                                var filenameMatch = mergedListfile.FirstOrDefault(x => x.Value.Equals(file.Value, StringComparison.OrdinalIgnoreCase));
+                                mergedListfile[filenameMatch.Key] = oldListfile[filenameMatch.Key];
+                                continue;
+                            }
+                        }
+
                         Console.WriteLine("Appending FileDataID to duplicate BLP " + file.Key + " " + file.Value);
                         mergedListfile[file.Key] = Path.GetDirectoryName(mergedListfile[file.Key]) + "/" + Path.GetFileNameWithoutExtension(mergedListfile[file.Key]) + "_" + file.Key + ".blp";
                         anyChanges = true;
@@ -313,11 +337,11 @@ namespace ListfileTool
                 }
                 else
                 {
-                    existingFilenames.Add(file.Value.Trim().Replace("\\", "/").ToLower());
+                    existingFilenames.Add(file.Value);
                 }
             }
 
-            if(!anyChanges)
+            if (!anyChanges)
             {
                 Console.WriteLine("No changes to listfile, exiting.");
                 return;
