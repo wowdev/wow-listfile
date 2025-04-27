@@ -13,8 +13,8 @@ namespace ListfileTool
                 Console.WriteLine("Check input CSV file against listfile: check <base listfile|parts directory> <input listfile>");
                 Console.WriteLine("Merge input CSV file into listfile (parts): merge <base listfile|parts directory> <input listfile>");
                 Console.WriteLine("Split single CSV listfile into parts: split <listfile> <output directory>");
-                Console.WriteLine("Compile listfile parts into single CSV: compile <parts directory> <output directory> [force 100MB limit]");
-                Console.WriteLine("Compile listfile parts with verified names into single CSV: compileVerified <parts directory> <output directory> [force 100MB limit]");
+                Console.WriteLine("Compile listfile parts into single CSV: compile <parts directory> <output directory>");
+                Console.WriteLine("Compile listfile parts with verified names into single CSV: compileVerified <parts directory> <output directory>");
                 Environment.Exit(-1);
             }
 
@@ -46,16 +46,10 @@ namespace ListfileTool
                         Split(sourceListfile, args[2]);
                         break;
                     case "compile":
-                        if (args.Length == 4)
-                            force100MBLimit = bool.Parse(args[3]);
-
-                        Compile(args[1], args[2], force100MBLimit, false);
+                        Compile(args[1], args[2], false);
                         break;
                     case "compileVerified":
-                        if (args.Length == 4)
-                            force100MBLimit = bool.Parse(args[3]);
-
-                        Compile(args[1], args[2], force100MBLimit, true);
+                        Compile(args[1], args[2], true);
                         break;
                     default:
                         Console.WriteLine("Unknown mode: " + args[0]);
@@ -399,7 +393,7 @@ namespace ListfileTool
             File.WriteAllText(Path.Combine(outputDir, "misc.csv"), string.Join("\r\n", sourceListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
         }
 
-        static void Compile(string inputDir, string outputDir, bool force100MBLimit = false, bool verifiedNames = false)
+        static void Compile(string inputDir, string outputDir, bool verifiedNames = false)
         {
             var mergedListfile = new Dictionary<uint, string>();
 
@@ -416,19 +410,11 @@ namespace ListfileTool
 
             foreach (var file in Directory.GetFiles(inputDir, "*.csv"))
             {
-                if (force100MBLimit && Path.GetFileNameWithoutExtension(file) == "placeholder")
-                    continue;
-
                 foreach (var line in File.ReadLines(file))
                 {
                     var split = line.Split(';');
                     if (split.Length != 2)
                         continue;
-
-                    // If we're forcing a 100MB limit, skip all .meta, .unk and .dat files, that gives us some temporary breathing room.
-                    if (force100MBLimit)
-                        if (split[1].EndsWith(".meta") || split[1].EndsWith(".unk") || split[1].EndsWith(".dat"))
-                            continue;
 
                     if (uint.TryParse(split[0], out var fileDataID))
                     {
@@ -488,32 +474,7 @@ namespace ListfileTool
 
             mergedListfile = mergedListfile.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
 
-            var withCapitalOutput = Path.Combine(outputDir, outputNameCapitals);
-
-            if (force100MBLimit)
-            {
-                if (File.Exists(withCapitalOutput))
-                    File.Move(withCapitalOutput, Path.Combine(outputDir, outputNameCapitalsOld));
-            }
-
-            File.WriteAllText(withCapitalOutput, string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
-
-            if (force100MBLimit)
-            {
-                var sizeWithCase = new FileInfo(withCapitalOutput).Length;
-                if (sizeWithCase > 100 * 1024 * 1024)
-                {
-                    Console.WriteLine("!!! Warning: " + outputNameCapitals + " is " + sizeWithCase + " bytes, which is over the 100MB limit, keeping old listfile!");
-                    File.Delete(withCapitalOutput);
-                    File.Move(Path.Combine(outputDir, outputNameCapitalsOld), withCapitalOutput);
-                    Environment.Exit(-1);
-                }
-                else
-                {
-                    File.Delete(Path.Combine(outputDir, outputNameCapitalsOld));
-                }
-            }
-
+            File.WriteAllText(Path.Combine(outputDir, outputNameCapitals), string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
             File.WriteAllText(Path.Combine(outputDir, outputNameNoCapitals), string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
         }
     }
