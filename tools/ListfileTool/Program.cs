@@ -20,8 +20,6 @@ namespace ListfileTool
 
             if (args.Length > 1)
             {
-                var force100MBLimit = false;
-
                 switch (args[0])
                 {
                     case "check":
@@ -204,17 +202,48 @@ namespace ListfileTool
             if (!File.Exists(input))
                 throw new Exception("Input file does not exist, cannot continue.");
 
+            // Load lookups
+            var lookupFile = Path.Combine(Path.GetDirectoryName(baseLocation) ?? "", "meta", "lookup.csv");
+            var lookups = new Dictionary<uint, ulong>();
+            var hasher = new Jenkins96();
+
+            if (File.Exists(lookupFile))
+            {
+                foreach (var line in File.ReadLines(lookupFile))
+                {
+                    var split = line.Split(';');
+                    if (split.Length != 2)
+                        continue;
+                    var fileDataID = uint.Parse(split[0]);
+                    var lookup = Convert.ToUInt64(split[1], 16);
+                    lookups.Add(fileDataID, lookup);
+                }
+            }
+
+            var anyChanges = false;
+
             var inFileLines = File.ReadLines(input);
             foreach (var line in inFileLines)
             {
                 var split = line.Split(';');
+
                 if (split.Length != 2)
                     continue;
 
-                var remove = split[1].Trim().Length == 0;
+                var inputName = split[1].Trim();
+                var remove = inputName.Length == 0;
 
                 if (uint.TryParse(split[0], out var fileDataID))
                 {
+                    if(lookups.TryGetValue(fileDataID, out ulong lookup))
+                    {
+                        if (lookup != hasher.ComputeHash(inputName))
+                        {
+                            Console.WriteLine("!!! Warning: Suggestion for FDID " + fileDataID + " (" + inputName + ") does not match known lookup, skipping addition.");
+                            continue;
+                        }
+                    }
+
                     if (mergedListfile.ContainsKey(fileDataID))
                     {
                         if (remove)
@@ -224,17 +253,27 @@ namespace ListfileTool
                         }
                         else
                         {
-                            mergedListfile[fileDataID] = split[1].Trim();
+                            // Don't ignore case, we might want to prefer files with case over files that have no casing. Manual preference check before merging.
+                            if (mergedListfile[fileDataID].Equals(inputName, StringComparison.Ordinal)) 
+                            {
+                                Console.WriteLine("!!! Warning: input suggestion for FileDataID " + fileDataID + " (" + inputName + ") is the same as existing suggestion (" + mergedListfile[fileDataID] + ", skipping!");
+                            }
+                            else
+                            {
+                                mergedListfile[fileDataID] = inputName;
+                                anyChanges = true;
+                            }
                         }
                     }
                     else
                     {
-                        if (sourceFilenames.Contains(split[1].Trim()))
+                        if (sourceFilenames.Contains(inputName))
                         {
-                            if (split[1].Trim().EndsWith(".blp"))
+                            if (inputName.EndsWith(".blp"))
                             {
-                                Console.WriteLine("Appending FileDataID to duplicate BLP " + split[0] + " " + split[1].Trim());
-                                mergedListfile[fileDataID] = Path.GetDirectoryName(split[1].Trim()) + "/" + Path.GetFileNameWithoutExtension(split[1].Trim()) + "_" + fileDataID + ".blp";
+                                Console.WriteLine("Appending FileDataID to duplicate BLP " + split[0] + " " + inputName);
+                                mergedListfile[fileDataID] = Path.GetDirectoryName(inputName) + "/" + Path.GetFileNameWithoutExtension(inputName) + "_" + fileDataID + ".blp";
+                                anyChanges = true;
                             }
                             else
                             {
@@ -244,7 +283,8 @@ namespace ListfileTool
                         }
                         else
                         {
-                            mergedListfile.Add(fileDataID, split[1].Trim());
+                            mergedListfile.Add(fileDataID, inputName);
+                            anyChanges = true;
                         }
                     }
                 }
@@ -262,17 +302,25 @@ namespace ListfileTool
                     {
                         Console.WriteLine("Appending FileDataID to duplicate BLP " + file.Key + " " + file.Value);
                         mergedListfile[file.Key] = Path.GetDirectoryName(mergedListfile[file.Key]) + "/" + Path.GetFileNameWithoutExtension(mergedListfile[file.Key]) + "_" + file.Key + ".blp";
+                        anyChanges = true;
                     }
                     else
                     {
                         Console.WriteLine("Removing duplicate " + file.Key + " " + file.Value);
                         mergedListfile.Remove(file.Key);
+                        anyChanges = true;
                     }
                 }
                 else
                 {
                     existingFilenames.Add(file.Value.Trim().Replace("\\", "/").ToLower());
                 }
+            }
+
+            if(!anyChanges)
+            {
+                Console.WriteLine("No changes to listfile, exiting.");
+                return;
             }
 
             if (Directory.Exists(baseLocation))
@@ -289,7 +337,7 @@ namespace ListfileTool
                 File.WriteAllText(withCapitalOutput, string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
                 Console.WriteLine("Wrote " + mergedListfile.Count + " entries to " + withCapitalOutput);
 
-                var numWithCase = mergedListfile.Where(x => x.Value == x.Value.ToLower()).Count();
+                var numWithCase = mergedListfile.Where(x => x.Value.Equals(x.Value, StringComparison.OrdinalIgnoreCase)).Count();
                 var percentage = (float)numWithCase / (float)mergedListfile.Count * 100.0f;
                 Console.WriteLine(numWithCase + " / " + mergedListfile.Count + " (" + percentage + "%) entries are lowercase");
 
@@ -304,7 +352,7 @@ namespace ListfileTool
 
             try
             {
-                using HttpClient client = new HttpClient();
+                using HttpClient client = new();
                 client.DefaultRequestHeaders.Add("User-Agent", "ListfileTool");
                 Console.WriteLine("Getting issue JSON " + apiURL);
                 var response = client.GetStringAsync(apiURL).Result;
@@ -312,10 +360,7 @@ namespace ListfileTool
                 var root = doc.RootElement;
                 var attachmentRegex = new Regex(@"!?\[([^\]]*)\]\(([^\)]+)\)", RegexOptions.Multiline);
 
-                var issueBody = root.GetProperty("body").GetString();
-                if (issueBody == null)
-                    throw new Exception("Unable to load body from JSON!");
-
+                var issueBody = root.GetProperty("body").GetString() ?? throw new Exception("Unable to load body from JSON!");
                 var matches = attachmentRegex.Matches(issueBody);
                 if (matches.Count == 0)
                     throw new Exception("No attachment found in issue body!");
@@ -367,7 +412,7 @@ namespace ListfileTool
             foreach (var file in sourceListfile)
             {
                 var filename = Path.GetFileNameWithoutExtension(file.Value);
-                if (filename.Length == 0 || !char.IsDigit(filename[0]) || file.Value.ToLower().StartsWith("textures"))
+                if (filename.Length == 0 || !char.IsDigit(filename[0]) || file.Value.StartsWith("textures", StringComparison.OrdinalIgnoreCase))
                     continue;
 
                 foreach (var phFile in placeholderM2s)
@@ -413,13 +458,11 @@ namespace ListfileTool
             var mergedListfile = new Dictionary<uint, string>();
 
             var outputNameCapitals = "community-listfile-withcapitals.csv";
-            var outputNameCapitalsOld = "community-listfile-withcapitals-old.csv";
             var outputNameNoCapitals = "community-listfile.csv";
 
             if (verifiedNames)
             {
                 outputNameCapitals = "verified-listfile-withcapitals.csv";
-                outputNameCapitalsOld = "verified-listfile-withcapitals-old.csv";
                 outputNameNoCapitals = "verified-listfile.csv";
             }
 
