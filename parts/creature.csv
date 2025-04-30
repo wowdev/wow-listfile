@@ -71990,6 +71990,11 @@
 5916982;Creature/RobotPet/RobotPet_lod01.skin
 5916983;Creature/RobotPet/RobotPet_lod02.skin
 5916984;Creature/RobotPet/RobotPet_lod03.skin
+5917323;CREATURE/MAGMASPHERE/MAGMASPHERE.M2
+5917330;CREATURE/MAGMASPHERE/t_vfx_lava2.blp
+5917332;CREATURE/MAGMASPHERE/Ember.blp
+5917335;CREATURE/MAGMASPHERE/fire1a.blp
+5917337;CREATURE/MAGMASPHERE/MAGMASPHERE00.skin
 5917751;Creature/Orweyna/Orweyna1770-00.anim
 5917752;Creature/Orweyna/Orweyna1492-00.anim
 5919525;Creature/CelestialHuman/CelestialHuman_lod01.skin
@@ -72042,6 +72047,7 @@
 5926593;creature/GoblinSiegeVehicle/GoblinSiegeVehicle_lod01.skin
 5926594;creature/GoblinSiegeVehicle/GoblinSiegeVehicle_lod02.skin
 5926595;creature/GoblinSiegeVehicle/GoblinSiegeVehicle_lod03.skin
+5928349;CREATURE/MAGMASPHERE/Flare.blp
 5928840;Creature/IGC_Alleria2/IGC_Alleria21454-00.anim
 5928843;Creature/IGC_Alleria2/IGC_Alleria21454-01.anim
 5928846;Creature/IGC_Alleria2/IGC_Alleria21454-02.anim

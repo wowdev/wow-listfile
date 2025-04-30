@@ -22757,6 +22757,7 @@
 2997491;spells/cfx_azerite_purificationblast_major_state_hostile_fallback.m2
 2997492;spells/cfx_azerite_purificationblast_major_state_hostile_fallback00.skin
 2998595;spells/cfx_azerite_well_major_rank4_state.blp
+3004442;SPELLS/DOODADS/white8x8.blp
 3007278;spells/8fx_generic_arcane_nova_raidlow.blp
 3015625;spells/cfx_warlock_genericportalvoid_world_lod01.skin
 3015626;spells/cfx_warlock_genericportalvoid_world_lod02.skin
@@ -24474,15 +24475,12 @@
 4425910;spells/10FX_UldamanLegacyofTyr_Deios_WingBuffet_Cast.m2
 4438967;spells/FX_GraceofWind_Aura.m2
 4438970;spells/FX_DNDFocusTest_Aura.m2
-4438972;spells/FX_ThunderRune_Aura.m2
 4439022;spells/FX_Listening_Precast00.skin
 4439023;spells/FX_Listening_Precast_lod01.skin
 4439024;spells/FX_Listening_Precast_lod02.skin
 4439025;spells/FX_Listening_Precast_lod03.skin
 4466534;spells/FX_GenericFocusingTotemDeactivated_Precast.m2
 4466545;spells/FX_DNDAreaTriggerMedDisplay_Aura.m2
-4466557;spells/FX_ElementalRune_Aura.m2
-4466558;spells/FX_AreaTriggerCircleGround.m2
 4466559;spells/FX_Banner_Aura.m2
 4466563;spells/FX_CarryingEarthHeart_Aura.m2
 4478707;spells/FX_GenericFocusingTotemDeactivated_Precast00.skin
@@ -24541,7 +24539,6 @@
 4485230;spells/FX_RefreshingTide_Aura.m2
 4485231;spells/FX_Aquabomb_Travel.m2
 4485232;spells/FX_WaterElementalAreaTriggerVisuals_Aura.m2
-4485247;spells/FX_ThunderRune_Aura00.skin
 4485251;spells/FX_StormsurgeTotem_Aura00.skin
 4485253;spells/FX_StormsurgeTotem_Aura_lod01.skin
 4485255;spells/FX_StormsurgeTotem_Aura_lod02.skin
@@ -24575,8 +24572,6 @@
 4485447;spells/FX_CarryingEarthHeart_Aura_lod02.skin
 4485448;spells/FX_CarryingEarthHeart_Aura_lod03.skin
 4485487;spells/FX_Banner_Aura00.skin
-4485490;spells/FX_AreaTriggerCircleGround00.skin
-4485494;spells/FX_ElementalRune_Aura00.skin
 4485502;spells/FX_InvigoratingFreeholdBrew00.skin
 4485503;spells/FX_InvigoratingFreeholdBrew_lod01.skin
 4485504;spells/FX_InvigoratingFreeholdBrew_lod02.skin
@@ -26269,7 +26264,7 @@
 4680183;spells/10FX_DragonIsles_TheZaqaliElders_Incineration_Channel00.skin
 4681250;spells/FX_Tank_Aura.m2
 4681251;spells/FX_UmbralTorrent.m2
-4681252;spells/FX_CoalescingVoid01.m2
+4681252;SPELLS/10FX_Generic_Shadow_EmpoweredArea.M2
 4681253;spells/FX_CoalescingVoid.m2
 4681685;spells/cfx_shaman_furyofair_state_lod01.skin
 4681688;spells/cfx_shaman_furyofair_state_lod02.skin
@@ -26337,7 +26332,7 @@
 4690707;spells/FX_CindervenomVolley_Precast00.skin
 4690710;spells/FX_CoalescingVoid00.skin
 4690723;spells/FX_MoltenSwing_Impact00.skin
-4690763;spells/FX_CoalescingVoid0100.skin
+4690763;SPELLS/10FX_Generic_Shadow_EmpoweredArea00.skin
 4690764;spells/FX_CoalescingVoid01_lod01.skin
 4690765;spells/FX_CoalescingVoid01_lod02.skin
 4690766;spells/FX_CoalescingVoid01_lod03.skin
@@ -26986,8 +26981,8 @@
 4919051;spells/FX_LydiarasGuidance_Precast_lod01.skin
 4919052;spells/FX_LydiarasGuidance_Precast_lod02.skin
 4919053;spells/FX_LydiarasGuidance_Precast_lod03.skin
-4953458;spells/FX_VoidTest_AreaTrigger.m2
-4953472;spells/FX_VoidTest_AreaTrigger00.skin
+4953458;SPELLS/DOODADS/10FX_Custom_Shadow_Ring.M2
+4953472;SPELLS/DOODADS/10FX_Custom_Shadow_Ring00.skin
 4953473;spells/FX_VoidTest_AreaTrigger_lod01.skin
 4953474;spells/FX_VoidTest_AreaTrigger_lod02.skin
 4953475;spells/FX_VoidTest_AreaTrigger_lod03.skin
@@ -27272,13 +27267,13 @@
 5076239;spells/10FX_BronzeDungeon_Timeways_Chronofaded_Aura.m2
 5076240;spells/10FX_BronzeDungeon_Iridikron_TimelineAcceleration_Aura.m2
 5076245;spells/FX_AstralFormation_Aura0300.skin
-5076825;spells/10FX_Aberrus_Amalgamation_FieryMeteor.m2
+5076825;SPELLS/10FX_Raid2_ShadowflameElemental_Fire_Meteor.M2
 5076826;spells/10FX_Aberrus_Amalgamation_GloomConflagration01.m2
 5077110;spells/10FX_Aberrus_Amalgamation_GloomConflagration0100.skin
 5077113;spells/10FX_Aberrus_Amalgamation_GloomConflagration01_lod01.skin
 5077118;spells/10FX_Aberrus_Amalgamation_GloomConflagration01_lod02.skin
 5077120;spells/10FX_Aberrus_Amalgamation_GloomConflagration01_lod03.skin
-5077665;spells/10FX_Aberrus_Amalgamation_FieryMeteor00.skin
+5077665;SPELLS/10FX_Raid2_ShadowflameElemental_Fire_Meteor00.skin
 5077666;spells/10FX_Aberrus_Amalgamation_FieryMeteor_lod01.skin
 5077667;spells/10FX_Aberrus_Amalgamation_FieryMeteor_lod02.skin
 5077668;spells/10FX_Aberrus_Amalgamation_FieryMeteor_lod03.skin
@@ -27622,8 +27617,6 @@
 5162780;spells/FX_DreamsurgeDreamfall_Cast_lod01.skin
 5162783;spells/FX_DreamsurgeDreamfall_Cast_lod02.skin
 5162784;spells/FX_DreamsurgeDreamfall_Cast_lod03.skin
-5163306;spells/FX_SentryFlare_TravelE.m2
-5163309;spells/FX_SentryFlare_TravelE00.skin
 5163399;spells/CFX_Evoker_Eruption_Cast0100.skin
 5164069;spells/FX_TownPortal_Precast.m2
 5164113;spells/CFX_Evoker_Eruption_Precast0100.skin
@@ -29578,9 +29571,9 @@
 5552288;spells/11FX_NerubarPalace_QueenAnsurek_ToxicWaves_Impact_lod02.skin
 5552290;spells/11FX_NerubarPalace_QueenAnsurek_ToxicWaves_Impact_lod03.skin
 5552699;spells/FX_GooeyMembrane_Precast.m2
-5552700;spells/FX_DarknessComes_AreaTrigger.m2
+5552700;SPELLS/11GFX_Shadow_Barrier_State.M2
 5552704;spells/FX_GooeyMembrane_Precast00.skin
-5552706;spells/FX_DarknessComes_AreaTrigger00.skin
+5552706;SPELLS/11GFX_Shadow_Barrier_State00.skin
 5552707;spells/FX_DarknessComes_AreaTrigger_lod01.skin
 5552708;spells/FX_DarknessComes_AreaTrigger_lod02.skin
 5552709;spells/FX_DarknessComes_AreaTrigger_lod03.skin
@@ -30713,8 +30706,6 @@
 5890150;Spells/11FX_WebWrap01_lod01.skin
 5890151;Spells/11FX_WebWrap01_lod02.skin
 5890152;Spells/11FX_WebWrap01_lod03.skin
-5890520;Spells/11FX_Invisible01.m2
-5890541;Spells/11FX_Invisible0100.skin
 5891284;SPELLS/CFX_Priest_HolyPrecast_PrecastHand_lod01.skin
 5891285;SPELLS/CFX_Priest_HolyPrecast_PrecastHand_lod02.skin
 5891286;SPELLS/CFX_Priest_HolyPrecast_PrecastHand_lod03.skin
@@ -31450,6 +31441,8 @@
 6438154;Spells/11FX_WrenchHologram0100.skin
 6438267;Spells/11FX_GearHologram0100.skin
 6641117;Spells/Smoke_RocketExhaust_front.blp
+6641993;SPELLS/Classic_FX_Light_Red.M2
+6642040;SPELLS/Classic_FX_Light_Red00.skin
 6647751;Spells/smokewispy_roundsponge.blp
 6647753;Spells/Fire1BW.blp
 6663514;spells/11FX_ShadowMist01.m2
