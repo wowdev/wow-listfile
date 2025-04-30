@@ -73587,7 +73587,14 @@
 6597704;Creature/ChihuahuaDogPet/ChihuahuaDogPet.m2
 6637887;Creature/RavenMount/ArmorReflect4.blp
 6637889;Creature/RavenMount/RavenMount_Saddle.blp
+6637891;Creature/RavenMount/RavenMount0097-00.anim
+6637893;Creature/RavenMount/RavenMount0097-01.anim
+6637895;Creature/RavenMount/RavenMount0096-00.anim
+6637897;Creature/RavenMount/RavenMount0098-00.anim
 6637899;Creature/RavenMount/RavenMount00.skin
+6637901;Creature/RavenMount/RavenMount_lod01.skin
+6637903;Creature/RavenMount/RavenMount_lod02.skin
+6637906;Creature/RavenMount/RavenMount_lod03.skin
 6641572;Creature/ChihuahuaDogPet/ArmorReflect4.blp
 6641577;Creature/ChihuahuaDogPet/ChihuahuaDogPet00.skin
 6641582;Creature/ChihuahuaDogPet/ChihuahuaDogPet_lod01.skin
