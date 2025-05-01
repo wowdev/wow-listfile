@@ -58341,7 +58341,9 @@
 3939997;creature/ancientmount/ancientmount_winter_1.blp
 3940778;creature/warpstalkermountbc/warpstalkermountbc.m2
 3940780;creature/warpstalkermountbc/armorreflect_rainbow.blp
+3940781;creature/warpstalkermountbc/toadardenweald_autumn.blp
 3940782;creature/warpstalkermountbc/armorreflect4.blp
+3940783;creature/warpstalkermountbc/toadardenweald_fx.blp
 3940784;creature/warpstalkermountbc/warpstalkermountbc00.skin
 3940785;creature/warpstalkermountbc/warpstalkermountbc_lod01.skin
 3940786;creature/warpstalkermountbc/warpstalkermountbc_lod02.skin
@@ -61724,8 +61726,6 @@
 4322274;creature/marmoset/marmoset_lod01.skin
 4322275;creature/marmoset/marmoset_lod02.skin
 4322276;creature/marmoset/marmoset_lod03.skin
-4323001;creature/mace_1h_incubus_whip_a_01/mace_1h_incubus_whip_a_01.m2
-4323002;creature/mace_1h_incubus_whip_a_01/mace_1h_incubus_whip_a_0100.skin
 4323005;creature/mace_1h_incubus_whip_a_01/whip_1h_incubus_a_01_lod01.skin
 4323006;creature/mace_1h_incubus_whip_a_01/whip_1h_incubus_a_01_lod02.skin
 4323009;creature/mace_1h_incubus_whip_a_01/whip_1h_incubus_a_01_lod03.skin
@@ -69981,6 +69981,12 @@
 5565865;Creature/VoidStoneBoss/VoidStoneBoss_lod03.skin
 5568134;Creature/Gryphon_Air/ArmorReflect7.blp
 5568135;Creature/Gryphon_Air_Mount/ArmorReflect7.blp
+5568549;Creature/WarpStorm/shockwave4white.blp
+5568552;Creature/WarpStorm/GenericGlow_Black.blp
+5568553;Creature/WarpStorm/ToonSmoke16.blp
+5568554;Creature/WarpStorm/lightning3.blp
+5568555;Creature/WarpStorm/Gradient64FlipA.blp
+5568556;Creature/WarpStorm/glowball03.blp
 5568566;Creature/ParrotPirateMount/ParrotPirateMount.m2
 5568568;Creature/ParrotPirateMount/ArmorReflect4.blp
 5568569;Creature/ParrotPirateMount/ParrotPirateMount00.skin
