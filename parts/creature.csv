@@ -73850,6 +73850,9 @@
 6799118;Creature/ShaDrakeMount/ShaDrakeMount.m2
 6799142;Creature/ShaDrakeMount/ShaDrakeMount_Saddle.blp
 6799148;Creature/ShaDrakeMount/ShaDrakeMount00.skin
+6799714;Creature/CelestialSerpent/CelestialSerpentMount_01_Jade.blp
+6799715;Creature/CelestialSerpent/CelestialSerpentMount_02_Jade.blp
+6799716;Creature/CelestialSerpent/CelestialSerpentMount_03_Jade.blp
 6838277;Creature/Chimera2/Chimera2_lod01.skin
 6838279;Creature/Chimera2/Chimera2_lod02.skin
 6838282;Creature/Chimera2/Chimera2_lod03.skin
@@ -73881,4 +73884,5 @@
 6889734;Creature/ChessMount/ChessMount_lod01.skin
 6889735;Creature/ChessMount/ChessMount_lod02.skin
 6889736;Creature/ChessMount/ChessMount_lod03.skin
+6891234;Creature/CelestialSerpent/CelestialSerpentMountSaddle_Jade.blp
 6983879;Creature/ChessMount/White8x8.blp
