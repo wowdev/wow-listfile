@@ -26326,6 +26326,7 @@
 4689135;Spells/10FX_MonkSpell01_lod01.skin
 4689136;Spells/10FX_MonkSpell01_lod02.skin
 4689137;Spells/10FX_MonkSpell01_lod03.skin
+4690344;spells/textures/caustic_medfreq_modulation.blp
 4690512;spells/FX_MoltenSwing_Impact.m2
 4690513;spells/FX_CindervenomVolley_Precast.m2
 4690707;spells/FX_CindervenomVolley_Precast00.skin
@@ -29670,6 +29671,7 @@
 5607453;spells/FX_GnomishGravityLauncher_AreaTrigger_lod03.skin
 5607728;Spells/t_vfx_fire_patern_opaq.blp
 5607887;Spells/beam_summongargoyle.blp
+5607901;spells/textures/LightningBoltBlue01.blp
 5612095;Spells/11FX_FireMissile01.m2
 5612101;Spells/11FX_FireMissile0100.skin
 5612255;spells/FX_VileWebbing_AreaTrigger_lod01.skin
