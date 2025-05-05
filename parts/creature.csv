@@ -73339,6 +73339,13 @@
 6316002;Creature/RedPandaMount/RedPandaMount_Tea_Orange.blp
 6316003;Creature/RedPandaMount/RedPandaMount_Tea_Red.blp
 6316004;Creature/RedPandaMount/RedPandaMount_Tea_Violet.blp
+6316123;Creature/RidingSilithid/SilithidTankSkin.blp
+6316124;Creature/RidingSilithid/SilithidTankSkin1.blp
+6316125;Creature/RidingSilithid/SilithidTankSkinArmoredBlack.blp
+6316126;Creature/RidingSilithid/SilithidTankSkinArmoredBlue.blp
+6316127;Creature/RidingSilithid/SilithidTankSkinArmoredGreen.blp
+6316128;Creature/RidingSilithid/SilithidTankSkinArmoredRed.blp
+6316129;Creature/RidingSilithid/SilithidTankSkinArmoredYellow.blp
 6316130;Creature/RidingSilithid/SilithidTankSkinBlue.blp
 6316131;Creature/RidingSilithid/SilithidTankSkinGolden.blp
 6316132;Creature/RidingSilithid/SilithidTankSkinTan.blp
@@ -73902,6 +73909,9 @@
 6798873;Creature/Scorpion/Scorpion_lod02.skin
 6798876;Creature/Scorpion/Scorpion_lod03.skin
 6799118;Creature/ShaDrakeMount/ShaDrakeMount.m2
+6799139;Creature/ShaDrakeMount/ShaDrakeMount_01.blp
+6799140;Creature/ShaDrakeMount/ShaDrakeMount_02.blp
+6799141;Creature/ShaDrakeMount/ShaDrakeMount_03.blp
 6799142;Creature/ShaDrakeMount/ShaDrakeMount_Saddle.blp
 6799144;Creature/ShaDrakeMount/ShaHauntFlakes01.blp
 6799145;Creature/ShaDrakeMount/ShaFlame01.blp
