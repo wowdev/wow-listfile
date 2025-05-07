@@ -21574,6 +21574,7 @@
 2318730;spells/8fx_generic_spark_vertical_impact.m2
 2318731;spells/8fx_generic_spark_breath.m2
 2318848;spells/8fx_hard_flash_broken.blp
+2318849;Spells/8FX_Basic_Spark_Sheet.blp
 2318850;spells/soft_flare_.blp
 2318851;spells/lightning_impact_01_centered.blp
 2318852;spells/8fx_generic_spark_vertical_impact00.skin
@@ -31135,7 +31136,6 @@
 6316166;spells/FX_ZeppelinTargetingTrigger_AreaTrigger_lod02.skin
 6316169;spells/FX_ZeppelinTargetingTrigger_AreaTrigger_lod03.skin
 6321036;spells/FX_ChromebustibleBombSuit_Aura.m2
-6321205;spells/8FX_Basic_Spark_Sheet.blp
 6321209;spells/FX_ChromebustibleBombSuit_Aura00.skin
 6321211;spells/FX_ChromebustibleBombSuit_Aura_lod01.skin
 6321213;spells/FX_ChromebustibleBombSuit_Aura_lod02.skin
