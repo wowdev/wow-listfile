@@ -61260,6 +61260,7 @@
 4235613;creature/raven2/raven2_lod01.skin
 4235614;creature/raven2/raven2_lod02.skin
 4235615;creature/raven2/raven2_lod03.skin
+4235616;Creature/SurveyBotPet/SurveyBotPet.m2
 4235620;creature/beaverprimal/beaverprimal0061-00.anim
 4235622;creature/beaverprimal/beaverprimal0133-00.anim
 4235623;creature/beaverprimal/beaverprimal0134-00.anim
@@ -61267,6 +61268,10 @@
 4235625;creature/beaverprimal/beaverprimal0098-00.anim
 4235626;creature/beaverprimal/beaverprimal0100-00.anim
 4235627;creature/beaverprimal/beaverprimal0101-00.anim
+4235630;Creature/SurveyBotPet/SurveyBotPet00.skin
+4235631;Creature/SurveyBotPet/SurveyBotPet_lod01.skin
+4235632;Creature/SurveyBotPet/SurveyBotPet_lod02.skin
+4235633;Creature/SurveyBotPet/SurveyBotPet_lod03.skin
 4236330;creature/odyn/odyn_lod01.skin
 4236331;creature/odyn/odyn_lod02.skin
 4236332;creature/odyn/odyn_lod03.skin
