@@ -1,5 +1,4 @@
-﻿using System.Diagnostics;
-using System.Text.Json;
+﻿using System.Text.Json;
 using System.Text.RegularExpressions;
 
 namespace ListfileTool
@@ -237,7 +236,7 @@ namespace ListfileTool
 
                 if (uint.TryParse(split[0], out var fileDataID))
                 {
-                    if(lookups.TryGetValue(fileDataID, out ulong lookup))
+                    if (lookups.TryGetValue(fileDataID, out ulong lookup))
                     {
                         if (lookup != hasher.ComputeHash(inputName))
                         {
@@ -256,7 +255,7 @@ namespace ListfileTool
                         else
                         {
                             // Don't ignore case, we might want to prefer files with case over files that have no casing. Manual preference check before merging.
-                            if (mergedListfile[fileDataID].Equals(inputName, StringComparison.Ordinal)) 
+                            if (mergedListfile[fileDataID].Equals(inputName, StringComparison.Ordinal))
                             {
                                 //Console.WriteLine("!!! Warning: input suggestion for FileDataID " + fileDataID + " (" + inputName + ") is the same as existing suggestion (" + mergedListfile[fileDataID] + ", skipping!");
                             }
