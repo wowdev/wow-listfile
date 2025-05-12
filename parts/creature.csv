@@ -73283,6 +73283,12 @@
 6245885;Creature/GallywixMechMount/GallywixMechMount_lod01.skin
 6245888;Creature/GallywixMechMount/GallywixMechMount_lod02.skin
 6245891;Creature/GallywixMechMount/GallywixMechMount_lod03.skin
+6251885;Creature/RidingSilithid/RidingSilithidTankSkinOrange.blp
+6251886;Creature/RidingSilithid/RidingSilithidTankSkinPurple.blp
+6251908;Creature/RidingSilithid/RidingSilithidEyeGlowRed.blp
+6251909;Creature/RidingSilithid/RidingSilithidTankSkinDarkBlue.blp
+6251910;Creature/RidingSilithid/RidingSilithidTankSkinLightBlue.blp
+6251911;Creature/RidingSilithid/RidingSilithidTankSkinLightGreen.blp
 6254350;Creature/IGC_Gallywix/IGC_Gallywix.m2
 6254351;creature/IGC_Gazlowe/IGC_Gazlowe.m2
 6254353;Creature/IGC_Azir/IGC_Azir.m2
