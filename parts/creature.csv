@@ -71401,9 +71401,15 @@
 5797163;Creature/IGC_Jaina2/Snowflake_Flipping_01.blp
 5797167;Creature/IGC_Jaina2/ArmorReflect_Hard.blp
 5797174;Creature/IGC_Jaina2/IGC_Jaina200.skin
+5797175;Creature/IGC_Jaina2/IGC_Jaina2_lod01.skin
+5797176;Creature/IGC_Jaina2/IGC_Jaina2_lod02.skin
+5797177;Creature/IGC_Jaina2/IGC_Jaina2_lod03.skin
 5797179;Creature/IGC_Thrall/ArmorReflect4.blp
 5797181;Creature/IGC_Thrall/smoothreflect_round.blp
 5797185;Creature/IGC_Thrall/IGC_Thrall00.skin
+5797186;Creature/IGC_Thrall/IGC_Thrall_lod01.skin
+5797187;Creature/IGC_Thrall/IGC_Thrall_lod02.skin
+5797188;Creature/IGC_Thrall/IGC_Thrall_lod03.skin
 5797327;Creature/IGC_FaerinLothar/ArmorReflect4.blp
 5797334;Creature/IGC_FaerinLothar/IGC_FaerinLothar1452-00.anim
 5797335;Creature/IGC_FaerinLothar/IGC_FaerinLothar1452-01.anim
@@ -71411,6 +71417,9 @@
 5797337;Creature/IGC_FaerinLothar/IGC_FaerinLothar1452-03.anim
 5797338;Creature/IGC_FaerinLothar/IGC_FaerinLothar1452-04.anim
 5797339;Creature/IGC_FaerinLothar/IGC_FaerinLothar00.skin
+5797340;Creature/IGC_FaerinLothar/IGC_FaerinLothar_lod01.skin
+5797341;Creature/IGC_FaerinLothar/IGC_FaerinLothar_lod02.skin
+5797342;Creature/IGC_FaerinLothar/IGC_FaerinLothar_lod03.skin
 5797370;Creature/IGC_Turalyon/IGC_Turalyon00.skin
 5797372;Creature/IGC_QueenAnsurek/IGC_QueenAnsurek00.skin
 5797374;Creature/IGC_Alleria2/White8x8.blp
@@ -71424,6 +71433,9 @@
 5797396;Creature/IGC_Alleria2/IGC_Alleria21452-06.anim
 5797397;Creature/IGC_Alleria2/IGC_Alleria21452-07.anim
 5797398;Creature/IGC_Alleria2/IGC_Alleria200.skin
+5797399;Creature/IGC_Alleria2/IGC_Alleria2_lod01.skin
+5797400;Creature/IGC_Alleria2/IGC_Alleria2_lod02.skin
+5797401;Creature/IGC_Alleria2/IGC_Alleria2_lod03.skin
 5797406;Creature/IGC_Xalatath/IGC_Xalatath00.skin
 5829467;creature/thaurissan2/thaurissan2.skel
 5829615;Creature/IGC_Anduin4/IGC_Anduin4.m2
@@ -71439,6 +71451,9 @@
 5829690;Creature/IGC_Anduin4/IGC_Anduin41452-08.anim
 5829691;Creature/IGC_Anduin4/IGC_Anduin41452-09.anim
 5829692;Creature/IGC_Anduin4/IGC_Anduin400.skin
+5829693;Creature/IGC_Anduin4/IGC_Anduin4_lod01.skin
+5829694;Creature/IGC_Anduin4/IGC_Anduin4_lod02.skin
+5829695;Creature/IGC_Anduin4/IGC_Anduin4_lod03.skin
 5830200;Creature/NerubianWarbeast/dragonarmorspec.blp
 5830203;Creature/NerubianWarbeast/NerubianWarbeast00.skin
 5830204;Creature/NerubianWarbeast/NerubianWarbeast_lod01.skin
@@ -71458,6 +71473,7 @@
 5838140;Creature/PrimalDragonfly/PrimalDragonfly_Nerubian_Tan.blp
 5838141;Creature/PrimalDragonfly/PrimalDragonfly_Nerubian_Green.blp
 5838264;Creature/MoiraThaurissan/MoiraThaurissan1770-00.anim
+5838281;Creature/HighSpeakerBrinthe/HighSpeakerBrinthe.skel
 5840121;Creature/EirichSkardyn/EirichSkardyn0069-04.anim
 5846316;Creature/CelestialCatMount/CelestialCatMount.m2
 5846547;Creature/CelestialCatMount/CelestialCatMount.blp
