@@ -251,6 +251,7 @@ namespace ListfileTool
                         {
                             Console.WriteLine("Removing " + fileDataID + " from listfile");
                             mergedListfile.Remove(fileDataID);
+                            anyChanges = true;
                         }
                         else
                         {
