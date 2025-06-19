@@ -73733,6 +73733,7 @@
 6403211;Creature/IGC_Alleria3/IGC_Alleria3.m2
 6403213;Creature/IGC_LocusWalker2/IGC_LocusWalker2.m2
 6403215;Creature/IGC_Sash/IGC_Sash.m2
+6403217;Creature/IGC_Soulscribe/IGC_Soulscribe.m2
 6403219;Creature/IGC_Venari/IGC_Venari.m2
 6403221;Creature/IGC_Xalatath3/IGC_Xalatath3.m2
 6404096;Creature/ElectricEelViciousMount/White8x8.blp
@@ -74164,6 +74165,7 @@
 6840093;creature/dragonwhelpoutland2/DragonWhelpSkinOutland5.blp
 6840118;creature/dragonwhelpoutland2/PVPWarHorseEyeGlow.blp
 6840119;creature/dragonwhelpoutland2/Flare.blp
+6855883;Creature/IGC_Soulscribe/IGC_Soulscribe00.skin
 6856595;Creature/FlyingBook/FlyingBook_03_Pet_lod01.skin
 6856596;Creature/FlyingBook/FlyingBook_03_Pet_lod02.skin
 6856876;Creature/ForsakenHorseMount/ForsakenHorseMount.m2
@@ -74253,6 +74255,15 @@
 7083425;Creature/IGC_Sash/IGC_Sash1456-11.anim
 7083429;Creature/IGC_Sash/IGC_Sash1456-12.anim
 7083433;Creature/IGC_Sash/IGC_Sash1456-13.anim
+7083457;Creature/IGC_Soulscribe/IGC_Soulscribe1452-00.anim
+7083459;Creature/IGC_Soulscribe/IGC_Soulscribe1452-01.anim
+7083461;Creature/IGC_Soulscribe/IGC_Soulscribe1452-02.anim
+7083462;Creature/IGC_Soulscribe/IGC_Soulscribe1452-03.anim
+7083464;Creature/IGC_Soulscribe/IGC_Soulscribe1452-04.anim
+7083466;Creature/IGC_Soulscribe/IGC_Soulscribe1452-05.anim
+7083468;Creature/IGC_Soulscribe/IGC_Soulscribe1452-06.anim
+7083470;Creature/IGC_Soulscribe/IGC_Soulscribe1452-07.anim
+7083472;Creature/IGC_Soulscribe/IGC_Soulscribe1452-08.anim
 7083476;Creature/IGC_Xalatath3/ArmorReflect_Rainbow.blp
 7083477;Creature/IGC_Xalatath3/IGC_Xalatath31452-00.anim
 7083478;Creature/IGC_Xalatath3/IGC_Xalatath31452-01.anim
