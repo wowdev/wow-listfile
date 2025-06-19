@@ -30920,6 +30920,9 @@
 6100396;spells/FX_ArcaneBombardment_Cast01_lod03.skin
 6104440;Spells/11FX_BlackDust03.m2
 6104441;Spells/11FX_BlackDust04.m2
+6104970;Spells/11FX_Karesh_GroundDecal0200.skin
+6104978;Spells/11FX_Karesh_GroundDecal0100.skin
+6105003;Spells/11FX_Karesh_GroundDecal0300.skin
 6105014;Spells/11FX_BlackDust0200.skin
 6105016;Spells/11FX_BlackDust02_lod01.skin
 6105018;Spells/11FX_BlackDust02_lod02.skin
@@ -30936,11 +30939,15 @@
 6105050;Spells/11FX_BlackDust04_lod01.skin
 6105052;Spells/11FX_BlackDust04_lod02.skin
 6105054;Spells/11FX_BlackDust04_lod03.skin
+6105061;Spells/11FX_Karesh_GroundDecal0400.skin
 6105161;spells/FX_ColdflameTempest_Precast00.skin
 6105164;spells/FX_ColdflameTempest_Precast_lod01.skin
 6105167;spells/FX_ColdflameTempest_Precast_lod02.skin
 6105169;spells/FX_ColdflameTempest_Precast_lod03.skin
 6105412;spells/FX_ColdflameTempest_Precast0100.skin
+6116471;Spells/11FX_Karesh_GroundDecal0500.skin
+6116484;Spells/11FX_Karesh_GroundDecal0600.skin
+6116497;Spells/11FX_Karesh_GroundDecalBlack0100.skin
 6127286;Spells/T_VFX_Blood07.blp
 6127294;Spells/AshenvaleLeaf.blp
 6127296;Spells/leavesdruidbed.blp
