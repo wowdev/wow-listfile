@@ -73558,6 +73558,8 @@
 6254038;Creature/KareshFlyerMount/KareshFlyerMount.m2
 6254040;Creature/KareshRoamerMount/KareshRoamerMount.m2
 6254053;Creature/SilkWormBoss/SilkWormBoss.m2
+6254071;creature/Fractillus/Fractillus.m2
+6254073;Creature/SoulScribe/SoulScribe.m2
 6254350;Creature/IGC_Gallywix/IGC_Gallywix.m2
 6254351;creature/IGC_Gazlowe/IGC_Gazlowe.m2
 6254353;Creature/IGC_Azir/IGC_Azir.m2
@@ -73930,6 +73932,14 @@
 6377751;Creature/VoidCrawler/VoidCrawler_lod01.skin
 6377752;Creature/VoidCrawler/VoidCrawler_lod02.skin
 6377753;Creature/VoidCrawler/VoidCrawler_lod03.skin
+6378573;Creature/SoulScribe/SoulScribe0060-00.anim
+6378575;Creature/SoulScribe/SoulScribe0062-00.anim
+6378577;Creature/SoulScribe/SoulScribe0075-00.anim
+6378579;Creature/SoulScribe/SoulScribe0084-00.anim
+6378581;Creature/SoulScribe/SoulScribe00.skin
+6378583;Creature/SoulScribe/SoulScribe_lod01.skin
+6378585;Creature/SoulScribe/SoulScribe_lod02.skin
+6378587;Creature/SoulScribe/SoulScribe_lod03.skin
 6379113;Creature/ButterflyMount/White8x8.blp
 6379115;Creature/ButterflyMount/ButterflyMount_Saddle_Pink.blp
 6379119;Creature/ButterflyMount/ButterflyMount_Body_Pink.blp
@@ -74084,6 +74094,11 @@
 6429086;Creature/DragonChromaticMount2/DragonChromaticMount2_NoArmor_lod01.skin
 6429087;Creature/DragonChromaticMount2/DragonChromaticMount2_NoArmor_lod02.skin
 6429088;Creature/DragonChromaticMount2/DragonChromaticMount2_NoArmor_lod03.skin
+6429353;Creature/SoulScribe/SoulScribe0129-00.anim
+6429354;Creature/SoulScribe/SoulScribe0128-00.anim
+6429355;Creature/SoulScribe/SoulScribe0123-00.anim
+6429356;Creature/SoulScribe/SoulScribe0074-00.anim
+6429357;Creature/SoulScribe/SoulScribe0186-00.anim
 6431498;Creature/GallywixMechMount/Smoke_Loose_01.blp
 6431500;Creature/GallywixMechMount/8FX_ExplosionSmoke_A.blp
 6431501;Creature/GallywixMechMount/Smoke_Soft_01.blp
@@ -74321,6 +74336,7 @@
 6694899;Creature/crocsunpet/armorreflect4.blp
 6694900;Creature/crocsunpet/crocsunpet00.skin
 6699390;Creature/ChimeraFireMount/ChimeraFireMount.m2
+6699878;Creature/SoulScribe/SoulScribe0185-00.anim
 6700115;Creature/ChimeraFireMount/ember_chunky_blankmorerotation_A.blp
 6700116;Creature/ChimeraFireMount/White8x8.blp
 6700118;Creature/ChimeraFireMount/8FX_ExplosionSmoke_A.blp
@@ -74565,6 +74581,10 @@
 6889734;Creature/ChessMount/ChessMount_lod01.skin
 6889735;Creature/ChessMount/ChessMount_lod02.skin
 6889736;Creature/ChessMount/ChessMount_lod03.skin
+6891012;creature/Fractillus/Fractillus0060-00.anim
+6891014;creature/Fractillus/Fractillus0060-01.anim
+6891016;creature/Fractillus/Fractillus0060-02.anim
+6891018;creature/Fractillus/Fractillus00.skin
 6891191;creature/lorthemar/lorthemar1310-00.anim
 6891192;creature/lorthemar/lorthemar1220-00.anim
 6891193;creature/lorthemar/lorthemar1770-00.anim
@@ -74574,6 +74594,9 @@
 6907981;Creature/VoidFlyerMountMythic/VoidFlyerMountMythic_lod01.skin
 6907982;Creature/VoidFlyerMountMythic/VoidFlyerMountMythic_lod02.skin
 6907983;Creature/VoidFlyerMountMythic/VoidFlyerMountMythic_lod03.skin
+6907996;creature/Fractillus/Fractillus_lod01.skin
+6907998;creature/Fractillus/Fractillus_lod02.skin
+6907999;creature/Fractillus/Fractillus_lod03.skin
 6982689;Creature/VoidFlyerMount/10FX_Wind_Streams.blp
 6983879;Creature/ChessMount/White8x8.blp
 6990129;Creature/CapybaraFelPet/CapybaraFelPet.m2
