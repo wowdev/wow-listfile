@@ -74792,6 +74792,12 @@
 6907996;creature/Fractillus/Fractillus_lod01.skin
 6907998;creature/Fractillus/Fractillus_lod02.skin
 6907999;creature/Fractillus/Fractillus_lod03.skin
+6917935;Creature/FelStalkerMount/FelStalkerMount_lod01.skin
+6917936;Creature/FelStalkerMount/FelStalkerMount_lod02.skin
+6917937;Creature/FelStalkerMount/FelStalkerMount_lod03.skin
+6918261;Creature/FelStalker/FelStalker_Pet_lod01.skin
+6918262;Creature/FelStalker/FelStalker_Pet_lod02.skin
+6918264;Creature/FelStalker/FelStalker_Pet_lod03.skin
 6982689;Creature/VoidFlyerMount/10FX_Wind_Streams.blp
 6983879;Creature/ChessMount/White8x8.blp
 6990129;Creature/CapybaraFelPet/CapybaraFelPet.m2
@@ -74978,6 +74984,10 @@
 7113756;Creature/DHFemaleDPS/DHFemaleDPS_lod02.skin
 7113757;Creature/DHFemaleDPS/DHFemaleDPS_lod03.skin
 7114483;Creature/BrewfestMount/BrewfestMount.m2
+7116270;Creature/Pug/ArmorReflect4.blp
+7116272;Creature/Pug/pug_lod01.skin
+7116274;Creature/Pug/pug_lod02.skin
+7116277;Creature/Pug/pug_lod03.skin
 7117154;Creature/DwarfGryphonMount/DwarfGryphonMount.m2
 7117156;Creature/DwarfGryphonMount/DwarfGryphonMount_Body_Blue.blp
 7117157;Creature/DwarfGryphonMount/DwarfGryphonMount_Body_Green.blp
@@ -75145,3 +75155,12 @@
 7277976;Creature/FelBatGladiatorMount_Void/FelBatGladiatorMount_Void_lod01.skin
 7277977;Creature/FelBatGladiatorMount_Void/FelBatGladiatorMount_Void_lod02.skin
 7277978;Creature/FelBatGladiatorMount_Void/FelBatGladiatorMount_Void_lod03.skin
+7287346;Creature/HeadlessHorsemanMount2/ember_chunky_blankmorerotation_A.blp
+7287349;Creature/HeadlessHorsemanMount2/White8x8.blp
+7287351;Creature/HeadlessHorsemanMount2/Fire_FlameLicks_DissolveFBs_Blend.blp
+7287355;Creature/HeadlessHorsemanMount2/8FX_ExplosionSmoke_A.blp
+7341272;creature/LoveFoxMount/LoveFoxMount0061-00.anim
+7341276;creature/encrypted09/encrypted090061-00.anim
+7341802;Creature/MooseMount2/MooseMount2_lod01.skin
+7341805;Creature/MooseMount2/MooseMount2_lod02.skin
+7341806;Creature/MooseMount2/MooseMount2_lod03.skin
