@@ -59700,6 +59700,7 @@
 4070290;creature/lightforgedtalbuk/lightforgedtalbuk.blp
 4070291;creature/lightforgedtalbuk/ArmorReflect_Rainbow.blp
 4070292;creature/lightforgedtalbuk/ArmorReflect4.blp
+4070293;creature/lightforgedtalbuk/Bow_1H_PandaRaid_D_01_Spark.blp
 4070294;creature/lightforgedtalbuk/lightforgedtalbuk0061-00.anim
 4070295;creature/lightforgedtalbuk/lightforgedtalbuk0062-00.anim
 4070296;creature/lightforgedtalbuk/lightforgedtalbuk0097-00.anim
@@ -59731,6 +59732,7 @@
 4074887;creature/furbolgprimal/furbolgprimal_light.blp
 4074888;creature/furbolgprimal/furbolgprimal_red.blp
 4074889;creature/furbolgprimal/furbolgprimal_yellow.blp
+4077220;creature/nerzhulshadowlands/soft_flare_.blp
 4077816;creature/eagle2wind/eagle2wind.m2
 4080510;creature/babyfaeriedragon/babyfaeriedragon.m2
 4080547;creature/babyfaeriedragon/ArmorReflect4.blp
@@ -61116,6 +61118,7 @@
 4225152;creature/GnomeToyMount/GnomeToyMount.m2
 4225160;creature/GnomeToyMount/Smoke_Loose_01.blp
 4225161;creature/GnomeToyMount/8FX_Basic_Spark_Sheet.blp
+4225162;creature/GnomeToyMount/soft_flare_.blp
 4225165;creature/GnomeToyMount/GnomeToyMount0097-00.anim
 4225166;creature/GnomeToyMount/GnomeToyMount0096-00.anim
 4225167;creature/GnomeToyMount/GnomeToyMount0098-00.anim
@@ -63923,6 +63926,7 @@
 4674777;creature/IGC_Kalecgos/IGC_Kalecgos00.skin
 4675223;creature/hogger/White8x8.blp
 4675226;creature/hogger/GenericGlow_Alpha_128.blp
+4675227;creature/hogger/urn_mist_flipped_azerite.blp
 4675230;creature/hogger/hogger0123-00.anim
 4675231;creature/hogger/hogger0129-00.anim
 4675232;creature/hogger/hogger0128-00.anim
@@ -68157,6 +68161,7 @@
 5333533;creature/ravager2/ravager2mount_lod03.skin
 5333556;creature/StormGryphonPet/StormGryphonPet_FX_Red.blp
 5333557;creature/StormGryphonPet/StormGryphonPet_Body_Red.blp
+5333561;creature/StormGryphonPet/soft_flare_.blp
 5333563;creature/StormGryphonPet/StormGryphonPet_Glow2_Yellow.blp
 5333564;creature/StormGryphonPet/StormGryphonPet_Glow2_Purple.blp
 5333565;creature/StormGryphonPet/StormGryphonPet_Glow1_Yellow.blp
@@ -68347,6 +68352,7 @@
 5347043;creature/RagnarosMount/Ember_Offset_Streak.blp
 5347047;creature/RagnarosMount/7FX_AlphaMask_Glow.blp
 5347048;creature/RagnarosMount/GenericGlow_Alpha_128.blp
+5347583;creature/StormGryphonBaby/soft_flare_.blp
 5347584;creature/StormGryphonBaby/ArmorReflect4.blp
 5347585;creature/StormGryphonBaby/StormGryphonBaby_Body_Blue.blp
 5347587;creature/StormGryphonBaby/StormGryphonBaby00.skin
@@ -69980,6 +69986,7 @@
 5556670;Creature/ShaleSpider/ShaleSpider_lod01.skin
 5556671;Creature/ShaleSpider/ShaleSpider_lod02.skin
 5556672;Creature/ShaleSpider/ShaleSpider_lod03.skin
+5557611;Creature/StormGryphonPet2/soft_flare_.blp
 5557612;Creature/StormGryphonPet2/ArmorReflect4.blp
 5557614;Creature/StormGryphonPet2/StormGryphonPet200.skin
 5557615;Creature/StormGryphonPet2/StormGryphonPet2_lod01.skin
@@ -70055,6 +70062,7 @@
 5569261;Creature/DwarvenMechBoss/Smoke_Soft_01.blp
 5569263;Creature/DwarvenMechBoss/grey50percentsquare16x16_a.blp
 5569266;Creature/DwarvenMechBoss/Fire_FlameLicks_DissolveFBs_Blend.blp
+5569268;Creature/DwarvenMechBoss/soft_flare_.blp
 5569269;Creature/DwarvenMechBoss/8FX_Basic_Spark_Sheet.blp
 5569518;creature/stormcrowmount_solar/stormcrowmount_arcane0062-00.anim
 5569548;creature/deepseafish/deepseafish_lod01.skin
@@ -71916,6 +71924,7 @@
 5902174;Creature/MechaDevilsaur/ArmorReflect4.blp
 5902175;Creature/MechaDevilsaur/MechaDevilsaur_Glow.blp
 5902176;Creature/MechaDevilsaur/8FX_Basic_Spark_Sheet.blp
+5902177;Creature/MechaDevilsaur/soft_flare_.blp
 5902179;Creature/MechaDevilsaur/MechaDevilsaur00.skin
 5902180;Creature/MechaDevilsaur/MechaDevilsaur_lod01.skin
 5902181;Creature/MechaDevilsaur/MechaDevilsaur_lod02.skin
@@ -72364,6 +72373,7 @@
 5931643;Creature/MechaDevilsaurMount/8FX_ExplosionSmoke_A.blp
 5931645;Creature/MechaDevilsaurMount/MechaDevilsaurMount_Body_Yellow.blp
 5931647;Creature/MechaDevilsaurMount/ArmorReflect4.blp
+5931651;Creature/MechaDevilsaurMount/soft_flare_.blp
 5931653;Creature/MechaDevilsaurMount/8FX_Basic_Spark_Sheet.blp
 5931657;Creature/MechaDevilsaurMount/MechaDevilsaurMount_Saddle_Yellow.blp
 5931659;Creature/MechaDevilsaurMount/MechaDevilsaurMount00.skin
@@ -72640,6 +72650,7 @@
 6027177;Creature/MurlocBabyThrall/smoke_loose_02_256_blend_contrast.blp
 6027178;Creature/MurlocBabyThrall/grey50percentsquare16x16_a.blp
 6027189;Creature/MurlocBabyThrall/8FX_Painted_CloudScroll_02.blp
+6027210;Creature/MurlocBabyThrall/soft_flare_.blp
 6027220;Creature/MurlocBabyThrall/white_64.blp
 6031515;creature/Hobgoblin2_Brawler/Hobgoblin2_Brawler0079-00.anim
 6031516;creature/Hobgoblin2_Brawler/Hobgoblin2_Brawler0069-00.anim
@@ -72786,6 +72797,7 @@
 6051323;Creature/KareshFox/KareshFox.m2
 6052871;Creature/VoidFlyerMount/VoidFlyerMount.m2
 6055759;Creature/IGC_Alleria2/IGC_Alleria21468-00.anim
+6055878;Creature/IGC_Turalyon/Bow_1H_PandaRaid_D_01_Spark.blp
 6055885;Creature/IGC_Turalyon/ArmorReflect4.blp
 6055909;Creature/IGC_Turalyon/IGC_Turalyon1454-00.anim
 6055913;Creature/IGC_Turalyon/IGC_Turalyon1460-00.anim
@@ -72850,6 +72862,7 @@
 6074846;Creature/GoblinShredderMech/8FX_ExplosionSmoke_A.blp
 6074847;Creature/GoblinShredderMech/ArmorReflect4.blp
 6074848;Creature/GoblinShredderMech/8FX_Basic_Spark_Sheet.blp
+6074849;Creature/GoblinShredderMech/soft_flare_.blp
 6074853;Creature/GoblinShredderMech/GoblinShredderMech00.skin
 6074854;Creature/GoblinShredderMech/GoblinShredderMech_lod01.skin
 6074855;Creature/GoblinShredderMech/GoblinShredderMech_lod02.skin
@@ -73017,6 +73030,7 @@
 6100920;Creature/AirshipMountGold/AirshipMountGold_Glow.blp
 6100922;Creature/AirshipMountGold/ArmorReflect4.blp
 6100923;Creature/AirshipMountGold/8FX_Basic_Spark_Sheet.blp
+6100924;Creature/AirshipMountGold/soft_flare_.blp
 6100925;Creature/AirshipMountGold/AirshipMountGold00.skin
 6100926;Creature/AirshipMountGold/AirshipMountGold_lod01.skin
 6100927;Creature/AirshipMountGold/AirshipMountGold_lod02.skin
@@ -73473,6 +73487,7 @@
 6236735;Creature/LunarRocketMount/LunarRocketMount.blp
 6236737;Creature/LunarRocketMount/ArmorReflect4.blp
 6236739;Creature/LunarRocketMount/8FX_Basic_Spark_Sheet.blp
+6236741;Creature/LunarRocketMount/soft_flare_.blp
 6236745;Creature/LunarRocketMount/7fx_energyscroll_holy_dark.blp
 6236746;Creature/LunarRocketMount/LunarRocketMount00.skin
 6236749;Creature/LunarRocketMount/LunarRocketMount_lod01.skin
@@ -74187,6 +74202,7 @@
 6404108;Creature/ElectricEelViciousMount/7fx_energyscroll_desat.blp
 6404118;Creature/ElectricEelViciousMount/8fx_water_scroll_alpha2.blp
 6404120;Creature/ElectricEelViciousMount/8fx_water_scroll_alphadissolve.blp
+6404130;Creature/ElectricEelViciousMount/soft_flare_.blp
 6404144;Creature/ElectricEelViciousMount/7fx_alphamask_liquid_puddle.blp
 6404194;Creature/VoidCreeperMount/VoidCreeperMount_Blue.blp
 6404195;Creature/VoidCreeperMount/VoidCreeperMount_Red.blp
@@ -74260,11 +74276,13 @@
 6431501;Creature/GallywixMechMount/Smoke_Soft_01.blp
 6431503;Creature/GallywixMechMount/grey50percentsquare16x16_a.blp
 6431504;Creature/GallywixMechMount/8FX_Basic_Spark_Sheet.blp
+6431506;Creature/GallywixMechMount/soft_flare_.blp
 6431508;Creature/GallywixMechMount/white_64.blp
 6431516;Creature/GallywixMechMount/7fx_heroaura_fire_noedge.blp
 6431643;Creature/GoblinFlyingMachine/grey50percentsquare16x16_a.blp
 6431644;Creature/GoblinFlyingMachine/Smoke_Loose_01.blp
 6431648;Creature/GoblinFlyingMachine/8FX_Basic_Spark_Sheet.blp
+6431652;Creature/GoblinFlyingMachine/soft_flare_.blp
 6434908;Creature/ArthasLichKing/armorreflect3.blp
 6434909;Creature/ArthasLichKing/ArmorReflect4.blp
 6434910;Creature/ArthasLichKing/t_vfx_fire_anim02_128_full_desat_blue.blp
