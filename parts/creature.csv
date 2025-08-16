@@ -75035,6 +75035,9 @@
 7113756;Creature/DHFemaleDPS/DHFemaleDPS_lod02.skin
 7113757;Creature/DHFemaleDPS/DHFemaleDPS_lod03.skin
 7114483;Creature/BrewfestMount/BrewfestMount.m2
+7116250;Creature/Pug/Pug_Fawn.blp
+7116251;Creature/Pug/Pug_Black.blp
+7116252;Creature/Pug/Pug_Apricot.blp
 7116270;Creature/Pug/ArmorReflect4.blp
 7116272;Creature/Pug/pug_lod01.skin
 7116274;Creature/Pug/pug_lod02.skin
@@ -75085,6 +75088,7 @@
 7117885;Creature/DHMount2/DHMount_Armor_Fel.blp
 7117886;Creature/DHMount2/DHMount_Body_Fel.blp
 7117887;Creature/DHMount2/DHMount_Wings_Fel.blp
+7117889;Creature/DruidFlightForm/DruidFlightForm_Fel.blp
 7117891;Creature/DKMount/DKMountFel2.blp
 7117892;Creature/DKMount/DKMountFel1.blp
 7118792;creature/fox2/fox20061-00.anim
