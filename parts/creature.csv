@@ -73995,6 +73995,8 @@
 6372189;Creature/Firehawk2_Mount/Firehawk2_Mount_Body.blp
 6372190;Creature/Firehawk2_Mount/Firehawk2_Mount_Blades.blp
 6373734;Creature/VoidCrawler/VoidCrawler.m2
+6375142;Creature/DragonHawk2Mount_Light/DragonHawk2Mount_Light.m2
+6375144;Creature/DragonHawk2Mount_Void/DragonHawk2Mount_Void.m2
 6375189;Creature/DarkMoonHorseMount/ArmorReflect4.blp
 6375192;Creature/DarkMoonHorseMount/DarkMoonHorseMount00.skin
 6375194;Creature/DarkMoonHorseMount/DarkMoonHorseMount_lod01.skin
@@ -74126,6 +74128,8 @@
 6401972;Creature/IGC_NikkiTheFixer/IGC_NikkiTheFixer_lod01.skin
 6401975;Creature/IGC_NikkiTheFixer/IGC_NikkiTheFixer_lod02.skin
 6401978;Creature/IGC_NikkiTheFixer/IGC_NikkiTheFixer_lod03.skin
+6402837;Creature/DragonHawkPet_Light/DragonHawkPet_Light.m2
+6402839;Creature/DragonHawkPet_Void/DragonHawkPet_Void.m2
 6402847;Creature/ShadowguardMech/ArmorReflect_Rainbow.blp
 6402850;Creature/ShadowguardMech/ShadowguardMech0079-00.anim
 6402852;Creature/ShadowguardMech/ShadowguardMech0066-00.anim
@@ -74222,6 +74226,12 @@
 6404219;Creature/VoidCreeperMount/VoidCreeperMount_lod01.skin
 6404222;Creature/VoidCreeperMount/VoidCreeperMount_lod02.skin
 6404225;Creature/VoidCreeperMount/VoidCreeperMount_lod03.skin
+6404277;Creature/DragonHawk2Mount_Light/DragonHawk2Mount_Light.blp
+6404278;Creature/DragonHawk2Mount_Light/DragonHawk2Mount_Light_Glow.blp
+6404279;Creature/DragonHawk2Mount_Light/DragonHawk2Mount_Light_Saddle.blp
+6404280;Creature/DragonHawk2Mount_Void/DragonHawk2Mount_Void.blp
+6404281;Creature/DragonHawk2Mount_Void/DragonHawk2Mount_Void_Glow.blp
+6404282;Creature/DragonHawk2Mount_Void/DragonHawk2Mount_Void_Saddle.blp
 6422460;Creature/ChromaticDragonPet2/ChromaticDragonPet2.m2
 6422466;Creature/DragonChromaticMount2/DragonChromaticMount2.m2
 6423196;Creature/CosmicDragonMount/CosmicDragonMount.m2
@@ -74548,6 +74558,10 @@
 6694902;Creature/crocsunpet/crocsunpet_lod02.skin
 6694903;Creature/crocsunpet/crocsunpet_lod03.skin
 6699390;Creature/ChimeraFireMount/ChimeraFireMount.m2
+6699828;Creature/DragonHawk2Mount_Light/White8x8.blp
+6699832;Creature/DragonHawk2Mount_Light/Smoke_Soft_01.blp
+6699840;Creature/DragonHawk2Mount_Light/grey50percentsquare16x16_a.blp
+6699852;Creature/DragonHawk2Mount_Light/ArmorReflect_Hard.blp
 6699878;Creature/SoulScribe/SoulScribe0185-00.anim
 6700115;Creature/ChimeraFireMount/ember_chunky_blankmorerotation_A.blp
 6700116;Creature/ChimeraFireMount/White8x8.blp
@@ -74697,6 +74711,10 @@
 6789866;Creature/DimensiusBoss03/DimensiusBoss03_lod01.skin
 6789869;Creature/DimensiusBoss03/DimensiusBoss03_lod02.skin
 6789872;Creature/DimensiusBoss03/DimensiusBoss03_lod03.skin
+6791897;Creature/DragonHawkPet_Void/White8x8.blp
+6791899;Creature/DragonHawkPet_Void/DragonHawkPet_Void.blp
+6791900;Creature/DragonHawkPet_Void/DragonHawkPet_Void_Glow.blp
+6791901;Creature/DragonHawkPet_Void/DragonHawkPet_Void_FX.blp
 6792180;Creature/OverchargedMech/White8x8.blp
 6792181;Creature/OverchargedMech/grey50percentsquare16x16_a.blp
 6792185;Creature/OverchargedMech/ArmorReflect4.blp
@@ -74705,6 +74723,11 @@
 6792197;Creature/OverchargedMech/OverchargedMech_lod01.skin
 6792198;Creature/OverchargedMech/OverchargedMech_lod02.skin
 6792199;Creature/OverchargedMech/OverchargedMech_lod03.skin
+6792420;Creature/DragonHawkPet_Light/Ember_Offset_Grey.blp
+6792421;Creature/DragonHawkPet_Light/White8x8.blp
+6792422;Creature/DragonHawkPet_Light/DragonHawkPet_Light.blp
+6792423;Creature/DragonHawkPet_Light/DragonHawkPet_Light_Glow.blp
+6792424;Creature/DragonHawkPet_Light/DragonHawkPet_Light_FX.blp
 6794437;Creature/IGC_Alleria3/White8x8.blp
 6794438;Creature/IGC_Alleria3/Gray_64.blp
 6794461;Creature/IGC_Alleria3/IGC_Alleria300.skin
@@ -74728,6 +74751,7 @@
 6796874;creature/eyeofnzothpet/eyeofnzothpet_lod01.skin
 6796875;creature/eyeofnzothpet/eyeofnzothpet_lod02.skin
 6796876;creature/eyeofnzothpet/eyeofnzothpet_lod03.skin
+6797339;Creature/DragonHawk2Mount_Void/White8x8.blp
 6797383;creature/shadowguardethereal_caster01/shadowguardethereal_caster011732-00.anim
 6798870;Creature/Scorpion/Scorpion_lod01.skin
 6798873;Creature/Scorpion/Scorpion_lod02.skin
@@ -74813,6 +74837,9 @@
 6907996;creature/Fractillus/Fractillus_lod01.skin
 6907998;creature/Fractillus/Fractillus_lod02.skin
 6907999;creature/Fractillus/Fractillus_lod03.skin
+6917792;Creature/DragonHawk2Mount_Void/Smoke_Soft_01.blp
+6917799;Creature/DragonHawk2Mount_Void/7FX_AlphaMask_Glow.blp
+6917801;Creature/DragonHawk2Mount_Void/white_64.blp
 6917935;Creature/FelStalkerMount/FelStalkerMount_lod01.skin
 6917936;Creature/FelStalkerMount/FelStalkerMount_lod02.skin
 6917937;Creature/FelStalkerMount/FelStalkerMount_lod03.skin
@@ -75191,6 +75218,9 @@
 7150527;Creature/SeahorseMount_orange.blp
 7150528;Creature/SeahorseMount_purple.blp
 7150529;Creature/SeahorseMount_yellow.blp
+7152709;Creature/DragonHawk2Mount_Light/Gray8x8.blp
+7152712;Creature/DragonHawk2Mount_Light/7fx_energyscroll_desat.blp
+7152714;Creature/DragonHawk2Mount_Light/textureblendset_4194.blp
 7153763;Creature/KareshFox/KareshFox0061-00.anim
 7194141;Creature/BrewfestMount/white_64.blp
 7194144;Creature/BrewfestMount/8FX_Painted_CloudScroll_02.blp
@@ -75236,6 +75266,8 @@
 7212481;Creature/SealPet_Winter/SealPet_Winter_lod03.skin
 7216214;creature/voidterror2/voidterror2_lod01.skin
 7216215;creature/voidterror2/voidterror2_lod02.skin
+7228372;Creature/DragonHawk2Mount_Void/Gray_64.blp
+7228376;Creature/DragonHawk2Mount_Void/Gray8x8.blp
 7233136;Creature/TuskarrMooseMount/TuskarrMooseMount_Body_Blue.blp
 7233137;Creature/TuskarrMooseMount/TuskarrMooseMount_Body_Green.blp
 7233138;Creature/TuskarrMooseMount/TuskarrMooseMount_Body_Violet.blp
