@@ -410,14 +410,13 @@ namespace ListfileTool
             var placeholderFiles = new Dictionary<uint, string>();
             foreach (var file in sourceListfile)
             {
-                var filenameLower = file.Value.ToLower();
                 if (
-                    filenameLower.StartsWith("models") ||
-                    filenameLower.StartsWith("unkmaps") ||
-                    filenameLower.Contains("autogen-names") ||
-                    filenameLower.Contains(file.Key.ToString()) ||
-                    filenameLower.Contains("unk_exp") ||
-                    filenameLower.Contains("tileset/unused")
+                    file.Value.StartsWith("models", StringComparison.OrdinalIgnoreCase) ||
+                    file.Value.StartsWith("unkmaps", StringComparison.OrdinalIgnoreCase) ||
+                    file.Value.Contains("autogen-names", StringComparison.OrdinalIgnoreCase) ||
+                    file.Value.Contains(file.Key.ToString(), StringComparison.OrdinalIgnoreCase) ||
+                    file.Value.Contains("unk_exp", StringComparison.OrdinalIgnoreCase) ||
+                    file.Value.Contains("tileset/unused", StringComparison.OrdinalIgnoreCase)
                     )
                 {
                     placeholderFiles.TryAdd(file.Key, file.Value);
@@ -432,18 +431,23 @@ namespace ListfileTool
             sourceListfile = sourceListfile.Where(x => !placeholderFiles.ContainsKey(x.Key)).ToDictionary(x => x.Key, x => x.Value);
 
             // Ensure that referenced files from unknown M2s are also added
-            var placeholderM2s = placeholderFiles.Where(x => x.Value.ToLower().EndsWith(".m2")).Select(x => x.Key.ToString()).ToList();
+            var placeholderM2s = placeholderFiles.Where(x => x.Value.EndsWith(".m2", StringComparison.OrdinalIgnoreCase)).Select(x => x.Key).ToHashSet();
+
             foreach (var file in sourceListfile)
             {
                 var filename = Path.GetFileNameWithoutExtension(file.Value);
                 if (filename.Length == 0 || !char.IsDigit(filename[0]) || file.Value.StartsWith("textures", StringComparison.OrdinalIgnoreCase))
                     continue;
 
-                foreach (var phFile in placeholderM2s)
-                {
-                    if (filename.StartsWith(phFile))
-                        placeholderFiles.Add(file.Key, file.Value);
-                }
+                int i = 0;
+                while (i < filename.Length && char.IsDigit(filename[i]))
+                    i++;
+
+                if (i == 0)
+                    continue;
+
+                if (uint.TryParse(filename.AsSpan(0, i), out var leadingId) && placeholderM2s.Contains(leadingId))
+                    placeholderFiles.TryAdd(file.Key, file.Value);
             }
 
             sourceListfile = sourceListfile.Where(x => !placeholderFiles.ContainsKey(x.Key)).ToDictionary(x => x.Key, x => x.Value);
