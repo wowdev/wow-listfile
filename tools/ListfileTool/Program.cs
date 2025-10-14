@@ -49,6 +49,9 @@ namespace ListfileTool
                     case "compileVerified":
                         Compile(args[1], args[2], true);
                         break;
+                    case "mergeLookups":
+                        MergeLookups(args[1], args[2]);
+                        break;
                     default:
                         Console.WriteLine("Unknown mode: " + args[0]);
                         Environment.Exit(-1);
@@ -517,7 +520,7 @@ namespace ListfileTool
 
             if (verifiedNames)
             {
-                // meta/lookup.csv hould be one path above inputDir
+                // meta/lookup.csv should be one path above inputDir
                 var lookupFile = Path.Combine(Directory.GetParent(inputDir).FullName, "meta", "lookup.csv");
 
                 if (!File.Exists(lookupFile))
@@ -562,6 +565,67 @@ namespace ListfileTool
 
             File.WriteAllText(Path.Combine(outputDir, outputNameCapitals), string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
             File.WriteAllText(Path.Combine(outputDir, outputNameNoCapitals), string.Join("\r\n", mergedListfile.Select(x => x.Key + ";" + x.Value.ToLower().Replace("\\", "/"))) + "\r\n");
+        }
+
+        static void MergeLookups(string inputFile, string outputFile)
+        {
+            var mergedLookups = new Dictionary<uint, ulong>();
+            if (!File.Exists(inputFile))
+                throw new Exception("Input file does not exist, cannot continue.");
+            var outFileLines = File.ReadLines(outputFile);
+            foreach (var line in outFileLines)
+            {
+                var split = line.Split(';');
+                if (split.Length != 2)
+                    continue;
+
+                if (!uint.TryParse(split[0], out var fileDataID) || !ulong.TryParse(split[1], System.Globalization.NumberStyles.HexNumber, null, out var lookup))
+                    continue;
+
+                mergedLookups.TryAdd(fileDataID, lookup);
+            }
+
+            var inFileLines = File.ReadLines(inputFile);
+
+            // TODO: better detection
+            var isHex = inputFile.EndsWith(".csv", StringComparison.OrdinalIgnoreCase);
+            Console.WriteLine("Assuming input file is " + (isHex ? "hex" : "decimal") + " lookups because of extension.");
+            
+            foreach (var line in inFileLines)
+            {
+                var split = line.Split(';');
+                if (split.Length != 2)
+                    continue;
+
+                if (!uint.TryParse(split[0], out var fileDataID))
+                    continue;
+
+                ulong lookup;
+
+                if (isHex)
+                {
+                    if (!ulong.TryParse(split[1], System.Globalization.NumberStyles.HexNumber, null, out lookup))
+                        continue;
+                }
+                else
+                {
+                    if (!ulong.TryParse(split[1], out lookup))
+                        continue;
+                }
+
+                if (mergedLookups.TryGetValue(uint.Parse(split[0]), out var existingLookup))
+                {
+                    if (lookup != existingLookup)
+                        Console.WriteLine("!!! Warning: Skipping duplicate FileDataID " + split[0] + " with different lookup: " + existingLookup.ToString("X16") + " != " + lookup.ToString("X16"));
+                }
+                else
+                {
+                    mergedLookups.TryAdd(fileDataID, lookup);
+                }
+            }
+
+            mergedLookups = mergedLookups.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
+            File.WriteAllText(outputFile, string.Join("\r\n", mergedLookups.Select(x => x.Key + ";" + x.Value.ToString("X16").ToLowerInvariant())) + "\r\n");
         }
     }
 }
