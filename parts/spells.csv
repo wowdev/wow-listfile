@@ -28674,6 +28674,12 @@
 5371867;spells/FX_ScorchingPlume.m2
 5371895;spells/FX_ScorchingPlume00.skin
 5371900;Spells/10FX_Spell3500.skin
+5372150;spells/FX_SurekianDecimation_Cast_Black.blp
+5372151;spells/FX_SurekianDecimation_Cast_Blue.blp
+5372153;spells/FX_SurekianDecimation_Cast_Cyan.blp
+5372154;spells/FX_SurekianDecimation_Cast_Purple.blp
+5372155;spells/FX_SurekianDecimation_Cast_Red.blp
+5372156;spells/FX_SurekianDecimation_Cast_White.blp
 5372157;spells/FX_SurekianDecimation_Cast00.skin
 5372158;spells/FX_SurekianDecimation_Cast_lod01.skin
 5372160;spells/FX_SurekianDecimation_Cast_lod02.skin
