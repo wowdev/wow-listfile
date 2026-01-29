@@ -41,6 +41,7 @@ jobs:
         prerelease: false
         tag_name: ${{ env.NOW }}    
         files: |
+            meta/lookup.csv
             tmp/community-listfile.csv
             tmp/community-listfile-withcapitals.csv
             tmp/verified-listfile.csv
