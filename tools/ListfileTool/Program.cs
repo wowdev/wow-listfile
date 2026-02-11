@@ -243,8 +243,12 @@ namespace ListfileTool
                     {
                         if (lookup != hasher.ComputeHash(inputName))
                         {
-                            Console.WriteLine("!!! Warning: Suggestion for FDID " + fileDataID + " (" + inputName + ") does not match known lookup, skipping addition.");
-                            continue;
+                            Console.WriteLine("!!! Warning: Suggestion for FDID " + fileDataID + " (" + inputName + ") does not match known lookup.");
+                            if(!inputName.Contains(fileDataID.ToString()))
+                            {
+                                Console.WriteLine("Skipping addition, does not appear to be a placeholder.");
+                                continue;
+                            }
                         }
                     }
 
