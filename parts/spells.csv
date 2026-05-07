@@ -22824,14 +22824,17 @@
 3059438;spells/8fx_enchant_raf_regular_up.m2
 3059439;spells/8fx_enchant_raf_short_down.m2
 3059440;spells/8fx_enchant_raf_short_up.m2
+3061921;SPELLS/8fx_generic_shadow_impacthigh.m2
 3061955;spells/8fx_enchant_raf_generic00.skin
 3061957;spells/8fx_enchant_raf_regular_down00.skin
 3061959;spells/8fx_enchant_raf_regular_up00.skin
 3061966;spells/8fx_enchant_raf_short_down00.skin
 3061968;spells/8fx_enchant_raf_short_up00.skin
+3061974;SPELLS/8FX_ShadowClouds_A.blp
 3061976;SPELLS/8FX_ShadowClouds_ThickA.blp
 3061977;SPELLS/8FX_ShadowEmbers_A.blp
 3062155;SPELLS/7FX_Snow_ThickWhite.blp
+3062157;SPELLS/8fx_generic_shadow_impacthigh00.skin
 3063683;SPELLS/7FX_EnergyScroll_Fire_Rotate.blp
 3065016;spells/purplealliance_arenaflagr1.m2
 3065017;spells/purplealliance_arenaflagr2.m2
@@ -23823,6 +23826,7 @@
 4212621;SPELLS/7FX_AlphaMask_GlowBrightDonut_02.blp
 4212622;SPELLS/10FX_Leaf_Litter_03.blp
 4212623;SPELLS/10FX_General_WindTile_03.blp
+4212626;SPELLS/9FX_HeroAura_RibbonMask_08.blp
 4212629;spells/FX_WindBurst_Impact00.skin
 4215761;spells/FX_FireShield_Cast.m2
 4215762;spells/FX_Fireball_Impact.m2
@@ -32546,6 +32550,7 @@
 7193953;Spells/11FX_VoidBarrierBreak01_lod01.skin
 7193954;Spells/11FX_VoidBarrierBreak01_lod02.skin
 7193955;Spells/11FX_VoidBarrierBreak01_lod03.skin
+7235487;SPELLS/9FX_WaveScrollBroken_Gold_512.blp
 7244768;spells/8fx_generic_decay_novahigh_impact_lod01.skin
 7244769;spells/8fx_generic_decay_novahigh_impact_lod02.skin
 7244771;spells/8fx_generic_decay_novahigh_impact_lod03.skin
@@ -32575,6 +32580,9 @@
 7361663;SPELLS/InstancePortal_Green_25Man_lod01.skin
 7361665;SPELLS/InstancePortal_Green_25Man_lod02.skin
 7393475;spells/10FX_Lightning_Circle_512.blp
+7455469;SPELLS/starfield09.blp
+7465460;SPELLS/11FX_WispyMagic_Holyfire02.BLP
 7467146;spells/10FX_Lightning_Circle_1024_Yellow.blp
 7469381;spells/10FX_Lightning_Circle_Yellow_1024.blp
 7480763;spells/10FX_Lightning_Circle_1024_Yellow_2.blp
+7508040;SPELLS/Heart03.blp
