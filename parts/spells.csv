@@ -26572,6 +26572,9 @@
 4696739;spells/11FX_NerubarPalace_QueenAnsurek_Gorge_Precast.m2
 4696740;spells/CFX_FXTestSpell_Impact01.m2
 4696741;spells/10FX_Aberrus_EchoofNeltharion_UnstableMutation_Cast.m2
+4696760;Spells/10FX_Void_Stars.blp
+4696762;Spells/10FX_Shards_03.blp
+4696764;Spells/10FX_StarField_Tile_04.blp
 4696774;spells/CFX_FXTestSpell_Impact00.skin
 4696776;spells/10FX_Aberrus_Sarkareth_InfiniteDuress_Cast00.skin
 4696788;spells/10FX_Aberrus_Sarkareth_InfiniteDuress_Precast00.skin
@@ -27279,6 +27282,7 @@
 5041550;spells/FX_CosmicAscension_Precast_lod01.skin
 5041551;spells/FX_CosmicAscension_Precast_lod02.skin
 5041552;spells/FX_CosmicAscension_Precast_lod03.skin
+5041652;Spells/10FX_Void_Smoke_Scroll_A_05_faded_nostars_noalpha.blp
 5041654;spells/10FX_Aberrus_Sarkareth_DimensionalPuncture00.skin
 5041655;spells/10FX_Aberrus_Sarkareth_DimensionalPuncture_lod01.skin
 5041656;spells/10FX_Aberrus_Sarkareth_DimensionalPuncture_lod02.skin
@@ -29404,6 +29408,7 @@
 5465351;Spells/11FX_CinderBrew01_lod01.skin
 5465353;Spells/11FX_CinderBrew01_lod02.skin
 5465354;Spells/11FX_CinderBrew01_lod03.skin
+5465849;spells/7FX_EnergyScroll_Gray_Blur.blp
 5465852;spells/CFX_Druid_ConvoketheSpirits_Channel00.skin
 5467189;Spells/10FX_StarFall01.m2
 5469842;spells/FX_CosmeticReadingBook_Aura0200.skin
@@ -30827,6 +30832,7 @@
 5868963;spells/CFX_Priest_CollapsingVoid_Cast.m2
 5868964;Spells/11FX_VoidCircle02.m2
 5868981;spells/FX_WebAssault_Aura00.skin
+5869144;Spells/10FX_River_Mask_01.blp
 5869152;Spells/11FX_VoidBolt0100.skin
 5869153;Spells/11FX_VoidBolt01_lod01.skin
 5869154;Spells/11FX_VoidBolt01_lod02.skin
@@ -31554,6 +31560,7 @@
 6325316;spells/CFX_Hunter_BoarCharge_Cast_lod02.skin
 6325317;spells/CFX_Hunter_BoarCharge_Cast_lod03.skin
 6325318;spells/CFX_Hunter_Spawn_Cast0200.skin
+6325321;spells/7FX_LightraysUp_Bright_NoBits.blp
 6325327;spells/FX_Block_Channel00.skin
 6325328;spells/FX_Block_Channel_lod01.skin
 6325329;spells/FX_Block_Channel_lod02.skin
@@ -32173,6 +32180,7 @@
 6891196;Spells/11FX_UnboundRage_Cast.m2
 6891197;Spells/FX_DarkenedSky_AreaTrigger01.m2
 6891198;Spells/FX_DarkenedSky_AreaTrigger.m2
+6891230;Spells/11KRS_crystalReflection01.blp
 6891232;Spells/FX_DarkenedSky_AreaTrigger00.skin
 6891406;Spells/11FX_UnboundRage_Cast00.skin
 6891940;Spells/11FX_UnboundRage_Cast0100.skin
