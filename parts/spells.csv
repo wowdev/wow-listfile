@@ -24429,6 +24429,7 @@
 4394998;spells/FX_AntleredSkull_Aura_lod01.skin
 4394999;spells/FX_AntleredSkull_Aura_lod02.skin
 4395000;spells/FX_AntleredSkull_Aura_lod03.skin
+4395048;Spells/10FX_Flare_Frost.blp
 4395050;spells/FX_AbsoluteZero_Aura00.skin
 4395051;spells/FX_TidalWave_Impact00.skin
 4395071;spells/10FX_HallsofInfusion_KhajintheUnyielding_Avalanche_Cast.m2
@@ -24666,6 +24667,7 @@
 4478818;spells/10FX_Algethar_Crawth_GaleForce_Cast_lod01.skin
 4478820;spells/10FX_Algethar_Crawth_GaleForce_Cast_lod02.skin
 4478822;spells/10FX_Algethar_Crawth_GaleForce_Cast_lod03.skin
+4478838;Spells/10FX_ArcaneWipe.blp
 4478845;spells/CFX_Evoker_EternitySurge_Cast_lod03.skin
 4478847;spells/10FX_Algethar_Crawth_OverpoweringGust_Cast00.skin
 4478848;spells/10FX_Algethar_Crawth_OverpoweringGust_Cast_lod01.skin
@@ -31423,6 +31425,7 @@
 6224576;spells/FX_BlaringDrop_Cast_lod01.skin
 6224577;spells/FX_BlaringDrop_Cast_lod02.skin
 6224578;spells/FX_BlaringDrop_Cast_lod03.skin
+6225073;Spells/11FX_Lightning_Large_1024.blp
 6225075;spells/11FX_UndermineRaid_CauldronofCarnage_StaticDischarge_Aura00.skin
 6225078;spells/11FX_UndermineRaid_CauldronofCarnage_StaticDischarge_Aura_lod01.skin
 6225081;spells/11FX_UndermineRaid_CauldronofCarnage_StaticDischarge_Aura_lod02.skin
@@ -31868,6 +31871,11 @@
 6438226;Spells/11FX_Overloading_Precast00.skin
 6438267;Spells/11FX_GearHologram0100.skin
 6641117;Spells/Smoke_RocketExhaust_front.blp
+6641984;Spells/Classic_FX_Scarlet_Precast_Hand.m2
+6641985;Spells/Classic_FX_Scarlet_Cast.m2
+6641986;Spells/Classic_FX_Scarlet_Missile.m2
+6641987;Spells/Classic_FX_Scarlet_Impact.m2
+6641988;Spells/Classic_FX_Scarlet_Breath_Cast.m2
 6641989;Spells/Classic_FX_Light_White.m2
 6641990;Spells/Classic_FX_Light_Yellow.m2
 6641991;Spells/Classic_FX_Light_Teal.m2
@@ -31887,6 +31895,11 @@
 6642047;Spells/Classic_FX_Light_Orange00.skin
 6642049;Spells/Classic_FX_Light_Green00.skin
 6642050;Spells/Classic_FX_Light_Blue00.skin
+6642051;Spells/Classic_FX_Scarlet_Breath_Cast00.skin
+6642053;Spells/Classic_FX_Scarlet_Precast_Hand00.skin
+6642059;Spells/Classic_FX_Scarlet_Cast00.skin
+6642063;Spells/Classic_FX_Scarlet_Impact00.skin
+6642071;Spells/Classic_FX_Scarlet_Missile00.skin
 6642267;Spells/11FX_ArcaneTurbine_Aura.m2
 6647751;Spells/smokewispy_roundsponge.blp
 6647753;Spells/Fire1BW.blp
@@ -32592,6 +32605,7 @@
 7465460;SPELLS/11FX_WispyMagic_Holyfire02.BLP
 7467146;spells/10FX_Lightning_Circle_1024_Yellow.blp
 7469381;spells/10FX_Lightning_Circle_Yellow_1024.blp
+7480065;Spells/11FX_Mask_Dragon_01.blp
 7480763;spells/10FX_Lightning_Circle_1024_Yellow_2.blp
 7508036;SPELLS/Heart05.blp
 7508038;SPELLS/Heart06.blp
