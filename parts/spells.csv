@@ -31125,6 +31125,8 @@
 5945868;spells/11FX_UndermineRaid_Sprocketmonger_VoidHell_Precast0100.skin
 5945871;spells/11FX_UndermineRaid_Gallywix_CanisterDetonation_Impact00.skin
 5945872;spells/FX_BloodBolt_Cast00.skin
+5947905;Spells/11FX_Arcane_Bubble_A.blp
+5947909;Spells/11FX_Arcane_Flare_Blues.blp
 5947924;spells/FX_PhantomStrikes_Impact00.skin
 5947936;spells/FX_ArcaneBombardment_Cast00.skin
 5947955;spells/FX_SpringsKeeper_Cast_lod01.skin
@@ -31202,6 +31204,9 @@
 6031467;spells/FX_CrystallineAbsence_Cast_lod01.skin
 6031468;spells/FX_CrystallineAbsence_Cast_lod02.skin
 6031469;spells/FX_CrystallineAbsence_Cast_lod03.skin
+6043556;Spells/11FX_Arcane_Wisps_A.blp
+6043564;Spells/11FX_Arcane_Energy_Blend.blp
+6043574;Spells/11FX_Arcane_Pink_Solid_A.blp
 6055059;Spells/11FX_Karesh_GroundDecal01.m2
 6055060;Spells/11FX_Karesh_GroundDecal02.m2
 6055062;Spells/11FX_Karesh_GroundDecal03.m2
@@ -31254,6 +31259,7 @@
 6081140;spells/FX_GarbagemancersLastResort_Missile_lod01.skin
 6081144;spells/FX_GarbagemancersLastResort_Missile_lod02.skin
 6081149;spells/FX_GarbagemancersLastResort_Missile_lod03.skin
+6100387;Spells/11FX_Arcane_Beam_Energy_A.blp
 6100390;spells/FX_ArcaneBombardment_Cast0100.skin
 6100392;spells/FX_ArcaneBombardment_Cast01_lod01.skin
 6100394;spells/FX_ArcaneBombardment_Cast01_lod02.skin
@@ -31505,6 +31511,7 @@
 6310160;spells/FX_Lights_Aura01_lod01.skin
 6310161;spells/FX_Lights_Aura01_lod02.skin
 6310162;spells/FX_Lights_Aura01_lod03.skin
+6310605;Spells/11FX_Arcane_Smoke_Energy.blp
 6310610;spells/FX_CrowdDivider_Precast00.skin
 6310611;spells/FX_CrowdDivider_Precast_lod01.skin
 6310612;spells/FX_CrowdDivider_Precast_lod02.skin
@@ -31809,6 +31816,7 @@
 6402407;spells/FX_PosiPolarization_Aura.m2
 6402408;Spells/11FX_ElectricCircleFull01.m2
 6402409;Spells/11FX_ElectricCircle01.m2
+6402413;Spells/11FX_Arcane_Star_Core_A.blp
 6402414;Spells/11FX_PhaseDiving_Aura0200.skin
 6402435;spells/FX_ProductDeployment_Travel00.skin
 6402436;spells/FX_ProductDeployment_Travel_lod01.skin
@@ -32602,6 +32610,7 @@
 7361665;SPELLS/InstancePortal_Green_25Man_lod02.skin
 7393475;spells/10FX_Lightning_Circle_512.blp
 7455469;SPELLS/starfield09.blp
+7456442;Spells/11FX_Frost_Rune_A.blp
 7465460;SPELLS/11FX_WispyMagic_Holyfire02.BLP
 7467146;spells/10FX_Lightning_Circle_1024_Yellow.blp
 7469381;spells/10FX_Lightning_Circle_Yellow_1024.blp
@@ -32614,3 +32623,5 @@
 7508036;SPELLS/Heart05.blp
 7508038;SPELLS/Heart06.blp
 7508040;SPELLS/Heart03.blp
+7758148;Spells/10gsl_grass01_1024.blp
+7903052;Spells/Maelstrom_LightRays.blp
