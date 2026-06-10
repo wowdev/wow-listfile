@@ -1,28 +1,7 @@
-# ⚠Important update⚠ 
-_(Last updated August 1st 2024 @ 02:15 CEST)_  
-
-**_TL;DR Use the listfiles from releases from now on, NOT the listfiles in the repository as these have been removed._**
-
-Direct links for the latest full listfile from the latest release:  
-**[community-listfile.csv](https://github.com/wowdev/wow-listfile/releases/latest/download/community-listfile.csv)**  
-**[community-listfile-withcapitals.csv](https://github.com/wowdev/wow-listfile/releases/latest/download/community-listfile-withcapitals.csv)**
-
-Due to the 100MB size limit on files inside GitHub repos, complete versions of the community listfiles will from now on be distributed [through GitHub releases](https://github.com/wowdev/wow-listfile/releases).
-
-**Update May 23rd 2024:** As announced in August 2023, the community listfiles in the repository will soon be removed.
-
-**Update June 27th 2024:** The listfiles in the repo are no longer updated because they hit max size again. Only listfiles from releases will still receive updates.
-
-**Update August 1st 2024:** The in-repo listfiles have now been removed as announced in August 2023.
-
-----
-
 # Listfiles
 This repository contains filenames and tools to generate listfiles for use with World of Warcraft.
 
 ## Downloading
-When downloading one of the listfiles, make sure to use the one from the latest release as the ones in the repository itself are either outdated or missing certain files to stay under the 100MB file limit imposed by GitHub.  
-
 Direct links to the latest released listfiles:  
 - **[community-listfile.csv](https://github.com/wowdev/wow-listfile/releases/latest/download/community-listfile.csv)**  
 - **[community-listfile-withcapitals.csv](https://github.com/wowdev/wow-listfile/releases/latest/download/community-listfile-withcapitals.csv)**
