@@ -461,7 +461,7 @@ namespace ListfileTool
 
             File.WriteAllText(Path.Combine(outputDir, "placeholder.csv"), string.Join("\r\n", placeholderFiles.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
 
-            var splitFilters = new string[] { "creature", "item", "spells", "sound", "interface", "world/maps", "world/wmo", "world/minimaps", "world" };
+            var splitFilters = new string[] { "creature", "item", "spells", "sound", "interface", "world/maps", "world/wmo", "world/minimaps", "world/" };
 
             foreach (var filter in splitFilters)
             {
@@ -472,7 +472,11 @@ namespace ListfileTool
                 {
                     try
                     {
-                        File.WriteAllText(Path.Combine(outputDir, filter.Replace("/", "-") + ".csv"), string.Join("\r\n", filteredListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
+                        var filename = filter.Replace("/", "-") + ".csv";
+                        if(filename.EndsWith("-.csv"))
+                            filename = filename.Replace("-.csv", ".csv");
+
+                        File.WriteAllText(Path.Combine(outputDir, filename), string.Join("\r\n", filteredListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
                         break;
                     }
                     catch (IOException e)
