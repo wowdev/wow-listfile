@@ -239,12 +239,15 @@ namespace ListfileTool
 
                 if (uint.TryParse(split[0], out var fileDataID))
                 {
-                    if (lookups.TryGetValue(fileDataID, out ulong lookup))
+                    ulong lookup = 0;
+                    var lookupMismatch = false;
+                    if (lookups.TryGetValue(fileDataID, out lookup))
                     {
                         if (lookup != hasher.ComputeHash(inputName))
                         {
                             Console.WriteLine("!!! Warning: Suggestion for FDID " + fileDataID + " (" + inputName + ") does not match known lookup.");
-                            if(!inputName.Contains(fileDataID.ToString()))
+                            lookupMismatch = true;
+                            if (!inputName.Contains(fileDataID.ToString()))
                             {
                                 Console.WriteLine("Skipping addition, does not appear to be a placeholder.");
                                 continue;
@@ -254,6 +257,12 @@ namespace ListfileTool
 
                     if (mergedListfile.ContainsKey(fileDataID))
                     {
+                        if (lookup != 0 && lookup == hasher.ComputeHash(mergedListfile[fileDataID]))
+                        {
+                            Console.WriteLine("!!! Warning: Suggestion for FDID " + fileDataID + " (" + inputName + ") does not match known lookup AND existing filename does match lookup. Skipping.");
+                            continue;
+                        }
+
                         if (remove)
                         {
                             Console.WriteLine("Removing " + fileDataID + " from listfile");
@@ -473,7 +482,7 @@ namespace ListfileTool
                     try
                     {
                         var filename = filter.Replace("/", "-") + ".csv";
-                        if(filename.EndsWith("-.csv"))
+                        if (filename.EndsWith("-.csv"))
                             filename = filename.Replace("-.csv", ".csv");
 
                         File.WriteAllText(Path.Combine(outputDir, filename), string.Join("\r\n", filteredListfile.Select(x => x.Key + ";" + x.Value.Replace("\\", "/"))) + "\r\n");
@@ -598,7 +607,7 @@ namespace ListfileTool
             // TODO: better detection
             var isHex = inputFile.EndsWith(".csv", StringComparison.OrdinalIgnoreCase);
             Console.WriteLine("Assuming input file is " + (isHex ? "hex" : "decimal") + " lookups because of extension.");
-            
+
             foreach (var line in inFileLines)
             {
                 var split = line.Split(';');
