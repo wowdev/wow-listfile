@@ -259,8 +259,11 @@ namespace ListfileTool
                     {
                         if (lookup != 0 && lookup == hasher.ComputeHash(mergedListfile[fileDataID]))
                         {
-                            Console.WriteLine("!!! Warning: Suggestion for FDID " + fileDataID + " (" + inputName + ") does not match known lookup AND existing filename does match lookup. Skipping.");
-                            continue;
+                            if (!mergedListfile[fileDataID].Equals(inputName, StringComparison.CurrentCultureIgnoreCase))
+                            {
+                                Console.WriteLine("!!! Warning: Suggestion for FDID " + fileDataID + " (" + inputName + ") does not match known lookup AND existing filename does match lookup. Skipping.");
+                                continue;
+                            }
                         }
 
                         if (remove)
