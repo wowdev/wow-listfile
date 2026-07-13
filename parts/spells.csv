@@ -32382,6 +32382,8 @@
 6922248;Spells/11FX_ManaforgeOmega_DimensiustheAllDevouring_GammaBurst_Precast01_lod01.skin
 6922249;Spells/11FX_ManaforgeOmega_DimensiustheAllDevouring_GammaBurst_Precast01_lod02.skin
 6922250;Spells/11FX_ManaforgeOmega_DimensiustheAllDevouring_GammaBurst_Precast01_lod03.skin
+6922706;Spells/12FX_Custom_VoidCosmic_BlackHole_Small.m2
+6922707;Spells/12FX_Custom_VoidCosmic_BlackHole_Active.m2
 6930625;Spells/11FX_MachineopeningEnergyvisualbuff_Aura00.skin
 6930626;Spells/11FX_MachineopeningEnergyvisualbuff_Aura_lod01.skin
 6930627;Spells/11FX_MachineopeningEnergyvisualbuff_Aura_lod02.skin
@@ -32438,6 +32440,9 @@
 7035014;Spells/11FX_Warp_Aura_lod01.skin
 7035015;Spells/11FX_Warp_Aura_lod02.skin
 7035016;Spells/11FX_Warp_Aura_lod03.skin
+7037153;Spells/12FX_Raid1_VoidCosmic_Door01.m2
+7037154;Spells/12FX_Raid1_VoidCosmic_Door02.m2
+7037156;Spells/12FX_Raid1_VoidCosmic_Wall01.m2
 7049130;Spells/11FX_WallVisualStalker7Beam_Aura.m2
 7049131;Spells/11FX_WallVisualStalker8Beam_Aura.m2
 7049132;Spells/11FX_WallVisualStalker9Beam_Aura.m2
@@ -32698,6 +32703,7 @@
 7262884;SPELLS/CameraVignette_lod01.skin
 7262888;SPELLS/CameraVignette_lod02.skin
 7262892;SPELLS/CameraVignette_lod03.skin
+7290031;Spells/12FX_Custom_VoidCosmic_BlackHole_Active_02.m2
 7361298;SPELLS/InstanceNewPortal_Blue_lod01.skin
 7361302;SPELLS/InstanceNewPortal_Blue_lod02.skin
 7361305;SPELLS/InstanceNewPortal_Blue_Arcane_lod01.skin
@@ -32757,12 +32763,14 @@
 7455522;Spells/11FX_SquirrelFlying_Shadow_Nova_Low_lod02.skin
 7455523;Spells/11FX_SquirrelFlying_Shadow_Nova_Low_lod03.skin
 7455635;Spells/Starfield09_Yellow.blp
+7456035;Spells/10FX_Generic_Dragon_Blue_Rune_Trickle03_v2.m2
 7456439;Spells/11FX_Squirrel_Frost_Glow_A.blp
 7456442;Spells/11FX_Frost_Rune_A.blp
 7456444;Spells/11FX_SquirrelFlying_Frost_Nova_Low00.skin
 7456445;Spells/11FX_SquirrelFlying_Frost_Nova_Low_lod01.skin
 7456446;Spells/11FX_SquirrelFlying_Frost_Nova_Low_lod02.skin
 7456447;Spells/11FX_SquirrelFlying_Frost_Nova_Low_lod03.skin
+7464002;Spells/8FX_Uldir_Door_Titan_05.m2
 7465460;SPELLS/11FX_WispyMagic_Holyfire02.BLP
 7467132;Spells/11FX_Arcane_Rune_Pawprint_02.blp
 7467146;spells/10FX_Lightning_Circle_1024_Yellow.blp
@@ -32853,6 +32861,7 @@
 7712948;Spells/FX_VenomousEruption_AreaTrigger_lod01.skin
 7712950;Spells/FX_VenomousEruption_AreaTrigger_lod02.skin
 7712952;Spells/FX_VenomousEruption_AreaTrigger_lod03.skin
+7713053;Spells/12GFX_Poison_Generic_Barrier.m2
 7725592;Spells/12FX_UlatekRaid_Ulatek_Hardened_Aura.m2
 7725593;Spells/12FX_UlatekRaid_Ulatek_Hardened_Aura01.m2
 7725595;Spells/FX_SpawnVFX_Aura.m2
