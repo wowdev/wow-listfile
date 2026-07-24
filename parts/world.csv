@@ -289676,6 +289676,11 @@
 7106731;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Pillow02_lod01.skin
 7106733;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Pillow02_lod02.skin
 7106735;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Pillow02_lod03.skin
+7106778;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Navigation_Sign01_Food01.m2
+7106863;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Navigation_Sign01_Food0100.skin
+7106864;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Navigation_Sign01_Food01_lod01.skin
+7106865;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Navigation_Sign01_Food01_lod02.skin
+7106866;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Navigation_Sign01_Food01_lod03.skin
 7106878;World/Expansion11/Doodads/Fungarian/12FN_Fungarian_Storage_Jar01_Open00.skin
 7106879;World/Expansion11/Doodads/Fungarian/12FN_Fungarian_Storage_Jar01_Open_lod01.skin
 7106880;World/Expansion11/Doodads/Fungarian/12FN_Fungarian_Storage_Jar01_Open_lod02.skin
@@ -291175,6 +291180,7 @@
 7255707;World/Expansion06/Doodads/Artifact/7AF_ARTIFACTHUB_ALTARROGUE_lod01.skin
 7255708;World/Expansion06/Doodads/Artifact/7AF_ARTIFACTHUB_ALTARROGUE_lod02.skin
 7255710;World/Expansion06/Doodads/Artifact/7AF_ARTIFACTHUB_ALTARROGUE_lod03.skin
+7257794;World/Expansion11/Doodads/12XP_DeleteMe178.m2
 7258861;World/Expansion06/Doodads/Artifact/7AF_Shaman_FurRug02_lod03.skin
 7258868;World/Expansion06/Doodads/Artifact/7AF_ARTIFACTHUB_ALTARSHAMAN_lod01.skin
 7258869;World/Expansion06/Doodads/Artifact/7AF_ARTIFACTHUB_ALTARSHAMAN_lod02.skin
@@ -291218,6 +291224,7 @@
 7260304;World/Expansion11/Doodads/PlayerHousing/12PH_Rugged_WallLamp01_lod01.skin
 7260307;World/Expansion11/Doodads/PlayerHousing/12PH_Rugged_WallLamp01_lod02.skin
 7260310;World/Expansion11/Doodads/PlayerHousing/12PH_Rugged_WallLamp01_lod03.skin
+7262672;World/Expansion11/Doodads/12XP_DeleteMe17800.skin
 7262794;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_7AF_Shaman_MissionBoard.m2
 7262795;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_7AF_Shaman_WindChime02.m2
 7262810;World/Expansion11/Doodads/PlayerHousing/12ph_leg_11ea_earthen_special_stasispod02.m2
@@ -291933,6 +291940,8 @@
 7297687;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_IronForgeBench_ornate01_lod01.skin
 7297691;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_IronForgeBench_ornate01_lod02.skin
 7297692;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_IronForgeBench_ornate01_lod03.skin
+7297711;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_PrivacyScreen01.m2
+7297712;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_TeaSet01.m2
 7298514;World/Expansion10/Doodads/10XP_Generic_Toy_TreasureBowlToy01/10XP_Generic_Toy_TreasureBowlToy01.m2
 7298686;World/Expansion10/Doodads/10XP_Generic_Toy_TreasureBowlToy01/10XP_Generic_Toy_TreasureBowlToy01.blp
 7298687;World/Expansion10/Doodads/10XP_Generic_Toy_TreasureBowlToy01/10XP_Generic_Toy_TreasureBowlToy01_Coin.blp
@@ -292004,8 +292013,10 @@
 7301966;World/Expansion11/Doodads/PlayerHousing/12PH_Light_CharacterPortrait_Turalyon.m2
 7301967;World/Expansion11/Doodads/PlayerHousing/12PH_Void_CharacterPortrait_Alleria.m2
 7301968;World/Expansion11/Doodads/PlayerHousing/12PH_Void_CharacterPortrait_Xalatath.m2
+7302331;World/Expansion11/Doodads/PlayerHousing/12PH_NightElf_Door01.m2
 7302332;World/Expansion11/Doodads/PlayerHousing/12PH_Rugged_FrontDoor01.m2
 7302333;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_FrontDoor01.m2
+7302334;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Door01.m2
 7302391;World/Expansion11/Doodads/Generic/12XP_Prey_Special_TrophyBase01.m2
 7302392;World/Expansion11/Doodads/Generic/12XP_Prey_Special_TrophyBase02.m2
 7302402;World/Expansion11/Doodads/Void/12VD_Void_Special_KaijuEgg01.m2
@@ -292275,6 +292286,10 @@
 7324286;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Decor_Tendril11_lod02.skin
 7324288;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Decor_Tendril11_lod03.skin
 7324300;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Sofa_Large01_NoCloth.m2
+7324746;World/Expansion11/Doodads/PlayerHousing/12PH_NightElf_Door0100.skin
+7324747;World/Expansion11/Doodads/PlayerHousing/12PH_NightElf_Door01_lod01.skin
+7324748;World/Expansion11/Doodads/PlayerHousing/12PH_NightElf_Door01_lod02.skin
+7324750;World/Expansion11/Doodads/PlayerHousing/12PH_NightElf_Door01_lod03.skin
 7324759;World/Expansion11/Doodads/Troll/12TR_Amani_Special_StatueEyes_Left01.m2
 7324760;World/Expansion11/Doodads/Troll/12TR_Amani_Special_StatueEyes_Right01.m2
 7326522;World/Expansion11/Doodads/PlayerHousing/silvereffect.blp
@@ -293120,6 +293135,10 @@
 7378509;world/maptextures/2993/2993_30_28_n.blp
 7378511;world/maptextures/2993/2993_30_29_n.blp
 7378513;world/maptextures/2993/2993_30_30_n.blp
+7378928;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Door0100.skin
+7378931;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Door01_lod01.skin
+7378934;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Door01_lod02.skin
+7378937;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Door01_lod03.skin
 7379312;World/Expansion11/Doodads/PlayerHousing/12PH_Rugged_FrontDoor0100.skin
 7379314;World/Expansion11/Doodads/PlayerHousing/12PH_Rugged_FrontDoor01_lod01.skin
 7379316;World/Expansion11/Doodads/PlayerHousing/12PH_Rugged_FrontDoor01_lod02.skin
@@ -293473,6 +293492,7 @@
 7427403;World/Expansion10/Doodads/WildElves/T_VFX_BORDER3.blp
 7427414;World/Expansion10/Doodads/WildElves/7fx_wavey_mask_horizontal.blp
 7427417;World/Expansion10/Doodads/WildElves/7FX_Wavey_Mask.blp
+7427813;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Food_Cake01.m2
 7427814;World/Expansion11/Doodads/PlayerHousing/12ph_bloodelf_food_cheeseboard01.m2
 7428463;World/Lordaeron/Scholomance/PassiveDoodads/BRAZIER/glowwhite32.blp
 7428464;World/Lordaeron/Scholomance/PassiveDoodads/BRAZIER/glowball.blp
@@ -293504,6 +293524,10 @@
 7428926;world/expansion07/doodads/nazjatar/8ng_nazjatar_bag01_lod01.skin
 7428927;world/expansion07/doodads/nazjatar/8ng_nazjatar_bag01_lod02.skin
 7428928;world/expansion07/doodads/nazjatar/8ng_nazjatar_bag01_lod03.skin
+7428975;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Food_Cake0100.skin
+7428978;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Food_Cake01_lod01.skin
+7428981;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Food_Cake01_lod02.skin
+7428984;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Food_Cake01_lod03.skin
 7429030;World/Expansion06/Doodads/Murloc/7MU_MURLOC_HUT01_EMPTY_lod01.skin
 7429031;World/Expansion06/Doodads/Murloc/7MU_MURLOC_HUT01_EMPTY_lod02.skin
 7429032;World/Expansion06/Doodads/Murloc/7MU_MURLOC_HUT01_EMPTY_lod03.skin
@@ -293905,6 +293929,7 @@
 7443763;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_6AK_Arakkoa_Statue01_lod01.skin
 7443766;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_6AK_Arakkoa_Statue01_lod02.skin
 7443768;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_6AK_Arakkoa_Statue01_lod03.skin
+7444580;World/Expansion11/Doodads/12XP_StratholmeFog01.m2
 7445332;World/Expansion11/Doodads/PlayerHousing/12PH_Portal_RazorwindShores0100.skin
 7445347;World/Expansion11/Doodads/PlayerHousing/12PH_Portal_FoundersPoint0100.skin
 7445403;World/Expansion11/Doodads/Durotar/12DUR_Durotar_Azshara_Rock_Medium_B04.m2
@@ -293922,6 +293947,10 @@
 7445596;World/Expansion11/Doodads/Durotar/12DUR_Durotar_Azshara_Rock_Medium_B04_lod02.skin
 7445597;World/Expansion11/Doodads/Durotar/12DUR_Durotar_Azshara_Rock_Medium_B04_lod03.skin
 7445661;world/expansion07/doodads/human/8hu_kultiras_window03_lod03.skin
+7446407;World/Expansion11/Doodads/12XP_StratholmeFog0100.skin
+7446410;World/Expansion11/Doodads/12XP_StratholmeFog01_lod01.skin
+7446415;World/Expansion11/Doodads/12XP_StratholmeFog01_lod02.skin
+7446418;World/Expansion11/Doodads/12XP_StratholmeFog01_lod03.skin
 7446431;World/Expansion11/Doodads/Generic/12XP_Prey_Special_Trophy_ThornspeakerEdgath0100.skin
 7446432;World/Expansion11/Doodads/Generic/12XP_Prey_Special_Trophy_ThornspeakerEdgath01_lod01.skin
 7446433;World/Expansion11/Doodads/Generic/12XP_Prey_Special_Trophy_ThornspeakerEdgath01_lod02.skin
@@ -294105,6 +294134,11 @@
 7465117;World/Expansion11/Doodads/Generic/12XP_Prey_Special_Trophy_RangerSwiftglade02_lod01.skin
 7465118;World/Expansion11/Doodads/Generic/12XP_Prey_Special_Trophy_RangerSwiftglade02_lod02.skin
 7465119;World/Expansion11/Doodads/Generic/12XP_Prey_Special_Trophy_RangerSwiftglade02_lod03.skin
+7467310;World/Expansion11/Doodads/Troll/12TR_Amani_Statue_Cracked01.m2
+7467542;World/Expansion11/Doodads/Troll/12TR_Amani_Statue_Cracked0100.skin
+7467543;World/Expansion11/Doodads/Troll/12TR_Amani_Statue_Cracked01_lod01.skin
+7467545;World/Expansion11/Doodads/Troll/12TR_Amani_Statue_Cracked01_lod02.skin
+7467546;World/Expansion11/Doodads/Troll/12TR_Amani_Statue_Cracked01_lod03.skin
 7467795;World/Expansion11/Doodads/PlayerHousing/12PH_DG_Legacy_Bookcase0100.skin
 7467796;World/Expansion11/Doodads/PlayerHousing/12PH_DG_Legacy_Bookcase01_lod01.skin
 7467797;World/Expansion11/Doodads/PlayerHousing/12PH_DG_Legacy_Bookcase01_lod02.skin
@@ -295930,6 +295964,10 @@
 7531403;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_MurlocPlush01_Juniper_lod01.skin
 7531404;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_MurlocPlush01_Juniper_lod02.skin
 7531405;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_MurlocPlush01_Juniper_lod03.skin
+7531409;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_PrivacyScreen0100.skin
+7531411;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_PrivacyScreen01_lod01.skin
+7531412;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_PrivacyScreen01_lod02.skin
+7531413;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_PrivacyScreen01_lod03.skin
 7531470;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_MurlocPlush01_Metallic00.skin
 7531471;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_MurlocPlush01_Metallic_lod01.skin
 7531472;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_MurlocPlush01_Metallic_lod02.skin
@@ -296122,6 +296160,10 @@
 7539603;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Sink01_lod02.skin
 7539604;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Sink01_lod03.skin
 7541585;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_Rug03_lod03.skin
+7543053;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_TeaSet0100.skin
+7543055;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_TeaSet01_lod01.skin
+7543058;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_TeaSet01_lod02.skin
+7543060;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_TeaSet01_lod03.skin
 7546079;world/maptextures/3040/3040_25_27_n.blp
 7546081;world/maptextures/3040/3040_26_27_n.blp
 7546083;world/maptextures/3040/3040_27_27_n.blp
@@ -297148,6 +297190,7 @@
 7804764;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_LunarNewYear_StoneLion02_lod02.skin
 7804767;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_LunarNewYear_StoneLion02_lod03.skin
 7804770;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_VenthyrDecor_Organ01.m2
+7804771;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_VenthyrDecor_Globe01.m2
 7804772;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_VenthyrDecor_Throne01.m2
 7806315;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_VenthyrDecor_Throne0100.skin
 7806318;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_VenthyrDecor_Throne01_lod01.skin
@@ -297196,6 +297239,8 @@
 7814629;World/Expansion11/Doodads/VoidElf/12VE_VoidElf_Special_Scribedesk01_lod01.skin
 7814634;World/Expansion11/Doodads/VoidElf/12VE_VoidElf_Special_Scribedesk01_lod02.skin
 7814639;World/Expansion11/Doodads/VoidElf/12VE_VoidElf_Special_Scribedesk01_lod03.skin
+7814698;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium02.m2
+7814699;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium02_Glass.m2
 7814811;World/Expansion11/Doodads/Generic/12XP_Prey_Special_Trophy_TerrorOfTheIsle0200.skin
 7814812;World/Expansion11/Doodads/Generic/12XP_Prey_Special_Trophy_TerrorOfTheIsle02_lod01.skin
 7814813;World/Expansion11/Doodads/Generic/12XP_Prey_Special_Trophy_TerrorOfTheIsle02_lod02.skin
@@ -297239,6 +297284,14 @@
 7815579;World/Expansion11/Doodads/VoidElf/12VE_VoidElf_Special_Inkwell01_lod01.skin
 7815582;World/Expansion11/Doodads/VoidElf/12VE_VoidElf_Special_Inkwell01_lod02.skin
 7815585;World/Expansion11/Doodads/VoidElf/12VE_VoidElf_Special_Inkwell01_lod03.skin
+7815951;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium0200.skin
+7815956;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium02_lod01.skin
+7815961;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium02_lod02.skin
+7815966;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium02_lod03.skin
+7816129;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium02_Glass00.skin
+7816134;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium02_Glass_lod01.skin
+7816136;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium02_Glass_lod02.skin
+7816141;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium02_Glass_lod03.skin
 7817900;world/maptextures/3047/3047_28_41_n.blp
 7817902;world/maptextures/3047/3047_29_41_n.blp
 7817904;world/maptextures/3047/3047_30_41_n.blp
@@ -297337,6 +297390,11 @@
 7819425;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Seaside_Gazebo01_lod01.skin
 7819426;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Seaside_Gazebo01_lod02.skin
 7819427;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Seaside_Gazebo01_lod03.skin
+7827460;World/Expansion11/Doodads/PlayerHousing/8FX_Painted_CloudScroll_04_Blurred.blp
+7827462;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_VenthyrDecor_Globe0100.skin
+7827464;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_VenthyrDecor_Globe01_lod01.skin
+7827466;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_VenthyrDecor_Globe01_lod02.skin
+7827468;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_VenthyrDecor_Globe01_lod03.skin
 7830632;World/Expansion11/Doodads/Playerhousing/12PH_EndeavorChest_Horde00.skin
 7830634;World/Expansion11/Doodads/Playerhousing/12PH_EndeavorChest_Horde_lod01.skin
 7830636;World/Expansion11/Doodads/Playerhousing/12PH_EndeavorChest_Horde_lod02.skin
@@ -297410,6 +297468,7 @@
 7851710;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_Trophy01_lod01.skin
 7851711;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_Trophy01_lod02.skin
 7851712;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_Trophy01_lod03.skin
+7851722;World/Expansion11/Doodads/PlayerHousing/7FX_AlphaMask_Glow_Blend_Even.blp
 7851744;World/Expansion11/Doodads/PlayerHousing/12PH_Plain_Wood_Modular_SpiralStairSegment00.skin
 7851746;World/Expansion11/Doodads/PlayerHousing/12PH_Plain_Wood_Modular_SpiralStairSegment_lod01.skin
 7851748;World/Expansion11/Doodads/PlayerHousing/12PH_Plain_Wood_Modular_SpiralStairSegment_lod02.skin
