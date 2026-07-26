@@ -50305,6 +50305,7 @@
 2966417;creature/giantvampirebat/giantvampirebat_red.blp
 2966418;creature/giantvampirebat/giantvampirebat_stone.blp
 2966419;creature/giantvampirebat/ArmorReflect_Rainbow.blp
+2966421;creature/giantvampirebat/SlimeDrip.blp
 2966422;creature/giantvampirebat/giantvampirebat00.skin
 2966427;creature/greaterslime_nzoth/greaterslime_nzoth.m2
 2966446;creature/greaterslime_nzoth/greaterslimetrailnzoth_black.blp
@@ -80852,6 +80853,8 @@
 7464160;Creature/IGC_Wrathion3/IGC_Wrathion31454-02.anim
 7464163;Creature/IGC_Wrathion3/IGC_Wrathion31454-03.anim
 7464166;Creature/IGC_Wrathion3/IGC_Wrathion31454-04.anim
+7464542;Creature/Eagle2/gianteagle_Brown.blp
+7464543;Creature/Eagle2/gianteagle_white.blp
 7464579;Creature/GardenSnailMount/GardenSnailMount_Body_Green.blp
 7464580;Creature/GardenSnailMount/GardenSnailMount_Body_Pink.blp
 7464581;Creature/GardenSnailMount/GardenSnailMount_Body_Purple.blp
