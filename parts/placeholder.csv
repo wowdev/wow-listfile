@@ -169668,7 +169668,6 @@
 6919901;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_WallLamp01_6919901.blp
 6919902;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_Curtain02_6919902.blp
 6919934;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_Curtain03_6919934.blp
-6920275;World/Minimaps/WMO/autogen-names/12delvesdevouringhost01/17123_022_00_00.blp
 6920322;models/world/unk_exp11_6920322/6920322.m2
 6920324;models/creature/unk_exp11_6920324/6920324.m2
 6920326;Sound/Creature/6247698/6247698_fidget5_6920326.ogg
@@ -175883,10 +175882,6 @@
 7085247;Spells/11FX_MachineopeningEnergyvisualbuff_Aura_7085247.blp
 7085267;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Window_Interior01_DyeColorMap_7085267.blp
 7085268;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Window_Interior01_DyeInfluenceMap_7085268.blp
-7085332;World/WMO/autogen-names/unknown/18431_004_lod1.blp
-7085334;World/WMO/autogen-names/unknown/18431_004_lod2.blp
-7085336;World/WMO/autogen-names/unknown/18431_004_lod3.blp
-7085340;World/WMO/autogen-names/unknown/18431_004_lod3.wmo
 7085344;World/WMO/Dungeon/VoidRaid/12DU_VoidRaid_FortificationBoss04_7085344.blp
 7085345;World/WMO/Dungeon/VoidRaid/12DU_VoidRaid_FortificationBoss04_7085345.blp
 7085346;World/WMO/Dungeon/VoidRaid/12DU_VoidRaid_FortificationBoss04_7085346.blp
@@ -179341,7 +179336,6 @@
 7123879;Sound/Spell/CollapsingStar_travelend_oneshot_7123879.ogg
 7123881;Sound/Spell/CollapsingStar_travelend_oneshot_7123881.ogg
 7123883;Sound/Spell/CollapsingStar_travelend_oneshot_7123883.ogg
-7123901;World/WMO/autogen-names/unknown/18431_003_lod3.wmo
 7126732;World/Expansion11/Doodads/Void/12VD_Void_Decor_Projector01_7126732.blp
 7126761;Sound/Creature/5884351/5884351_fidget_7126761.ogg
 7126763;Sound/Creature/5884351/5884351_fidget_7126763.ogg
@@ -204582,6 +204576,7 @@
 7712853;Sound/Creature/Projected_Image_of_Decimus/VO_1207_Projected_Image_of_Decimus_7712853.ogg
 7712856;Sound/Creature/Riftblade_Maella/VO_1207_Riftblade_Maella_7712856.ogg
 7712859;Sound/Creature/Riftblade_Maella/VO_1207_Riftblade_Maella_7712859.ogg
+7712862;Sound/Creature/Decimus/VO_1207_Decimus_7712862.ogg
 7712871;Sound/Creature/Riftblade_Maella/VO_1207_Riftblade_Maella_7712871.ogg
 7712874;Sound/Creature/Riftblade_Maella/VO_1207_Riftblade_Maella_7712874.ogg
 7712877;Sound/Creature/Decimus/VO_1207_Decimus_7712877.ogg
@@ -204678,13 +204673,16 @@
 7713790;Sound/Creature/Elder_Sunhorn/VO_1207_Elder_Sunhorn_7713790.ogg
 7713841;Sound/Creature/Magister_Umbric/VO_1207_Magister_Umbric_7713841.ogg
 7713844;Sound/Creature/Grand_Magister_Rommath/VO_1207_Grand_Magister_Rommath_7713844.ogg
+7713847;Sound/Creature/Magister_Umbric/VO_1207_Magister_Umbric_7713847.ogg
 7713852;Sound/Creature/Grand_Magister_Rommath/VO_1207_Grand_Magister_Rommath_7713852.ogg
 7713855;Sound/Creature/Grand_Magister_Rommath/VO_1207_Grand_Magister_Rommath_7713855.ogg
+7713858;Sound/Creature/Magister_Umbric/VO_1207_Magister_Umbric_7713858.ogg
 7713861;spells/textures/fullscreeneffect_blend_7713861.blp
 7713862;Sound/Creature/Magister_Umbric/VO_1207_Magister_Umbric_7713862.ogg
 7713865;Sound/Creature/Magister_Umbric/VO_1207_Magister_Umbric_7713865.ogg
 7713868;Sound/Creature/Grand_Magister_Rommath/VO_1207_Grand_Magister_Rommath_7713868.ogg
 7713871;Sound/Creature/Grand_Magister_Rommath/VO_1207_Grand_Magister_Rommath_7713871.ogg
+7713876;Sound/Creature/Magister_Umbric/VO_1207_Magister_Umbric_7713876.ogg
 7713879;Sound/Creature/Magister_Umbric/VO_1207_Magister_Umbric_7713879.ogg
 7713882;Sound/Creature/Magister_Umbric/VO_1207_Magister_Umbric_7713882.ogg
 7713885;Sound/Creature/Grand_Magister_Rommath/VO_1207_Grand_Magister_Rommath_7713885.ogg
