@@ -82644,6 +82644,7 @@
 7789329;Creature/WindSerpent3Mount/WindSerpent3Mount_lod02.skin
 7789331;Creature/WindSerpent3Mount/WindSerpent3Mount_lod03.skin
 7792809;Creature/PalanquinMount_Classic/PalanquinMount_Classic.m2
+7806353;creature/springpandamount/arcane_wisps_moonlight.blp
 7806354;Creature/SpringPandaMount/grey50percentsquare16x16.blp
 7806355;Creature/SpringPandaMount/ArmorReflect4.blp
 7806356;Creature/SpringPandaMount/SpringPandaMount00.skin
@@ -83135,6 +83136,8 @@
 8019711;Creature/MothFluffyMount/grey50percentsquare16x16_a.blp
 8019712;Creature/MothFluffyMount/8FX_Bit_Glow_01.blp
 8019716;Creature/MothFluffyMount/MothFluffyMount_Orange.blp
+8019719;creature/mothfluffymount/gray8x8.blp
+8019720;creature/mothfluffymount/7fx_energy_fire.blp
 8024257;Creature/MothFluffyMount/Flare_PriestHoly_Bright.blp
 8024258;Creature/MothFluffyMount/Beam_Frost_01_scrolling.blp
 8024259;Creature/MothFluffyMount/Flare1_TC_Holy2Tone.blp
