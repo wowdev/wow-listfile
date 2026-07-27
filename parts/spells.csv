@@ -32968,7 +32968,6 @@
 7037153;Spells/12FX_Raid1_VoidCosmic_Door01.m2
 7037154;Spells/12FX_Raid1_VoidCosmic_Door02.m2
 7037156;Spells/12FX_Raid1_VoidCosmic_Wall01.m2
-7048770;Spells/FX_IsABroom_Aura.m2
 7049130;Spells/11FX_WallVisualStalker7Beam_Aura.m2
 7049131;Spells/11FX_WallVisualStalker8Beam_Aura.m2
 7049132;Spells/11FX_WallVisualStalker9Beam_Aura.m2
@@ -33054,10 +33053,6 @@
 7082589;Spells/11FX_ManaforgeOmega_DimensiustheAllDevouring_InverseGravity_Aura_lod03.skin
 7082973;Spells/11FX_FeignDeath_Aura.m2
 7085021;Spells/11FX_FeignDeath_Aura00.skin
-7109335;Spells/FX_IsABroom_Aura00.skin
-7109336;Spells/FX_IsABroom_Aura_lod01.skin
-7109337;Spells/FX_IsABroom_Aura_lod02.skin
-7109339;Spells/FX_IsABroom_Aura_lod03.skin
 7109485;Spells/11FX_Devour_AreaTrigger01.m2
 7109486;Spells/11FX_ManaforgeOmega_DimensiustheAllDevouring_Devour_Precast.m2
 7109487;Spells/11FX_Intermission_AreaTrigger.m2
@@ -33308,11 +33303,6 @@
 7213465;Spells/CFX_Monk_ExtraKick_Impact.m2
 7213760;Spells/12FX_MarchonQuelDanas_BelorenChildofAlar_VoidBurn_Impact.m2
 7213778;Spells/12FX_MarchonQuelDanas_BelorenChildofAlar_VoidBurn_Impact00.skin
-7216048;Spells/FX_SunBlessedArbalist_Missile.m2
-7222028;Spells/FX_SunBlessedArbalist_Missile00.skin
-7222029;Spells/FX_SunBlessedArbalist_Missile_lod01.skin
-7222030;Spells/FX_SunBlessedArbalist_Missile_lod02.skin
-7222031;Spells/FX_SunBlessedArbalist_Missile_lod03.skin
 7228795;Spells/12FX_MarchonQuelDanas_BelorenChildofAlar_VoidEruption_Cast00.skin
 7228796;Spells/12FX_MarchonQuelDanas_BelorenChildofAlar_VoidEruption_Cast_lod01.skin
 7228797;Spells/12FX_MarchonQuelDanas_BelorenChildofAlar_VoidEruption_Cast_lod02.skin
