@@ -312,7 +312,6 @@
 2165651;creature/corehoundsmall/corehoundsmall_6_2165651.blp
 2165660;creature/darkirondwarfcorehound/darkirondwarfcorehound_5_2165660.blp
 2165738;spells/8fx_vaultguardian_wailgreed_nova_2_2165738.blp
-2165747;spells/cfx_hunter_aspectoftheeagle_castchest_1_2165747.blp
 2165750;spells/cfx_hunter_aspectoftheeagle_raptorstrike_missile_10_2165750.blp
 2165761;spells/textures/textureblendset_777_2165761.blp
 2166462;spells/cfx_priest_shadowform_glyphedless_statebase_2_2166462.blp
@@ -325,7 +324,6 @@
 2174818;spells/cfx_warlock_summonedimp_firebolt_missile_11_2174818.blp
 2174825;spells/cfx_warlock_altarofsouls01_9_2174825.blp
 2174826;spells/cfx_warlock_altarofsouls01_11_2174826.blp
-2174827;spells/cfx_warlock_altarofsouls01_12_2174827.blp
 2175439;spells/cfx_warlock_summoningstone01_0_2175439.blp
 2175441;spells/cfx_warlock_summoningstone01_1_2175441.blp
 2175442;world/expansion08/doodads/fx/9fx_rl_annihilation_state_revendreth_2175442.blp
@@ -360,7 +358,6 @@
 2201973;spells/cfx_paladin_holyshock_damagecrit_impactchest_9_2201973.blp
 2202107;world/expansion07/doodads/orc/8or_orc_warcampaign_table02_4_2202107.blp
 2202120;creature/bloodelemental/bloodelemental_11_2202120.blp
-2202396;spells/textures/fullscreeneffect_blend_2202396.blp
 2202472;spells/cfx_hunter_chakrams_missile_1_2202472.blp
 2202482;spells/textures/fullscreeneffect_2202482.blp
 2202483;spells/textures/fullscreeneffect_blend_2202483.blp
@@ -466,7 +463,6 @@
 2322042;World/WMO/Expansion07/Nazjatar/8NZJ_Nazjatar_WallBroken01_2322042.blp
 2322098;world/expansion07/doodads/nazjatar/8nzj_rockclump_b02_0_2322098.blp
 2322267;World/WMO/Dungeon/MechagonDungeon/8DU_MechagonDungeon_Main01_2322267.blp
-2322321;spells/8fx_harlansweete_swiftwindsaber_state_2_2322321.blp
 2322769;environments/stars/8drk_darkshoreelune_sky01_2_2322769.blp
 2322770;environments/stars/8drk_darkshoreelune_sky01_3_2322770.blp
 2322771;environments/stars/8drk_darkshoreelune_sky01_4_2322771.blp
@@ -670,7 +666,6 @@
 2403628;world/expansion07/doodads/stormwind/8sw_stormwind_mageportal_2403628.blp
 2403686;models/unktextures/nightbornefemale_rune_alpha_shadowgreen_2403686.blp
 2404812;spells/8fx_kinggrong_necromancy_reverberatingslam_impactworldzhcn_17_2404812.blp
-2404814;spells/8fx_kinggrong_necromancy_reverberatingslam_impactworldzhcn_13_2404814.blp
 2405590;spells/8fx_loacouncil_laceratingclaws_impact_1_2405590.blp
 2406378;spells/8fx_generic_necromancy_summon_0_2406378.blp
 2406379;spells/8FX_KingGrong_Necromancy_ReverberatingSlam_ImpactWorld_2406379.blp
@@ -69606,7 +69601,6 @@
 4637440;spells/FX_HouseofCards_Impact_4637440.blp
 4637442;Spells/FX_ShadowStrikes_Cast_4637442.blp
 4637443;spells/CFX_Mage_ArcaneSurge_Precast_4637443.blp
-4637451;Spells/11FX_PhasePort_Cast_4637451.blp
 4637452;Spells/11FX_ArcaneDagger_Missile01_4637452.blp
 4637453;spells/CFX_Mage_ArcaneSurge_Impact_4637453.blp
 4637454;Spells/10FX_EvokerCast01_4637454.blp
@@ -146283,7 +146277,6 @@
 6247650;Spells/FX_SpiritWalk_Aura_6247650.blp
 6247651;Spells/FX_SpiritWalk_Aura_6247651.blp
 6247652;Spells/FX_SpiritWalk_Aura_6247652.blp
-6247653;Spells/11FX_ArcaneOrb01_6247653.blp
 6247654;Spells/FX_SpiritWalk_Aura_6247654.blp
 6247655;Spells/FX_SpiritWalk_Aura_6247655.blp
 6247660;Spells/10FX_Spell11_6247660.blp
