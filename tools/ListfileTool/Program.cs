@@ -565,6 +565,8 @@ namespace ListfileTool
                     lookups.Add(fileDataID, lookup);
                 }
 
+                var unkLookups = new Dictionary<uint, ulong>();
+
                 foreach (var mergedEntry in mergedListfile)
                 {
                     if (lookups.TryGetValue(mergedEntry.Key, out var lookup))
@@ -572,13 +574,23 @@ namespace ListfileTool
                         if (lookup != hasher.ComputeHash(mergedEntry.Value))
                         {
                             mergedListfile.Remove(mergedEntry.Key);
+                            unkLookups.Add(mergedEntry.Key, lookup);
                         }
+
+                        lookups.Remove(mergedEntry.Key);
                     }
                     else
                     {
                         mergedListfile.Remove(mergedEntry.Key);
                     }
                 }
+
+                foreach(var remainingLookup in lookups)
+                    unkLookups.TryAdd(remainingLookup.Key, remainingLookup.Value);
+
+                unkLookups = unkLookups.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
+
+                File.WriteAllText(Path.Combine(outputDir, "unknown-lookups.csv"), string.Join("\r\n", unkLookups.Select(x => x.Key + ";" + x.Value.ToString("X16").ToLowerInvariant())) + "\r\n");
             }
 
             mergedListfile = mergedListfile.OrderBy(x => x.Key).ToDictionary(x => x.Key, x => x.Value);
