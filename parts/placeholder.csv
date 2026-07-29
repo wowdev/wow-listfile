@@ -43116,7 +43116,6 @@
 4212610;Spells/CFX_Priest_ProtectedbyNature_Aura_4212610.blp
 4212611;world/expansion09/doodads/fx/10fx_generic_wind_precasthand_high_4212611.blp
 4212612;Spells/FX_OnJumpPassengerAura_Impact_4212612.blp
-4212613;Spells/FX_SurgingTempest_Channel_4212613.blp
 4212624;Spells/11FX_CirclingSmoke04_4212624.blp
 4212637;models/unktextures/7fx_energybeam_scroll_4212637.blp
 4212638;models/unktextures/8fx_wavey_maskfade_horizontal_4212638.blp
@@ -68366,8 +68365,6 @@
 4626282;world/wmo/expansion09/titan/10ti_titan_titanraidentrance01_4626282.blp
 4626351;world/wmo/autogen-names/neltharusdungeon/14742_lightcookie_4626351.blp
 4626352;world/wmo/autogen-names/neltharusdungeon/14742_lightcookie_4626352.blp
-4626356;spells/7fx_energyscroll_desat_4626356.blp
-4626357;spells/smoke_loose_02_256_blend_contrast_4626357.blp
 4626358;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_TurtleTransport01_4626358.blp
 4626359;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_TurtleTransport01_4626359.blp
 4626360;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_TurtleTransport01_4626360.blp
@@ -69842,7 +69839,6 @@
 4640464;world/expansion09/doodads/delete_me_4640464.blp
 4640577;Spells/10FX_FirePortal01_4640577.blp
 4640861;spells/FX_TuskarrDinghy_Aura03_4640861.blp
-4640862;spells/8fx_water_scroll_alpha2_4640862.blp
 4640863;spells/FX_TuskarrDinghy_Aura03_4640863.blp
 4640883;spells/FX_BarrierReinforcement_Cast_4640883.blp
 4640888;spells/FX_EnergyCollector_Aura_4640888.blp
@@ -209858,11 +209854,6 @@
 7872914;models/spells/unk_exp11_7850887/7850887_lod01.skin
 7872915;models/spells/unk_exp11_7850887/7850887_lod02.skin
 7872916;models/spells/unk_exp11_7850887/7850887_lod03.skin
-7872960;models/unktextures/OrbReflectDark_reverse_7872960.blp
-7872961;models/unktextures/alpha_edge_fade_test_7872961.blp
-7872962;models/unktextures/caustic_water_subtleblue_7872962.blp
-7872963;models/unktextures/Caustic_Blue4_7872963.blp
-7872964;models/unktextures/Wind_3_7872964.blp
 7873094;Interface/Icons/Unknown_7873094.blp
 7873472;models/unktextures/12FX_Chromatic_Mote_7873472.blp
 7873474;models/unktextures/White8x8_7873474.blp
@@ -210952,6 +210943,7 @@
 7931013;World/WMO/Expansion11/PlayerHousing/Room/12PH_Option_Cosmetic_0_Generic19_lightcookie_7931013.blp
 7931014;World/WMO/Expansion11/PlayerHousing/Room/12PH_Option_Cosmetic_0_Generic19_lightcookie_7931014.blp
 7931041;World/WMO/Expansion11/PlayerHousing/Room/12PH_Option_Cosmetic_0_Generic16_lightcookie_7931041.blp
+7931167;Interface/Icons/Unknown_7931167.blp
 7932330;models/item/unk_exp11_6375827_l/6375827_l00.skin
 7932335;models/item/unk_exp11_6375827_l/6375827_l_lod01.skin
 7932338;models/item/unk_exp11_6375827_l/6375827_l_lod02.skin
@@ -211456,6 +211448,11 @@
 7952206;Housing/Icons/INV_12SN_Snakeoid_Decor_Tendril07_7952206.blp
 7952208;Housing/Icons/INV_12SN_Snakeoid_Decor_Tendril08_7952208.blp
 7952260;Creature/ViciousLightbloomBoar/ViciousLightbloomBoar_7952260.blp
+7952587;models/unktextures/ArmorReflect4_7952587.blp
+7952803;Interface/Icons/Unknown_7952803.blp
+7952804;Interface/Icons/Unknown_7952804.blp
+7952805;Interface/Icons/Unknown_7952805.blp
+7952806;Interface/Icons/Unknown_7952806.blp
 7954131;Spells/FX_QuestGenericCoreFXUtilityStandHereQuestAreaTrigger01_7954131.blp
 7954141;Spells/FX_QuestGenericCoreFXUtilityStandHereQuestAreaTrigger01_7954141.blp
 7954146;Spells/FX_QuestGenericCoreFXUtilityStandHereQuestAreaTrigger01_7954146.blp
@@ -213081,8 +213078,6 @@
 8068682;World/WMO/autogen-names/unknown/19254_027_lod3.wmo
 8068706;Housing/Thumbnails/FX_Candlelight_Aura_8068706.blp
 8068707;Housing/Icons/INV_FX_Candlelight_Aura_8068707.blp
-8068750;models/unktextures/dragonhair_8068750.blp
-8068752;models/unktextures/dragonhair_alpha_8068752.blp
 8071311;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8071311.ogg
 8071313;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8071313.ogg
 8071315;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8071315.ogg
@@ -213274,7 +213269,11 @@
 8101258;item/texturecomponents/leguppertexture/8101365_lu_u_8101258.blp
 8101259;item/texturecomponents/armlowertexture/8101365_al_u_8101259.blp
 8101260;item/texturecomponents/armuppertexture/8101365_au_u_8101260.blp
+8101273;models/unktextures/White8x8_8101273.blp
+8101274;models/unktextures/ArmorReflect4_8101274.blp
+8101276;models/unktextures/RibbonBlur1_8101276.blp
 8101292;Interface/Icons/Unknown_8101292.blp
+8101293;models/unktextures/ArmorReflect4_8101293.blp
 8101347;World/Expansion11/Doodads/Primitive/12PM_Primitive_Structure_LargeTent01_8101347.blp
 8101350;World/Expansion11/Doodads/Primitive/12PM_Primitive_Structure_LargeTent01_8101350.blp
 8101353;World/Expansion11/Doodads/Primitive/12PM_Primitive_Structure_LargeTent02_8101353.blp
@@ -213288,7 +213287,6 @@
 8105857;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Shed01_8105857.blp
 8105859;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Shed01_DyeColorMap_8105859.blp
 8105861;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Shed01_DyeInfluenceMap_8105861.blp
-8106426;models/unktextures/GenericGlow_Alpha_128_8106426.blp
 8106798;Housing/Thumbnails/12PH_Shop_Fall_PSL_RockingChair01_8106798.blp
 8106804;Housing/Thumbnails/12PH_Shop_Fall_PSL_AppleJuicer01_8106804.blp
 8106811;Housing/Thumbnails/12PH_Shop_Fall_Pastel_Pumpkins01_8106811.blp
@@ -215338,7 +215336,11 @@
 8200832;Spells/FX_Sever_Precast_8200832.blp
 8200930;models/world/unk_exp11_6195674/6195674_8200930.blp
 8200931;models/world/unk_exp11_6195674/6195674_8200931.blp
+8201433;Interface/Icons/Unknown_8201433.blp
+8201447;models/unktextures/ArmorReflect4_8201447.blp
+8201552;models/unktextures/ArmorReflect4_8201552.blp
 8201588;models/spells/unk_exp11_8200826/820082600.skin
+8201595;Interface/Icons/Unknown_8201595.blp
 8201604;models/spells/unk_exp11_8200825/820082500.skin
 8201664;models/spells/unk_exp11_8200828/820082800.skin
 8201683;models/spells/unk_exp11_8200830/820083000.skin
@@ -215369,6 +215371,7 @@
 8203463;models/unktextures/11FX_Bubble_Lighter_Dissolve_8203463.blp
 8203464;models/unktextures/9FX_Water_Ripple_01_8203464.blp
 8203467;models/unktextures/7FX_AlphaMask_GlowBright_8203467.blp
+8203469;models/unktextures/8FX_Bubbles_Pop_NoMIP_8203469.blp
 8203470;models/unktextures/10FX_ShadowEatAway_Small_White_8203470.blp
 8203472;models/unktextures/grey50percentsquare16x16_a_8203472.blp
 8203475;models/unktextures/white_64_8203475.blp

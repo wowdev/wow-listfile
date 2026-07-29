@@ -23846,6 +23846,7 @@
 4212594;SPELLS/10FX_Leaf_Litter_01.blp
 4212606;spells/10FX_VOTI_Dathea_ZephyrSlam_Cast00.skin
 4212607;SPELLS/10FX_SmokeSpiral.blp
+4212613;spells/10fx_general_windtile_04.blp
 4212621;SPELLS/7FX_AlphaMask_GlowBrightDonut_02.blp
 4212622;SPELLS/10FX_Leaf_Litter_03.blp
 4212623;SPELLS/10FX_General_WindTile_03.blp
@@ -34707,6 +34708,8 @@
 8068490;Spells/FX_HowlingMaelstrom_AreaTrigger01_lod01.skin
 8068493;Spells/FX_HowlingMaelstrom_AreaTrigger01_lod02.skin
 8068495;Spells/FX_HowlingMaelstrom_AreaTrigger01_lod03.skin
+8068750;spells/dragonhair.blp
+8068752;spells/dragonhair_alpha.blp
 8117706;Spells/12FX_UlatekRaid_EntombedSentinels_UlateksDominance_Aura.m2
 8117707;Spells/12FX_UlatekRaid_EntombedSentinels_UlateksDominance_Aura00.skin
 8117710;Spells/12FX_UlatekRaid_EntombedSentinels_UlateksDominance_Aura_lod01.skin

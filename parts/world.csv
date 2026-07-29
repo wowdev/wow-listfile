@@ -227786,6 +227786,8 @@
 4626220;World/Expansion09/Doodads/Dragon/10DG_Dragon_Incense01_lod02.skin
 4626221;World/Expansion09/Doodads/Dragon/10DG_Dragon_Incense01_lod03.skin
 4626355;World/Expansion09/Doodads/Tuskarr/water_caustic_blendadd3.blp
+4626356;world/expansion09/doodads/tuskarr/7fx_energyscroll_desat.blp
+4626357;world/expansion09/doodads/tuskarr/smoke_loose_02_256_blend_contrast.blp
 4626502;world/generic/passivedoodads/deathskeletons/dracthyrdragondeathskeleton00.skin
 4627037;world/generic/passivedoodads/deathskeletons/dracthyrdragondeathskeletonskin.blp
 4627038;world/generic/passivedoodads/deathskeletons/ArmorReflect4.blp
@@ -228391,6 +228393,7 @@
 4640854;World/Expansion09/Doodads/Titan/10TI_Titan_LightSource04_lod01.skin
 4640856;World/Expansion09/Doodads/Titan/10TI_Titan_LightSource04_lod02.skin
 4640858;World/Expansion09/Doodads/Titan/10TI_Titan_LightSource04_lod03.skin
+4640862;world/expansion09/doodads/tuskarr/8fx_water_scroll_alpha2.blp
 4640932;World/Expansion09/Doodads/Dragon/10DG_Dragon_Anvil02.m2
 4641143;World/Expansion09/Doodads/Primalist/10PM_Primalist_AirSwirly01.m2
 4641225;World/Expansion09/Doodads/Dragon/10DG_Dragon_ArcaneBase0100.skin
@@ -288011,7 +288014,7 @@
 6930900;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_Barrel02.m2
 6930901;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_Barrel02_Open.m2
 6931131;World/Expansion11/Doodads/Generic/Nex_EnvMap03.blp
-6931133;World/Expansion11/Doodads/Generic/ArmorReflect4.blp
+6931133;world/expansion11/doodads/armorreflect4.blp
 6931134;World/Expansion11/Doodads/Generic/AlphaMask_VerticalGradient.blp
 6931135;World/Expansion11/Doodads/Generic/8fx_mask_glowgeneric_a_128_brighter.blp
 6931138;World/Expansion11/Doodads/Generic/flare.blp
@@ -298429,6 +298432,11 @@
 7871431;world/maptextures/3047/3047_27_41.blp
 7871433;world/maptextures/3047/3047_26_42.blp
 7871435;world/maptextures/3047/3047_27_42.blp
+7872960;world/expansion11/doodads/orbreflectdark_reverse.blp
+7872961;world/expansion11/doodads/alpha_edge_fade_test.blp
+7872962;world/expansion11/doodads/caustic_water_subtleblue.blp
+7872963;world/expansion11/doodads/caustic_blue4.blp
+7872964;world/expansion11/doodads/wind_3.blp
 7877384;World/Expansion11/Doodads/Snakoid/7fx_arcane_wisps_blank.blp
 7878791;world/expansion07/doodads/desertzone/8des_fossilgiantsnakeskull_c01_lod01.skin
 7878793;world/expansion07/doodads/desertzone/8des_fossilgiantsnakeskull_c01_lod02.skin
@@ -298714,6 +298722,7 @@
 8105865;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Shed01_lod01.skin
 8105867;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Shed01_lod02.skin
 8105869;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Shed01_lod03.skin
+8106426;world/expansion11/doodads/genericglow_alpha_128.blp
 8117107;world/expansion07/doodads/tortollan/8to_tortollan_tent02_lod03.skin
 8117141;world/expansion07/doodads/dungeon/doodads/8du_seapriest_scroll03_lod01.skin
 8117144;world/expansion07/doodads/dungeon/doodads/8du_seapriest_scroll03_lod02.skin
@@ -298767,6 +298776,10 @@
 8129006;World/Expansion10/Doodads/Kobold/11KO_Kobold_Lighting_candle09_Special_lod01.skin
 8129007;World/Expansion10/Doodads/Kobold/11KO_Kobold_Lighting_candle09_Special_lod02.skin
 8129008;World/Expansion10/Doodads/Kobold/11KO_Kobold_Lighting_candle09_Special_lod03.skin
+8145790;world/expansion03/doodads/firelands/minivolcano_doodad/burningsteppslava02.blp
+8145792;world/expansion03/doodads/firelands/minivolcano_doodad/firelands_floatingrock02.blp
+8145813;world/expansion03/doodads/firelands/volcano/burningsteppslava02.blp
+8145814;world/expansion03/doodads/firelands/volcano/ce_lavawall04.blp
 8145865;World/Expansion02/Doodads/Ulduar/UL_Gnomewing_ButtonBigRed_lod01.skin
 8145866;World/Expansion02/Doodads/Ulduar/UL_Gnomewing_ButtonBigRed_lod02.skin
 8145867;World/Expansion02/Doodads/Ulduar/UL_Gnomewing_ButtonBigRed_lod03.skin
@@ -298848,3 +298861,4 @@
 8245065;world/expansion08/doodads/fx/9fx_generic_soul_impactlow_chest_lod01.skin
 8245067;world/expansion08/doodads/fx/9fx_generic_soul_impactlow_chest_lod02.skin
 8245069;world/expansion08/doodads/fx/9fx_generic_soul_impactlow_chest_lod03.skin
+8268853;world/expansion03/doodads/generic/black32.blp
