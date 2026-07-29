@@ -46,3 +46,4 @@ jobs:
             tmp/community-listfile-withcapitals.csv
             tmp/verified-listfile.csv
             tmp/verified-listfile-withcapitals.csv
+            tmp/unknown-lookups.csv
