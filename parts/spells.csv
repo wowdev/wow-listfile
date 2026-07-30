@@ -25811,7 +25811,6 @@
 4575031;spells/CFX_Evoker_RenewingBlaze_Aura_lod02.skin
 4575033;spells/CFX_Evoker_RenewingBlaze_Aura_lod03.skin
 4575531;spells/FX_CosmeticAuraFISH_Aura.m2
-4575536;spells/FX_TuskarrDinghy_Aura.m2
 4575541;spells/FX_TuskarrDinghy_Aura02.m2
 4575547;spells/FX_FishermansFolly_Aura.m2
 4576970;spells/FX_Visual_Aura0200.skin
@@ -25920,7 +25919,6 @@
 4615875;spells/CFX_Evoker_Zephyr_Cast_lod02.skin
 4615877;spells/CFX_Evoker_Zephyr_Cast_lod03.skin
 4616654;spells/FX_TuskarrHoldLadle_Aura.m2
-4616655;spells/FX_TuskarrDinghy_Aura01.m2
 4616657;spells/FX_DigVisualTuskarrDummyMed_Aura.m2
 4616821;spells/CFX_Evoker_SourceofMagic_Impact.m2
 4616823;spells/CFX_Evoker_SourceofMagic_Impact00.skin
@@ -25943,7 +25941,6 @@
 4618544;spells/FX_SpellvisforTuskarrScalingKnife_Aura_lod01.skin
 4618545;spells/FX_SpellvisforTuskarrScalingKnife_Aura_lod02.skin
 4618547;spells/FX_SpellvisforTuskarrScalingKnife_Aura_lod03.skin
-4618554;spells/FX_TuskarrDinghy_Aura0100.skin
 4618557;spells/FX_TuskarrDinghy_Aura01_lod01.skin
 4618558;spells/FX_TuskarrDinghy_Aura01_lod02.skin
 4618575;spells/FX_TuskarrHoldLadle_Aura00.skin
@@ -25955,7 +25952,6 @@
 4618583;spells/FX_TuskarrDinghy_Aura02_lod01.skin
 4618584;spells/FX_TuskarrDinghy_Aura02_lod02.skin
 4618585;spells/FX_TuskarrDinghy_Aura02_lod03.skin
-4618589;spells/FX_TuskarrDinghy_Aura00.skin
 4618593;spells/FX_TuskarrDinghy_Aura_lod01.skin
 4618597;spells/FX_TuskarrDinghy_Aura_lod02.skin
 4618599;spells/FX_TuskarrDinghy_Aura_lod03.skin
