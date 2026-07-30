@@ -19479,6 +19479,7 @@
 1992570;spells/cfx_warlock_seedofcorruption_missile00.skin
 1995616;spells/cfx_warlock_seedofcorruption_targetimpactdirectional.m2
 1995618;spells/cfx_warlock_seedofcorruption_targetimpactdirectional00.skin
+2000389;Spells/8FX_Beam_Lightning_Stylized.blp
 2001131;spells/8fx_discboss_voidlash_impactworld.m2
 2001133;spells/8fx_discboss_voidlash_impactworld00.skin
 2001606;spells/clouds01_discpriest_bluepurple256_alphalift.blp
@@ -20226,6 +20227,7 @@
 2140890;spells/cfx_hunter_wildfireinfusion_shrapnelbomb_missile00.skin
 2140891;spells/go_bomb_fx2.blp
 2140892;spells/cfx_hunter_wildfireinfusion_volatilebomb_missile00.skin
+2140893;Spells/8FX_HalfArcMask.blp
 2140895;spells/smoke_streaks_blendadd_soft.blp
 2140897;spells/cfx_hunter_wildfireinfusion_volatilebomb_impact00.skin
 2140899;spells/7fx_alphamask_flairblur_hunter.blp
@@ -20317,6 +20319,7 @@
 2150426;spells/misc_1h_glass_a_01white.blp
 2150504;spells/8fx_warfronts_cavein_impactbase.m2
 2150506;spells/8fx_warfronts_cavein_impactbase00.skin
+2150513;Spells/8FX_Rock_01_A.blp
 2150549;spells/target_azerite_state.m2
 2150550;spells/target_azerite_state_centeronly.m2
 2150551;spells/target_azerite_state_centeronly_projected.m2
@@ -20380,6 +20383,7 @@
 2166620;SPELLS/Moonfire_Impact_Base.m2.meta
 2166622;Spells/GREEN_GLOW2.BLP.meta
 2166623;SPELLS/Sleep_State_Head.m2.meta
+2166836;Spells/8FX_HunterAspect_Eagle.blp
 2166837;spells/arcane_wisps_hunter_green.blp
 2166838;spells/wind_dashes_white2.blp
 2166839;spells/cfx_hunter_aspectoftheeagle_casthead00.skin
@@ -21497,6 +21501,7 @@
 2199509;SPELLS/SpellObject_InvisibleTrap.m2
 2199510;SPELLS/SpellObject_InvisibleTrap00.skin
 2199511;SPELLS/SpellObject_InvisibleTrap.m2.meta
+2199925;Spells/8FX_Decal_FrostGray.blp
 2200320;spells/8fx_kultiras_stormsage_buff_state.m2
 2200390;spells/8fx_kultiras_stormsage_buff_state00.skin
 2200494;spells/ring_ani01_alpha.blp
@@ -21523,6 +21528,7 @@
 2202473;spells/ribbon_artifact_nature2.blp
 2202475;spells/ribbon_artifact_fel_sharp.blp
 2202476;spells/8fx_vorpalwarp_swirl_a2.blp
+2202482;Spells/8FX_Decal_Water_F02.blp
 2202489;spells/8fx_motherload_echoblade.m2
 2202490;spells/8fx_motherload_echoblade_impact.m2
 2202491;spells/8fx_voldun_dunegorgerkraulok_sonicbellow_missile.m2
@@ -21530,6 +21536,7 @@
 2202543;spells/8fx_voldun_dunegorgerkraulok_sonicbellow_missile00.skin
 2202544;spells/8fx_motherload_echoblade00.skin
 2202570;spells/7fx_energyring_tileorangered3_recklessness.blp
+2202651;Spells/8FX_Lightning_Blue_AlphaLift.blp
 2202653;spells/7fx_arcane_wisps_hunter.blp
 2203791;spells/8fx_voldun_sethrak_falloff_pulse_lightning.m2
 2203793;spells/8fx_voldun_sethrak_falloff_pulse_lightning00.skin
@@ -21542,8 +21549,10 @@
 2203863;spells/wispymagic_hori_warlockshadow_purple_offset128.blp
 2203911;spells/cfx_warlock_summoningstone01_nocollision00.skin
 2203949;spells/7fx_alphamask_firemask_01_gray.blp
+2203952;Spells/8FX_MaskNoise_Sparse.blp
 2203958;spells/wispymagic_vert_grey50.blp
 2203959;spells/alpha_doubleedge_redfade.blp
+2203960;Spells/8FX_BloodDark_A.blp
 2204480;spells/glow_painted_shadow_ba.blp
 2204482;spells/glow_painted_grey_ba.blp
 2204512;Spells/CFX_SpellVisualPlaceholder_06.m2
@@ -21589,6 +21598,7 @@
 2318850;spells/soft_flare_.blp
 2318851;spells/lightning_impact_01_centered.blp
 2318852;spells/8fx_generic_spark_vertical_impact00.skin
+2318853;Spells/8FX_Basic_Spark_02.blp
 2318854;spells/8fx_generic_spark_ambient_grinder00.skin
 2318855;spells/8fx_generic_spark_ambient_small00.skin
 2318856;spells/8fx_generic_spark_ambient_wire00.skin
@@ -21600,6 +21610,7 @@
 2318862;spells/8fx_cone_mask_light.blp
 2318863;spells/orange_64.blp
 2318864;spells/8fx_generic_spark_cone00.skin
+2318865;Spells/8FX_Basic_Spark_GrayScale.blp
 2318866;spells/8fx_generic_spark_empower00.skin
 2318867;spells/8fx_generic_spark_impacthigh_chest00.skin
 2318868;spells/8fx_generic_spark_impactlow_chest00.skin
@@ -21663,6 +21674,7 @@
 2373432;spells/cfx_paladin_avengingwrath_castbase0200.skin
 2373433;spells/cfx_paladin_avengingwrath_castbase0201.skin
 2373434;spells/cfx_paladin_avengingwrath_statechestfront00.skin
+2387206;Spells/8FX_Lighting_Point_A.blp
 2387299;spells/8fx_generic_void_beamemitter.m2
 2387300;spells/8fx_shrineofthestorm_council_lightning_idle_state.m2
 2387301;spells/8fx_shrineofthestorm_council_lightning_idle_state_base.m2
@@ -21684,6 +21696,7 @@
 2387965;spells/8fx_generic_necromancy_breath_precast_state.m2
 2387967;spells/8fx_generic_necromancy_breath_precast_state00.skin
 2388005;spells/wispymagic_necroblur_a.blp
+2388006;Spells/8FX_FlipBook_NecroAsh.blp
 2388087;spells/8fx_generic_necromancy_casthand.m2
 2388089;spells/8fx_generic_necromancy_casthand00.skin
 2388091;spells/7fx_alphamask_glow_mint.blp
@@ -21691,6 +21704,7 @@
 2388094;spells/8fx_generic_necromancy_cone00.skin
 2388096;spells/8fx_generic_necromancy_empower_statechest.m2
 2388098;spells/8fx_generic_necromancy_empower_statechest00.skin
+2388100;Spells/8FX_SkeletonFace_A.blp
 2388101;spells/wispymagic_necro2x_a.blp
 2388123;spells/8fx_ribbonswirlfull_a.blp
 2388126;spells/wispymagic_necroblur_alift.blp
@@ -21759,6 +21773,7 @@
 2395038;spells/8fx_kinggrong_necromancy_reverberatingslam_impactworld.m2
 2395040;spells/8fx_kinggrong_necromancy_tantrum_impactworld.m2
 2395041;spells/8fx_world_sunwell_necromancy.m2
+2395657;Spells/8FX_Ground_Cracks_Hole.blp
 2395663;spells/8fx_groundcracks_lightninggrey2.blp
 2395667;spells/8fx_zuldazar_rocks_2x2.blp
 2395673;spells/8fx_earth_streak.blp
@@ -21893,6 +21908,7 @@
 2432984;spells/8fx_loacouncil_fallen_debuff.m2
 2432986;spells/8fx_loacouncil_fallen_debuff00.skin
 2433143;spells/7fx_alphamask_glow_bluedark_blend.blp
+2433144;Spells/8FX_ArcaneNecro_A.blp
 2433145;spells/7fx_wind_rift_double_thick_glow.blp
 2445749;spells/8fx_generic_necromancy_beamemitter.m2
 2445752;spells/8fx_generic_necromancy_beamemitter00.skin
@@ -21901,6 +21917,7 @@
 2445950;spells/7fx_energyscroll_paladin_v_darkdesat.blp
 2446050;spells/8fx_loacouncil_fallen_nova_raidlow.m2
 2446052;spells/8fx_loacouncil_fallen_nova_raidlow00.skin
+2446053;Spells/8FX_AlphaMask_BubbleShockwave.blp
 2446055;spells/7fx_crystal_geometric2_256_snek.blp
 2447763;spells/paladin_groundglow_cone_tinted_a.blp
 2448974;spells/8fx_vaultguardian_treasurepile.m2
@@ -21911,6 +21928,7 @@
 2449527;spells/8fx_rastakhan_necrowall_state.m2
 2449529;spells/8fx_rastakhan_necrowall_state00.skin
 2449531;spells/wispymagic_necro_alift.blp
+2449532;Spells/8FX_NecroNoise_A.blp
 2449820;spells/8fx_void_precastbase.m2
 2449822;spells/8fx_void_precastbase00.skin
 2450951;spells/cfx_paladin_layonhands_impactworld.m2
@@ -21952,6 +21970,7 @@
 2457766;spells/8fx_mekkatorque_wind_blast_large.m2
 2458542;spells/8fx_mekkatorque_bustercannon_impact00.skin
 2458547;spells/8fx_hard_flash_broken_blue.blp
+2458548;Spells/8FX_AlphaMask_Wisp_Gradient.blp
 2458549;spells/8fx_mekkatorque_bustercannon_precast00.skin
 2458550;spells/8fx_painted_rocks_2x2.blp
 2458551;spells/8fx_mekkatorque_bustercannon_missile00.skin
@@ -22014,11 +22033,15 @@
 2469223;spells/smoke_thickest_mod.blp
 2470362;spells/8fx_fire_toon_a.blp
 2470363;SPELLS/Fire_SmokeFire_YellowRedDesat_AlphaLift.blp
+2470364;Spells/8FX_FireAura_A.blp
 2470414;spells/8fx_ground_crack_cone_b.blp
 2470733;spells/cfx_paladin_holygenericheal_small_impactbase.m2
 2470735;spells/cfx_paladin_holygenericheal_small_impactbase00.skin
 2470829;spells/8fx_vaultguardian_toxin_debuff.m2
 2470831;spells/8fx_vaultguardian_toxin_debuff00.skin
+2470967;Spells/8FX_Firebeam_Noise_A.blp
+2470969;Spells/8FX_FireBeam_Base_A.blp
+2471010;Spells/8FX_Crystal_Geometric_Blur.blp
 2471011;spells/8xp_encrypted10_a.blp
 2471012;spells/8xp_encrypted10_b.blp
 2471014;spells/8xp_encrypted10_d.blp
@@ -22068,6 +22091,9 @@
 2478751;spells/8fx_vaultguardian_coinmeteor_missile00.skin
 2480163;spells/8fx_zuldazarraid_monk_flankingstrikes_spiritplane_lod01.skin
 2480164;spells/8fx_zuldazarraid_monk_flankingstrikes_spiritplane_lod02.skin
+2480168;Spells/8FX_Monk_WallRune.blp
+2480171;Spells/8FX_LongThin_Horizontal.blp
+2480172;Spells/8FX_Plane_Glow_Bright.blp
 2480173;spells/8fx_zuldazarraid_monkmage_combowall00.skin
 2480176;spells/8fx_coin_trailscroll.blp
 2480349;spells/8fx_vaultguardian_coinmeteor_impact.m2
@@ -22089,6 +22115,7 @@
 2481353;spells/cot_arcaneorb_01.blp
 2481354;spells/8fx_zuldazarraid_duo_fireinthemist_creature00.skin
 2481355;spells/8fx_zuldazarraid_duo_fireinthemist_creature01.skin
+2482194;Spells/8FX_GroundCrackOut_A.blp
 2482773;spells/8fx_zuldazarraid_monkmage_orb_untargetable.m2
 2482774;spells/8fx_zuldazarraid_monkmage_orb.m2
 2484177;spells/8fx_zuldazarraid_monkmage_orb00.skin
@@ -22274,6 +22301,7 @@
 2503586;spells/8fx_jaina_ballista_missile00.skin
 2504043;spells/8fx_rl_meteor_state_earth.m2
 2504045;spells/8fx_rl_meteor_state_earth00.skin
+2504049;Spells/8FX_EarthSmoke_A.blp
 2510365;spells/7fx_smoketile_bright_a2_horizontal.blp
 2510366;spells/aura_square5.blp
 2510367;spells/reflection.blp
@@ -22437,6 +22465,7 @@
 2564991;spells/8fx_rl_maskglow3.blp
 2565084;spells/8fx_rastakhan_inevitableend_souls_state.m2
 2565086;spells/8fx_rastakhan_inevitableend_souls_state00.skin
+2565088;Spells/8FX_AlphaMask_SkullA.blp
 2565138;spells/8fx_jaina_flagship_depthcharge_water.m2
 2565139;spells/8fx_jaina_flagship_state_large.m2
 2565140;spells/8fx_jaina_flagship_state_small.m2
@@ -22468,6 +22497,7 @@
 2574127;spells/8fx_jaina_shipfx.m2
 2574175;spells/8fx_generic_groundglow_yellowring_state.m2
 2574177;spells/8fx_generic_groundglow_yellowring_state00.skin
+2574424;Spells/8FX_ShockwavePartial_Necro.blp
 2574479;spells/8fx_rastakhan_firechannel_impact.m2
 2574481;spells/8fx_rastakhan_firechannel_impact00.skin
 2574499;spells/8fx_jaina_shipfx00.skin
@@ -22520,13 +22550,16 @@
 2746902;spells/windslash_streak_desat.blp
 2746903;spells/8fx_kultiran_haymaker_precast_hand00.skin
 2746904;spells/8fx_kultiran_haymaker_cast_hand00.skin
+2747014;Spells/8FX_Hay_Bits_001.blp
 2747015;spells/8fx_kultiran_haymaker_hit_chest00.skin
 2747126;SPELLS/8FX_Fire_Toon_BW.blp
 2751332;spells/leafbrown.blp
+2754393;Spells/8FX_Enchant_Bow_Mask.blp
 2756884;spells/8fx_pvp_ctf_alliance.m2
 2756887;spells/8fx_pvp_ctf_alliance00.skin
 2756891;spells/8fx_pvp_ctf_horde.m2
 2756894;spells/8fx_pvp_ctf_horde00.skin
+2756980;Spells/8FX_DarkBlue_AlphaHigh.blp
 2763674;spells/wispymagic_necroblur_c.blp
 2817124;spells/8fx_shrineraid_uunat_obliviontear_areatrigger.m2
 2817125;spells/8fx_shrineraid_uunat_piercinggaze_beam.m2
@@ -22553,13 +22586,14 @@
 2821670;spells/8fx_shrineraid_uunat_transition_beam.m2
 2821671;spells/8fx_shrineraid_uunat_obscurity_voidrings.m2
 2821672;spells/8fx_shrineraid_uunat_nzothsrealm.m2
-2821700;spells/8fx_shrineraid_uunat_maddeningeyes_grounddecal.blp
+2821700;Spells/8FX_AlphaMask_VoidDecal.blp
 2821701;spells/8fx_shrineraid_uunat_maddeningeyes00.skin
 2821702;spells/8fx_shrineraid_uunat_nzothsrealm00.skin
 2821704;spells/8fx_shrineraid_uunat_obscurity_voidrings00.skin
 2821706;spells/8fx_shrineraid_uunat_transition_beam00.skin
 2821713;spells/8fx_shrineraid_uunat_transition_orb00.skin
 2822128;spells/8fx_shrineraid_uunat_transition_orb.blp
+2823395;Spells/8FX_Caustic_Blur_Blue.blp
 2828016;spells/8fx_shrineraid_uunat_transition_precast.m2
 2828017;spells/8fx_shrineraid_uunat_maddeningeyes_grounddecal.m2
 2828018;spells/8fx_shrineraid_uunat_feed.m2
@@ -22568,6 +22602,7 @@
 2829789;spells/8fx_shrineraid_uunat_maddeningeyes_grounddecal00.skin
 2829792;spells/8fx_shrineraid_uunat_feed00.skin
 2831318;spells/8fx_rl_meteor_state_water.blp
+2831350;Spells/8FX_Small_Void_Eyes.blp
 2831351;spells/8fx_shrineraid_uunat_nzothsrealm02.skin
 2831352;spells/8fx_shrineraid_uunat_nzothsrealm03.skin
 2831353;spells/8fx_enchant_siphoning_generic.m2
@@ -22619,7 +22654,7 @@
 2843020;spells/8fx_pvp_ctf_heal_statechest00.skin
 2843021;spells/7fx_alphamask_glow_wind.blp
 2843022;spells/windslash_streak2.blp
-2843023;spells/8fx_pvp_ctf_speed_pickup.blp
+2843023;Spells/8FX_WindEnergy_Blur.blp
 2843024;spells/t_vfx_border63.blp
 2843025;spells/8fx_pvp_ctf_speed_pickup00.skin
 2843026;spells/monk_soothingmist_wind.blp
@@ -23006,6 +23041,7 @@
 3199394;spells/cfx_azerite_glory_major_precastbase00.skin
 3199396;spells/cfx_azerite_glory_major_rank4_castbase00.skin
 3199398;spells/cfx_azerite_glory_major_rank4_precastbase00.skin
+3221606;Spells/8FX_WaveyMask_Full.blp
 3229929;spells/7fx_tombofsargeras_cathedralbeam01_lod01.skin
 3229930;spells/7fx_tombofsargeras_cathedralbeam01_lod02.skin
 3229931;spells/7fx_tombofsargeras_cathedralbeam01_lod03.skin
@@ -23262,6 +23298,7 @@
 3583305;spells/cfx_necrolord_mage_statehands00.skin
 3583306;spells/cfx_necrolord_mage_precastbase00.skin
 3583307;spells/cfx_necrolord_mage_castbase00.skin
+3587705;Spells/8FX_Glow_Dot01.blp
 3589670;spells/cfx_nightfae_hunter_missile.m2
 3589671;spells/cfx_nightfae_hunter_stateworld.m2
 3589672;spells/cfx_nightfae_hunter_wildmark_impactchest.m2
@@ -23779,6 +23816,7 @@
 4058993;SPELLS/8FX_AlphaMask_StormEdge_02.blp
 4061372;spells/cfx_mage_icewall_invisiblecollision.m2
 4061383;spells/cfx_mage_icewall_invisiblecollision00.skin
+4061658;Spells/8FX_LightShard_02.blp
 4062287;SPELLS/8FX_Painted_CloudScroll_03_512.blp
 4064231;spells/cfx_donotuse_10prototype_a.m2
 4064232;spells/cfx_donotuse_10prototype_b.m2
@@ -26318,6 +26356,7 @@
 4650620;spells/FX_IntenttoBreak_Aura_lod02.skin
 4650622;spells/FX_IntenttoBreak_Aura_lod03.skin
 4655676;spells/10FX_VOTI_Terros_ConcussiveSlam_Precast00.skin
+4657980;Spells/10FX_WispyMagic_Mist_White.blp
 4657981;spells/FX_AirCrescendo00.skin
 4657982;spells/FX_AirCrescendo_lod01.skin
 4657983;spells/FX_AirCrescendo_lod02.skin
@@ -31694,7 +31733,9 @@
 6226444;spells/11FX_UndermineRaid_TheOneArmedBandit_SpinToWin_Channel_lod01.skin
 6226446;spells/11FX_UndermineRaid_TheOneArmedBandit_SpinToWin_Channel_lod02.skin
 6226448;spells/11FX_UndermineRaid_TheOneArmedBandit_SpinToWin_Channel_lod03.skin
+6234916;Spells/11FX_Flash_Yellow.blp
 6234917;Spells/11fx_flare.blp
+6234919;Spells/8FX_Precast_Smoke_Gray.blp
 6234924;spells/11FX_UndermineRaid_StixBunkjunker_DiscardedDoomsplosive_Impact00.skin
 6234925;spells/11FX_UndermineRaid_StixBunkjunker_DiscardedDoomsplosive_Impact_lod01.skin
 6234926;spells/11FX_UndermineRaid_StixBunkjunker_DiscardedDoomsplosive_Impact_lod02.skin
@@ -31978,6 +32019,7 @@
 6372124;spells/FX_SlashingPrices_Precast.m2
 6372125;Spells/9FX_HallsofAtonement_HalkiastheSinStainedGoliath_LightofAtonement_AreaTrigger.m2
 6372126;spells/FX_ScatterbombCanisters_Aura.m2
+6372207;Spells/11FX_Scorch_Mark.blp
 6372214;spells/11FX_UndermineRaid_StixBunkjunker_MuffledDoomsplosion_TravelE00.skin
 6372216;spells/11FX_UndermineRaid_StixBunkjunker_MuffledDoomsplosion_TravelE_lod01.skin
 6372218;spells/11FX_UndermineRaid_StixBunkjunker_MuffledDoomsplosion_TravelE_lod02.skin
@@ -33053,6 +33095,7 @@
 7082568;Spells/11FX_BrokenWorld_AreaTrigger04_lod01.skin
 7082570;Spells/11FX_BrokenWorld_AreaTrigger04_lod02.skin
 7082573;Spells/11FX_BrokenWorld_AreaTrigger04_lod03.skin
+7082578;Spells/Sparkle_Silver.blp
 7082584;Spells/11FX_ManaforgeOmega_DimensiustheAllDevouring_InverseGravity_Aura00.skin
 7082585;Spells/11FX_ManaforgeOmega_DimensiustheAllDevouring_InverseGravity_Aura_lod01.skin
 7082587;Spells/11FX_ManaforgeOmega_DimensiustheAllDevouring_InverseGravity_Aura_lod02.skin
