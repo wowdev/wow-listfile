@@ -32196,6 +32196,9 @@
 6389580;spells/11FX_UndermineRaid_MugZee_GoblinguidedRocket_Cast_lod03.skin
 6389590;Spells/CFX_Warrior_WarbreakerFXTEST_Cast0100.skin
 6389602;Spells/CFX_Warrior_WarbreakerFXTEST_Cast00.skin
+6389604;Spells/CFX_Warrior_WarbreakerFXTEST_Cast_lod01.skin
+6389606;Spells/CFX_Warrior_WarbreakerFXTEST_Cast_lod02.skin
+6389608;Spells/CFX_Warrior_WarbreakerFXTEST_Cast_lod03.skin
 6390735;Spells/11FX_Goblin_Bomb0200.skin
 6390737;Spells/11FX_Goblin_Bomb02_lod01.skin
 6390739;Spells/11FX_Goblin_Bomb02_lod02.skin
@@ -33895,6 +33898,8 @@
 7447918;Spells/FX_SuppressionZone_AreaTrigger.m2
 7447920;Spells/FX_SuppressionZone_AreaTrigger00.skin
 7447922;Spells/FX_SuppressionZone_AreaTrigger_lod01.skin
+7447923;Spells/FX_SuppressionZone_AreaTrigger_lod02.skin
+7447924;Spells/FX_SuppressionZone_AreaTrigger_lod03.skin
 7452409;Spells/FX_Gloom_AreaTrigger.m2
 7452984;Spells/FX_Gloom_AreaTrigger00.skin
 7452987;Spells/FX_Gloom_AreaTrigger_lod01.skin
