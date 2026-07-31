@@ -1115,8 +1115,6 @@
 2564481;world/expansion08/doodads/castlezone/9cas_wildcedar_2564481.blp
 2564482;world/expansion08/doodads/castlezone/9cas_wildcedar_2564482.blp
 2564485;spells/textures/textureblendset_823_2564485.blp
-2564538;creature/kezancrowdpummeler_gallywix/kezancrowdpummeler_gallywix_13_2564538.blp
-2564542;creature/kezancrowdpummeler_gallywix/kezancrowdpummeler_gallywix_15_2564542.blp
 2564544;creature/kezancrowdpummeler_gallywix/kezancrowdpummeler_gallywix_18_2564544.blp
 2564597;World/WMO/Dungeon/MechagonDungeon/8DU_MechagonDungeon_Main01_2564597.blp
 2564598;World/WMO/Dungeon/MechagonDungeon/8DU_MechagonDungeon_Main01_2564598.blp
@@ -115671,7 +115669,6 @@
 5662235;World/Expansion10/Doodads/Dungeon/11DU_Foundry_BannerHanging01_5662235.blp
 5662237;World/Expansion10/Doodads/Goblin/11GO_Goblin_Furniture_FancyChair01_5662237.blp
 5662264;spells/FX_BurstingLightshard_AreaTrigger_5662264.blp
-5662266;spells/11FX_UndermineRaid_Gallywix_SappersSatchel_Cast_5662266.blp
 5662267;spells/FX_BurstingLightshard_AreaTrigger_5662267.blp
 5662268;spells/FX_BurstingLightshard_AreaTrigger_5662268.blp
 5662270;spells/FX_BurstingLightshard_AreaTrigger_5662270.blp
@@ -144517,7 +144514,6 @@
 6226420;Item/ObjectComponents/collections/cloth_raidmagegoblin_d_01_boot_Be_m_6226420.blp
 6226421;Item/ObjectComponents/collections/cloth_raidmagegoblin_d_01_boot_Be_m_6226421.blp
 6226422;Item/ObjectComponents/collections/cloth_raidmagegoblin_d_01_boot_Be_m_6226422.blp
-6226440;Spells/FX_LightFeather_AreaTrigger_6226440.blp
 6226453;World/WMO/Expansion11/Troll/12TR_Amani_BearTemple01_6226453.blp
 6226465;World/Expansion10/Doodads/11XP_PinkDaggerImpact02_6226465.blp
 6226466;Sound/Spell/PayLine_cast_oneshot_6226466.ogg
@@ -144757,7 +144753,6 @@
 6234915;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Hedge_05_6234915.blp
 6234918;spells/11FX_UndermineRaid_MugZee_GoblinguidedRocket_Cast_6234918.blp
 6234920;spells/11FX_UndermineRaid_StixBunkjunker_DiscardedDoomsplosive_Impact_6234920.blp
-6234921;spells/11FX_UndermineRaid_MugZee_GoblinguidedRocket_Cast_6234921.blp
 6234922;spells/11FX_UndermineRaid_MugZee_GoblinguidedRocket_Cast_6234922.blp
 6234923;spells/11FX_UndermineRaid_StixBunkjunker_DiscardedDoomsplosive_Impact_6234923.blp
 6234933;Sound/Spell/OilSlick_cast_oneshot_6234933.ogg
@@ -150547,7 +150542,6 @@
 6372194;Creature/FirehawkMount_CN_Classic/FirehawkMount_CN_Classic_6372194.blp
 6372196;Creature/FirehawkMount_CN_Classic/FirehawkMount_CN_Classic_6372196.blp
 6372198;Creature/FirehawkMount_CN_Classic/FirehawkMount_CN_Classic_6372198.blp
-6372203;spells/11FX_UndermineRaid_MugZee_GoblinguidedRocket_Cast_6372203.blp
 6372205;spells/11FX_UndermineRaid_MugZee_GoblinguidedRocket_Cast_6372205.blp
 6372209;spells/11FX_UndermineRaid_MugZee_GoblinguidedRocket_Cast_6372209.blp
 6372211;spells/11FX_UndermineRaid_MugZee_GoblinguidedRocket_Cast_6372211.blp
@@ -186355,7 +186349,6 @@
 7304573;Creature/BullMount/BullMount_7304573.blp
 7304575;Creature/BullMount/BullMount_7304575.blp
 7304576;Creature/BullMount/BullMount_7304576.blp
-7304577;Creature/BullMount/BullMount_7304577.blp
 7304578;Creature/BullMount/BullMount_7304578.blp
 7304580;Creature/BullMount/BullMount_7304580.blp
 7304582;Creature/BullMount/BullMount_7304582.blp
@@ -186995,7 +186988,6 @@
 7318856;Spells/FX_DuskCrystal_Aura_7318856.blp
 7318860;Spells/FX_DuskCrystal_Aura_7318860.blp
 7318874;Spells/CFX_UmbralSightWard_Aura_7318874.blp
-7318880;Spells/FX_Glimmering_Aura_7318880.blp
 7318882;Spells/FX_Glimmering_Aura_7318882.blp
 7318894;World/WMO/Expansion11/Void/12VD_Void_Tower01_7318894.blp
 7318910;World/Expansion11/Doodads/Void/12VD_Void_Structure_CageFloating02_7318910.blp
@@ -205665,7 +205657,6 @@
 7758027;Sound/Creature/Zuljarra/VO_121_Zuljarra_7758027.ogg
 7758051;Sound/Creature/Taklejo/VO_121_Taklejo_7758051.ogg
 7758085;Sound/Creature/Taklejo/VO_121_Taklejo_7758085.ogg
-7758146;Spells/FX_BlossombackArboon_Precast_7758146.blp
 7758150;models/spells/unk_exp11_7757871/7757871_7758150.blp
 7758152;Spells/FX_BlossombackArboon_Precast_7758152.blp
 7758154;Spells/FX_BlossombackArboon_Precast_7758154.blp
@@ -210338,7 +210329,6 @@
 7897020;Creature/BabyMurlocXalatath/BabyMurlocXalatath_7897020.blp
 7897449;models/spells/unk_exp11_7893899/7893899_7897449.blp
 7897452;models/spells/unk_exp11_7893899/7893899_7897452.blp
-7897456;models/spells/unk_exp11_7893899/7893899_7897456.blp
 7897458;models/spells/unk_exp11_7893899/7893899_7897458.blp
 7897461;models/spells/unk_exp11_7893899/7893899_7897461.blp
 7897464;models/spells/unk_exp11_7893899/7893899_7897464.blp

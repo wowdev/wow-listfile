@@ -48854,7 +48854,9 @@
 2564533;creature/kezancrowdpummeler_gallywix/lightning_large_02.blp
 2564534;creature/kezancrowdpummeler_gallywix/beam_lightning_01.blp
 2564536;creature/kezancrowdpummeler_gallywix/soft_flare_.blp
+2564538;creature/kezancrowdpummeler_gallywix/8FX_AlphaMask_BubbleShockwave.blp
 2564540;creature/kezancrowdpummeler_gallywix/7fx_arcane_wisps_blank.blp
+2564542;creature/kezancrowdpummeler_gallywix/8FX_Basic_Spark_GrayScale.blp
 2564595;creature/deepseafish/deepseafish.m2
 2564611;creature/deepseafish/deepseafish_black.blp
 2564612;creature/deepseafish/deepseafish_green.blp
@@ -80000,6 +80002,7 @@
 7304570;Creature/BullMount/8FX_Basic_Spark_Sheet_GrayScale.blp
 7304571;Creature/BullMount/8FX_Painted_CloudScroll_03_512.blp
 7304574;Creature/BullMount/8FX_Generic_Stars_Cyan.blp
+7304577;Creature/BullMount/11FX_Dragonhawk_Chromatic_Energy.blp
 7304579;Creature/BullMount/7FX_AlphaMask_Glow_Blue7.blp
 7304581;Creature/BullMount/soft_flare_.blp
 7304583;Creature/BullMount/7FX_AlphaMask_Glow.blp

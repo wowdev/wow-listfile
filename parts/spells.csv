@@ -27454,7 +27454,7 @@
 5049612;spells/FX_HastilyStackedSupplies_Aura02_lod02.skin
 5049615;spells/FX_HastilyStackedSupplies_Aura02_lod03.skin
 5054328;spells/FX_ArcaneStorm_Channel.m2
-5054341;spells/FX_Destabilize_Precast.m2
+5054341;Spells/10GFX_Arcane_PrecastHands.m2
 5054342;spells/10FX_Aberrus_ForgottenExperiments_ViolentEruption_Channel.m2
 5054343;Spells/10FX_EvokerCast01.m2
 5054971;spells/FX_BlackHoleSun_Aura.m2
@@ -27688,7 +27688,7 @@
 5100661;spells/FX_ArcaneStorm_Channel_lod03.skin
 5100662;Spells/ribbon_artifact_voidarcane.blp
 5100665;Spells/10FX_EvokerCast0100.skin
-5100731;spells/FX_Destabilize_Precast00.skin
+5100731;spells/10GFX_Arcane_PrecastHands00.skin
 5100732;spells/FX_Destabilize_Precast_lod01.skin
 5100733;spells/FX_Destabilize_Precast_lod02.skin
 5100734;spells/FX_Destabilize_Precast_lod03.skin
@@ -30257,6 +30257,7 @@
 5661716;Spells/11FX_Holy_Missile01_lod01.skin
 5661718;Spells/11FX_Holy_Missile01_lod02.skin
 5661720;Spells/11FX_Holy_Missile01_lod03.skin
+5662266;Spells/11FX_Holyfire_Mask_A.blp
 5662305;SPELLS/10FX_AlphaMask_Glow_White02.blp
 5662319;spells/FX_BurstingLightshard_AreaTrigger00.skin
 5662331;Spells/11FX_SparklyMissile0100.skin
@@ -31189,11 +31190,11 @@
 5925305;Spells/1FX_ManaforgeOmega_ForgeweaverAraz_ArcaneSiphon_Missile.m2
 5927679;Spells/FX_LightblessedBolt_Missile.m2
 5927680;spells/FX_DesignedDisaster_Missile.m2
-5927961;Spells/11FX_LightCircle02.m2
+5927961;Spells/11GFX_Holy_Precast_Base.m2
 5927963;spells/FX_HouseofCards_Impact.m2
 5927964;Spells/FX_SoulSweep_Precast.m2
 5927966;spells/11FX_UndermineRaid_MugZee_MoltenGoldKnuckles_Precast.m2
-5927984;Spells/11FX_LightCircle0200.skin
+5927984;spells/11GFX_Holy_Precast_Base00.skin
 5927985;Spells/11FX_LightCircle02_lod01.skin
 5927986;Spells/11FX_LightCircle02_lod02.skin
 5927987;Spells/11FX_LightCircle02_lod03.skin
@@ -31729,6 +31730,7 @@
 6226406;spells/11FX_UndermineRaid_Gallywix_OverloadedRockets_Impact_lod01.skin
 6226407;spells/11FX_UndermineRaid_Gallywix_OverloadedRockets_Impact_lod02.skin
 6226408;spells/11FX_UndermineRaid_Gallywix_OverloadedRockets_Impact_lod03.skin
+6226440;Spells/11FX_AlphaMask_Flare_Glow.blp
 6226442;spells/11FX_UndermineRaid_TheOneArmedBandit_SpinToWin_Channel00.skin
 6226444;spells/11FX_UndermineRaid_TheOneArmedBandit_SpinToWin_Channel_lod01.skin
 6226446;spells/11FX_UndermineRaid_TheOneArmedBandit_SpinToWin_Channel_lod02.skin
@@ -31736,6 +31738,7 @@
 6234916;Spells/11FX_Flash_Yellow.blp
 6234917;Spells/11fx_flare.blp
 6234919;Spells/8FX_Precast_Smoke_Gray.blp
+6234921;Spells/11FX_FireBase_Mask.blp
 6234924;spells/11FX_UndermineRaid_StixBunkjunker_DiscardedDoomsplosive_Impact00.skin
 6234925;spells/11FX_UndermineRaid_StixBunkjunker_DiscardedDoomsplosive_Impact_lod01.skin
 6234926;spells/11FX_UndermineRaid_StixBunkjunker_DiscardedDoomsplosive_Impact_lod02.skin
@@ -31999,7 +32002,7 @@
 6372061;Spells/12FX_UlatekRaid_TheTwinFangs_CausticDeluge_Aura.m2
 6372069;spells/11FX_UndermineRaid_StixBunkjunker_MuffledDoomsplosion_Impact.m2
 6372070;spells/11FX_UndermineRaid_Gallywix_SappersSatchel_Cast.m2
-6372071;spells/11FX_UndermineRaid_StixBunkjunker_MuffledDoomsplosion_TravelE.m2
+6372071;Spells/11GFX_Explosion_VerticalImpact.m2
 6372072;spells/11FX_UndermineRaid_Gallywix_BadBelatedBoom_Cast.m2
 6372109;Spells/12FX_UlatekRaid_TheLostExplorers_Aftershock_Aura.m2
 6372110;Spells/FX_ScouringSand_Precast.m2
@@ -32019,8 +32022,9 @@
 6372124;spells/FX_SlashingPrices_Precast.m2
 6372125;Spells/9FX_HallsofAtonement_HalkiastheSinStainedGoliath_LightofAtonement_AreaTrigger.m2
 6372126;spells/FX_ScatterbombCanisters_Aura.m2
+6372203;Spells/11FX_Consecrate_LightShards.blp
 6372207;Spells/11FX_Scorch_Mark.blp
-6372214;spells/11FX_UndermineRaid_StixBunkjunker_MuffledDoomsplosion_TravelE00.skin
+6372214;spells/11GFX_Explosion_VerticalImpact00.skin
 6372216;spells/11FX_UndermineRaid_StixBunkjunker_MuffledDoomsplosion_TravelE_lod01.skin
 6372218;spells/11FX_UndermineRaid_StixBunkjunker_MuffledDoomsplosion_TravelE_lod02.skin
 6372220;spells/11FX_UndermineRaid_StixBunkjunker_MuffledDoomsplosion_TravelE_lod03.skin
@@ -32438,7 +32442,7 @@
 6703428;Spells/11FX_ArcaneOrb01_lod01.skin
 6703429;Spells/11FX_ArcaneOrb01_lod02.skin
 6703430;Spells/11FX_ArcaneOrb01_lod03.skin
-6703761;Spells/11FX_ManaforgeOmega_ForgeweaverAraz_PowerManifested_Impact.m2
+6703761;Spells/11GFX_Arcane_VerticalImpact.m2
 6708049;Spells/11FX_KhazAlgar_ReshanorTheUntethered_ErrantZap_Impact.m2
 6708564;Spells/11FX_KhazAlgar_ReshanorTheUntethered_ErrantZap_Impact00.skin
 6708565;Spells/11FX_KhazAlgar_ReshanorTheUntethered_ErrantZap_Impact_lod01.skin
@@ -32498,7 +32502,7 @@
 6727990;Spells/FX_ShapeshiftMoonkin_Precast_lod02.skin
 6727992;Spells/FX_ShapeshiftMoonkin_Precast_lod03.skin
 6728032;Spells/FrostmourneBlade_A.blp
-6728033;Spells/11FX_ManaforgeOmega_ForgeweaverAraz_PowerManifested_Impact00.skin
+6728033;spells/11GFX_Arcane_VerticalImpact00.skin
 6728034;Spells/11FX_ManaforgeOmega_ForgeweaverAraz_PowerManifested_Impact_lod01.skin
 6728035;Spells/11FX_ManaforgeOmega_ForgeweaverAraz_PowerManifested_Impact_lod02.skin
 6728237;Spells/FX_PredatoryNature_Precast.m2
@@ -33577,6 +33581,7 @@
 7318876;Spells/CFX_UmbralSightWard_Aura_lod01.skin
 7318877;Spells/CFX_UmbralSightWard_Aura_lod02.skin
 7318878;Spells/CFX_UmbralSightWard_Aura_lod03.skin
+7318880;Spells/11FX_DragonHawk_Chromatic_Energy.blp
 7318885;Spells/FX_Glimmering_Aura00.skin
 7318886;Spells/FX_Glimmering_Aura_lod01.skin
 7318888;Spells/FX_Glimmering_Aura_lod02.skin
@@ -34353,8 +34358,8 @@
 7702548;Spells/12FX_UlatekRaid_Ulatek_MothersWrath_Precast_lod01.skin
 7702550;Spells/12FX_UlatekRaid_Ulatek_MothersWrath_Precast_lod02.skin
 7702553;Spells/12FX_UlatekRaid_Ulatek_MothersWrath_Precast_lod03.skin
-7704420;Spells/FX_EquipTransmogOutfit_Impact.m2
-7704427;Spells/FX_EquipTransmogOutfit_Impact00.skin
+7704420;Spells/12FX_Transmog_Set_Change.m2
+7704427;spells/12FX_Transmog_Set_Change00.skin
 7704428;Spells/FX_EquipTransmogOutfit_Impact_lod01.skin
 7704429;Spells/FX_EquipTransmogOutfit_Impact_lod02.skin
 7704430;Spells/FX_EquipTransmogOutfit_Impact_lod03.skin
@@ -34440,6 +34445,7 @@
 7757875;Spells/FX_BlossombackArboon_Precast.m2
 7757876;Spells/FX_AmberbackArboon_Precast.m2
 7758144;Spells/12FX_Chromatic_Mote.blp
+7758146;Spells/12FX_Chromatic_LightStreaks.blp
 7758148;Spells/10gsl_grass01_1024.blp
 7758188;Spells/FX_BlossombackArboon_Precast00.skin
 7758287;Spells/FX_AmberbackArboon_Precast00.skin
@@ -34566,6 +34572,7 @@
 7892996;Spells/FX_121Delves_HexTrolls01_FireballPuddleImpactSmall_Cast.m2
 7892997;Spells/FX_Evolve_Precast.m2
 7892998;Spells/FX_RitualoftheFang_Aura.m2
+7897456;Spells/12GFX_WeaponEnchant_Mask.blp
 7897567;Spells/12FX_UlatekRaid_Sszorak_Ravage_Precast00.skin
 7897569;Spells/12FX_UlatekRaid_Sszorak_Ravage_Precast_lod01.skin
 7897571;Spells/12FX_UlatekRaid_Sszorak_Ravage_Precast_lod02.skin
