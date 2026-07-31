@@ -50704,6 +50704,7 @@
 3020473;creature/rageofazshara/rageofazshara_body_01.blp
 3020474;creature/rageofazshara/rageofazshara_hair_02.blp
 3021049;creature/tidalguardianhulk/7fx_lightraysup_r.blp
+3021051;creature/tidalguardianhulk/8FX_Basic_Spark_Sheet_blue.blp
 3021052;creature/tidalguardianhulk/grey50percentsquare16x16_a.blp
 3021053;creature/tidalguardianhulk/White8x8.blp
 3021054;creature/tidalguardianhulk/water_caustic_blendadd_radial.blp
@@ -50723,6 +50724,7 @@
 3021073;creature/kelpelemental_creature/incense_brown.blp
 3021074;creature/kelpelemental_creature/arcane_wisps_desat_06_grey.blp
 3021075;creature/kelpelemental_creature/kelpelemental_creature01.skin
+3021078;creature/tidalguardian/8FX_Basic_Spark_Sheet_blue.blp
 3021079;creature/tidalguardian/grey50percentsquare16x16_a.blp
 3021080;creature/tidalguardian/White8x8.blp
 3021081;creature/tidalguardian/7fx_lightraysup_r.blp
@@ -68180,6 +68182,7 @@
 5205944;creature/TitanDefenseOrb/8FX_Generic_Stars.blp
 5205946;creature/TitanDefenseOrb/gloweffect2.blp
 5205948;creature/TitanDefenseOrb/8FX_Fire_Toon_BW.blp
+5205950;creature/TitanDefenseOrb/8FX_MaskNoise_Sparse.blp
 5205951;creature/TitanDefenseOrb/7FX_Crystal_Geometric_Sharp.blp
 5205952;creature/TitanDefenseOrb/7fx_smoketile_bright_a2_horizontal.blp
 5205953;creature/TitanDefenseOrb/8fx_alphamask_fresnel.blp
@@ -71052,6 +71055,7 @@
 5648327;creature/zeppelinmount/zeppelinmount_lod02.skin
 5648328;creature/zeppelinmount/zeppelinmount_lod03.skin
 5648406;Creature/HHMount/HeadlessHorse.blp
+5648407;Creature/HHMount/flamelicksmall.blp
 5648408;Creature/HHMount/HeadlessHorseArmor.blp
 5648409;Creature/HHMount/ArmorReflect4.blp
 5648410;Creature/HHMount/dust1.blp
@@ -76023,6 +76027,7 @@
 6426776;Creature/GoblinShredderMech/Sparkle_Tumbling_01_small.blp
 6426778;Creature/GoblinShredderMech/White8x8.blp
 6426780;Creature/GoblinShredderMech/8FX_Painted_CloudScroll_02.blp
+6426784;Creature/GoblinShredderMech/10FX_WispyMagic_Mist_White.blp
 6426786;Creature/GoblinShredderMech/8FX_ShadowEmbers_A.blp
 6426788;Creature/GoblinShredderMech/grey50percentsquare16x16_a.blp
 6426790;Creature/GoblinShredderMech/7fx_alphamask_liquid_puddle.blp
@@ -76031,6 +76036,7 @@
 6426796;Creature/GoblinShredderMech/10FX_Fire_Line_01.blp
 6426798;Creature/GoblinShredderMech/8FX_Fire_Toon_B_01.blp
 6426800;Creature/GoblinShredderMech/7FX_AlphaMask_Glow_01.blp
+6426802;Creature/GoblinShredderMech/11FX_Flash_Yellow.blp
 6426804;Creature/GoblinShredderMech/7fx_heroaura_fire_noedge.blp
 6426806;Creature/GoblinShredderMech/8fx_fire_toon_a.blp
 6426808;Creature/GoblinShredderMech/Fire_SmokeFire_YellowRedDesat_AlphaLift.blp
@@ -76085,6 +76091,7 @@
 6431510;Creature/GallywixMechMount/7FX_LightraysUp_Bright.blp
 6431511;Creature/GallywixMechMount/7FX_AlphaMask_Glow_01.blp
 6431512;Creature/GallywixMechMount/Lightning_Spike_SpriteSheet_Radial.blp
+6431513;Creature/GallywixMechMount/8FX_Basic_Spark_GrayScale.blp
 6431515;Creature/GallywixMechMount/8fx_fire_toon_a.blp
 6431516;Creature/GallywixMechMount/7fx_heroaura_fire_noedge.blp
 6431517;Creature/GallywixMechMount/Fire_SmokeFire_YellowRedDesat_AlphaLift.blp
@@ -76326,6 +76333,7 @@
 6651372;Creature/GoblinShredderMechBoss/8FX_Basic_Spark_Sheet_GrayScale.blp
 6651376;Creature/GoblinShredderMechBoss/Gray8x8.blp
 6651380;Creature/GoblinShredderMechBoss/8fx_cloud_gradientvertical.blp
+6651384;Creature/GoblinShredderMechBoss/7FX_HeroAura_Shadowflame52.blp
 6651390;Creature/GoblinShredderMechBoss/flare1_tc_witchmagicspirit.blp
 6651413;Creature/SnapLizard/SnapLizard_Red.blp
 6651414;Creature/SnapLizard/SnapLizard_White.blp
