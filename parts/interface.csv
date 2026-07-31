@@ -171342,6 +171342,13 @@
 8019261;Interface/ICONS/INV_Helm_Armor_Mask_B_03.blp
 8025660;Interface/AddOns/Blizzard_APIDocumentationGenerated/SocialQueueSystemStatusDocumentation.lua
 8026351;Interface/AddOns/Blizzard_Narration/Blizzard_NarrationSlider.lua
+8026692;Interface/Icons/INV121_Ability_Hunter_AimedShot.blp
+8026693;Interface/Icons/INV121_Ability_Mage_Counterspell.blp
+8026694;Interface/Icons/INV121_Ability_Mage_GigaBlast.blp
+8026696;Interface/Icons/INV121_Ability_Shaman_Ascendance_Air.blp
+8026697;Interface/Icons/INV121_Ability_Shaman_Ascendance_Fire.blp
+8026698;Interface/Icons/INV121_Ability_Shaman_Ascendance_Water.blp
+8026699;Interface/Icons/INV121_Ability_Warlock_SoulWell.blp
 8027209;Interface/AddOns/Blizzard_APIDocumentationGenerated/SimpleAnimRadialProgressAPIDocumentation.lua
 8028501;Interface/ICONS/INV_ChameleonMount_Red.blp
 8028502;Interface/ICONS/INV_ChameleonMount_Blue.blp
@@ -171397,6 +171404,7 @@
 8095030;Interface/ICONS/INV_Bracer_Cloth_RaidDruidUlatek_D_01.blp
 8095063;Interface/ICONS/INV_Bracer_Leather_RaidDruidUlatek_D_01.blp
 8096446;Interface/AddOns/Blizzard_APIDocumentationGenerated/BattleNetSharedDocumentation.lua
+8097232;Interface/Icons/INV_121_OssifiedRelic.blp
 8100612;Interface/ICONS/INV_Belt_Armor_SpiceWitch_D_01.blp
 8100619;Interface/ICONS/INV_Boot_Armor_SpiceWitch_D_01.blp
 8100620;Interface/ICONS/INV_Chest_Armor_SpiceWitch_D_01.blp

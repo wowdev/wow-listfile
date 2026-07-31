@@ -211864,12 +211864,6 @@
 8026111;models/world/unk_exp11_8024094/8024094_lod01.skin
 8026113;models/world/unk_exp11_8024094/8024094_lod02.skin
 8026115;models/world/unk_exp11_8024094/8024094_lod03.skin
-8026692;Interface/Icons/AimedShot_8026692.blp
-8026694;Interface/Icons/PrismaticBolt_8026694.blp
-8026696;Interface/Icons/Ascendance_8026696.blp
-8026697;Interface/Icons/Ascendance_8026697.blp
-8026698;Interface/Icons/Ascendance_8026698.blp
-8026699;Interface/Icons/DoomscaleCauldron_8026699.blp
 8026700;Interface/Icons/Javelineer_8026700.blp
 8026785;Interface/Icons/Unknown_8026785.blp
 8026786;Interface/Icons/EnsembleMoonlitAssassinsAttire_8026786.blp
@@ -212866,7 +212860,6 @@
 8094292;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8094292.ogg
 8094294;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8094294.ogg
 8094296;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8094296.ogg
-8097232;Interface/Icons/Unknown_8097232.blp
 8097756;Housing/Icons/INV_12TR_Amani_Ritual_Skull01_8097756.blp
 8097792;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Pumpkins01_DyeColorMap_8097792.blp
 8097794;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Pumpkins01_DyeInfluenceMap_8097794.blp
