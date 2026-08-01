@@ -55542,6 +55542,7 @@
 3604106;Creature/DogPetGolden/DogPetGolden.blp
 3604112;Creature/DogPetGolden/ArmorReflect4.blp
 3604113;Creature/DogPetGolden/DogPetGolden_Glow.blp
+3604114;Creature/DogPetGolden/ORANGE.blp
 3604115;Creature/DogPetGolden/bigglow.blp
 3604122;Creature/DogPetGolden/fungalgiantgreyspore.blp
 3604129;Creature/DogPetGolden/DogPetGolden00.skin
@@ -56536,6 +56537,7 @@
 3731433;creature/horsebastion/horsebastion_lod01.skin
 3731434;creature/horsebastion/horsebastion_lod02.skin
 3731435;creature/horsebastion/horsebastion_lod03.skin
+3731436;creature/horsebastion/ORANGE.blp
 3731438;creature/horsebastion/horsebastion_dark.blp
 3731439;creature/horsebastion/horsebastion_gold.blp
 3731440;creature/batpetrevendreth/batpetrevendreth_dark.blp
@@ -56588,6 +56590,7 @@
 3731641;creature/bloodlousepet/bloodlousepet_lod01.skin
 3731642;creature/bloodlousepet/bloodlousepet_lod02.skin
 3731643;creature/bloodlousepet/bloodlousepet_lod03.skin
+3731644;creature/babysteward/ORANGE.blp
 3731646;creature/bloodlousepet/bloodlousepet_red.blp
 3731647;creature/bloodlousepet/bloodlousepet_green.blp
 3731648;creature/bloodlousepet/bloodlousepet_purple.blp
@@ -57389,11 +57392,13 @@
 3760369;creature/progenitortoad/progenitortoad_lod03.skin
 3760429;creature/automatonflier/automatonflier.m2
 3760431;Creature/AutomatonFlierMount/AutomatonFlierMount.m2
+3760433;Creature/AutomatonFlierMount/ORANGE.blp
 3760436;Creature/AutomatonFlierMount/AutomatonFlierMount.blp
 3760440;Creature/AutomatonFlierMount/AutomatonFlierMount00.skin
 3760443;Creature/AutomatonFlierMount/AutomatonFlierMount_lod01.skin
 3760446;Creature/AutomatonFlierMount/AutomatonFlierMount_lod02.skin
 3760449;Creature/AutomatonFlierMount/AutomatonFlierMount_lod03.skin
+3760452;creature/automatonflier/ORANGE.blp
 3760453;creature/automatonflier/automatonflier.blp
 3760455;creature/automatonflier/automatonflier00.skin
 3760456;creature/automatonflier/automatonflier_lod01.skin
@@ -62319,6 +62324,7 @@
 4391536;creature/IGC_Pelagos/IGC_Pelagos_lod01.skin
 4391537;creature/IGC_Pelagos/IGC_Pelagos_lod02.skin
 4391538;creature/IGC_Pelagos/IGC_Pelagos_lod03.skin
+4391541;creature/fancykleia/ORANGE.blp
 4391551;creature/ICG_Kleia/ICG_Kleia00.skin
 4391552;creature/ICG_Kleia/ICG_Kleia_lod01.skin
 4391554;creature/ICG_Kleia/ICG_Kleia_lod02.skin
@@ -62482,6 +62488,7 @@
 4415487;creature/IGC_SylvanasShadowlands3/IGC_SylvanasShadowlands31454-19.anim
 4415488;creature/IGC_SylvanasShadowlands3/IGC_SylvanasShadowlands31456-18.anim
 4415489;creature/IGC_SylvanasShadowlands3/IGC_SylvanasShadowlands31456-19.anim
+4415490;creature/fancypelagos/ORANGE.blp
 4415491;creature/IGC_Pelagos/IGC_Pelagos1452-00.anim
 4415492;creature/IGC_Pelagos/IGC_Pelagos1452-01.anim
 4415493;creature/IGC_Pelagos/IGC_Pelagos1452-02.anim
