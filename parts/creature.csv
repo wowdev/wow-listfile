@@ -49544,6 +49544,7 @@
 2829373;creature/mechagonreaver/Cloud_Soft_Painterly_Alpha.blp
 2829374;creature/mechagonreaver/Gray_64.blp
 2829375;creature/mechagonreaver/alpha_doubleedge_fade.blp
+2829378;creature/mechagonreaver/8FX_Basic_Spark_Sheet_blue.blp
 2829379;creature/mechagonreaver/White8x8.blp
 2829834;creature/flyingbomber2/Ember_Offset_Streak.blp
 2829835;creature/flyingbomber2/White8x8.blp
@@ -77467,6 +77468,7 @@
 6866862;Creature/ShadeVoid/ShadeVoid_Glow_Pale.blp
 6866863;Creature/ShadeVoid/ShadeVoid_Glow_Purple.blp
 6866869;Creature/ShadeVoid/armorreflect4.blp
+6866870;Creature/ShadeVoid/Smoke_Loose_03.blp
 6866871;Creature/ShadeVoid/smoke_soft_01.blp
 6866872;Creature/ShadeVoid/7fx_fire_puff_white_v2.blp
 6866875;Creature/ShadeVoid/7FX_AlphaMask_Glow_Blue.blp
@@ -77699,6 +77701,7 @@
 6891192;creature/lorthemar/lorthemar1220-00.anim
 6891193;creature/lorthemar/lorthemar1770-00.anim
 6891194;creature/lorthemar/lorthemar1492-00.anim
+6891205;Creature/VoidFlyerMountMythic/Smoke_Loose_03.blp
 6891206;Creature/VoidFlyerMountMythic/Starfield_Mask_Split4Blendadd.blp
 6891209;Creature/VoidFlyerMountMythic/VoidFlyerMountMythic00.skin
 6891234;Creature/CelestialSerpent/CelestialSerpentMountSaddle_Jade.blp
@@ -79400,6 +79403,7 @@
 7226414;creature/druidtravelcat/druidtravelcat0060-00.anim
 7226651;Creature/BabyArathiLynx/BabyArathiLynx0060-00.anim
 7228372;Creature/DragonHawk2VoidMount/Gray_64.blp
+7228375;Creature/DragonHawk2VoidMount/11FX_Dragonhawk_Chromatic_Energy.blp
 7228376;Creature/DragonHawk2VoidMount/Gray8x8.blp
 7229512;Creature/BerserkerBoss/ember_chunky_blankmorerotation_a.blp
 7229513;Creature/BerserkerBoss/white8x8.blp
@@ -80433,6 +80437,7 @@
 7429204;Creature/PantheraMount/10FX_Arcane_Wisps_Desat_Blur.blp
 7429206;Creature/PantheraMount/LightningUnderTile_Blue_A_bw.blp
 7429208;Creature/PantheraMount/ember_chunky_blankmorerotation_a.blp
+7429210;Creature/PantheraMount/11FX_Consecrate_LightShards.blp
 7429215;Creature/PantheraMount/7FX_AlphaMask_Glow_01.blp
 7429217;Creature/PantheraMount/Glass_Beveled_Distortion.blp
 7429221;Creature/PantheraMount/7FX_AlphaMask_Glow.blp
