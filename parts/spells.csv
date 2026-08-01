@@ -21719,6 +21719,7 @@
 2388154;spells/8fx_generic_necromancy_missilegeo00.skin
 2388158;spells/8fx_generic_necromancy_novahigh_base.m2
 2388160;spells/8fx_generic_necromancy_novahigh_base00.skin
+2388162;Spells/7FX_AlphaMask_firemask_alphahigh.blp
 2388163;spells/wispymagic_necroblurh_a.blp
 2388164;spells/8fx_generic_necromancy_novalow_base.m2
 2388166;spells/8fx_generic_necromancy_novalow_base00.skin
@@ -21808,6 +21809,8 @@
 2399696;spells/8fx_loacouncil_windradial_state.m2
 2399698;spells/8fx_loacouncil_windradial_state00.skin
 2399701;spells/verticalgradient_caustic_05.blp
+2399703;Spells/8FX_General_windtileblur_a.blp
+2399704;Spells/8FX_General_windtile_a.blp
 2399706;spells/8fx_loacouncil_windradialground_state.m2
 2399708;spells/8fx_loacouncil_windradialground_state00.skin
 2399768;spells/8fx_loacouncil_windradial_pulse.m2
@@ -21919,6 +21922,7 @@
 2446052;spells/8fx_loacouncil_fallen_nova_raidlow00.skin
 2446053;Spells/8FX_AlphaMask_BubbleShockwave.blp
 2446055;spells/7fx_crystal_geometric2_256_snek.blp
+2446942;Spells/8FX_General_windtileblur_alphalift.blp
 2447763;spells/paladin_groundglow_cone_tinted_a.blp
 2448974;spells/8fx_vaultguardian_treasurepile.m2
 2448976;spells/8fx_vaultguardian_treasurepile00.skin
@@ -22699,6 +22703,7 @@
 2909712;Spells/8fx_nagacentaur_barrage_poison_impact.m2
 2909714;Spells/8fx_nagacentaur_barrage_poison_impact00.skin
 2913785;SPELLS/8FX_Basic_Spark_Sheet_blue.blp
+2920592;Spells/7FX_AlphaMask_glow_pink.blp
 2921348;SPELLS/8FX_LightningScroll_DeepBlueA.blp
 2924162;SPELLS/8FX_Painted_CloudScroll.blp
 2924309;spells/cfx_azerite_nulldynamo_major_statechest.m2
@@ -22798,6 +22803,7 @@
 2970100;spells/cfx_azerite_purificationblast_major_rank4_state_hostile.m2
 2973999;spells/cfx_azerite_well_major_state.m2
 2974000;spells/cfx_azerite_well_major_rank4_state.m2
+2974113;Spells/8FX_AlphaMask_donutthick_outer.blp
 2974115;spells/cfx_azerite_well_major_state00.skin
 2974562;spells/8fx_nazjatarraid_ashvane_arcingazerite_icon01.m2
 2974563;spells/8fx_nazjatarraid_ashvane_arcingazerite_icon02.m2
@@ -24036,6 +24042,7 @@
 4277248;spells/cfx_dracthyr_wingbuffet_castworld_lod01.skin
 4277249;spells/cfx_dracthyr_wingbuffet_castworld_lod02.skin
 4277250;spells/cfx_dracthyr_wingbuffet_castworld_lod03.skin
+4278838;Spells/7FX_AlphaMask_glow_bluepink.blp
 4279038;SPELLS/10FX_EnergyTendril_C.blp
 4279713;SPELLS/7FX_AlphaMask_GlowBright_Blend.blp
 4280170;spells/cfx_dracthyr_visage_red_castbase.m2
@@ -25246,6 +25253,7 @@
 4509931;spells/FX_CutHand_Precast_lod02.skin
 4509932;spells/FX_CutHand_Precast_lod03.skin
 4510168;spells/CFX_Evoker_BlessingoftheBronze_Impact.m2
+4510298;Spells/8FX_General_windtile_e.blp
 4510304;spells/CFX_Evoker_BlessingoftheBronze_Impact00.skin
 4510772;spells/FX_FillingVial_Precast.m2
 4511168;spells/10FX_Neltharus_Gorek_Forgefire_Aura.m2
@@ -26228,6 +26236,7 @@
 4637426;spells/CFX_Mage_ArcaneSurge_Aura_lod01.skin
 4637431;spells/CFX_Mage_ArcaneSurge_Aura_lod02.skin
 4637434;spells/CFX_Mage_ArcaneSurge_Aura_lod03.skin
+4637438;Spells/8FX_General_windtile_i.blp
 4637439;Spells/FairyDust2OffsetTwinkle_2x2_BlendAdd.blp
 4637445;spells/CFX_Mage_ArcaneSurge_Precast00.skin
 4637447;spells/CFX_Mage_ArcaneSurge_Precast_lod01.skin
@@ -26780,6 +26789,7 @@
 4725790;spells/FX_Corruption_Aura_lod01.skin
 4725791;spells/FX_Corruption_Aura_lod02.skin
 4725792;spells/FX_Corruption_Aura_lod03.skin
+4726032;Spells/9FX_precastground_a_3.blp
 4726037;spells/FX_NullBlast_Precast00.skin
 4726064;spells/FX_SpellvisforDjaradinBrokenTorch01_Aura00.skin
 4726066;spells/FX_SpellvisforDjaradinBrokenTorch01_Aura_lod01.skin
@@ -27783,6 +27793,7 @@
 5142752;spells/FX_OwlPost_Aura01_lod02.skin
 5142754;spells/FX_OwlPost_Aura01_lod03.skin
 5142771;spells/10FX_Amirdrassil_Nymue_ViolentFlora_Impact00.skin
+5142775;Spells/10FX_smoke_paintyloose_00.blp
 5142776;spells/10FX_Amirdrassil_Council_NoxiousBlossom_Cast00.skin
 5142778;spells/10FX_Amirdrassil_Council_NoxiousBlossom_Precast00.skin
 5143013;spells/FX_SteamVentChannel_Aura01.m2
@@ -28114,6 +28125,7 @@
 5194445;spells/CFX_Evoker_BestowWeyrnstone_Impact00.skin
 5194449;spells/CFX_Evoker_ActivateWeyrnstone_Impact00.skin
 5194451;spells/CFX_Evoker_TemporalWound_Aura.m2
+5194453;Spells/8FX_General_windtile_pink.blp
 5194456;spells/CFX_Evoker_TemporalWound_Aura00.skin
 5194457;spells/CFX_Evoker_TemporalWound_Aura_lod01.skin
 5194458;spells/CFX_Evoker_TemporalWound_Aura_lod02.skin
@@ -29523,6 +29535,7 @@
 5480210;Spells/10FX_Spell271456-03.anim
 5482013;Spells/11FX_Mushroom01.m2
 5482031;spells/CFX_Hunter_DeathChakram_Impact00.skin
+5482036;Spells/7FX_AlphaMask_glow_teal.blp
 5482040;Spells/10FX_Spell4100.skin
 5482041;Spells/10FX_Spell41_lod01.skin
 5482042;Spells/10FX_Spell41_lod02.skin
@@ -30109,6 +30122,7 @@
 5633585;spells/FX_InnerLight_Aura_lod01.skin
 5633586;spells/FX_InnerLight_Aura_lod02.skin
 5633587;spells/FX_InnerLight_Aura_lod03.skin
+5633922;Spells/11FX_HolyFire_cloudmist_blur02.blp
 5633930;spells/11FX_PrioryoftheSacredFlame_PrioressMurrpray_HolySmite_Precast00.skin
 5633933;spells/11FX_PrioryoftheSacredFlame_PrioressMurrpray_HolySmite_Precast_lod01.skin
 5633937;spells/11FX_PrioryoftheSacredFlame_PrioressMurrpray_HolySmite_Precast_lod02.skin
@@ -33038,6 +33052,8 @@
 7050546;Spells/11FX_Devour_AreaTrigger_lod02.skin
 7050548;Spells/11FX_Devour_AreaTrigger_lod03.skin
 7052755;Spells/11FX_CosmeticFog_Aura0200.skin
+7065622;Spells/8FX_General_windtile_teal.blp
+7065623;Spells/8FX_General_windtile_violet.blp
 7065625;Spells/11FX_WallVisualStalker6Beam_Aura00.skin
 7065626;Spells/11FX_WallVisualStalker6Beam_Aura_lod01.skin
 7065627;Spells/11FX_WallVisualStalker6Beam_Aura_lod02.skin
@@ -33842,6 +33858,7 @@
 7414431;Spells/CFX_DemonHunter_WorldKiller_Cast.m2
 7414432;Spells/CFX_DemonHunter_VoidfallMeteor_Impact.m2
 7414778;Spells/CFX_DemonHunter_VoidfallMeteor_Impact00.skin
+7414791;Spells/7FX_AlphaMask_glow_shadow.blp
 7414798;Spells/CFX_DemonHunter_VoidfallMeteor_Cast00.skin
 7414799;Spells/CFX_DemonHunter_VoidfallMeteor_Cast_lod01.skin
 7414800;Spells/CFX_DemonHunter_VoidfallMeteor_Cast_lod02.skin
@@ -34017,6 +34034,7 @@
 7473067;Spells/FX_Starsplinter_AreaTrigger_lod01.skin
 7473068;Spells/FX_Starsplinter_AreaTrigger_lod02.skin
 7473069;Spells/FX_Starsplinter_AreaTrigger_lod03.skin
+7474228;Spells/7FX_AlphaMask_glowbright_yellow.blp
 7474261;Spells/CFX_Hunter_SentinelsMark_Aura.m2
 7474269;Spells/CFX_Hunter_SentinelsMark_Aura00.skin
 7474271;Spells/CFX_Hunter_SentinelsMark_Aura_lod01.skin

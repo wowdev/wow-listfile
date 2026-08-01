@@ -51783,6 +51783,7 @@
 3064387;creature/ratmount2/Gray_64.blp
 3064390;creature/ratmount2/8FX_Fire_Toon_BW.blp
 3064393;creature/ratmount2/verticalgradient_caustic_05.blp
+3064396;creature/ratmount2/8FX_General_windtileblur_a.blp
 3064402;creature/ratmount2/8fx_wavey_maskfade_horizontal.blp
 3064409;creature/ratmount2/7FX_AlphaMask_Glow.blp
 3064411;creature/ratmount2/leaf_foreling.blp
@@ -80900,6 +80901,7 @@
 7456420;Creature/SquirrelFlyingMount/Smoke_Generic_PaintyMask02_Blend2.blp
 7456426;Creature/SquirrelFlyingMount/7FX_HeroAura_Vertical_Warm_512.blp
 7456428;Creature/SquirrelFlyingMount/7fx_alphamask_glow_holy2.blp
+7456433;Creature/SquirrelFlyingMount/7FX_AlphaMask_glow_shadow.blp
 7460359;Creature/GoblinSurfBoardMount/GoblinSurfBoardMount_Orange.blp
 7460459;Creature/IGC_TuralyonButYoung/OrbReflect_Prison.blp
 7460463;Creature/IGC_TuralyonButYoung/ArmorReflect4.blp
@@ -81299,6 +81301,7 @@
 7498864;Creature/HorseDragonMount/soft_flare_.blp
 7502512;Creature/ManaWyrm2Mount/8fx_glow_dot_irregular.blp
 7502513;Creature/ManaWyrm2Mount/White8x8.blp
+7502514;Creature/ManaWyrm2Mount/10FX_smoke_paintyloose_00.blp
 7502518;Creature/ManaWyrm2Mount/10FX_Void_Stars.blp
 7502519;Creature/ManaWyrm2Mount/ring_ani01.blp
 7502521;Creature/ManaWyrm2Mount/7FX_Smoke_WispyMask_A.blp
@@ -83302,6 +83305,13 @@
 8038911;Creature/PigmyOwlMount/FireTornado_Flames02.blp
 8038917;Creature/PigmyOwlMount/grey50percentsquare16x16_a.blp
 8038923;Creature/PigmyOwlMount/7fx_energyscroll_fire_double.blp
+8101262;Creature/AxolotlPetClassic/AxolotlPetClassic.m2
+8101270;Creature/AxolotlPetClassic/DraenorCrafted_Effects_01.blp
+8101271;Creature/AxolotlPetClassic/AcidSplash_grey.blp
+8101273;Creature/AxolotlPetClassic/White8x8.blp
+8101274;Creature/AxolotlPetClassic/ArmorReflect4.blp
+8101276;Creature/AxolotlPetClassic/RibbonBlur1.blp
+8101278;Creature/AxolotlPetClassic/AxolotlPetClassic00.skin
 8117145;Creature/SpringPandaMount/SpringPandaMount_Classic_Green.blp
 8117146;Creature/SpringPandaMount/SpringPandaMount_Classic_Saddle_Green.blp
 8121115;Creature/IGC_1210_Arator/IGC_1210_Arator1452-01.anim
