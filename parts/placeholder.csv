@@ -210699,14 +210699,7 @@
 8026111;models/world/unk_exp11_8024094/8024094_lod01.skin
 8026113;models/world/unk_exp11_8024094/8024094_lod02.skin
 8026115;models/world/unk_exp11_8024094/8024094_lod03.skin
-8026700;Interface/Icons/Javelineer_8026700.blp
 8026785;Interface/Icons/Unknown_8026785.blp
-8026786;Interface/Icons/EnsembleMoonlitAssassinsAttire_8026786.blp
-8026787;Interface/Icons/Unknown_8026787.blp
-8026788;Interface/Icons/Unknown_8026788.blp
-8026789;Interface/Icons/Unknown_8026789.blp
-8026790;Interface/Icons/Unknown_8026790.blp
-8026791;Interface/Icons/Unknown_8026791.blp
 8026792;item/texturecomponents/armuppertexture/idi744413_au_u_8026792.blp
 8026793;item/texturecomponents/armuppertexture/idi744420_au_u_8026793.blp
 8026794;item/texturecomponents/armuppertexture/idi744427_au_u_8026794.blp
@@ -211303,7 +211296,6 @@
 8038932;Creature/PigmyOwlMount/PigmyOwlMount_8038932.blp
 8038934;Creature/PigmyOwlMount/PigmyOwlMount_8038934.blp
 8038937;Creature/PigmyOwlMount/PigmyOwlMount_8038937.blp
-8039056;Interface/Icons/Unknown_8039056.blp
 8039403;World/Expansion11/Doodads/PlayerHousing/12PH_Elwynn_Decor_Table01_NoCloth_DyeColorMap_8039403.blp
 8039406;World/Expansion11/Doodads/PlayerHousing/12PH_Elwynn_Decor_Table02_NoCloth_DyeColorMap_8039406.blp
 8039513;Sound/Spell/Spiritcackle_cast_oneshot_8039513.ogg
@@ -212379,14 +212371,6 @@
 8124159;models/unknown/unk_exp11_8123341/8123341_lod01.skin
 8124162;models/unknown/unk_exp11_8123341/8123341_lod02.skin
 8124164;models/unknown/unk_exp11_8123341/8123341_lod03.skin
-8124207;Interface/Icons/Unknown_8124207.blp
-8124208;Interface/Icons/Unknown_8124208.blp
-8124209;Interface/Icons/Unknown_8124209.blp
-8124210;Interface/Icons/Unknown_8124210.blp
-8124211;Interface/Icons/Unknown_8124211.blp
-8124212;Interface/Icons/Unknown_8124212.blp
-8124213;Interface/Icons/Unknown_8124213.blp
-8124214;Interface/Icons/Unknown_8124214.blp
 8124711;models/unknown/unk_exp11_7881320/7881320_8124711.blp
 8124910;item/texturecomponents/leguppertexture/Armor_BrewfestBelt_C_01_Belt_lu_u_8124910.blp
 8124911;item/texturecomponents/leguppertexture/Armor_BrewfestBelt_C_01_Belt_lu_u_8124911.blp
@@ -212412,7 +212396,6 @@
 8124991;models/item/unk_exp11_8119738_be_m/8119738_Be_m_8124991.blp
 8124992;models/item/unk_exp11_8119738_be_m/8119738_Be_m_8124992.blp
 8124993;models/item/unk_exp11_8119738_be_m/8119738_Be_m_8124993.blp
-8124994;Interface/Icons/Unknown_8124994.blp
 8124995;models/item/unk_exp11_8119738_be_m/8119738_Be_m_8124995.blp
 8124996;models/item/unk_exp11_8119738_be_m/8119738_Be_m_8124996.blp
 8124997;models/item/unk_exp11_8119738_be_m/8119738_Be_m_8124997.blp
@@ -212912,9 +212895,6 @@
 8159895;models/unknown/unk_exp11_8140220/8140220_lod01.skin
 8159896;models/unknown/unk_exp11_8140220/8140220_lod02.skin
 8159897;models/unknown/unk_exp11_8140220/8140220_lod03.skin
-8159946;Interface/Icons/Unknown_8159946.blp
-8159971;Interface/Icons/Unknown_8159971.blp
-8159972;Interface/Icons/Unknown_8159972.blp
 8159973;Interface/WorldMap/TheTideboundGrotto1_8159973.blp
 8159974;Interface/WorldMap/TheTideboundGrotto10_8159974.blp
 8159975;Interface/WorldMap/TheTideboundGrotto11_8159975.blp

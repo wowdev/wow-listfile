@@ -169822,8 +169822,8 @@
 7673151;INTERFACE/GLUES/MODELS/UI_MAINMENU_MIDNIGHT/MainFrameLowBand_02_04.blp
 7673153;INTERFACE/GLUES/MODELS/UI_MAINMENU_MIDNIGHT/MainFrameLowBand_02_03.blp
 7673155;INTERFACE/GLUES/MODELS/UI_MAINMENU_MIDNIGHT/UI_MainMenu_Midnight_02_LowBandwidth00.skin
-7673157;Interface/ICONS/INV_OldGodRayMount_Blue.blp
-7673158;Interface/ICONS/INV_OldGodRayMount_Purple.blp
+7673157;Interface/ICONS/INV_OldGodRayMount02.blp
+7673158;Interface/ICONS/INV_OldGodRayMount01.blp
 7673159;INTERFACE/GLUES/MODELS/UI_MAINMENU_MIDNIGHT/FairyDust2OffsetTwinkle_2x2_A.blp
 7673160;INTERFACE/GLUES/MODELS/UI_MAINMENU_MIDNIGHT/Midnight_02_SplashScreen_LeafSwirl.blp
 7673161;INTERFACE/GLUES/MODELS/UI_MAINMENU_MIDNIGHT/MainFrame01_02.blp
@@ -171349,6 +171349,13 @@
 8026697;Interface/Icons/INV121_Ability_Shaman_Ascendance_Fire.blp
 8026698;Interface/Icons/INV121_Ability_Shaman_Ascendance_Water.blp
 8026699;Interface/Icons/INV121_Ability_Warlock_SoulWell.blp
+8026700;Interface/Icons/INV121_Ability_Warrior_Javelineer.blp
+8026786;Interface/Icons/INV_Chest_Armor_Ninja_B_01.blp
+8026787;Interface/Icons/INV_Glove_Armor_Ninja_B_01.blp
+8026788;Interface/Icons/INV_Helm_Armor_Ninja_B_01.blp
+8026789;Interface/Icons/INV_Pant_Armor_Ninja_B_01.blp
+8026790;Interface/Icons/INV_Shoulder_Armor_Ninja_B_01.blp
+8026791;Interface/Icons/INV_Belt_Armor_Ninja_B_01.blp
 8027209;Interface/AddOns/Blizzard_APIDocumentationGenerated/SimpleAnimRadialProgressAPIDocumentation.lua
 8028501;Interface/ICONS/INV_ChameleonMount_Red.blp
 8028502;Interface/ICONS/INV_ChameleonMount_Blue.blp
@@ -171378,6 +171385,7 @@
 8037584;Interface/AddOns/Blizzard_SettingsDefinitions_Frame/Classic/NameplatesOverrides.lua
 8037771;Interface/AddOns/Blizzard_FrameXMLBase/Mainline/IconDataProviderOverrides.lua
 8037773;Interface/AddOns/Blizzard_SettingsDefinitions_Frame/Mainline/NameplatesOverrides.lua
+8039056;Interface/Icons/INV_Armor_BearLoa_D_01.blp
 8039057;Interface/ICONS/INV_Shoulder_Armor_bearloa_d_01.blp
 8039391;Interface/LFGFRAME/LFGIcon-RaidUlatek.blp
 8039402;Interface/LFGFRAME/UI-LFG-BACKGROUND-RAIDULATEK.BLP
@@ -171580,6 +171588,14 @@
 8121855;Interface/AddOns/Blizzard_FriendsFrame/Mainline/FriendsFriendsFrame.lua
 8121856;Interface/AddOns/Blizzard_Narration/Blizzard_NarrationHTML.lua
 8122708;Interface/Glues/LOADINGSCREENS/Expansion11/Main/Loadscreen_Lairs_TieboundGrotto.blp
+8124207;Interface/Icons/INV_Collections_Armor_BrewfestSkirt_C_01_Purple.blp
+8124208;Interface/Icons/INV_Collections_Armor_BrewfestSkirt_C_01_Red.blp
+8124209;Interface/Icons/INV_Helm_Armor_Brewfest_C_01_Purple.blp
+8124210;Interface/Icons/INV_Helm_Armor_Brewfest_C_01_Red.blp
+8124211;Interface/Icons/INV_ArmorShoulderCape_Brewfest_C_01_Purple.blp
+8124212;Interface/Icons/INV_ArmorShoulderCape_Brewfest_C_01_Red.blp
+8124213;Interface/Icons/INV_Buckle_Armor_Brewfest_C_01_Purple.blp
+8124214;Interface/Icons/INV_Buckle_Armor_Brewfest_C_01_Red.blp
 8124228;Interface/AddOns/Blizzard_AchievementUI/Blizzard_AchievementUI_Bootstrap.lua
 8124229;Interface/AddOns/Blizzard_ActionStatus/Blizzard_ActionStatus_Mainline.toc
 8124230;Interface/AddOns/Blizzard_ActionStatus/Blizzard_ActionStatus_Classic.toc
@@ -171847,6 +171863,7 @@
 8124530;Interface/AddOns/Blizzard_UIPanels_Game/Mainline/GossipFrameAPI.lua
 8124533;Interface/AddOns/Blizzard_WarfrontsPartyPoseUI/Blizzard_WarfrontsPartyPoseUI_Bootstrap.lua
 8124534;Interface/AddOns/Blizzard_WeeklyRewards/Blizzard_WeeklyRewards_Bootstrap.lua
+8124994;Interface/Icons/INV_Armor_GloomCap_C_01.blp
 8125100;Interface/ICONS/INV_121_Pet_BabyWindserpent_Green.blp
 8125117;Interface/ICONS/INV_121_Pet_BabyWindserpent_Pink.blp
 8125118;Interface/ICONS/INV_121_Pet_BabyWindserpent_Purple.blp
@@ -172200,6 +172217,9 @@
 8154517;Interface/AddOns/Blizzard_AuraContainer/Blizzard_CustomAuraContainer.lua
 8154518;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerShared.lua
 8154519;Interface/AddOns/Blizzard_AuraContainer/Blizzard_CustomAuraContainer.xml
+8159946;Interface/Icons/INV_Glaive_1H_Snakeoid_C_01.blp
+8159971;Interface/Icons/INV_Staff_2H_Snakeoid_C_01.blp
+8159972;Interface/Icons/INV_Sword_2H_Snakeoid_C_01.blp
 8164250;Interface/LFGFRAME/LFGIcon-TideboundGrotto.blp
 8164251;Interface/LFGFRAME/UI-LFG-BACKGROUND-TideboundGrotto.blp
 8164252;Interface/EncounterJournal/UI-EJ-BACKGROUND-TideboundGrotto.blp
