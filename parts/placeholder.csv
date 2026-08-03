@@ -88,13 +88,9 @@
 1501503;tileset/unused/1501502_1024_h.blp
 1501504;tileset/unused/1501502_1024_s.blp
 1545169;models/unktextures/bark_1545169.blp
-1550055;Environments/ColorGrading/ColorGrading_unk_1550055.blp
 1578957;world/wmo/zuldazar/orc/8or_pvp_warsongbg_main01_1578957.blp
-1622470;Environments/ColorGrading/ColorGrading_8dev_unk1_1622470.blp
-1661200;Environments/ColorGrading/ColorGrading_8des_desert_1661200.blp
 1663864;tileset/unused/1663864_1024.blp
 1663865;tileset/unused/1663864_1024_s.blp
-1725387;Environments/ColorGrading/ColorGrading_8swa_deathloatemple_1725387.blp
 1729394;item/texturecomponents/armlowertexture/1729394_al_u.blp
 1730233;sound/character/Nightborne__female/vo_Nightborne__female_FLIRT_1730233.ogg
 1733396;Sound/Spell/CorruptedBlood_travelend_oneshot_1733396.ogg
@@ -168,7 +164,6 @@
 1853189;sound/ambience/zoneambience/amb_mereldar_day_1853189.ogg
 1855028;models/unktextures/8tr_zandalari_colorpalette_1855028.blp
 1858583;Environments/ColorGrading/ColorGrading_8xp_gardenoftheloa_1858583.blp
-1859361;Environments/ColorGrading/ColorGrading_8riv_river1_1859361.blp
 1880889;Sound/Spell/HurlKyrianHammer_impact_oneshot_1880889.ogg
 1880890;sound/doodad/go_9du_skycity_bell_grand01_oneshot_1880890.ogg
 1880891;sound/doodad/go_9du_skycity_bell_grand01_oneshot_1880891.ogg
@@ -182,9 +177,7 @@
 1936956;Sound/Spell/AcidExpulsion_cast_oneshot_1936956.ogg
 1954199;models/unktextures/8zul_carnivorousplant04_1954199.blp
 1957650;spells/textures/textureblendset_638_1957650.blp
-1967079;Environments/ColorGrading/ColorGrading_8riv_shipyard_1967079.blp
 1967080;Environments/ColorGrading/ColorGrading_8riv_river2_1967080.blp
-1983003;Environments/ColorGrading/ColorGrading_unk_1983003.blp
 1983598;spells/textures/spellchaineffect_6010_1983598.blp
 1983642;spells/textures/spellchaineffect_6010_1983642.blp
 1983790;spells/textures/spellchaineffect_6013_1983790.blp
@@ -209,7 +202,6 @@
 2068323;Sound/Spell/SubjugatingDemon_aurastart_loop_2068323.ogg
 2109036;Sound/Spell/GoblinGlueRockets_precaststart_loop_2109036.ogg
 2109037;Sound/Spell/LetItHail_precaststart_loop_2109037.ogg
-2109918;Environments/ColorGrading/ColorGrading_8xp_zuldazarstormsky_2109918.blp
 2113595;spells/textures/textureblendset_767_2113595.blp
 2118639;world/minimaps/wmo/autogen-names/unknown/12479_000_00_00.blp
 2118640;world/minimaps/wmo/autogen-names/unknown/12479_001_00_00.blp
@@ -351,7 +343,6 @@
 2199926;spells/textures/fullscreeneffect_blend_2199926.blp
 2199927;spells/textures/fullscreeneffect_blend_2199927.blp
 2200566;world/expansion07/doodads/nazjatar/8nzj_mushroomcoral_c01_0_2200566.blp
-2200840;creature/skiff/skiff_13_2200840.blp
 2200847;creature/elitenagamale/elitenagamale_4_2200847.blp
 2201188;world/expansion07/doodads/nazjatar/8nzj_kelptree_b01_0_2201188.blp
 2201189;world/expansion07/doodads/nazjatar/8nzj_kelptree_b01_1_2201189.blp
@@ -1014,7 +1005,6 @@
 2495176;World/WMO/Expansion07/Nazjatar/8NZJ_Nazjatar_LargeBuilding01_2495176.blp
 2495177;World/WMO/Expansion07/Nazjatar/8NZJ_Nazjatar_Palace01_2495177.blp
 2495186;creature/sleigh/sleigh_2_2495186.blp
-2495191;creature/sleigh/sleigh_7_2495191.blp
 2495193;creature/sleigh/sleigh_9_2495193.blp
 2495194;creature/sleigh/sleigh_10_2495194.blp
 2495196;creature/sleigh/sleigh_12_2495196.blp
@@ -2283,20 +2273,6 @@
 2629465;unkmaps/maptextures/2629465_n.blp
 2629466;unkmaps/maptextures/2629466_n.blp
 2629468;unkmaps/maptextures/2629468_n.blp
-2629483;unkmaps/maptextures/2629483.blp
-2629484;unkmaps/maptextures/2629484.blp
-2629486;unkmaps/maptextures/2629486.blp
-2629487;unkmaps/maptextures/2629487.blp
-2629488;unkmaps/maptextures/2629488.blp
-2629493;unkmaps/maptextures/2629493.blp
-2629498;unkmaps/maptextures/2629498.blp
-2629504;unkmaps/maptextures/2629504_n.blp
-2629505;unkmaps/maptextures/2629505_n.blp
-2629506;unkmaps/maptextures/2629506_n.blp
-2629507;unkmaps/maptextures/2629507_n.blp
-2629508;unkmaps/maptextures/2629508_n.blp
-2629513;unkmaps/maptextures/2629513_n.blp
-2629518;unkmaps/maptextures/2629518_n.blp
 2629526;unkmaps/maptextures/2629526.blp
 2629527;unkmaps/maptextures/2629527.blp
 2629528;unkmaps/maptextures/2629528.blp
@@ -2927,8 +2903,6 @@
 2633258;unkmaps/maptextures/2633258.blp
 2633259;unkmaps/maptextures/2633259.blp
 2633260;unkmaps/maptextures/2633260.blp
-2633262;unkmaps/maptextures/2633262.blp
-2633263;unkmaps/maptextures/2633263.blp
 2633264;unkmaps/maptextures/2633264.blp
 2633265;unkmaps/maptextures/2633265.blp
 2633266;unkmaps/maptextures/2633266.blp
@@ -2952,8 +2926,6 @@
 2633288;unkmaps/maptextures/2633288_n.blp
 2633289;unkmaps/maptextures/2633289_n.blp
 2633290;unkmaps/maptextures/2633290_n.blp
-2633291;unkmaps/maptextures/2633291_n.blp
-2633292;unkmaps/maptextures/2633292_n.blp
 2633293;unkmaps/maptextures/2633293_n.blp
 2633294;unkmaps/maptextures/2633294_n.blp
 2633296;unkmaps/maptextures/2633296_n.blp
@@ -66736,7 +66708,6 @@
 4618470;sound/creature/duckbaby/duckbaby_wound_4618470.ogg
 4618472;sound/creature/duckbaby/duckbaby_wound_4618472.ogg
 4618538;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_CuttingBoard01_4618538.blp
-4618548;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_Bag01_4618548.blp
 4618648;World/Expansion09/Doodads/Dragon/10DG_Dragon_Goblet01_4618648.blp
 4618742;spells/CFX_Evoker_CycleofLife_Aura_4618742.blp
 4618753;World/Expansion09/Doodads/Dragon/10DG_Dragon_Goblet04_4618753.blp
@@ -140822,7 +140793,6 @@
 6156375;Item/ObjectComponents/collections/plate_raidpaladingoblin_d_01_shoulder_l_6156375.blp
 6156376;Item/ObjectComponents/collections/plate_raidpaladingoblin_d_01_shoulder_l_6156376.blp
 6156377;Item/ObjectComponents/collections/plate_raidpaladingoblin_d_01_shoulder_l_6156377.blp
-6156397;Creature/ShipMount/ShipMount_6156397.blp
 6156402;Creature/ShipMount/ShipMount_6156402.blp
 6156479;World/WMO/Expansion11/Exterior/12XT_WathananCrypts01_6156479.blp
 6156480;World/WMO/Expansion11/Exterior/12XT_WathananCrypts01_6156480.blp
@@ -210347,7 +210317,6 @@
 7980083;Item/ObjectComponents/head/helm_armor_mask_b_02_Be_m_7980083.blp
 7980084;Item/ObjectComponents/head/helm_armor_mask_b_02_Be_m_7980084.blp
 7994979;Item/ObjectComponents/Head/Helm_Armor_GoldenPhoenix_D_01_7994979.blp
-8014697;Interface/Icons/Unknown_8014697.blp
 8014700;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_BirdRoost01_8014700.blp
 8014701;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_BirdRoost01_8014701.blp
 8014705;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_BirdRoost01_8014705.blp
@@ -210699,7 +210668,6 @@
 8026111;models/world/unk_exp11_8024094/8024094_lod01.skin
 8026113;models/world/unk_exp11_8024094/8024094_lod02.skin
 8026115;models/world/unk_exp11_8024094/8024094_lod03.skin
-8026785;Interface/Icons/Unknown_8026785.blp
 8026792;item/texturecomponents/armuppertexture/idi744413_au_u_8026792.blp
 8026793;item/texturecomponents/armuppertexture/idi744420_au_u_8026793.blp
 8026794;item/texturecomponents/armuppertexture/idi744427_au_u_8026794.blp

@@ -128565,6 +128565,11 @@
 4190843;Interface/ArenaEnemyFrame/UIFrameArena.BLP
 4190845;Interface/ArenaEnemyFrame/UIFrameArenaVertical.BLP
 4190918;Interface/ICONS/INV_Offhand_1H_DragonQuest_B_02.blp
+4191315;Interface/ICONS/INV_Cape_Special_Dragon_D_01_black.blp
+4191316;Interface/ICONS/INV_Cape_Special_Dragon_D_01_blue.blp
+4191317;Interface/ICONS/INV_Cape_Special_Dragon_D_01_bronze.blp
+4191318;Interface/ICONS/INV_Cape_Special_Dragon_D_01_green.blp
+4191319;Interface/ICONS/INV_Cape_Special_Dragon_D_01_red.blp
 4191332;interface/icons/inv_cape_special_dragon_d_02_black.blp
 4191333;interface/icons/inv_cape_special_dragon_d_02_blue.blp
 4191334;Interface/ICONS/INV_Cape_Special_Dragon_D_02_bronze.blp
@@ -171331,6 +171336,7 @@
 7977787;Interface/ICONS/INV_CatPet_Naxx.blp
 7977817;Interface/ICONS/INV_CatPet_Uldum.blp
 7979957;Interface/ICONS/INV_Helm_Armor_Mask_B_02.blp
+8014697;Interface/Icons/INV_Boots_Cloth_OutdoorAmaniLoa_C_01.blp
 8014864;Interface/ICONS/INV_CatPet_KirinTor.blp
 8015084;Interface/ICONS/INV_Helm_Armor_Mask_B_04.blp
 8015794;Interface/AddOns/Blizzard_APIDocumentationGenerated/DurationTextBindingSharedDocumentation.lua
@@ -171350,6 +171356,7 @@
 8026698;Interface/Icons/INV121_Ability_Shaman_Ascendance_Water.blp
 8026699;Interface/Icons/INV121_Ability_Warlock_SoulWell.blp
 8026700;Interface/Icons/INV121_Ability_Warrior_Javelineer.blp
+8026785;Interface/Icons/INV_Boot_Armor_Ninja_B_01.blp
 8026786;Interface/Icons/INV_Chest_Armor_Ninja_B_01.blp
 8026787;Interface/Icons/INV_Glove_Armor_Ninja_B_01.blp
 8026788;Interface/Icons/INV_Helm_Armor_Ninja_B_01.blp
@@ -171389,6 +171396,10 @@
 8039057;Interface/ICONS/INV_Shoulder_Armor_bearloa_d_01.blp
 8039391;Interface/LFGFRAME/LFGIcon-RaidUlatek.blp
 8039402;Interface/LFGFRAME/UI-LFG-BACKGROUND-RAIDULATEK.BLP
+8039429;Interface/LFGFRAME/UI-LFG-BACKGROUND-WOD_RaidUlatek_Wing1.blp
+8039431;Interface/LFGFRAME/UI-LFG-BACKGROUND-WOD_RaidUlatek_Wing2.blp
+8039432;Interface/LFGFRAME/UI-LFG-BACKGROUND-WOD_RaidUlatek_Wing3.blp
+8039433;Interface/LFGFRAME/UI-LFG-BACKGROUND-WOD_RaidUlatek_Wing4.blp
 8039533;Interface/EncounterJournal/UI-EJ-BACKGROUND-RaidUlatek.blp
 8039534;Interface/EncounterJournal/UI-EJ-DUNGEONBUTTON-RaidUlatek.blp
 8039535;Interface/EncounterJournal/UI-EJ-LOREBG-RaidUlatek.blp

@@ -130823,6 +130823,7 @@
 1549954;textures/bakednpctextures/creaturedisplayextra-139463.blp
 1549960;textures/bakednpctextures/creaturedisplayextra-139464.blp
 1550024;Dungeons/TEXTURES/DALARAN/7BS_DALARAN_STONETRIM4_DARK.BLP
+1550055;Environments/ColorGrading/ColorGrading_8swa_swampdeep01.blp
 1550294;textures/bakednpctextures/creaturedisplayextra-139465_hd.blp
 1551354;textures/bakednpctextures/creaturedisplayextra-139466.blp
 1551355;textures/bakednpctextures/creaturedisplayextra-139466_hd.blp
@@ -132682,6 +132683,7 @@
 1622376;Environments/ColorGrading/ColorGrading_8swa_necropolis.blp
 1622462;Dungeons/TEXTURES/7LF_XENODAR/7LF_EXODAR_CRYSTALS_EMISSIVE.BLP
 1622463;Dungeons/TEXTURES/7LF_XENODAR/7LF_EXODAR_WALL02.BLP
+1622470;Environments/ColorGrading/ColorGrading_8swa_necropolis02.blp
 1622482;textures/bakednpctextures/creaturedisplayextra-140514_hd.blp
 1622487;textures/bakednpctextures/creaturedisplayextra-140515.blp
 1622488;textures/bakednpctextures/creaturedisplayextra-140515_hd.blp
@@ -133690,6 +133692,7 @@
 1660982;textures/bakednpctextures/creaturedisplayextra-141084.blp
 1660983;textures/bakednpctextures/creaturedisplayextra-141084_hd.blp
 1660984;textures/bakednpctextures/creaturedisplayextra-141040.blp
+1661200;Environments/ColorGrading/ColorGrading_8des_oasisday.blp
 1661441;textures/bakednpctextures/creaturedisplayextra-141085.blp
 1661442;textures/bakednpctextures/creaturedisplayextra-141085_hd.blp
 1661443;textures/bakednpctextures/creaturedisplayextra-141086.blp
@@ -136657,6 +136660,7 @@
 1725213;textures/bakednpctextures/creaturedisplayextra-142255.blp
 1725214;textures/bakednpctextures/creaturedisplayextra-142256.blp
 1725218;textures/bakednpctextures/creaturedisplayextra-142257.blp
+1725387;Environments/ColorGrading/ColorGrading_8swa_necropolis03.blp
 1725400;dungeons/textures/8hu_kultiras/8hu_kultiras_military_pillar02.blp
 1725401;dungeons/textures/7az_azsuna/7sg_sealife_2.blp
 1725402;dungeons/textures/8hu_kultiras/8hu_kultiras_military_sewerwall.blp
@@ -142696,6 +142700,7 @@
 1859355;character/voidelf/female/voidelffemale_sdr03.skin
 1859357;character/voidelf/female/voidelffemale_sdr_lod01.skin
 1859359;character/voidelf/female/voidelffemale_sdr_lod02.skin
+1859361;Environments/ColorGrading/ColorGrading_8riv_stormsongday.blp
 1859370;dungeons/textures/8du_nazmirraid/8du_nazmirraid_goldscrolling01.blp
 1859372;dungeons/textures/8du_seapriest/8du_seapriest_wall03.blp
 1859377;gametables/azeriteleveltoitemlevel.txt
@@ -146041,6 +146046,7 @@
 1966559;textures/bakednpctextures/creaturedisplayextra-145146_hd.blp
 1966566;textures/bakednpctextures/creaturedisplayextra-145147_hd.blp
 1966584;textures/bakednpctextures/creaturedisplayextra-145148_hd.blp
+1967079;Environments/ColorGrading/ColorGrading_8riv_stormsongnight.blp
 1967187;textures/bakednpctextures/creaturedisplayextra-145149_hd.blp
 1967311;textures/bakednpctextures/creaturedisplayextra-145150_hd.blp
 1967349;textures/bakednpctextures/creaturedisplayextra-145151_hd.blp
@@ -146490,6 +146496,7 @@
 1982526;character/darkirondwarf/male/darkirondwarfmaletattoo04.blp
 1982824;textures/bakednpctextures/creaturedisplayextra-145413_hd.blp
 1982826;textures/bakednpctextures/creaturedisplayextra-145414.blp
+1983003;Environments/ColorGrading/ColorGrading_8xp_lordaeronscenarioblight.BLP
 1983008;textures/bakednpctextures/creaturedisplayextra-145417_hd.blp
 1983010;textures/bakednpctextures/creaturedisplayextra-145418_hd.blp
 1983012;textures/bakednpctextures/creaturedisplayextra-145419_hd.blp
@@ -148349,6 +148356,7 @@
 2109817;textures/bakednpctextures/creaturedisplayextra-146832.blp
 2109818;textures/bakednpctextures/creaturedisplayextra-146833.blp
 2109819;textures/bakednpctextures/creaturedisplayextra-146833_e.blp
+2109918;Environments/ColorGrading/ColorGrading_8des_desertcursed.blp
 2109919;textures/bakednpctextures/creaturedisplayextra-146834_hd.blp
 2109929;textures/bakednpctextures/creaturedisplayextra-146835.blp
 2109939;textures/bakednpctextures/creaturedisplayextra-146836_hd.blp

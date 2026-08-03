@@ -158439,21 +158439,35 @@
 2628258;world/expansion07/doodads/nazjatar/staff_2h_naga_a_02_green - copy.blp
 2628262;world/expansion07/doodads/nazjatar/mace_1h_naga_a_01_green - copy.blp
 2628263;world/expansion07/doodads/nazjatar/8ng_nazjatar_weaponmace0100.skin
+2629483;World/MapTextures/PVPZone03/PVPZone03_27_27.blp
+2629484;World/MapTextures/PVPZone03/PVPZone03_28_27.blp
+2629486;World/MapTextures/PVPZone03/PVPZone03_29_27.blp
+2629487;World/MapTextures/PVPZone03/PVPZone03_30_27.blp
+2629488;World/MapTextures/PVPZone03/PVPZone03_27_28.blp
 2629490;World/MapTextures/PVPZone03/PVPZone03_28_28.blp
 2629491;World/MapTextures/PVPZone03/PVPZone03_29_28.blp
 2629492;World/MapTextures/PVPZone03/PVPZone03_30_28.blp
+2629493;World/MapTextures/PVPZone03/PVPZone03_27_29.blp
 2629495;World/MapTextures/PVPZone03/PVPZone03_28_29.blp
 2629496;World/MapTextures/PVPZone03/PVPZone03_29_29.blp
 2629497;World/MapTextures/PVPZone03/PVPZone03_30_29.blp
+2629498;World/MapTextures/PVPZone03/PVPZone03_27_30.blp
 2629500;World/MapTextures/PVPZone03/PVPZone03_28_30.blp
 2629501;World/MapTextures/PVPZone03/PVPZone03_29_30.blp
 2629502;World/MapTextures/PVPZone03/PVPZone03_30_30.blp
+2629504;World/MapTextures/PVPZone03/PVPZone03_27_27_n.blp
+2629505;World/MapTextures/PVPZone03/PVPZone03_28_27_n.blp
+2629506;World/MapTextures/PVPZone03/PVPZone03_29_27_n.blp
+2629507;World/MapTextures/PVPZone03/PVPZone03_30_27_n.blp
+2629508;World/MapTextures/PVPZone03/PVPZone03_27_28_n.blp
 2629510;World/MapTextures/PVPZone03/PVPZone03_28_28_n.blp
 2629511;World/MapTextures/PVPZone03/PVPZone03_29_28_n.blp
 2629512;World/MapTextures/PVPZone03/PVPZone03_30_28_n.blp
+2629513;World/MapTextures/PVPZone03/PVPZone03_27_29_n.blp
 2629514;World/MapTextures/PVPZone03/PVPZone03_28_29_n.blp
 2629516;World/MapTextures/PVPZone03/PVPZone03_29_29_n.blp
 2629517;World/MapTextures/PVPZone03/PVPZone03_30_29_n.blp
+2629518;World/MapTextures/PVPZone03/PVPZone03_27_30_n.blp
 2629519;World/MapTextures/PVPZone03/PVPZone03_28_30_n.blp
 2629521;World/MapTextures/PVPZone03/PVPZone03_29_30_n.blp
 2629522;World/MapTextures/PVPZone03/PVPZone03_30_30_n.blp
@@ -158489,6 +158503,10 @@
 2629635;World/MapTextures/PVPZone04/PVPZone04_29_31_n.blp
 2629636;World/MapTextures/PVPZone04/PVPZone04_30_31_n.blp
 2629637;World/MapTextures/PVPZone04/PVPZone04_31_31_n.blp
+2633262;World/MapTextures/PVPLordaeron/PVPLordaeron_28_29.blp
+2633263;World/MapTextures/PVPLordaeron/PVPLordaeron_29_29.blp
+2633291;World/MapTextures/PVPLordaeron/PVPLordaeron_28_29_n.blp
+2633292;World/MapTextures/PVPLordaeron/PVPLordaeron_29_29_n.blp
 2633372;World/MapTextures/Valgarde70/Valgarde70_28_28.blp
 2633373;World/MapTextures/Valgarde70/Valgarde70_29_28.blp
 2633374;World/MapTextures/Valgarde70/Valgarde70_30_28.blp
@@ -225365,6 +225383,7 @@
 4575493;World/Expansion09/Doodads/Primalist/8FX_LightningScroll_DeepBlueA.blp
 4575495;World/Expansion09/Doodads/Profession/7FX_AlphaMask_GlowBright.blp
 4575536;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_fish03.m2
+4575541;WORLD/EXPANSION09/DOODADS/TUSKARR/10TS_Tuskarr_Fish04.m2
 4576982;World/Expansion09/Doodads/Dragon/10DG_Dragon_Sword01.m2
 4576985;World/Expansion09/Doodads/Dragon/10DG_Dragon_Dagger02.m2
 4576987;World/Expansion09/Doodads/Dragon/10DG_Dragon_Axe01.m2
@@ -227142,6 +227161,7 @@
 4618539;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_CuttingBoard0100.skin
 4618541;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_CuttingBoard01_lod01.skin
 4618542;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_CuttingBoard01_lod02.skin
+4618548;WORLD/EXPANSION09/DOODADS/TUSKARR/10TS_Tuskarr_feast01_extra01.blp
 4618549;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_fish01.blp
 4618550;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_FishBag0100.skin
 4618551;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_FishBag01_lod01.skin
@@ -227152,6 +227172,10 @@
 4618563;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_Bag01_lod01.skin
 4618567;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_Bag01_lod02.skin
 4618571;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_Bag01_lod03.skin
+4618581;WORLD/EXPANSION09/DOODADS/TUSKARR/10TS_Tuskarr_Fish0400.skin
+4618583;WORLD/EXPANSION09/DOODADS/TUSKARR/10TS_Tuskarr_Fish04_lod01.skin
+4618584;WORLD/EXPANSION09/DOODADS/TUSKARR/10TS_Tuskarr_Fish04_lod02.skin
+4618585;WORLD/EXPANSION09/DOODADS/TUSKARR/10TS_Tuskarr_Fish04_lod03.skin
 4618589;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_fish0300.skin
 4618615;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_fish0100.skin
 4618617;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_fish01_lod01.skin

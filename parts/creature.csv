@@ -45443,6 +45443,7 @@
 2200818;creature/skiff/7fx_chunky_soft_a.blp
 2200825;creature/skiff/8fx_wispwall_caustic_large.blp
 2200832;creature/skiff/7fx_arcane_wisps_blank.blp
+2200840;Creature/Skiff/8FX_Water_Foam.blp
 2200846;creature/elitenagamale/ArmorReflect4.blp
 2200848;creature/elitenagamale/ArmorReflect4Blue.blp
 2200849;creature/elitenagamale/elitenagamale0060-00.anim
@@ -48553,6 +48554,7 @@
 2495188;creature/sleigh/verticalgradient_caustic_01.blp
 2495189;creature/sleigh/7FX_SnowChunks02_Blur.blp
 2495190;creature/sleigh/7fx_energyscroll_desat.blp
+2495191;Creature/Sleigh/7FX_snow_thick.blp
 2495192;creature/sleigh/7fx_lightraysup_bright.blp
 2495195;creature/sleigh/8fx_precast_smoke.blp
 2495197;creature/sleigh/Gray_64.blp
@@ -74312,6 +74314,7 @@
 6156394;Creature/ShipMount/8fx_mask_shockwave_water_01.blp
 6156395;Creature/ShipMount/ribbon_frombeam_generic_01b.blp
 6156396;Creature/ShipMount/7fx_arcane_wisps_blank.blp
+6156397;Creature/ShipMount/8FX_Water_Foam.blp
 6156398;Creature/ShipMount/ShipMount.blp
 6156399;Creature/ShipMount/ArmorReflect4.blp
 6156400;Creature/ShipMount/skiff_fx1_mask.blp
