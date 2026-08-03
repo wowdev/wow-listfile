@@ -165936,6 +165936,7 @@
 2851914;world/expansion07/doodads/gnome/8gn_gnome_mechafeast00.skin
 2851919;world/expansion07/doodads/dungeon/doodads/8du_nagaraid_door01.m2
 2851920;world/expansion07/doodads/dungeon/doodads/8du_nagaraid_door02.m2
+2851927;world/expansion07/doodads/dungeon/doodads/8FX_Basic_Spark_Sheet_blue.blp
 2851929;world/expansion07/doodads/dungeon/doodads/7legion_demonhunter.blp
 2851931;world/expansion07/doodads/dungeon/doodads/8du_nagaraid_door0100.skin
 2851943;world/expansion07/doodads/gnome/8gn_gnome_food_energycapsule00.skin
@@ -181454,6 +181455,7 @@
 3479804;world/expansion08/doodads/fx/horizonal_fade.blp
 3479805;world/expansion08/doodads/fx/t_vfx_glow01.blp
 3479807;world/expansion08/doodads/fx/7fx_alphamask_fire_anim_stylized_desathori_03.blp
+3479823;World/Expansion09/Doodads/EmeraldDream/Urn_Mist_Flipped_Grey_Thicker.blp
 3479835;world/expansion08/doodads/fx/7fx_alphamask_glow_ghost.blp
 3479839;world/expansion08/doodads/fx/9fx_generic_soul_brazier_doodad00.skin
 3480671;world/expansion08/doodads/9xp_herbnode_marrowroot_0100.skin
@@ -183963,6 +183965,7 @@
 3518768;world/expansion08/doodads/valkyr/armorreflectgold2.blp
 3518770;world/expansion08/doodads/valkyr/glow_spirit_high_hotter.blp
 3518788;world/expansion08/doodads/valkyr/Smoke_Loose_01.blp
+3518790;world/expansion08/doodads/valkyr/Urn_Mist_Flipped_Grey_Thicker.blp
 3518798;world/expansion08/doodads/valkyr/grey50percentsquare16x16_a.blp
 3518800;world/expansion08/doodads/valkyr/7FX_Arc_FlowerRing_Full.blp
 3518804;world/expansion08/doodads/valkyr/9vl_valkyr_soulbind0100.skin
@@ -188185,6 +188188,7 @@
 3618579;world/expansion08/doodads/dungeon/8fx_wavey_maskfade_horizontal.blp
 3618581;world/expansion08/doodads/dungeon/Alpha_Gradient_Texture.blp
 3618584;world/expansion08/doodads/dungeon/Smoke_Wispy_Mask_Blend.blp
+3618585;world/expansion08/doodads/dungeon/wispymagic_vert_azeritemist_blue_128_greyrotate_blend.blp
 3618783;world/expansion08/doodads/maw/9mw_domination_weaponrack01.m2
 3618784;world/expansion08/doodads/maw/9mw_domination_weaponrack02.m2
 3618785;world/expansion08/doodads/maw/9mw_domination_weaponrack03.m2
@@ -210190,6 +210194,7 @@
 4075466;world/expansion08/doodads/fx/9fx_raid2_sylvanas_chainhurl_sparks_lod03.skin
 4076155;world/expansion08/doodads/maw/7FX_AlphaMask_GlowBright.blp
 4076156;world/expansion08/doodads/maw/7FX_AlphaMask_Glow_01.blp
+4076157;world/expansion08/doodads/maw/8fx_alphamask_donutthickfleshy_blend.blp
 4076205;world/expansion08/doodads/maw/pa_smokestrip_01.blp
 4076207;world/expansion08/doodads/maw/pa_incensesmoke_01g.blp
 4076846;world/expansion08/doodads/fx/7FX_SmokeTile2_NoA.blp
@@ -213259,6 +213264,7 @@
 4214908;world/expansion09/doodads/dragon/10dg_dragon_roof01.m2
 4214909;world/expansion09/doodads/dragon/10dg_dragon_roof02.m2
 4214910;world/expansion09/doodads/dragon/10dg_dragon_roof03.m2
+4214915;World/Expansion09/Doodads/Dragon/PRETTYCOLORS2.blp
 4214916;world/expansion09/doodads/dragon/10dg_dragon_roof0100.skin
 4214917;world/expansion09/doodads/dragon/10dg_dragon_roof01_lod01.skin
 4214918;world/expansion09/doodads/dragon/10dg_dragon_roof01_lod02.skin
@@ -217159,6 +217165,7 @@
 4288721;world/expansion09/doodads/titan/10ti_titan_vase04_lod01.skin
 4288723;world/expansion09/doodads/titan/10ti_titan_vase04_lod02.skin
 4288725;world/expansion09/doodads/titan/10ti_titan_vase04_lod03.skin
+4288769;world/expansion08/doodads/progenitor/7FX_EnergyBeam_Desat_256.blp
 4288776;world/expansion08/doodads/progenitor/WeaponImpact_Streak_Holy_Desaturated.blp
 4288777;world/expansion08/doodads/progenitor/T_VFX_Sun_64_Blue_blendadd.blp
 4288778;world/expansion08/doodads/progenitor/9pg_progenitor_waystone0100.skin
@@ -232241,6 +232248,7 @@
 4871099;World/Expansion09/Doodads/Exterior/10XP_SpiderWebbedEgg01.m2
 4871100;World/Expansion09/Doodads/Exterior/10XP_SpiderWebbedEgg02.m2
 4871192;world/expansion09/doodads/10XP_WallMountedDeer02.m2
+4871235;world/expansion09/doodads/PRETTYCOLORS2.blp
 4871236;world/expansion09/doodads/10XP_Icebreaker_Paddlewheel00.skin
 4871237;world/expansion09/doodads/10XP_Icebreaker_Paddlewheel_lod01.skin
 4871238;world/expansion09/doodads/10XP_Icebreaker_Paddlewheel_lod02.skin
