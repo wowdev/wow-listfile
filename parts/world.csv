@@ -202263,6 +202263,7 @@
 3922336;world/expansion09/doodads/grasslands/10gsl_grovebush_c02_lod03.skin
 3922374;world/expansion08/doodads/maw/GroundCrack_shadow_lg.blp
 3922378;world/expansion08/doodads/maw/Sandstorm_Rubble.blp
+3922379;world/expansion08/doodads/maw/Smoke_04.blp
 3922380;world/expansion08/doodads/maw/9mw_ironmaiden_groundcrack00.skin
 3922443;world/expansion09/doodads/dragon/10dg_forge03.m2
 3922463;world/expansion09/doodads/grasslands/10gsl_accentplant_a01_lod03.skin
@@ -283117,6 +283118,7 @@
 6641921;World/SkillActivated/TradeskillNodes/12XP_HerbalismNode_Argentleaf01_lod01.skin
 6641924;World/SkillActivated/TradeskillNodes/12XP_HerbalismNode_Argentleaf01_lod02.skin
 6641927;World/SkillActivated/TradeskillNodes/12XP_HerbalismNode_Argentleaf01_lod03.skin
+6641943;World/SkillActivated/TradeskillNodes/wispymagic_necro_a.blp
 6641972;World/SkillActivated/TradeskillNodes/12XP_HerbalismNode_Argentleaf_Voidbound0100.skin
 6641974;World/SkillActivated/TradeskillNodes/12XP_HerbalismNode_Argentleaf_Voidbound01_lod01.skin
 6641976;World/SkillActivated/TradeskillNodes/12XP_HerbalismNode_Argentleaf_Voidbound01_lod02.skin
@@ -294345,6 +294347,7 @@
 7388894;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Diablo_ChessBoard01.m2
 7388920;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Diablo_ChessBoard01_Board.m2
 7390203;World/Expansion11/Doodads/Void/12VD_Void_Special_FloatingArch01.m2
+7392217;World/Expansion03/Doodads/Deepholm/MoltenSphere/dust3x.blp
 7392221;World/Expansion03/Doodads/Deepholm/MoltenSphere/Deepholm_MoltenSphere01_lod01.skin
 7392223;World/Expansion03/Doodads/Deepholm/MoltenSphere/Deepholm_MoltenSphere01_lod02.skin
 7392224;World/Expansion03/Doodads/Deepholm/MoltenSphere/Deepholm_MoltenSphere01_lod03.skin
@@ -295716,6 +295719,7 @@
 7487359;World/Expansion11/Doodads/Void/Bubble_Soft_Distortion.blp
 7487364;World/Expansion11/Doodads/Void/8FX_AlphaMask_Grow_B.blp
 7487368;World/Expansion11/Doodads/Void/Alpha_DoubleEdge_Fade.blp
+7487536;World/Generic/Orc/Passive Doodads/Barricade/JLO_WORC_CHAINSR.blp
 7487537;World/Generic/Orc/Passive Doodads/Barricade/Orc_Barricade_01_lod01.skin
 7487538;World/Generic/Orc/Passive Doodads/Barricade/Orc_Barricade_01_lod02.skin
 7487539;World/Generic/Orc/Passive Doodads/Barricade/Orc_Barricade_01_lod03.skin

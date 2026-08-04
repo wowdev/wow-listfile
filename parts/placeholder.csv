@@ -35048,7 +35048,6 @@
 3922306;item/objectcomponents/collections/collections_mail_raidhunterprogenitor_d_01_be_m_3922306.blp
 3922307;item/objectcomponents/collections/collections_mail_raidhunterprogenitor_d_01_be_m_3922307.blp
 3922308;item/objectcomponents/collections/collections_mail_raidshamanprogenitor_d_01_be_m_3922308.blp
-3922379;world/expansion08/doodads/maw/9mw_ironmaiden_groundcrack_3922379.blp
 3922389;spells/9mw_ironmaiden_spikeball01_3922389.blp
 3922546;world/expansion08/doodads/broker/9bo_broker_door_01_3922546.blp
 3922550;world/expansion08/doodads/broker/9bo_broker_door_01_3922550.blp
@@ -36139,7 +36138,7 @@
 4000409;World/WMO/Dungeon/TorghastRaid/9DU_TorghastRaid_GarroshScene01_4000409.blp
 4000411;World/WMO/Dungeon/TorghastRaid/9DU_TorghastRaid_GarroshScene01_4000411.blp
 4000421;world/wmo/expansion09/titan/10ti_titan_pylon01_4000421.blp
-4000423;world/wmo/autogen-names/torghastraid/14024_4000423.blp
+4000423;World/WMO/Dungeon/TorghastRaid/9DU_TorghastRaid_Main01_4000423.blp
 4000424;World/WMO/Dungeon/TorghastRaid/9DU_TorghastRaid_Main01_4000424.blp
 4001104;world/expansion09/doodads/grasslands/10gsl_greenflight_bigflower_b03_4001104.blp
 4001219;world/expansion08/doodads/maw/9mw_korthia_curbset45_medium01_4001219.blp
@@ -92852,7 +92851,6 @@
 5140378;sound/creature/moleman/moleman_wound_5140378.ogg
 5140380;sound/creature/moleman/moleman_wound_5140380.ogg
 5140382;sound/creature/moleman/moleman_wound_5140382.ogg
-5140575;creature/FlameCat/FlameCat_5140575.blp
 5140605;World/Expansion09/Doodads/Volcanic/10CAN_Volcanic_LavaStreak03_5140605.blp
 5140613;World/Expansion09/Doodads/Volcanic/10CAN_Volcanic_LavaStreak03_5140613.blp
 5140690;sound/creature/moleman/moleman_alert_5140690.ogg
@@ -99571,6 +99569,7 @@
 5228699;sound/creature/felhound4/felhound4_fidget_5228699.ogg
 5228701;sound/creature/felhound4/felhound4_fidget_5228701.ogg
 5228703;sound/creature/felhound4/felhound4_fidget_5228703.ogg
+5228705;Sound/Creature/felhound4/felhound4_fidget_5228705.ogg
 5228717;sound/creature/felhound4/felhound4_wound_5228717.ogg
 5228719;sound/creature/felhound4/felhound4_wound_5228719.ogg
 5228721;sound/creature/felhound4/felhound4_wound_5228721.ogg
@@ -113165,7 +113164,6 @@
 5587770;sound/creature/Monkey/Monkey_wound_5587770.ogg
 5587905;World/Expansion10/Doodads/Kobyss/11KB_Kobyss_Spire02_5587905.blp
 5587906;World/Expansion10/Doodads/Kobyss/11KB_Kobyss_Spire02_5587906.blp
-5587910;Creature/FelReaverMount/FelReaverMount_5587910.blp
 5587931;World/Expansion10/Doodads/11XP_RockOneSide04_5587931.blp
 5587950;World/Expansion10/Doodads/11XP_Waterfall09_5587950.blp
 5587957;World/Expansion10/Doodads/11XP_Waterfall09_5587957.blp
@@ -152358,7 +152356,6 @@
 6641937;World/SkillActivated/TradeskillNodes/12XP_HerbalismNode_Argentleaf_Wild01_6641937.blp
 6641939;World/SkillActivated/TradeskillNodes/12XP_HerbalismNode_Argentleaf_Wild01_6641939.blp
 6641941;World/SkillActivated/TradeskillNodes/12XP_HerbalismNode_TranquilityBloom_Wild01_6641941.blp
-6641943;World/SkillActivated/TradeskillNodes/12XP_HerbalismNode_TranquilityBloom_Wild01_6641943.blp
 6641945;models/world/unk_exp11_6641014/664101400.skin
 6641947;models/world/unk_exp11_6641014/6641014_lod01.skin
 6641949;models/world/unk_exp11_6641014/6641014_lod02.skin
@@ -189475,7 +189472,6 @@
 7391224;World/WMO/Expansion11/Troll/12TR_Amani_EagleTemple01_7391224.blp
 7391225;World/WMO/Expansion11/Troll/12TR_Ulatek_Exterior_MountainEntrance01_7391225.blp
 7392216;Housing/Thumbnails/deepholm_moltensphere01_7392216.blp
-7392217;World/Expansion03/Doodads/Deepholm/MoltenSphere/Deepholm_MoltenSphere01_7392217.blp
 7392220;World/Expansion03/Doodads/Deepholm/MoltenSphere/Deepholm_MoltenSphere01_7392220.blp
 7392225;Housing/Thumbnails/7lg_legion_book01_7392225.blp
 7392235;Housing/Thumbnails/7af_warrior_monolith01_7392235.blp
@@ -195097,7 +195093,6 @@
 7487497;Sound/Creature/BabyVoidwalker/BabyVoidwalker_aggro_7487497.ogg
 7487499;Sound/Creature/BabyVoidwalker/BabyVoidwalker_aggro_7487499.ogg
 7487535;World/Generic/Orc/Passive Doodads/Barricade/Orc_Barricade_01_7487535.blp
-7487536;World/Generic/Orc/Passive Doodads/Barricade/Orc_Barricade_01_7487536.blp
 7487561;Sound/Creature/BabyVoidwalker/BabyVoidwalker__7487561.ogg
 7487563;Sound/Creature/BabyVoidwalker/BabyVoidwalker__7487563.ogg
 7487565;Sound/Creature/BabyVoidwalker/BabyVoidwalker__7487565.ogg
@@ -208342,6 +208337,7 @@
 7872914;models/spells/unk_exp11_7850887/7850887_lod01.skin
 7872915;models/spells/unk_exp11_7850887/7850887_lod02.skin
 7872916;models/spells/unk_exp11_7850887/7850887_lod03.skin
+7872972;models/creature/unk_exp11_7844897/7844897_7872972.blp
 7873472;models/unktextures/12FX_Chromatic_Mote_7873472.blp
 7873474;models/unktextures/White8x8_7873474.blp
 7873476;models/unktextures/Smoke_Soft_02_7873476.blp
@@ -213406,3 +213402,6 @@
 8245072;Spells/FX_Axegrinder_Aura_8245072.blp
 8245073;Spells/FX_Axegrinder_Aura_8245073.blp
 8245074;Spells/FX_Axegrinder_Aura_8245074.blp
+8280471;creature/fishbunch/fishbunch_8280471.blp
+8280472;creature/fishbunch/fishbunch_8280472.blp
+8280473;creature/fishbunch/fishbunch_8280473.blp
