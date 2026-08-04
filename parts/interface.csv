@@ -172316,3 +172316,6 @@
 8262613;Interface/AddOns/Blizzard_SharedXMLBase/ForbiddenAspectTemplates.xml
 8262637;Interface/Icons/INV_12PH_ArtisanalRooms.blp
 8266404;Interface/AddOns/Blizzard_Deprecated/Mainline/Deprecated_12_0_5.lua
+8269064;Interface/AddOns/Blizzard_FullscreenBrowser/Blizzard_FullscreenBrowser.toc
+8269065;Interface/AddOns/Blizzard_FullscreenBrowser/Blizzard_FullscreenBrowserSpinner.lua
+8269066;Interface/AddOns/Blizzard_FullscreenBrowser/Blizzard_FullscreenBrowserSpinner.xml
