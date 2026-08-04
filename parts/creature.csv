@@ -82915,6 +82915,7 @@
 7864658;Creature/BeaverPet/BeaverPet00.skin
 7864726;Creature/TurtlePrimal2/TurtlePrimal2.m2
 7872970;Creature/CrabTuskarrMount/CrabTuskarrMount_Blue.blp
+7872972;Creature/CrabTuskarrMount/CrabTuskarrMount_Saddle_Blue.blp
 7873619;Creature/ShaOwlMount_Classic/ShaOwlMount_Classic.blp
 7873620;Creature/ShaOwlMount_Classic/ShaOwlMount_FX_Classic.blp
 7873621;Creature/ShaOwlMount_Classic/ShaOwlMount_Glow_Classic.blp
@@ -83175,6 +83176,7 @@
 7950005;Creature/UndeadHorse/UndeadHorse_lod02.skin
 7950008;Creature/UndeadHorse/UndeadHorse_lod03.skin
 7950026;Creature/KorKronProtodrake_NoArmor.blp
+7950567;Creature/CrabTuskarrMount/10FX_Ember_Glow_White.blp
 7950568;Creature/CrabTuskarrMount/White8x8.blp
 7952264;Creature/ViciousLightbloomBoar/ArmorReflect4.blp
 7952280;Creature/ViciousLightbloomBoar/ViciousLightbloomBoar0061-00.anim
@@ -83401,9 +83403,16 @@
 8186817;Creature/DarkwellPhoenixMount2/Electric_Liquid_orange_A_double.blp
 8186819;Creature/DarkwellPhoenixMount2/8FX_ShadowEmbers_A.blp
 8186824;Creature/DarkwellPhoenixMount2/7FX_AlphaMask_Glow_Blend.blp
+8203461;Creature/CrabTuskarrMount/8fx_bubbles_pop_nomip_01.blp
+8203463;Creature/CrabTuskarrMount/11FX_Bubble_Lighter_Dissolve.blp
+8203464;Creature/CrabTuskarrMount/9FX_Water_Ripple_01.blp
+8203467;Creature/CrabTuskarrMount/7FX_AlphaMask_GlowBright.blp
+8203468;Creature/CrabTuskarrMount/Water_Caustic_BlendAdd.blp
+8203469;Creature/CrabTuskarrMount/8FX_Bubbles_Pop.blp
 8203470;Creature/CrabTuskarrMount/10FX_ShadowEatAway_Small_White.blp
 8203472;Creature/CrabTuskarrMount/grey50percentsquare16x16_a.blp
 8203475;Creature/CrabTuskarrMount/white_64.blp
+8203480;Creature/CrabTuskarrMount/Smoke_PaintyLoose_00.blp
 8208641;Creature/UlatekBoss/Gray8x8.blp
 8208644;Creature/UlatekBoss/7FX_AlphaMask_Glow_Felbw.blp
 8243266;creature/quilinflyingmount_cn/armorreflect4.blp

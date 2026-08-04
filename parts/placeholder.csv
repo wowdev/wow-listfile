@@ -208340,7 +208340,6 @@
 7872914;models/spells/unk_exp11_7850887/7850887_lod01.skin
 7872915;models/spells/unk_exp11_7850887/7850887_lod02.skin
 7872916;models/spells/unk_exp11_7850887/7850887_lod03.skin
-7872972;models/creature/unk_exp11_7844897/7844897_7872972.blp
 7873472;models/unktextures/12FX_Chromatic_Mote_7873472.blp
 7873474;models/unktextures/White8x8_7873474.blp
 7873476;models/unktextures/Smoke_Soft_02_7873476.blp
@@ -209881,7 +209880,6 @@
 7950308;Sound/Creature/SpringPandaMount/SpringPandaMount_fidget_7950308.ogg
 7950565;models/unktextures/Smoke_Loose_02_256_Blend_7950565.blp
 7950566;models/unktextures/8FX_Painted_CloudScroll_02_7950566.blp
-7950567;models/unktextures/10FX_Ember_Glow_White_7950567.blp
 7950606;Sound/Creature/7377851/7377851_fidget14_7950606.ogg
 7950608;Sound/Creature/7377851/7377851_fidget14_7950608.ogg
 7950610;Sound/Creature/7377851/7377851_fidget14_7950610.ogg
@@ -213337,13 +213335,6 @@
 8203457;World/Expansion11/Doodads/PlayerHousing/12PH_Durotar_Crafting_RoofShinglePile01_DyeInfluenceMap_8203457.blp
 8203459;World/Expansion11/Doodads/PlayerHousing/12PH_Durotar_Decoration_Hay01_DyeColorMap_8203459.blp
 8203460;World/Expansion11/Doodads/PlayerHousing/12PH_Durotar_Decoration_Hay01_DyeInfluenceMap_8203460.blp
-8203461;models/unktextures/8fx_bubbles_pop_nomip_01_8203461.blp
-8203463;models/unktextures/11FX_Bubble_Lighter_Dissolve_8203463.blp
-8203464;models/unktextures/9FX_Water_Ripple_01_8203464.blp
-8203467;models/unktextures/7FX_AlphaMask_GlowBright_8203467.blp
-8203468;models/unktextures/Water_Caustic_BlendAdd_8203468.blp
-8203469;models/unktextures/8FX_Bubbles_Pop_NoMIP_8203469.blp
-8203480;models/unktextures/Smoke_PaintyLoose_00_8203480.blp
 8203482;models/unktextures/Glass_Beveled_Distortion_8203482.blp
 8203487;models/world/unk_exp11_8203487/8203487.m2
 8203488;models/world/unk_exp11_8203487/820348700.skin
