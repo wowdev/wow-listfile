@@ -235,6 +235,7 @@
 2138657;spells/cfx_warlock_bilescourgebombers_areaimpact_5_2138657.blp
 2140513;spells/8fx_sethrakdungeon_darkheart_impact_5_2140513.blp
 2140514;spells/8fx_sethrakdungeon_darkheart_impact_6_2140514.blp
+2140999;spells/textures/fullscreeneffect_blend_2140999.blp
 2144118;Sound/Music/WarWithin/Zone 11.0.7 - Siren Isle - General - Island - Walk_2144118.mp3
 2144123;Sound/Music/WarWithin/Zone 11.0.7 - Siren Isle - General - Hub - Walk_2144123.mp3
 2144127;Sound/Music/WarWithin/Zone 11.0.7 - Siren Isle - General - Island - Walk_2144127.mp3
@@ -7982,7 +7983,7 @@
 2913558;world/expansion07/doodads/fx/8fx_nazjatar_ambient_oldgodpalacevent01_5_2913558.blp
 2913562;world/expansion07/doodads/fx/8fx_nazjatar_ambient_oldgodpalacevent01_7_2913562.blp
 2913568;world/expansion07/doodads/fx/8fx_nazjatar_ambient_underwatervent01_5_2913568.blp
-2913571;models/unktextures/UL_StatueBase_01_REF_2913571.blp
+2913571;models/unktextures/AlgalontheObserver_02_2913571.blp
 2913574;world/expansion07/doodads/fx/8fx_nazjatar_ambient_oldgodpool01_4_2913574.blp
 2913783;world/expansion07/doodads/fx/8fx_mechagon_ventblast_1_2913783.blp
 2913784;world/expansion07/doodads/fx/8fx_mechagon_ventblast_3_2913784.blp
@@ -10286,6 +10287,9 @@
 2993606;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_Bell02_2993606.blp
 2993654;World/WMO/Dungeon/NZothRaid/8DU_NZothRaid_Citadel_2993654.blp
 2993655;World/WMO/Dungeon/NZothRaid/8DU_NZothRaid_Citadel_2993655.blp
+2993764;spells/8FX_Herald_CrushingGrasp_Cast_Ground_2993764.blp
+2993765;spells/8FX_Herald_CrushingGrasp_Cast_Ground_2993765.blp
+2993767;spells/8FX_Herald_CrushingGrasp_Cast_Ground_2993767.blp
 2993768;Spells/1FX_ManaforgeOmega_ForgeweaverAraz_VoidHarvest_Aura_2993768.blp
 2994064;world/expansion07/doodads/8bl/8bl_cultist_tentacle01_giant_2994064.blp
 2994575;world/expansion08/doodads/fx/9fx_raid3_dominatedconstellar_beam_2994575.blp
@@ -10588,7 +10592,6 @@
 3023812;world/expansion07/doodads/fx/8fx_generic_ghostly_state_hostile01_3023812.blp
 3023813;world/expansion07/doodads/fx/8fx_generic_ghostly_state_hostile01_3023813.blp
 3023814;Spells/FX_CosmeticLoaChanneling_Aura_3023814.blp
-3023815;Spells/FX_TalktoLorewalkerCho_Aura_3023815.blp
 3023816;world/expansion07/doodads/fx/8fx_generic_ghostly_state_hostile01_3023816.blp
 3023817;world/expansion07/doodads/fx/8fx_generic_ghostly_state_hostile01_3023817.blp
 3023823;creature/caliamenethil/caliamenethil_3023823.bone
