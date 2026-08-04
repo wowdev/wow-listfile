@@ -207090,8 +207090,6 @@
 7844697;Sound/Creature/giantsnake/giantsnake_fidget7_7844697.ogg
 7844699;Sound/Creature/giantsnake/giantsnake_fidget7_7844699.ogg
 7844701;Sound/Creature/giantsnake/giantsnake_fidget7_7844701.ogg
-7844897;models/creature/unk_exp11_7844897/7844897.m2
-7844910;models/unktextures/ArmorReflect4_7844910.blp
 7845058;Housing/Icons/INV_12PH_Shop_VenthyrDecor_Organ01_7845058.blp
 7845060;Housing/Icons/INV_12BE_BloodElf_Furniture_Easel01_Empty_7845060.blp
 7845062;Housing/Thumbnails/12BE_BloodElf_Furniture_Easel01_Empty_7845062.blp
@@ -208344,7 +208342,6 @@
 7872914;models/spells/unk_exp11_7850887/7850887_lod01.skin
 7872915;models/spells/unk_exp11_7850887/7850887_lod02.skin
 7872916;models/spells/unk_exp11_7850887/7850887_lod03.skin
-7873094;Interface/Icons/Unknown_7873094.blp
 7873472;models/unktextures/12FX_Chromatic_Mote_7873472.blp
 7873474;models/unktextures/White8x8_7873474.blp
 7873476;models/unktextures/Smoke_Soft_02_7873476.blp
@@ -209886,7 +209883,6 @@
 7950565;models/unktextures/Smoke_Loose_02_256_Blend_7950565.blp
 7950566;models/unktextures/8FX_Painted_CloudScroll_02_7950566.blp
 7950567;models/unktextures/10FX_Ember_Glow_White_7950567.blp
-7950568;models/unktextures/White8x8_7950568.blp
 7950606;Sound/Creature/7377851/7377851_fidget14_7950606.ogg
 7950608;Sound/Creature/7377851/7377851_fidget14_7950608.ogg
 7950610;Sound/Creature/7377851/7377851_fidget14_7950610.ogg
@@ -213349,9 +213345,6 @@
 8203467;models/unktextures/7FX_AlphaMask_GlowBright_8203467.blp
 8203468;models/unktextures/Water_Caustic_BlendAdd_8203468.blp
 8203469;models/unktextures/8FX_Bubbles_Pop_NoMIP_8203469.blp
-8203470;models/unktextures/10FX_ShadowEatAway_Small_White_8203470.blp
-8203472;models/unktextures/grey50percentsquare16x16_a_8203472.blp
-8203475;models/unktextures/white_64_8203475.blp
 8203480;models/unktextures/Smoke_PaintyLoose_00_8203480.blp
 8203482;models/unktextures/Glass_Beveled_Distortion_8203482.blp
 8203487;models/world/unk_exp11_8203487/8203487.m2

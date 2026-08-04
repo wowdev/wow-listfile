@@ -82866,6 +82866,9 @@
 7829792;Creature/ShaOwlMount_Classic/ShaOwlMount_Classic00.skin
 7833727;Creature/SpringPandaMount/SpringPandaMount_Green.blp
 7833728;Creature/SpringPandaMount/SpringPandaMount_Saddle_Green.blp
+7844897;Creature/CrabTuskarrMount/CrabTuskarrMount.m2
+7844910;Creature/CrabTuskarrMount/ArmorReflect4.blp
+7844914;Creature/CrabTuskarrMount/CrabTuskarrMount00.skin
 7845356;Creature/BabyMurlocXalatath/BabyMurlocXalatath.blp
 7845360;Creature/BabyMurlocXalatath/BabyMurlocXalatath_FX.blp
 7845362;Creature/BabyMurlocXalatath/Eyes_Lense.blp
@@ -82909,6 +82912,7 @@
 7864630;Creature/BeaverPet/Armorreflect4.blp
 7864658;Creature/BeaverPet/BeaverPet00.skin
 7864726;Creature/TurtlePrimal2/TurtlePrimal2.m2
+7872970;Creature/CrabTuskarrMount/CrabTuskarrMount_Blue.blp
 7873619;Creature/ShaOwlMount_Classic/ShaOwlMount_Classic.blp
 7873620;Creature/ShaOwlMount_Classic/ShaOwlMount_FX_Classic.blp
 7873621;Creature/ShaOwlMount_Classic/ShaOwlMount_Glow_Classic.blp
@@ -83169,6 +83173,7 @@
 7950005;Creature/UndeadHorse/UndeadHorse_lod02.skin
 7950008;Creature/UndeadHorse/UndeadHorse_lod03.skin
 7950026;Creature/KorKronProtodrake_NoArmor.blp
+7950568;Creature/CrabTuskarrMount/White8x8.blp
 7952264;Creature/ViciousLightbloomBoar/ArmorReflect4.blp
 7952280;Creature/ViciousLightbloomBoar/ViciousLightbloomBoar0061-00.anim
 7952284;Creature/ViciousLightbloomBoar/ViciousLightbloomBoar0062-00.anim
@@ -83394,6 +83399,9 @@
 8186817;Creature/DarkwellPhoenixMount2/Electric_Liquid_orange_A_double.blp
 8186819;Creature/DarkwellPhoenixMount2/8FX_ShadowEmbers_A.blp
 8186824;Creature/DarkwellPhoenixMount2/7FX_AlphaMask_Glow_Blend.blp
+8203470;Creature/CrabTuskarrMount/10FX_ShadowEatAway_Small_White.blp
+8203472;Creature/CrabTuskarrMount/grey50percentsquare16x16_a.blp
+8203475;Creature/CrabTuskarrMount/white_64.blp
 8208641;Creature/UlatekBoss/Gray8x8.blp
 8208644;Creature/UlatekBoss/7FX_AlphaMask_Glow_Felbw.blp
 8243266;creature/quilinflyingmount_cn/armorreflect4.blp
