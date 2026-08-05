@@ -93779,7 +93779,6 @@
 5152244;World/Expansion09/Doodads/EmeraldDream/10ED_EmeraldDream_FirePortal01_5152244.blp
 5152246;World/Expansion09/Doodads/EmeraldDream/10ED_EmeraldDream_FirePortal01_5152246.blp
 5152248;World/Expansion09/Doodads/EmeraldDream/10ED_EmeraldDream_FirePortal01_5152248.blp
-5152249;World/Expansion09/Doodads/EmeraldDream/10ED_EmeraldDream_FirePortal01_5152249.blp
 5152250;World/Expansion09/Doodads/EmeraldDream/10ED_EmeraldDream_FirePortal01_5152250.blp
 5152262;item/objectcomponents/collections/crown_01_Ni_f_5152262.blp
 5152264;item/objectcomponents/collections/crown_01_Ni_f_5152264.blp
@@ -149655,7 +149654,6 @@
 6374065;item/texturecomponents/armuppertexture/armor_harronircivilian_d_01_chest_au_u_6374065.blp
 6374066;item/texturecomponents/armuppertexture/armor_harronircivilian_d_01_chest_au_u_6374066.blp
 6374071;world/expansion10/doodads/goblin/11go_goblin_gamemachine02_6374071.blp
-6374072;world/expansion10/doodads/goblin/11go_goblin_gamemachine02_6374072.blp
 6374151;models/unknown/unk_exp11_6374151/6374151.m2
 6374153;models/unknown/unk_exp11_6374153/6374153.m2
 6374154;models/unknown/unk_exp11_6374154/6374154.m2
@@ -192343,7 +192341,6 @@
 7443366;Item/ObjectComponents/shoulder/shoulder_leather_raidroguemidnight_d_01_r_7443366.blp
 7443379;Item/ObjectComponents/collections/chest_leather_raidroguemidnight_d_01_Za_f_7443379.blp
 7443683;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_6AK_Arakkoa_Shelf_empty_7443683.blp
-7443705;World/Expansion11/Doodads/PlayerHousing/Fire_Sparse_Pieces_7443705.blp
 7443716;World/Expansion11/Doodads/PlayerHousing/Arakkoa_spec1_7443716.blp
 7443746;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_6AK_Arakkoa_Statue01_7443746.blp
 7443747;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_6AK_Arakkoa_Statue01_7443747.blp
@@ -205687,7 +205684,6 @@
 7811570;sound/ambience/zoneambience/amb_thecoiledisle_day_7811570.ogg
 7811768;World/WMO/Expansion11/PlayerHousing/Exterior/12PH_Exterior_SpringBlossomTreehouse_Base01_7811768.blp
 7811769;World/WMO/Expansion11/PlayerHousing/Exterior/12PH_Exterior_SpringBlossomTreehouse_Base01_7811769.blp
-7811954;World/WMO/autogen-names/unknown/19254_113.wmo
 7812274;Sound/Creature/MountedKnight/MountedKnight_footstep_MudLava_7812274.ogg
 7812276;Sound/Creature/MountedKnight/MountedKnight_footstep_MudLava_7812276.ogg
 7812278;Sound/Creature/MountedKnight/MountedKnight_footstep_MudLava_7812278.ogg
@@ -208813,6 +208809,7 @@
 7880235;item/texturecomponents/torsouppertexture/7600928_tu_u_7880235.blp
 7880236;item/texturecomponents/handtexture/7600928_ha_u_7880236.blp
 7880237;item/texturecomponents/armuppertexture/7600928_au_u_7880237.blp
+7880248;models/unknown/unk_exp11_7879846/7879846_7880248.blp
 7880250;models/unknown/unk_exp11_7879846/7879846_7880250.blp
 7880285;models/unknown/unk_exp11_7879707/7879707_7880285.blp
 7880290;models/unknown/unk_exp11_7879707/7879707_7880290.blp
@@ -209568,7 +209565,7 @@
 7936599;models/world/unk_exp11_7936599/7936599.m2
 7937050;models/spells/unk_exp11_8032538/Water_Tide_Mod2x_Light.blp
 7937201;World/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid01_7937201.blp
-7937202;World/WMO/autogen-names/unknown/19254_7937202.blp
+7937202;World/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid01_7937202.blp
 7937248;Housing/Thumbnails/12PH_Special_Trophy_Ulatek01_7937248.blp
 7937249;Sound/Emitters/12.1Amb-Raid-TempleofUlaTek-Boss8Room-Doorway-Ghost-Emitter-01_13_7937249.ogg
 7937255;Housing/Thumbnails/12PH_Special_Trophy_Ulatek02_7937255.blp
@@ -211781,13 +211778,13 @@
 8130560;models/world/unk_exp11_8130560/8130560.m2
 8130813;Spells/FX_TestMainPlatformDestruction_Impact_8130813.blp
 8130814;Spells/FX_TestMainPlatformDestruction_Impact_8130814.blp
-8130815;models/unknown/unk_exp11_8129030/8129030_8130815.blp
+8130815;Spells/FX_TestMainPlatformDestruction_Impact_8130815.blp
 8130816;Spells/FX_TestMainPlatformDestruction_Impact_8130816.blp
-8130817;models/unknown/unk_exp11_8129030/8129030_8130817.blp
+8130817;Spells/FX_TestMainPlatformDestruction_Impact_8130817.blp
 8130818;Spells/FX_TestMainPlatformDestruction_Impact_8130818.blp
-8130819;models/unknown/unk_exp11_8129030/8129030_8130819.blp
+8130819;Spells/FX_TestMainPlatformDestruction_Impact_8130819.blp
 8130820;Spells/FX_TestMainPlatformDestruction_Impact_8130820.blp
-8130821;models/unknown/unk_exp11_8129030/8129030_8130821.blp
+8130821;Spells/FX_TestMainPlatformDestruction_Impact_8130821.blp
 8130943;models/unknown/unk_exp11_8123341/aqir.blp
 8131295;Housing/Thumbnails/11KO_Kobold_Lighting_candle09_Special_8131295.blp
 8131302;Housing/Icons/INV_11KO_Kobold_Lighting_candle09_Special_8131302.blp
