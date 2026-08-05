@@ -168790,6 +168790,7 @@
 2913349;world/expansion07/doodads/jinyu/8jn_deepjinyu_anvilhammer0100.skin
 2913351;world/expansion07/doodads/jinyu/8jn_deepjinyu_anvil0100.skin
 2913354;world/expansion08/doodads/castlezone/9cas_feralfungusbulb_b0100.skin
+2913361;world/expansion07/doodads/nazjatar/8FX_Bubbles_Pop.blp
 2913362;world/expansion07/doodads/nazjatar/White8x8.blp
 2913363;world/expansion07/doodads/nazjatar/grey50percentsquare16x16_a.blp
 2913364;world/expansion07/doodads/nazjatar/smoke_wispy_mask_blendadd_edited.blp
@@ -169056,6 +169057,7 @@
 2918698;world/expansion08/doodads/vampire/9vm_vampire_retainingwallpost02_angled.m2
 2918784;world/expansion08/doodads/vampire/9vm_vampire_retainingwallpost02_angled00.skin
 2918800;world/expansion08/doodads/vampire/9vm_vampire_retainingwallpost01_angled00.skin
+2918941;world/expansion07/doodads/fx/8FX_Bubbles_Pop.blp
 2918942;world/expansion08/doodads/castlezone/9cas_castlesky0100.skin
 2919309;world/generic/passivedoodads/oktoberfest/beerfest_contesttable0100.skin
 2919311;world/generic/passivedoodads/oktoberfest/beerfest_foodtent0100.skin
@@ -176296,6 +176298,7 @@
 3188359;world/expansion08/doodads/oribos/7ne_nightelf_wisp.blp
 3188361;world/expansion08/doodads/oribos/cloud_puffysofter_mod4x.blp
 3188363;world/expansion08/doodads/oribos/nex_envmap01t.blp
+3188365;world/expansion08/doodads/oribos/7FX_EnergyBeam_Desat_256.blp
 3188387;world/expansion08/doodads/oribos/9ob_oribos_graveyardshrine0101.skin
 3188389;world/expansion08/doodads/oribos/9ob_oribos_graveyardshrine0102.skin
 3188391;world/expansion08/doodads/oribos/9ob_oribos_graveyardshrine0103.skin
@@ -187673,6 +187676,7 @@
 3595456;world/expansion08/doodads/broker/9bo_brokers_cage_round_variant02.m2
 3595457;world/expansion08/doodads/broker/9bo_brokers_cage_round_variant03.m2
 3595515;world/expansion08/doodads/maw/9mw_domination_groundrune0100.skin
+3595542;world/expansion08/doodads/fx/verticalgradient_caustic512_03.blp
 3595557;world/expansion08/doodads/fx/7FX_AlphaMask_GlowBright_SR512.blp
 3595606;world/maptextures/2374/2374_27_42_n.blp
 3595608;world/maptextures/2374/2374_28_42_n.blp
@@ -208997,6 +209001,7 @@
 4058939;world/expansion08/doodads/fx/9fx_ardenweald_toy_lod02.skin
 4058940;world/expansion08/doodads/fx/9fx_ardenweald_toy_lod03.skin
 4058945;World/Expansion09/Doodads/Gnoll/ArmorReflect4.blp
+4058970;world/expansion08/doodads/maw/verticalgradient_caustic512_03.blp
 4058971;world/expansion08/doodads/maw/9maw_skyscene_torghastraid_sylvanaschains_chains0100.skin
 4058973;world/expansion08/doodads/maw/9maw_skyscene_torghastraid_sylvanaschains_chains01_lod01.skin
 4058975;world/expansion08/doodads/maw/9maw_skyscene_torghastraid_sylvanaschains_chains01_lod02.skin
@@ -227582,6 +227587,7 @@
 4623234;World/Expansion09/Doodads/Dragon/9FX_AlphaMask_SandParticle.blp
 4623235;World/Expansion09/Doodads/Dragon/7FX_StreaksTiling_A.blp
 4623236;World/Expansion09/Doodads/Dragon/7FX_Smoke_WispyMask_Yellow.blp
+4623246;world/expansion09/doodads/dragon/7FX_EnergyBeam_Desat_256.blp
 4623250;world/expansion09/doodads/dragon/10dg_timeportal0100.skin
 4623251;world/expansion09/doodads/dragon/10dg_timeportal01_lod01.skin
 4623252;world/expansion09/doodads/dragon/10dg_timeportal01_lod02.skin
@@ -229709,6 +229715,7 @@
 4690533;World/Expansion10/Doodads/11XP_PlantSpikey04.m2
 4690534;World/Expansion10/Doodads/11XP_PlantSpikey05.m2
 4690535;World/Expansion10/Doodads/11XP_PlantSpikey06.m2
+4690831;World/Expansion09/Doodads/Dungeon/8FX_Bubbles_Pop.blp
 4690844;World/Expansion10/Doodads/11XP_PlantSpikey0500.skin
 4690846;World/Expansion10/Doodads/11XP_PlantSpikey05_lod01.skin
 4690847;World/Expansion10/Doodads/11XP_PlantSpikey05_lod02.skin
@@ -246717,6 +246724,7 @@
 5185090;world/expansion09/doodads/dungeon/Smoke_Generic_PaintyMask02_Blend.blp
 5185091;world/expansion09/doodads/dungeon/8FX_BloodBlur_YellowA.blp
 5185092;world/expansion09/doodads/dungeon/9FX_SandScroll_A.blp
+5185093;world/expansion09/doodads/dungeon/7FX_EnergyBeam_Desat_256.blp
 5187783;World/Expansion10/Doodads/11XP_RockRubble0300.skin
 5187786;World/Expansion10/Doodads/11XP_RockRubble03_lod01.skin
 5187789;World/Expansion10/Doodads/11XP_RockRubble03_lod02.skin
