@@ -66001,6 +66001,7 @@
 4895353;creature/magicalfishmount/8fx_water_scroll_alphadissolve.blp
 4895356;creature/magicalfishmount/flash_plain_directed_centered_ba.blp
 4895359;creature/magicalfishmount/9FX_HeroAura_RibbonMask.blp
+4895360;creature/magicalfishmount/10fx_generic_water_tide_01.blp
 4895363;creature/magicalfishmount/water_tide_mod2x_blurred2.blp
 4896154;Creature/SabretoothRaptorMount/SabretoothRaptorMount_Saddle_1_Green.blp
 4896155;Creature/SabretoothRaptorMount/SabretoothRaptorMount_Saddle_2_Green.blp
@@ -68249,6 +68250,7 @@
 5207415;creature/MagicalFish/8fx_water_scroll_alphadissolve.blp
 5207419;creature/MagicalFish/flash_plain_directed_centered_ba.blp
 5207425;creature/MagicalFish/9FX_HeroAura_RibbonMask.blp
+5207427;Creature/MagicalFish/10fx_generic_water_tide_01.blp
 5207431;creature/MagicalFish/caustic_water_subtleblue.blp
 5207435;creature/MagicalFish/water_tide_mod2x_blurred2.blp
 5207437;creature/MagicalFish/ArmorReflect_Hard.blp
@@ -83405,6 +83407,7 @@
 8186819;Creature/DarkwellPhoenixMount2/8FX_ShadowEmbers_A.blp
 8186824;Creature/DarkwellPhoenixMount2/7FX_AlphaMask_Glow_Blend.blp
 8203461;Creature/CrabTuskarrMount/8fx_bubbles_pop_nomip_01.blp
+8203462;Creature/CrabTuskarrMount/10fx_generic_water_tide_01.blp
 8203463;Creature/CrabTuskarrMount/11FX_Bubble_Lighter_Dissolve.blp
 8203464;Creature/CrabTuskarrMount/9FX_Water_Ripple_01.blp
 8203465;Creature/CrabTuskarrMount/10FX_Generic_Water_Tide_01_SoftHL.blp
