@@ -150560,8 +150560,6 @@
 6383366;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_FlowerDisplay01_6383366.blp
 6383371;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_DraperySet06_6383371.blp
 6383372;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_DraperySet06_6383372.blp
-6383373;models/unknown/unk_exp11_6706520/T_VFX_Glow01.blp
-6383376;models/unknown/unk_exp11_6323293/caustic_medfreq.blp
 6383378;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_DraperySet06_6383378.blp
 6383386;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_DraperySet06_6383386.blp
 6383390;models/unktextures/7fx_arcane_wisps_paladin_6383390.blp
@@ -178472,6 +178470,7 @@
 7137060;Housing/Thumbnails/10dg_dragon_garden_fountain01_7137060.blp
 7137061;textures/playerhousing/decor_thumbnail_7137061.blp
 7137062;Housing/Thumbnails/10dg_dragon_rounded_bed01_7137062.blp
+7137063;Housing/Thumbnails/10DG_Dragon_BookCase01_7137063.blp
 7137064;Housing/Thumbnails/10dg_dragon_chandelier01_7137064.blp
 7137065;textures/playerhousing/decor_thumbnail_7137065.blp
 7137066;Housing/Thumbnails/10dg_dragon_bookcaseinsert01_7137066.blp
@@ -182738,11 +182737,8 @@
 7262403;Sound/Creature/KareshFlyer/KareshFlyer_fidget10_7262403.ogg
 7262407;Sound/Creature/KareshFlyer/KareshFlyer_fidget10_7262407.ogg
 7262662;World/Expansion11/Doodads/PlayerHousing/12PH_Durotar_Crafting_RedWoodenPlankStack01_7262662.blp
-7262670;models/unknown/unk_exp11_6391987/6391987_7262670.blp
-7262671;models/unknown/unk_exp11_6224359/6224359_7262671.blp
-7262673;models/unknown/unk_exp11_7257794/7257794_lod01.skin
-7262674;models/unknown/unk_exp11_7257794/7257794_lod02.skin
-7262676;models/unknown/unk_exp11_7257794/7257794_lod03.skin
+7262670;World/Expansion11/Doodads/12XP_DeleteMe178_7262670.blp
+7262671;World/Expansion11/Doodads/12XP_DeleteMe178_7262671.blp
 7262680;models/unknown/unk_exp11_6795672/679567200.skin
 7262681;models/unknown/unk_exp11_6795672/6795672_lod01.skin
 7262682;models/unknown/unk_exp11_6795672/6795672_lod02.skin
@@ -190128,6 +190124,7 @@
 7415947;Housing/Icons/INV_5408474_7415947.blp
 7416029;Housing/Thumbnails/6OC_OrcClans_Bench01_7416029.blp
 7416031;Housing/Icons/INV_6OC_OrcClans_Bench01_7416031.blp
+7416041;Housing/Thumbnails/10XP_Xmastree01_7416041.blp
 7416043;Housing/Icons/INV_10XP_Xmastree01_7416043.blp
 7416045;Housing/Thumbnails/11XP_Plant34_7416045.blp
 7416047;Housing/Icons/INV_11XP_Plant34_7416047.blp
@@ -190151,8 +190148,10 @@
 7416175;Housing/Thumbnails/FX_ArtistsEasel_Aura13_7416175.blp
 7416217;Housing/Thumbnails/6718228_7416217.blp
 7416219;Housing/Icons/INV_6718228_7416219.blp
+7416241;Housing/Thumbnails/11GO_Goblin_Chair03_7416241.blp
 7416243;Housing/Icons/INV_11GO_Goblin_Chair03_7416243.blp
 7416281;Housing/Icons/INV_Worgen_guillotine_7416281.blp
+7416283;Housing/Thumbnails/Worgen_guillotine_7416283.blp
 7416301;Housing/Thumbnails/8fk_forsaken_crate02_7416301.blp
 7416303;Housing/Icons/INV_8fk_forsaken_crate02_7416303.blp
 7416321;Housing/Thumbnails/6727994_7416321.blp
@@ -190191,6 +190190,7 @@
 7416599;Housing/Icons/INV_11WE_WildElves_Furniture_Chair01_SitMedium_7416599.blp
 7416621;Housing/Thumbnails/12PM_Primitive_Furniture_Table01_7416621.blp
 7416623;Housing/Icons/INV_12PM_Primitive_Furniture_Table01_7416623.blp
+7416639;Housing/Thumbnails/8tr_zandalari_ship_shelf01straight_7416639.blp
 7416641;Housing/Icons/INV_8tr_zandalari_ship_shelf01straight_7416641.blp
 7416657;Housing/Icons/INV_10dg_dragon_table02_7416657.blp
 7416663;Housing/Thumbnails/10dg_dragon_table02_7416663.blp
@@ -190204,12 +190204,14 @@
 7416815;Housing/Icons/INV_12BE_BloodElf_Graveyard_Gravestone06_7416815.blp
 7416897;Housing/Thumbnails/11GO_Goblin_Crate01_7416897.blp
 7416899;Housing/Icons/INV_11GO_Goblin_Crate01_7416899.blp
+7416953;Housing/Thumbnails/11GO_Goblin_ArrowSign03_7416953.blp
 7416955;Housing/Icons/INV_11GO_Goblin_ArrowSign03_7416955.blp
 7416969;Housing/Thumbnails/6872663_7416969.blp
 7416971;Housing/Icons/INV_6872663_7416971.blp
 7416973;Housing/Thumbnails/6872664_7416973.blp
 7416975;Housing/Icons/INV_6872664_7416975.blp
 7416981;Housing/Icons/INV_7TR_Tauren_Lamp_Hanging01_7416981.blp
+7416983;Housing/Thumbnails/7TR_Tauren_Lamp_Hanging01_7416983.blp
 7417053;Housing/Thumbnails/6OR_Garrison_brazier01_7417053.blp
 7417055;Housing/Icons/INV_6OR_Garrison_brazier01_7417055.blp
 7417069;Housing/Thumbnails/6OR_Garrison_brazier02_7417069.blp
@@ -190390,6 +190392,7 @@
 7421865;Housing/Thumbnails/11WE_WildElves_Crafting_Workbench02_7421865.blp
 7421867;Housing/Icons/INV_11WE_WildElves_Crafting_Workbench02_7421867.blp
 7421921;Housing/Icons/INV_8tr_zandalari_griddle03_7421921.blp
+7421923;Housing/Thumbnails/8tr_zandalari_griddle03_7421923.blp
 7421939;Housing/Thumbnails/11WE_WildElves_Storage_Handcart02_7421939.blp
 7421943;Housing/Icons/INV_11WE_WildElves_Storage_Handcart02_7421943.blp
 7421945;Housing/Thumbnails/12BE_BloodElf_Special_GreatVault02_7421945.blp
@@ -190401,8 +190404,11 @@
 7421977;Housing/Thumbnails/7NE_Druid_StoneRune01_7421977.blp
 7421979;Housing/Icons/INV_7NE_Druid_StoneRune01_7421979.blp
 7421987;Housing/Icons/INV_6935311_7421987.blp
+7422017;Housing/Thumbnails/12PH_PlotSaleSign01_7422017.blp
 7422019;Housing/Icons/INV_12PH_PlotSaleSign01_7422019.blp
+7422061;Housing/Thumbnails/Worgen_Lamp_03_7422061.blp
 7422063;Housing/Icons/INV_Worgen_Lamp_03_7422063.blp
+7422089;Housing/Thumbnails/10NE_NightElf_Glaive_7422089.blp
 7422091;Housing/Icons/INV_10NE_NightElf_Glaive_7422091.blp
 7422149;Housing/Thumbnails/7NE_Nightelf_Chair03_7422149.blp
 7422151;Housing/Icons/INV_7NE_Nightelf_Chair03_7422151.blp
@@ -190423,6 +190429,7 @@
 7422239;Housing/Icons/INV_12BE_BloodElf_Lighting_LanternHanging03_7422239.blp
 7422273;Housing/Thumbnails/10NE_NightElf_TreeChair01_7422273.blp
 7422275;Housing/Icons/INV_10NE_NightElf_TreeChair01_7422275.blp
+7422329;Housing/Thumbnails/IronForgeBench_ornate01_7422329.blp
 7422331;Housing/Icons/INV_IronForgeBench_ornate01_7422331.blp
 7422457;Housing/Thumbnails/11WE_WildElves_Decor_Gourd01_7422457.blp
 7422459;Housing/Icons/INV_11WE_WildElves_Decor_Gourd01_7422459.blp
@@ -190547,6 +190554,7 @@
 7423537;Housing/Icons/INV_9vm_vampire_targetdummy01_7423537.blp
 7423615;Housing/Thumbnails/11GO_Goblin_GameMachine07_7423615.blp
 7423617;Housing/Icons/INV_11GO_Goblin_GameMachine07_7423617.blp
+7423619;Housing/Thumbnails/11XP_DuelingFlag_HousingProp01_7423619.blp
 7423621;Housing/Icons/INV_11XP_DuelingFlag_HousingProp01_7423621.blp
 7423667;Housing/Thumbnails/12PH_Elwynn_Navigation_Signpost01_7423667.blp
 7423669;Housing/Icons/INV_12PH_Elwynn_Navigation_Signpost01_7423669.blp
@@ -190799,6 +190807,7 @@
 7425793;Housing/Icons/INV_12PM_Primitive_Defense_Banner02_7425793.blp
 7425795;Housing/Thumbnails/12PM_Primitive_Furniture_Table02_7425795.blp
 7425797;Housing/Icons/INV_12PM_Primitive_Furniture_Table02_7425797.blp
+7425803;Housing/Thumbnails/7LG_Legion_Brazier01_7425803.blp
 7425805;Housing/Icons/INV_7LG_Legion_Brazier01_7425805.blp
 7425825;Housing/Thumbnails/7302334_7425825.blp
 7425829;Housing/Thumbnails/12PH_Durotar_Crafting_BoneTusk01_7425829.blp
@@ -190808,11 +190817,13 @@
 7425861;Housing/Icons/INV_12PM_Primitive_Decor_KnickKnack08_7425861.blp
 7425863;Housing/Thumbnails/12PM_Primitive_Decor_RopeKnot01_7425863.blp
 7425865;Housing/Icons/INV_12PM_Primitive_Decor_RopeKnot01_7425865.blp
+7425871;Housing/Thumbnails/DwarvenBed01_7425871.blp
 7425873;Housing/Icons/INV_DwarvenBed01_7425873.blp
 7425903;Housing/Thumbnails/7TI_PillarCreation_Hammer01_7425903.blp
 7425905;Housing/Icons/INV_7TI_PillarCreation_Hammer01_7425905.blp
 7425935;Housing/Icons/INV_12PM_Primitive_Decor_KnickKnack07_7425935.blp
 7425937;Housing/Thumbnails/12PM_Primitive_Decor_KnickKnack07_7425937.blp
+7425963;Housing/Thumbnails/7tr_tauren_cookingpot_7425963.blp
 7425965;Housing/Icons/INV_7tr_tauren_cookingpot_7425965.blp
 7425979;Housing/Thumbnails/12tr_amani_cooking_cauldron01_7425979.blp
 7425983;Housing/Thumbnails/12tr_amani_cooking_spit02_7425983.blp
@@ -191078,7 +191089,7 @@
 7428749;models/creature/unk_exp11_7370901/7FX_EnergyScroll_Gray.blp
 7428751;models/creature/unk_exp11_7370901/ember_chunky_blank_a.blp
 7428752;models/creature/unk_exp11_7370901/Smoke_Puffy_Mask_BlendAdd.blp
-7428753;models/creature/unk_exp11_7370901/7370901_7428753.blp
+7428753;models/creature/unk_exp11_7370901/wispymagic_vert_warlockshadow_fel_128.blp
 7428754;models/creature/unk_exp11_7370901/urn_mist_flipped_warlock_fel.blp
 7428755;models/creature/unk_exp11_7370901/Bubble_Soft_Distortion.blp
 7428756;models/creature/unk_exp11_7370901/7370901_7428756.blp
@@ -193497,6 +193508,7 @@
 7467794;World/Expansion11/Doodads/PlayerHousing/12PH_DG_Legacy_Bookcase01_7467794.blp
 7467874;World/Expansion11/Doodads/Void/12VD_Void_Special_ConsolePylon02_7467874.blp
 7467935;Housing/Icons/INV_12PH_Durotar_Crafting_FishingRack02_7467935.blp
+7468062;Housing/Icons/INV_10DG_Dragon_BookCase01_7468062.blp
 7468079;models/world/unk_exp11_7454628/7454628_7468079.blp
 7468081;models/world/unk_exp11_7454628/745462800.skin
 7468083;models/world/unk_exp11_7454628/7454628_lod01.skin
@@ -193714,6 +193726,11 @@
 7475874;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Decor_Tendril01_7475874.blp
 7475878;Item/Objectcomponents/Shield/7431801_7475878.blp
 7475909;Item/Objectcomponents/Weapon/7431827_7475909.blp
+7476002;models/unknown/unk_exp11_6725233/672523300.skin
+7476024;models/unknown/unk_exp11_6725231/672523100.skin
+7476028;models/unknown/unk_exp11_6725231/6725231_lod01.skin
+7476032;models/unknown/unk_exp11_6725231/6725231_lod02.skin
+7476036;models/unknown/unk_exp11_6725231/6725231_lod03.skin
 7476060;Item/ObjectComponents/shield/shield_1h_fungariandefense_b_01_7476060.blp
 7476074;Item/Objectcomponents/Weapon/7431813_7476074.blp
 7476102;Item/Objectcomponents/Weapon/12be_Bloodelf_Crafting_Brush01_7476102.blp
@@ -194070,11 +194087,10 @@
 7477711;Spells/12FX_TheVoidspire_CrownoftheCosmos_SilverstrikeArrow_Aura_7477711.blp
 7477712;Spells/12FX_TheVoidspire_CrownoftheCosmos_RangerCaptainsMark_Precast_7477712.blp
 7477713;Spells/12FX_TheVoidspire_CrownoftheCosmos_SilverstrikeArrow_Aura01_7477713.blp
-7477714;models/spells/unk_exp11_7378903/7378903_7477714.blp
-7477715;models/spells/unk_exp11_7378903/7378903_7477715.blp
-7477716;models/spells/unk_exp11_7378903/7378903_7477716.blp
-7477717;models/spells/unk_exp11_7378903/7378903_7477717.blp
-7477718;models/spells/unk_exp11_7378903/7378903_7477718.blp
+7477714;Spells/12FX_TheVoidspire_CrownoftheCosmos_SilverstrikeArrow_Aura_7477714.blp
+7477715;Spells/12FX_TheVoidspire_CrownoftheCosmos_SilverstrikeArrow_Aura_7477715.blp
+7477716;Spells/12FX_TheVoidspire_CrownoftheCosmos_SilverstrikeArrow_Aura_7477716.blp
+7477718;Spells/12FX_TheVoidspire_CrownoftheCosmos_SilverstrikeArrow_Aura_7477718.blp
 7477732;World/Expansion11/Doodads/Troll/12TR_Amani_Cooking_Fish01_7477732.blp
 7477798;Item/ObjectComponents/collections/quiver_1h_generic_b_01_7477798.blp
 7477799;Item/ObjectComponents/collections/quiver_1h_generic_b_01_7477799.blp
