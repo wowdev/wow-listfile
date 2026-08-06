@@ -34158,7 +34158,7 @@
 1519094;creature/skeletalwarhorse2/skeletalwarhorse2_01_midnight.blp
 1519095;creature/skeletalwarhorse2/skeletalwarhorse2_02_midnight.blp
 1519099;creature/mechanicaltiger/mechanicaltiger.m2
-1519114;creature/mechanicaltiger/ArmorReflect6.blp
+1519114;creature/mechanicaltiger/MechanicalTigerReflect.blp
 1519115;creature/mechanicaltiger/mechanicaltiger0097-00.anim
 1519116;creature/mechanicaltiger/mechanicaltiger0096-00.anim
 1519117;creature/mechanicaltiger/mechanicaltiger0098-00.anim
@@ -42567,11 +42567,11 @@
 2061834;creature/monkeyskeletonpirate/monkeyskeletonpirategreen.blp
 2061835;creature/monkeyskeletonpirate/monkeyskeletonpiratered.blp
 2061836;creature/monkeyskeletonpirate/monkeyskeletonpiratewhite.blp
-2061882;Creature/Crab2Alliance/Crab2Alliance.blp
+2061882;Creature/Crab2Alliance/Crab2_Alliance.blp
 2061883;Creature/Crab2Alliance/INV_Crab2Alliance.blp
-2061884;Creature/Crab2Horde/Crab2Horde.blp
+2061884;Creature/Crab2Horde/Crab2_Horde.blp
 2061885;Creature/Crab2Horde/INV_Crab2Horde.blp
-2061886;Creature/Crab2Pirate/Crab2Pirate.blp
+2061886;Creature/Crab2Pirate/Crab2_Pirate.blp
 2061887;Creature/Crab2Pirate/INV_Crab2Pirate.blp
 2062197;Creature/Crab2Horde/Crab2Horde00.skin
 2062198;Creature/Crab2Horde/Crab2Horde01.skin
@@ -48550,6 +48550,7 @@
 2494357;creature/ancientofwar2diseased/ancientofwar2diseased_lod02.skin
 2494358;creature/aqir/aqir_lod01.skin
 2494359;creature/aqir/aqir_lod02.skin
+2495186;creature/Sleigh/Sparkle_All.blp
 2495187;creature/sleigh/7fx_smoketile_blue_1.blp
 2495188;creature/sleigh/verticalgradient_caustic_01.blp
 2495189;creature/sleigh/7FX_SnowChunks02_Blur.blp
@@ -48557,6 +48558,7 @@
 2495191;Creature/Sleigh/7FX_snow_thick.blp
 2495192;creature/sleigh/7fx_lightraysup_bright.blp
 2495193;creature/sleigh/8FX_Blunt_Ribbon.blp
+2495194;creature/Sleigh/Sparkle_Blue.blp
 2495195;creature/sleigh/8fx_precast_smoke.blp
 2495197;creature/sleigh/Gray_64.blp
 2495198;creature/sleigh/sleigh0097-00.anim
@@ -48573,14 +48575,17 @@
 2495209;creature/stag2sleigh_02/7fx_energyscroll_desat.blp
 2495210;creature/stag2sleigh_02/7FX_snow_thick.blp
 2495211;creature/stag2sleigh_02/8fx_precast_smoke.blp
+2495213;creature/stag2sleigh_02/Sparkle_Blue.blp
 2495214;creature/stag2sleigh_01/7FX_SnowChunks02_Blur.blp
 2495215;creature/stag2sleigh_01/7fx_energyscroll_desat.blp
 2495216;creature/stag2sleigh_01/7FX_snow_thick.blp
 2495217;creature/stag2sleigh_01/8fx_precast_smoke.blp
+2495219;creature/stag2sleigh_01/Sparkle_Blue.blp
 2495220;creature/stag2sleigh/7FX_SnowChunks02_Blur.blp
 2495221;creature/stag2sleigh/7fx_energyscroll_desat.blp
 2495222;creature/stag2sleigh/7FX_snow_thick.blp
 2495223;creature/stag2sleigh/8fx_precast_smoke.blp
+2495225;creature/stag2sleigh/Sparkle_Blue.blp
 2495260;creature/encrypted09/encrypted09_blue.blp
 2495261;creature/encrypted09/ArmorReflect4.blp
 2495262;creature/encrypted09/encrypted09_fx.blp
@@ -83278,6 +83283,7 @@
 8019716;Creature/MothFluffyMount/MothFluffyMount_Orange.blp
 8019719;creature/mothfluffymount/gray8x8.blp
 8019720;creature/mothfluffymount/7fx_energy_fire.blp
+8019721;Creature/MothFluffyMount/White256.blp
 8024257;Creature/MothFluffyMount/Flare_PriestHoly_Bright.blp
 8024258;Creature/MothFluffyMount/Beam_Frost_01_scrolling.blp
 8024259;Creature/MothFluffyMount/Flare1_TC_Holy2Tone.blp
