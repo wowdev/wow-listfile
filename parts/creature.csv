@@ -60832,6 +60832,7 @@
 4212640;creature/constellarmaw/Wind.blp
 4212644;creature/constellarmaw/Arcane_Wisps_Desat_02.blp
 4212656;creature/constellarmaw/MawReflect.blp
+4212664;creature/constellarmaw/star2_32.blp
 4212668;creature/constellarmaw/dust1.blp
 4212672;creature/constellarmaw/constellarmaw0097-00.anim
 4212673;creature/constellarmaw/constellarmaw0096-00.anim
@@ -67850,6 +67851,7 @@
 5189320;creature/celestialfoxwyvern/AlgalontheObserver_03.blp
 5189321;creature/celestialfoxwyvern/AlgalontheObserver_01.blp
 5189322;creature/celestialfoxwyvern/UL_StatueBase_01_REF.blp
+5189323;creature/celestialfoxwyvern/star2_32.blp
 5189324;creature/celestialfoxwyvern/celestialfoxwyvern0098-00.anim
 5189325;creature/celestialfoxwyvern/celestialfoxwyvern0097-00.anim
 5189326;creature/celestialfoxwyvern/celestialfoxwyvern0096-00.anim
@@ -69487,6 +69489,7 @@
 5370374;Creature/MotorcycleFelreaverMount/MotorcycleFelreaverMount_Shadow.blp
 5370375;Creature/MotorcycleFelreaverMount/MotorcycleFelreaverMount_Glow_1_Shadow.blp
 5370376;Creature/MotorcycleFelreaverMount/MotorcycleFelreaverMount_Glow_2_Shadow.blp
+5370818;Creature/MotorcycleFelreaverMount/Flower_Blendadd.blp
 5370819;Creature/MotorcycleFelreaverMount/Smoke_Generic_PaintyMask01_Blend.blp
 5370820;Creature/MotorcycleFelreaverMount/8FX_ExplosionSmoke_A.blp
 5370821;Creature/MotorcycleFelreaverMount/ember_chunky_blankmorerotation_A.blp
@@ -69837,6 +69840,7 @@
 5454206;Creature/StormGryphon/StormGryphon0096-00.anim
 5454207;Creature/StormGryphon/StormGryphon0098-00.anim
 5454861;Creature/Gyrocopter/draenei_wire_spark.blp
+5454862;Creature/Gyrocopter/snow1.blp
 5454863;Creature/Gyrocopter/ColdBreath32.blp
 5456137;Creature/NerubianBeetle/Spider_Eye_spec.blp
 5456140;Creature/NerubianBeetle/NerubianBeetle00.skin
@@ -71095,6 +71099,7 @@
 5648413;Creature/HHMount/HHMount_lod03.skin
 5648455;Creature/GhostlyCharger/bluewaves.blp
 5648456;Creature/GhostlyCharger/Smoke02A_round.blp
+5648457;Creature/GhostlyCharger/star2_32.blp
 5648458;Creature/GhostlyCharger/GlowStar.blp
 5648459;Creature/GhostlyCharger/GhostlyCharger_lod01.skin
 5648460;Creature/GhostlyCharger/GhostlyCharger_lod02.skin
@@ -72682,6 +72687,7 @@
 5876723;Creature/GallywixMech/GallywixMech_Body.m2
 5880035;Creature/Yeti_Greench2/Yeti_Greench2.m2
 5880038;Creature/YetiGreench2Pet/YetiGreench2Pet.m2
+5882333;Creature/CelestialCatMount/Sparkle_Blue.blp
 5882335;Creature/CelestialCatMount/grey50percentsquare16x16_a.blp
 5882338;Creature/CelestialCatMount/WispyMagic_Vert_AzeriteMist_Blue_128_LessAlpha_Sphere_Grey.blp
 5882341;Creature/CelestialCatMount/7FX_AlphaMask_GlowBrightDonut_01.blp
@@ -73088,6 +73094,7 @@
 5919520;Creature/CelestialHuman/AlgalontheObserver_01.blp
 5919522;Creature/CelestialHuman/UL_StatueBase_01_REF.blp
 5919523;Creature/CelestialHuman/AlgalontheObserver_03.blp
+5919524;Creature/CelestialHuman/star2_32.blp
 5919525;Creature/CelestialHuman/CelestialHuman_lod01.skin
 5919526;Creature/CelestialHuman/CelestialHuman_lod02.skin
 5919527;Creature/CelestialHuman/CelestialHuman_lod03.skin
@@ -81339,6 +81346,7 @@
 7502512;Creature/ManaWyrm2Mount/8fx_glow_dot_irregular.blp
 7502513;Creature/ManaWyrm2Mount/White8x8.blp
 7502514;Creature/ManaWyrm2Mount/10FX_smoke_paintyloose_00.blp
+7502517;Creature/ManaWyrm2Mount/Sparkle_Blue.blp
 7502518;Creature/ManaWyrm2Mount/10FX_Void_Stars.blp
 7502519;Creature/ManaWyrm2Mount/ring_ani01.blp
 7502521;Creature/ManaWyrm2Mount/7FX_Smoke_WispyMask_A.blp
