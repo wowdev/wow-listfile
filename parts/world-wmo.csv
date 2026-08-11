@@ -78504,7 +78504,7 @@
 3572512;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_BridgeRuined03_001.wmo
 3572513;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_BridgeRuined03_001_lod1.wmo
 3572514;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_BridgeRuined03_001_lod2.wmo
-3572515;World/WMO/Expansion08/Babylon Zone/9VL_Valkyr_BridgeRuined03_001_lod3.wmo
+3572515;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_BridgeRuined03_001_lod3.wmo
 3572518;World/WMO/Dungeon/BwonsamdiDungeon/9DU_BwonsamdiDungeon_Main02_006.wmo
 3572546;World/WMO/Dungeon/RevendrethCathedralDungeon/9DU_RevendrethCathedralDungeon_Main01_000_lod3.blp
 3572547;World/WMO/Dungeon/RevendrethCathedralDungeon/9DU_RevendrethCathedralDungeon_Main01_001_lod3.blp
@@ -97426,6 +97426,7 @@
 4902147;World/WMO/Expansion10/Arathor/11AT_Arathor_DefensiveTower01_001.wmo
 4902148;World/WMO/Expansion10/Arathor/11AT_Arathor_DefensiveTower01_001_lod1.wmo
 4902149;World/WMO/Expansion10/Arathor/11AT_Arathor_DefensiveTower01_001_lod2.wmo
+4902155;world/wmo/dungeon/AberrusRaid/ICECOLORS.blp
 4902171;World/WMO/Expansion10/Arathor/11AT_Arathor_BaseLarge01_000_lod1.blp
 4902173;World/WMO/Expansion10/Arathor/11AT_Arathor_BaseLarge01_000_lod2.blp
 4902175;World/WMO/Expansion10/Arathor/11AT_Arathor_BaseLarge01_000_lod3.blp
@@ -99160,6 +99161,7 @@
 5009317;world/wmo/expansion09/EmeraldDream/10EMD_EmeraldDream_UltraRoot08_000_lod1.wmo
 5009318;world/wmo/expansion09/EmeraldDream/10EMD_EmeraldDream_UltraRoot08_000_lod2.wmo
 5009319;world/wmo/expansion09/EmeraldDream/10EMD_EmeraldDream_UltraRoot08_000_lod3.wmo
+5009523;world/wmo/dungeon/AberrusRaid/Black64.blp
 5011380;World/WMO/Expansion10/Earthen/11EA_Earthen_Dam01_000_lod1.blp
 5011381;World/WMO/Expansion10/Earthen/11EA_Earthen_Dam01_001_lod1.blp
 5011382;World/WMO/Expansion10/Earthen/11EA_Earthen_Dam01_000_lod2.blp
@@ -137582,7 +137584,7 @@
 7344884;World/WMO/Expansion11/Troll/12TR_Ulatek_Delve_Entrance01_001.wmo
 7344885;World/WMO/Expansion11/Troll/12TR_Ulatek_Delve_Entrance01_001_lod1.wmo
 7344886;World/WMO/Expansion11/Troll/12TR_Ulatek_Delve_Entrance01_001_lod2.wmo
-7345859;World/WMO/Expansion11/Troll/Helm_Cloth_RaidPriestMythic_O_01_FX.blp
+7345859;World/WMO/Expansion11/Troll/Black32.blp
 7348900;World/WMO/Expansion11/BloodElf/12BE_BloodElf_Silvermoon_Turret09_000_lod1_e.blp
 7348901;World/WMO/Expansion11/BloodElf/12BE_BloodElf_Silvermoon_Turret09_000_lod2_e.blp
 7348902;World/WMO/Expansion11/BloodElf/12BE_BloodElf_Silvermoon_Turret09_000_lod3_e.blp

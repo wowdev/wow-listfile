@@ -82134,7 +82134,6 @@
 4902111;item/objectcomponents/weapon/sword_2h_emeralddreamoutdoor_d_01_4902111.blp
 4902112;item/objectcomponents/weapon/sword_2h_emeralddreamoutdoor_d_01_4902112.blp
 4902115;item/objectcomponents/weapon/glaive_1h_blackdragonoutdoor_d_01_4902115.blp
-4902155;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_4902155.blp
 4902156;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_4902156.blp
 4902157;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_4902157.blp
 4902158;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_4902158.blp
@@ -90755,7 +90754,6 @@
 5009520;Creature/VoidElemental/10xp_VoidElemental01_5009520.blp
 5009521;Creature/VoidElemental/10xp_VoidElemental01_5009521.blp
 5009522;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_5009522.blp
-5009523;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_5009523.blp
 5009524;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_5009524.blp
 5009525;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_5009525.blp
 5009530;world/expansion09/doodads/EmeraldDream/10ED_EmeraldDream_Rock02_5009530.blp
@@ -190499,6 +190497,7 @@
 7423293;Housing/Icons/INV_11EA_Earthen_Minecart02_7423293.blp
 7423339;Housing/Thumbnails/PVP_Rune_Invis_7423339.blp
 7423341;Housing/Icons/INV_PVP_Rune_Invis_7423341.blp
+7423383;Housing/Thumbnails/ZangarMushroomWater03_7423383.blp
 7423385;Housing/Icons/INV_ZangarMushroomWater03_7423385.blp
 7423389;Housing/Icons/INV_G_SporeMushroom_7423389.blp
 7423393;Housing/Icons/INV_SporeLight01_7423393.blp
@@ -198768,7 +198767,7 @@
 7577735;unkmaps/unk_exp11_7577552-7577736/7577552-7577736_48_40_tex0.adt
 7577736;unkmaps/unk_exp11_7577552-7577736/7577552-7577736_48_40_lod.adt
 7577932;models/spells/unk_exp11_7658834/7658834_7577932.blp
-7578498;models/unknown/unk_exp11_7879846/ARMORREFLECT3.blp
+7578498;models/unknown/unk_exp11_7879846/7879846_7578498.blp
 7578499;models/unknown/unk_exp10_6648661/6648661_7578499.blp
 7578500;models/unknown/unk_exp10_6648661/6648661_7578500.blp
 7578501;models/unknown/unk_exp10_6648661/6648661_7578501.blp
@@ -203824,6 +203823,8 @@
 7746368;World/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid01_7746368.blp
 7746463;Housing/Thumbnails/12SN_Snakeoid_Ritual_Trinket02_7746463.blp
 7746465;Housing/Icons/INV_12SN_Snakeoid_Ritual_Trinket02_7746465.blp
+7746467;Housing/Thumbnails/12SN_Snakeoid_Ritual_Trinket03_7746467.blp
+7746469;Housing/Icons/INV_12SN_Snakeoid_Ritual_Trinket03_7746469.blp
 7746471;Housing/Icons/INV_12SN_Snakeoid_Ritual_ReliquaryBox02_7746471.blp
 7746473;Housing/Thumbnails/12SN_Snakeoid_Ritual_ReliquaryBox02_7746473.blp
 7748335;Spells/FX_Maskuerade_Precast_7748335.blp
@@ -204172,7 +204173,6 @@
 7758268;Character/BloodElf/Male/BloodElfMale_HD_blindfold_7758268.blp
 7758269;Character/BloodElf/Male/BloodElfMale_HD_blindfold_7758269.blp
 7758270;character/voidelf/female/voidelffemale_blindfold_7758270.blp
-7758272;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_BrokenEgg05_7758272.blp
 7758273;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_BrokenEgg05_7758273.blp
 7758275;character/voidelf/female/voidelffemale_blindfold_7758275.blp
 7758281;character/voidelf/male/voidelfmale_blindfold_7758281.blp
@@ -204218,7 +204218,11 @@
 7759521;Sound/Creature/Zuljarra/VO_121_Zuljarra_7759521.ogg
 7759546;Sound/Creature/Dakzor/VO_121_Dakzor_7759546.ogg
 7759650;Housing/Thumbnails/12SN_Snakeoid_Ritual_Egg01_7759650.blp
+7759656;Housing/Thumbnails/12SN_Snakeoid_Ritual_BrokenEggCluster03_7759656.blp
+7759665;Housing/Icons/INV_12SN_Snakeoid_Ritual_BrokenEggCluster03_7759665.blp
 7759670;Housing/Icons/INV_12SN_Snakeoid_Ritual_Egg01_7759670.blp
+7759685;Housing/Thumbnails/12SN_Snakeoid_Lighting_Brazier01_7759685.blp
+7759687;Housing/Icons/INV_12SN_Snakeoid_Lighting_Brazier01_7759687.blp
 7760202;models/item/unk_exp11_7760202_be_f/7760202_Be_f.m2
 7760203;models/item/unk_exp11_7760203_be_m/7760203_Be_m.m2
 7760204;models/item/unk_exp11_7760204_ni_f/7760204_Ni_f.m2
@@ -205011,7 +205015,7 @@
 7802506;models/item/unk_exp11_7785918_r/7785918_r_lod01.skin
 7802507;models/item/unk_exp11_7785918_r/7785918_r_lod02.skin
 7802508;models/item/unk_exp11_7785918_r/7785918_r_lod03.skin
-7802509;models/item/unk_exp11_7785878_be_m/7785878_7802509.blp
+7802509;models/item/unk_exp11_7785878_be_m/7785878_Be_m_7802509.blp
 7802511;models/item/unk_exp11_7785917_l/7785917_l_7802511.blp
 7802512;models/7785919_7802512.blp
 7802513;models/item/unk_exp11_7785892_hu_m/7785892_Hu_m00.skin
