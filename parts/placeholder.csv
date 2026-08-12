@@ -182729,6 +182729,7 @@
 7263193;Housing/Thumbnails/12FN_Fungarian_Lighting_HangingLight01_7263193.blp
 7263250;Housing/Thumbnails/12FN_Fungarian_Lighting_HangingLight02_7263250.blp
 7263290;Housing/Thumbnails/12fn_fungarian_storage_sack01_7263290.blp
+7263313;Creature/BabyMurloc3/BabyMurloc3_7263313.blp
 7263314;Creature/TrigoreBoss/TrigoreBoss_7263314.blp
 7263336;World/Expansion11/Doodads/Troll/12TR_Amani_Decor_Plate02_7263336.blp
 7263375;World/Expansion11/Doodads/Troll/12TR_Amani_Decor_Plate01_7263375.blp
@@ -210438,7 +210439,8 @@
 8027377;models/world/unk_exp11_8024094/8024094_8027377.blp
 8027549;models/spells/unk_exp11_8027549/8027549.m2
 8028145;models/creature/unk_exp11_8028145/8028145.m2
-8029663;models/unktextures/ArmorReflect4_8029663.blp
+8029661;Creature/ClockWorkDuck/ClockWorkDuck_8029661.blp
+8029662;Creature/ClockWorkDuck/ClockWorkDuck_8029662.blp
 8029699;models/spells/unk_exp11_7836462/7836462_8029699.blp
 8029700;models/spells/unk_exp11_7836462/7836462_8029700.blp
 8029701;models/spells/unk_exp11_7836462/7836462_8029701.blp
@@ -210460,11 +210462,9 @@
 8030640;Housing/Icons/INV_12SN_Snakeoid_Storage_Chest01_8030640.blp
 8030643;Housing/Icons/INV_7XP_HangingSeaweedShort_B02_8030643.blp
 8030647;Housing/Icons/INV_PA_FishingRack_01_8030647.blp
-8030715;models/unktextures/DraenorCrafted_Effects_01_8030715.blp
-8030717;models/unktextures/AcidSplash_grey_8030717.blp
-8030719;models/unktextures/White8x8_8030719.blp
-8030721;models/unktextures/ArmorReflect4_8030721.blp
-8030723;models/unktextures/RibbonBlur1_8030723.blp
+8030673;Creature/AxolotlPet/AxolotlPet_8030673.blp
+8030674;Creature/AxolotlPet/AxolotlPet_8030674.blp
+8030675;Creature/AxolotlPet/AxolotlPet_8030675.blp
 8031793;models/creature/unk_exp11_7926158/7926158_8031793.blp
 8031795;Spells/FX_PlatformEDestroyed_Impact_8031795.blp
 8031797;models/creature/unk_exp11_7926158/7926158_8031797.blp
@@ -211974,6 +211974,9 @@
 8158764;Sound/Creature/AmaniTrollMale/AmaniTrollMale_aggro_8158764.ogg
 8158766;Sound/Creature/AmaniTrollMale/AmaniTrollMale_aggro_8158766.ogg
 8158768;Sound/Creature/AmaniTrollMale/AmaniTrollMale_aggro_8158768.ogg
+8158776;Sound/Creature/Janmo_the_Loud/VO_121_Janmo_the_Loud_8158776.ogg
+8158778;Sound/Creature/Janmo_the_Loud/VO_121_Janmo_the_Loud_8158778.ogg
+8158780;Sound/Creature/Janmo_the_Loud/VO_121_Janmo_the_Loud_8158780.ogg
 8158782;Sound/Creature/AmaniTrollMale/AmaniTrollMale_attack_8158782.ogg
 8158784;Sound/Creature/AmaniTrollMale/AmaniTrollMale_attack_8158784.ogg
 8158786;Sound/Creature/AmaniTrollMale/AmaniTrollMale_attack_8158786.ogg
