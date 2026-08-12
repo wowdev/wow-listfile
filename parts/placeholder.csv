@@ -168447,6 +168447,9 @@
 6928045;World/Expansion10/Doodads/Dungeon/EtherealRaid/11DU_EtherealRaid_Main_Pylon01_6928045.blp
 6928047;World/Expansion10/Doodads/Dungeon/EtherealRaid/11DU_EtherealRaid_Main_Pylon01_6928047.blp
 6928048;World/Expansion10/Doodads/Dungeon/EtherealRaid/11DU_EtherealRaid_Main_Pylon01_6928048.blp
+6928097;Interface/Cinematics/Movie_1040/Movie_1040_640_6928097.avi
+6928098;Interface/Cinematics/Movie_1040/Movie_1040_1280_6928098.avi
+6928099;Interface/Cinematics/Movie_1040/Movie_1040_1920_6928099.avi
 6928958;item/texturecomponents/leguppertexture/6882653_lu_u_6928958.blp
 6928977;item/texturecomponents/torsolowertexture/6882653_tl_u_6928977.blp
 6929003;World/Expansion11/Doodads/PlayerHousing/12ph_or_legacy_lamppost03_6929003.blp
@@ -186719,6 +186722,18 @@
 7342246;Sound/Creature/PandarenSerpentMount/PandarenSerpentMount_jumpstart_7342246.ogg
 7342248;Sound/Creature/PandarenSerpentMount/PandarenSerpentMount_jumpstart_7342248.ogg
 7342346;World/WMO/Expansion11/PlayerHousing/Exterior/12PH_Exterior_Orc_Tower23_7342346.blp
+7342424;Interface/Cinematics/Movie_1047/Movie_1047_1280_7342424.avi
+7342425;Interface/Cinematics/Movie_1047/Movie_1047_1920_7342425.avi
+7342426;Interface/Cinematics/Movie_1047/Movie_1047_640_7342426.avi
+7342427;Interface/Cinematics/Movie_1048/Movie_1048_640_7342427.avi
+7342428;Interface/Cinematics/Movie_1048/Movie_1048_1280_7342428.avi
+7342429;Interface/Cinematics/Movie_1048/Movie_1048_1920_7342429.avi
+7342430;Interface/Cinematics/Movie_1049/Movie_1049_1920_7342430.avi
+7342433;Interface/Cinematics/Movie_1049/Movie_1049_1280_7342433.avi
+7342434;Interface/Cinematics/Movie_1049/Movie_1049_640_7342434.avi
+7342435;Interface/Cinematics/Movie_1050/Movie_1050_640_7342435.avi
+7342436;Interface/Cinematics/Movie_1050/Movie_1050_1280_7342436.avi
+7342437;Interface/Cinematics/Movie_1050/Movie_1050_1920_7342437.avi
 7342540;models/unknown/unk_exp11_6989421/698942100.skin
 7342541;models/unknown/unk_exp11_6989421/6989421_lod01.skin
 7342542;models/unknown/unk_exp11_6989421/6989421_lod02.skin
@@ -186731,6 +186746,7 @@
 7342559;Sound/Creature/7208228/7208228_aggro_7342559.ogg
 7342583;Housing/Thumbnails/12be_bloodelf_structure_smalltent01_7342583.blp
 7342584;Housing/Thumbnails/12be_bloodelf_food_glass01_7342584.blp
+7343911;Interface/Cinematics/Movie_1049/Movie_1049_Audio_7343911.mp3
 7344015;models/item/unk_exp11_7344015_ve_m/7344015_Ve_m.m2
 7344128;Housing/Thumbnails/12ph_folk_countertop01_7344128.blp
 7344129;Housing/Thumbnails/12ph_folk_stovetop01_7344129.blp
@@ -189487,6 +189503,9 @@
 7406270;Sound/Creature/6237648/6237648_fidget_7406270.ogg
 7406272;Sound/Creature/6237648/6237648_fidget_7406272.ogg
 7406284;Spells/FX_Smash_Cast_7406284.blp
+7406307;Interface/Cinematics/Movie_1051/Movie_1051_1280_7406307.avi
+7406308;Interface/Cinematics/Movie_1051/Movie_1051_1920_7406308.avi
+7406309;Interface/Cinematics/Movie_1051/Movie_1051_640_7406309.avi
 7406310;Sound/Creature/6237648/6237648_fidget5_7406310.ogg
 7406312;Sound/Creature/6237648/6237648_fidget5_7406312.ogg
 7406314;Sound/Creature/6237648/6237648_fidget5_7406314.ogg
@@ -191579,6 +191598,7 @@
 7434618;Housing/Thumbnails/12PM_Primitive_Ritual_Effigy05_7434618.blp
 7434620;Housing/Thumbnails/12PM_Primitive_Ritual_Effigy10_7434620.blp
 7434668;World/Expansion11/Doodads/PlayerHousing/12PH_Durotar_Crafting_FishingRack02_7434668.blp
+7435350;Interface/Cinematics/Movie_1040/Movie_1040_Audio_7435350.mp3
 7435573;Housing/Thumbnails/12PH_Durotar_Crafting_LeatherRoll01_7435573.blp
 7435575;Housing/Thumbnails/12PH_Durotar_Crafting_FishingRack02_7435575.blp
 7435585;Housing/Thumbnails/7TR_Tauren_Kite_Flying01_7435585.blp
@@ -194282,6 +194302,7 @@
 7480772;models/spells/unk_exp11_7454245/7454245_lod01.skin
 7480773;models/spells/unk_exp11_7454245/7454245_lod02.skin
 7480774;models/spells/unk_exp11_7454245/7454245_lod03.skin
+7481098;Interface/Cinematics/Movie_1040/Movie_1040_Subtitles_7481098.srt
 7481113;World/Expansion11/Doodads/Primitive/12PM_Primitive_Decor_Rug01_7481113.blp
 7481121;World/Expansion11/Doodads/Primitive/12PM_Primitive_Lighting_CampFire_Unlit01_7481121.blp
 7481124;World/Expansion11/Doodads/Primitive/12PM_Primitive_Lighting_CampFire01_7481124.blp
@@ -196505,6 +196526,7 @@
 7517543;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_LunarNewYear_MoneyTree01_7517543.blp
 7517545;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_LunarNewYear_MoneyTree01_DyeColorMap_7517545.blp
 7517547;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_LunarNewYear_MoneyTree01_DyeInfluenceMap_7517547.blp
+7517581;Interface/Cinematics/Movie_1047/Movie_1047_Audio_7517581.mp3
 7517740;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_LunarNewYear_CurioShelf01_7517740.blp
 7517759;World/Expansion11/Doodads/Troll/12TR_Amani_Structure_Hex_Awning01_7517759.blp
 7517761;World/Expansion11/Doodads/Troll/12TR_Amani_Structure_Hex_Awning01_7517761.blp
@@ -198221,6 +198243,7 @@
 7569703;Sound/Creature/VoidtouchedWolfBat/VoidtouchedWolfBat_wound_7569703.ogg
 7569705;Sound/Creature/VoidtouchedWolfBat/VoidtouchedWolfBat_wound_7569705.ogg
 7569769;World/Expansion11/Doodads/PlayerHousing/12PH_Elwynn_Decor_HayBail01_7569769.blp
+7569816;Interface/Cinematics/Movie_1051/Movie_1051_Audio_7569816.mp3
 7569824;models/unknown/unk_exp11_7569824/7569824.m2
 7569831;item/objectcomponents/cape/cape_pvp12season2_d_01_blue_7569831.blp
 7569832;item/objectcomponents/cape/cape_pvp12season2_d_01_red_7569832.blp
@@ -198294,6 +198317,7 @@
 7570771;Housing/Thumbnails/12PH_Opulent_Chair_Dining_Small01_7570771.blp
 7570816;Housing/Thumbnails/12TR_Amani_Defense_TerritoryMarker01_7570816.blp
 7570820;Housing/Thumbnails/12ve_voidelf_furniture_bedroll01_7570820.blp
+7571002;Interface/Cinematics/Movie_1047/Movie_1047_Subtitles_7571002.srt
 7571003;Spells/12FX_TheBlindingVale_LightblossomTrinity_LightBolt_Missile_7571003.blp
 7571004;Spells/12FX_TheBlindingVale_LightblossomTrinity_LightBolt_Missile_7571004.blp
 7571005;Spells/12FX_TheBlindingVale_LightblossomTrinity_LightBolt_Missile_7571005.blp
@@ -199255,6 +199279,18 @@
 7639166;models/spells/unk_exp11_7637253/7637253_lod01.skin
 7639168;models/spells/unk_exp11_7637253/7637253_lod02.skin
 7639170;models/spells/unk_exp11_7637253/7637253_lod03.skin
+7639572;Interface/Cinematics/Movie_1062/Movie_1062_1280_7639572.avi
+7639573;Interface/Cinematics/Movie_1062/Movie_1062_1920_7639573.avi
+7639574;Interface/Cinematics/Movie_1062/Movie_1062_640_7639574.avi
+7639575;Interface/Cinematics/Movie_1062/Movie_1062_Subtitles_7639575.srt
+7639576;Interface/Cinematics/Movie_1048/Movie_1048_Subtitles_7639576.srt
+7639577;Interface/Cinematics/Movie_1049/Movie_1049_Subtitles_7639577.srt
+7639578;Interface/Cinematics/Movie_1050/Movie_1050_Subtitles_7639578.srt
+7639579;Interface/Cinematics/Movie_1051/Movie_1051_Subtitles_7639579.srt
+7639580;Interface/Cinematics/Movie_1061/Movie_1061_1280_7639580.avi
+7639581;Interface/Cinematics/Movie_1061/Movie_1061_1920_7639581.avi
+7639582;Interface/Cinematics/Movie_1061/Movie_1061_640_7639582.avi
+7639583;Interface/Cinematics/Movie_1061/Movie_1061_Subtitles_7639583.srt
 7640910;Sound/Creature/Rutaani/Rutaani_fidget_7640910.ogg
 7640911;Sound/Creature/Rutaani/Rutaani_fidget_7640911.ogg
 7640912;Sound/Creature/Rutaani/Rutaani_fidget_7640912.ogg
@@ -199401,6 +199437,14 @@
 7642513;Sound/Creature/Rutaani/Rutaani_wound_7642513.ogg
 7642515;Sound/Creature/Rutaani/Rutaani_wound_7642515.ogg
 7642517;Sound/Creature/Rutaani/Rutaani_wound_7642517.ogg
+7642955;Interface/Cinematics/Movie_1053/Movie_1053_640_7642955.avi
+7642956;Interface/Cinematics/Movie_1053/Movie_1053_1280_7642956.avi
+7642957;Interface/Cinematics/Movie_1053/Movie_1053_1920_7642957.avi
+7642958;Interface/Cinematics/Movie_1053/Movie_1053_Subtitles_7642958.srt
+7642959;Interface/Cinematics/Movie_1059/Movie_1059_1280_7642959.avi
+7642960;Interface/Cinematics/Movie_1059/Movie_1059_1920_7642960.avi
+7642961;Interface/Cinematics/Movie_1059/Movie_1059_640_7642961.avi
+7642962;Interface/Cinematics/Movie_1059/Movie_1059_Subtitles_7642962.srt
 7643323;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_HawkStrider_Harp_7643323.blp
 7643457;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Decor_Tendril04_7643457.blp
 7643460;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Decor_Tendril02_7643460.blp
@@ -199415,6 +199459,7 @@
 7643895;models/unktextures/OrbReflectBright_7643895.blp
 7643898;models/unktextures/T_VFX_HERO_AURA_01_DESAT_7643898.blp
 7643900;models/unktextures/ColdBreath32_7643900.blp
+7644135;Interface/Cinematics/Movie_1048/Movie_1048_Audio_7644135.mp3
 7644160;models/unknown/unk_exp11_7644160/7644160.m2
 7644294;World/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid01_7644294.blp
 7644295;World/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid01_7644295.blp
@@ -199736,6 +199781,8 @@
 7658435;Housing/Icons/INV_8HU_KULTIRAS_ROPELIGHTS03_7658435.blp
 7658437;Housing/Icons/INV_8HU_KULTIRAS_ROPELIGHTS02_7658437.blp
 7658439;Housing/Thumbnails/8HU_KULTIRAS_ROPELIGHTS02_7658439.blp
+7658489;Interface/Cinematics/Movie_1059/Movie_1059_Audio_7658489.mp3
+7658493;Interface/Cinematics/Movie_1053/Movie_1053_Audio_7658493.mp3
 7658819;Creature/ShaOwlMount/ShaOwlMount_7658819.blp
 7658834;models/spells/unk_exp11_7658834/7658834.m2
 7658835;models/spells/unk_exp11_7658835/7658835.m2
@@ -200158,6 +200205,7 @@
 7671172;Sound/Emitters/12.0Amb-Silvermoon-Harbor-Walla-Sailors_3_7671172.ogg
 7671174;Sound/Emitters/12.0Amb-Silvermoon-Harbor-Walla-Sailors_4_7671174.ogg
 7671176;Sound/Emitters/12.0Amb-Silvermoon-Harbor-Walla-Sailors_5_7671176.ogg
+7671194;Interface/Cinematics/Movie_1061/Movie_1061_Audio_7671194.mp3
 7671207;Sound/Emitters/12.0Amb-Silvermoon-ThalassianUniversity-Walla-Group-Int_36_7671207.ogg
 7671209;Sound/Emitters/12.0Amb-Silvermoon-ThalassianUniversity-Walla-Group-Int_37_7671209.ogg
 7671211;Sound/Emitters/12.0Amb-Silvermoon-ThalassianUniversity-Walla-Group-Int_38_7671211.ogg
@@ -201247,6 +201295,7 @@
 7700600;item/objectcomponents/weapon/Bow_1H_OutdoorAmaniLoa_C_01_7700600.blp
 7700601;item/objectcomponents/weapon/Bow_1H_OutdoorAmaniLoa_C_01_7700601.blp
 7700602;item/objectcomponents/weapon/Bow_1H_OutdoorAmaniLoa_C_01_7700602.blp
+7700630;Interface/Cinematics/Movie_1050/Movie_1050_Audio_7700630.mp3
 7700721;Housing/Thumbnails/12DUR_Durotar_Azshara_Tree_02_7700721.blp
 7700722;Housing/Thumbnails/12DUR_Durotar_Main_Tree_SucculentPalm_B02_7700722.blp
 7700723;Housing/Thumbnails/12DUR_Durotar_Main_Tree_SucculentPalm_B03_7700723.blp
@@ -201512,6 +201561,9 @@
 7702262;models/creature/unk_exp11_7701864/7701864_lod01.skin
 7702264;models/creature/unk_exp11_7701864/7701864_lod02.skin
 7702267;models/creature/unk_exp11_7701864/7701864_lod03.skin
+7702290;Interface/Cinematics/Movie_1063/Movie_1063_1280_7702290.avi
+7702291;Interface/Cinematics/Movie_1063/Movie_1063_1920_7702291.avi
+7702292;Interface/Cinematics/Movie_1063/Movie_1063_640_7702292.avi
 7702293;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Storage_Chest01_7702293.blp
 7702313;models/unknown/unk_exp11_6650906/Smoke_Loose_02_256_Blend.blp
 7702315;models/unknown/unk_exp11_6650906/white_64.blp
@@ -201567,6 +201619,12 @@
 7702457;unkmaps/maptextures/7702457.blp
 7702459;unkmaps/maptextures/7702459.blp
 7702461;unkmaps/maptextures/7702461.blp
+7702497;Interface/Cinematics/Movie_1064/Movie_1064_1280_7702497.avi
+7702498;Interface/Cinematics/Movie_1064/Movie_1064_1920_7702498.avi
+7702499;Interface/Cinematics/Movie_1064/Movie_1064_640_7702499.avi
+7702502;Interface/Cinematics/Movie_1065/Movie_1065_1280_7702502.avi
+7702506;Interface/Cinematics/Movie_1065/Movie_1065_1920_7702506.avi
+7702507;Interface/Cinematics/Movie_1065/Movie_1065_640_7702507.avi
 7702533;Spells/FX_Maskuerade_Precast_7702533.blp
 7702535;Spells/FX_Maskuerade_Precast_7702535.blp
 7702536;Spells/FX_Maskuerade_Precast_7702536.blp
@@ -201644,6 +201702,9 @@
 7704059;Creature/FlyingSerpentMount/FlyingSerpentMount_7704059.blp
 7704060;Creature/FlyingSerpentMount/FlyingSerpentMount_7704060.blp
 7704064;Creature/FlyingSerpentMount/FlyingSerpentMount_7704064.blp
+7704072;Interface/Cinematics/Movie_1066/Movie_1066_1280_7704072.avi
+7704073;Interface/Cinematics/Movie_1066/Movie_1066_1920_7704073.avi
+7704074;Interface/Cinematics/Movie_1066/Movie_1066_640_7704074.avi
 7704110;World/WMO/Expansion11/Delves/12XP_ParhelionPlaza01_7704110.blp
 7704323;World/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid01_7704323.blp
 7704374;Housing/Icons/INV_10xp_banana_pile_7704374.blp
@@ -202583,6 +202644,7 @@
 7727256;Item/ObjectComponents/weapon/mace_1h_outdooramaniloa_c_01_7727256.blp
 7727257;Item/ObjectComponents/weapon/mace_1h_outdooramaniloa_c_01_7727257.blp
 7727258;Item/ObjectComponents/weapon/mace_1h_outdooramaniloa_c_01_7727258.blp
+7728181;Interface/Cinematics/Movie_1066/Movie_1066_Audio_7728181.mp3
 7728299;sound/creature/cat2/cat2_greetings_7728299.ogg
 7728301;sound/creature/cat2/cat2_greetings_7728301.ogg
 7728303;sound/creature/cat2/cat2_greetings_7728303.ogg
@@ -202601,6 +202663,7 @@
 7728507;Housing/Thumbnails/12SN_Snakeoid_Storage_Bag02_7728507.blp
 7728553;Housing/Icons/INV_12SN_Snakeoid_Storage_Bag02_7728553.blp
 7728557;Housing/Icons/INV_12SN_Snakeoid_Storage_Bag01_7728557.blp
+7728589;Interface/Cinematics/Movie_1062/Movie_1062_Audio_7728589.mp3
 7728610;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Skyborne_Windwell01_7728610.blp
 7728611;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Skyborne_Windwell01_7728611.blp
 7728612;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Skyborne_Windwell01_7728612.blp
@@ -203813,6 +203876,7 @@
 7745960;models/unknown/unk_exp11_7745841/7745841_lod01.skin
 7745962;models/unknown/unk_exp11_7745841/7745841_lod02.skin
 7745966;models/unknown/unk_exp11_7745841/7745841_lod03.skin
+7745994;Interface/Cinematics/Movie_1066/Movie_1066_Subtitles_7745994.srt
 7746161;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_Trinket02_7746161.blp
 7746164;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_Trinket03_7746164.blp
 7746166;models/unknown/unk_exp11_7746166/7746166.m2
@@ -209981,6 +210045,9 @@
 7975650;Sound/Creature/7810668/7810668_fidget7_7975650.ogg
 7975652;Sound/Creature/7810668/7810668_fidget7_7975652.ogg
 7975713;Sound/Creature/7810668/7810668_fidget14_7975713.ogg
+7975883;Interface/Cinematics/Movie_1063/Movie_1063_Audio_7975883.mp3
+7975904;Interface/Cinematics/Movie_1063/Movie_1063_Subtitles_7975904.srt
+7975905;Interface/Cinematics/Movie_1064/Movie_1064_Subtitles_7975905.srt
 7975957;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Rug01_DyeColorMap_7975957.blp
 7975960;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Rug01_DyeInfluenceMap_7975960.blp
 7975965;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Rug01_7975965.blp
@@ -210280,6 +210347,8 @@
 8018081;Sound/Creature/7810668/7810668_fidget11_8018081.ogg
 8018083;Sound/Creature/7810668/7810668_fidget10_8018083.ogg
 8018085;Sound/Creature/7810668/7810668_fidget11_8018085.ogg
+8018101;Interface/Cinematics/Movie_1064/Movie_1064_Audio_8018101.mp3
+8018102;Interface/Cinematics/Movie_1065/Movie_1065_Audio_8018102.mp3
 8018397;Item/ObjectComponents/head/helm_armor_mask_b_06_Be_m_8018397.blp
 8018398;Item/ObjectComponents/head/helm_armor_mask_b_06_Be_m_8018398.blp
 8018399;Item/ObjectComponents/head/helm_armor_mask_b_06_Be_m_8018399.blp
@@ -212499,6 +212568,7 @@
 8183791;models/unknown/unk_exp11_8035586/8035586_lod01.skin
 8183792;models/unknown/unk_exp11_8035586/8035586_lod02.skin
 8183793;models/unknown/unk_exp11_8035586/8035586_lod03.skin
+8186664;Interface/Cinematics/Movie_1065/Movie_1065_Subtitles_8186664.srt
 8186809;Creature/DarkwellPhoenixMount2/DarkwellPhoenixMount2_8186809.blp
 8186811;Creature/DarkwellPhoenixMount2/DarkwellPhoenixMount2_8186811.blp
 8186813;Creature/DarkwellPhoenixMount2/DarkwellPhoenixMount2_8186813.blp
