@@ -82695,6 +82695,7 @@
 7736468;Creature/WindSerpent3Mount/WindSerpent3Mount_White.blp
 7736469;Creature/WindSerpent3Mount/WindSerpent3Mount_Yellow.blp
 7739082;Creature/BabyWindserpent/BabyWindserpent0061-00.anim
+7739381;Creature/OxHomeMount/OxHomeMount.m2
 7743379;Creature/AmaniTrollFemale/AmaniTrollFemale1172-00.anim
 7743380;Creature/AmaniTrollFemale/AmaniTrollFemale1174-00.anim
 7743381;Creature/AmaniTrollFemale/AmaniTrollFemale1176-00.anim
@@ -82972,6 +82973,12 @@
 7881016;Creature/RabbitMountVoid/grey50percentsquare16x16_a.blp
 7881017;Creature/RabbitMountVoid/10FX_Shards_03.blp
 7881018;Creature/RabbitMountVoid/10FX_StarField_Tile_04.blp
+7884211;Creature/OxHomeMount/Ember_Offset.blp
+7884213;Creature/OxHomeMount/White8x8.blp
+7884215;Creature/OxHomeMount/Smoke_Loose_01.blp
+7884217;Creature/OxHomeMount/ArmorReflect4.blp
+7884219;Creature/OxHomeMount/OxHomeMount_Home_Brown.blp
+7884221;Creature/OxHomeMount/OxHomeMount_Home_Brown_Glow.blp
 7889171;Creature/SerpentHydra/SerpentHydra1452-00.anim
 7889204;Creature/ThunderHydra/thunderhydra1452-00.anim
 7889205;Creature/Guarm/Guarm1452-00.anim
@@ -83445,6 +83452,7 @@
 8146563;Creature/TurtlePrimal2/TurtlePrimal20096-00.anim
 8146564;Creature/TurtlePrimal2/TurtlePrimal20098-00.anim
 8164184;Creature/UlatekBoss/Gray8x8_Lighter.blp
+8166881;Creature/OxHomeMount/OxHomeMount_Ox_Brown.blp
 8178303;Creature/BroomstickSpiceWitch/BroomstickSpiceWitch_Blue.blp
 8186810;Creature/DarkwellPhoenixMount2/FieryEnergy_Orange.blp
 8186812;Creature/DarkwellPhoenixMount2/Smoke_Generic_PaintyMask02_Blend.blp

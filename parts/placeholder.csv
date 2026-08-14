@@ -203714,7 +203714,6 @@
 7738911;item/objectcomponents/collections/Leather_RaidRogueUlatek_D_01_7738911.blp
 7738913;item/objectcomponents/collections/Leather_RaidRogueUlatek_D_01_7738913.blp
 7738915;item/objectcomponents/collections/Leather_RaidRogueUlatek_D_01_7738915.blp
-7739381;models/creature/unk_exp11_7739381/7739381.m2
 7739679;item/texturecomponents/foottexture/7643809_fo_u_7739679.blp
 7739680;item/texturecomponents/foottexture/7643809_fo_u_7739680.blp
 7739681;item/texturecomponents/foottexture/7643809_fo_u_7739681.blp
@@ -208722,10 +208721,6 @@
 7880722;Housing/Icons/INV_8des_fossilgiantsnakeskull_c02_7880722.blp
 7881320;models/world/unk_exp11_7881320/7881320.m2
 7881374;models/unknown/unk_exp11_7879846/7879846_7881374.mtl3lib
-7884211;models/unktextures/Ember_Offset_7884211.blp
-7884213;models/unktextures/White8x8_7884213.blp
-7884215;models/unktextures/Smoke_Loose_01_7884215.blp
-7884217;models/unktextures/ArmorReflect4_7884217.blp
 7884243;Sound/Spell/1Murlocinbubble_aurastart_loop_7884243.ogg
 7884245;Sound/Spell/1Murlocinbubble_aurastart_loop_7884245.ogg
 7884247;Sound/Spell/1Murlocinbubble_aurastart_loop_7884247.ogg
@@ -210974,11 +210969,6 @@
 8060496;models/spells/unk_exp11_8060496/8060496.m2
 8060497;models/spells/unk_exp11_8060497/8060497.m2
 8061581;models/world/unk_exp11_8061581/8061581.m2
-8061588;models/item/unk_exp11_7844903/7844903_8061588.blp
-8061593;models/item/unk_exp11_7844903/784490300.skin
-8061597;models/item/unk_exp11_7844903/7844903_lod01.skin
-8061600;models/item/unk_exp11_7844903/7844903_lod02.skin
-8061602;models/item/unk_exp11_7844903/7844903_lod03.skin
 8061612;models/creature/unk_exp11_8061612/8061612.m2
 8061619;models/creature/unk_exp11_8061612/8061612_8061619.blp
 8061624;models/world/unk_exp11_8061581/8061581_8061624.blp
@@ -211000,7 +210990,6 @@
 8062709;models/unknown/unk_exp11_6683995/6683995_8062709.blp
 8062712;models/unknown/unk_exp11_6683994/6683994_8062712.blp
 8062718;World/Expansion11/Doodads/Primitive/12PM_Primitive_Axe01_8062718.blp
-8062734;Interface/Icons/Unknown_8062734.blp
 8062783;models/unktextures/8FX_FlipBook_NecroAsh_8062783.blp
 8062785;models/unktextures/wispymagic_necroblur_a_8062785.blp
 8062793;models/unktextures/8FX_General_WindTile_C_8062793.blp
