@@ -197841,6 +197841,8 @@
 7553542;Housing/Icons/INV_7297703_7553542.blp
 7553553;Housing/Thumbnails/12SN_Snakeoid_Decor_Canopy02_7553553.blp
 7553557;Housing/Icons/INV_12SN_Snakeoid_Decor_Canopy02_7553557.blp
+7553558;Housing/Thumbnails/12SN_Snakeoid_Decor_Canopy03_7553558.blp
+7553562;Housing/Icons/INV_12SN_Snakeoid_Decor_Canopy03_7553562.blp
 7553740;World/Expansion11/Doodads/PlayerHousing/12PH_Founders_Autumn_LargeCluster_01_7553740.blp
 7553742;World/Expansion11/Doodads/PlayerHousing/12PH_Founders_Autumn_LargeCluster_01_7553742.blp
 7553743;World/Expansion11/Doodads/PlayerHousing/12PH_Founders_Autumn_LargeCluster_01_7553743.blp
@@ -204201,6 +204203,9 @@
 7757874;models/spells/unk_exp11_7757874/7757874.m2
 7758027;Sound/Creature/Zuljarra/VO_121_Zuljarra_7758027.ogg
 7758051;Sound/Creature/Taklejo/VO_121_Taklejo_7758051.ogg
+7758054;Sound/Creature/Taklejo/VO_121_Taklejo_7758054.ogg
+7758060;Sound/Creature/Dakzor/VO_121_Dakzor_7758060.ogg
+7758063;Sound/Creature/Dakzor/VO_121_Dakzor_7758063.ogg
 7758085;Sound/Creature/Taklejo/VO_121_Taklejo_7758085.ogg
 7758150;models/spells/unk_exp11_7757871/7757871_7758150.blp
 7758152;Spells/FX_BlossombackArboon_Precast_7758152.blp
@@ -204273,6 +204278,7 @@
 7759248;World/WMO/Expansion11/PlayerHousing/Room/12PH_Option_Cosmetic_0_Generic40_7759248.blp
 7759357;Sound/Creature/Dakzor/VO_121_Dakzor_7759357.ogg
 7759365;Sound/Creature/Zuljarra/VO_121_Zuljarra_7759365.ogg
+7759368;Sound/Creature/Zuljarra/VO_121_Zuljarra_7759368.ogg
 7759408;item/objectcomponents/weapon/Axe_1H_OutdoorAmaniLoa_C_01_7759408.blp
 7759409;item/objectcomponents/weapon/Axe_1H_OutdoorAmaniLoa_C_01_7759409.blp
 7759410;item/objectcomponents/weapon/Axe_1H_OutdoorAmaniLoa_C_01_7759410.blp
@@ -204281,6 +204287,7 @@
 7759413;item/objectcomponents/weapon/Axe_1H_OutdoorAmaniLoa_C_01_7759413.blp
 7759419;models/world/unk_exp11_7881320/7FX_EnergyScroll_Fire_A.blp
 7759521;Sound/Creature/Zuljarra/VO_121_Zuljarra_7759521.ogg
+7759524;Sound/Creature/Zuljarra/VO_121_Zuljarra_7759524.ogg
 7759546;Sound/Creature/Dakzor/VO_121_Dakzor_7759546.ogg
 7759549;Sound/Creature/Dakzor/VO_121_Dakzor_7759549.ogg
 7759555;Sound/Creature/Taklejo/VO_121_Taklejo_7759555.ogg
@@ -206921,6 +206928,8 @@
 7844697;Sound/Creature/giantsnake/giantsnake_fidget7_7844697.ogg
 7844699;Sound/Creature/giantsnake/giantsnake_fidget7_7844699.ogg
 7844701;Sound/Creature/giantsnake/giantsnake_fidget7_7844701.ogg
+7844902;models/item/unk_exp11_7844902/7844902.m2
+7844904;models/item/unk_exp11_7844904/7844904.m2
 7845058;Housing/Icons/INV_12PH_Shop_VenthyrDecor_Organ01_7845058.blp
 7845060;Housing/Icons/INV_12BE_BloodElf_Furniture_Easel01_Empty_7845060.blp
 7845062;Housing/Thumbnails/12BE_BloodElf_Furniture_Easel01_Empty_7845062.blp
@@ -210488,6 +210497,7 @@
 8025996;models/world/unk_exp11_8025913/8025913_lod03.skin
 8025997;Housing/Icons/INV_12SN_Snakeoid_Defense_Weaponrack01_8025997.blp
 8025999;Housing/Thumbnails/12SN_Snakeoid_Defense_Weaponrack01_8025999.blp
+8026028;Sound/Creature/Valeera_Sanguinar/VO_121_Valeera_Sanguinar_8026028.ogg
 8026044;Sound/Creature/Valeera_Sanguinar/VO_121_Valeera_Sanguinar_8026044.ogg
 8026045;Sound/Creature/Valeera_Sanguinar/VO_121_Valeera_Sanguinar_8026045.ogg
 8026061;Sound/Creature/Valeera_Sanguinar/VO_121_Valeera_Sanguinar_8026061.ogg
