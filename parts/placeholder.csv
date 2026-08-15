@@ -208180,14 +208180,18 @@
 7872914;models/spells/unk_exp11_7850887/7850887_lod01.skin
 7872915;models/spells/unk_exp11_7850887/7850887_lod02.skin
 7872916;models/spells/unk_exp11_7850887/7850887_lod03.skin
+7872958;models/creature/unk_exp11_7866654/7866654_7872958.blp
 7873472;models/unktextures/12FX_Chromatic_Mote_7873472.blp
 7873474;models/unktextures/White8x8_7873474.blp
 7873476;models/unktextures/Smoke_Soft_02_7873476.blp
+7873482;models/creature/unk_exp11_7648798/7648798_7873482.blp
 7873484;models/unktextures/ArmorReflect4_7873484.blp
 7873486;models/unktextures/11FX_Dragonhawk_Chromatic_Energy_7873486.blp
+7873488;models/unknown/unk_exp02_7956698/7956698_7873488.blp
 7873490;models/unktextures/7FX_AlphaMask_Glow_512_02_7873490.blp
 7873492;models/unktextures/12GFX_WeaponEnchant_Mask_7873492.blp
 7873494;models/unktextures/10FX_BumpyScroll_7873494.blp
+7873496;models/unknown/unk_exp02_7956698/7956698_7873496.blp
 7873498;models/unktextures/8FX_Dirt_Bits_7873498.blp
 7873684;sound/creature/7566990/7566990_precaststart_loop_7873684.ogg
 7873686;sound/creature/7566990/7566990_precaststart_loop_7873686.ogg
@@ -208941,8 +208945,13 @@
 7897479;models/spells/unk_exp11_7893899/7893899_lod03.skin
 7897514;models/unktextures/7FX_AlphaMask_Glow_Blend_7897514.blp
 7897516;models/unktextures/9FX_EnergyFill_A_7897516.blp
+7897518;models/unknown/unk_exp02_7956698/7956698_7897518.blp
+7897520;models/unknown/unk_exp02_7956698/7956698_7897520.blp
 7897522;models/unktextures/Gray8x8_7897522.blp
+7897524;models/unknown/unk_exp02_7956698/7956698_7897524.blp
 7897526;models/unktextures/dirt_02_7897526.blp
+7897528;models/unknown/unk_exp02_7956698/7956698_7897528.blp
+7897530;models/unknown/unk_exp02_7956698/7956698_7897530.blp
 7897532;Sound/Spell/Uncoil_cast_oneshot_7897532.ogg
 7897534;Sound/Spell/Uncoil_cast_oneshot_7897534.ogg
 7897536;Sound/Spell/Uncoil_cast_oneshot_7897536.ogg
@@ -209025,6 +209034,8 @@
 7903287;World/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid_Platform_Broken03_7903287.blp
 7903289;World/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid_Platform_Broken02_7903289.blp
 7903290;World/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid_Platform_Broken04_7903290.blp
+7903446;models/unknown/unk_exp11_7896767/7896767_7903446.blp
+7903449;models/unknown/unk_exp11_7896767/7896767_7903449.blp
 7926158;models/creature/unk_exp11_7926158/7926158.m2
 7926160;models/spells/unk_exp11_7926160/7926160.m2
 7926222;Creature/IGC_1210_Liadrin/IGC_1210_Liadrin_7926222.blp
@@ -209861,6 +209872,7 @@
 7956520;Sound/Creature/MothFluffyMount/MothFluffyMount_wound_7956520.ogg
 7956522;Sound/Creature/MothFluffyMount/MothFluffyMount_wound_7956522.ogg
 7956597;Sound/Spell/EmpoweredAscension_precaststart_loop_7956597.ogg
+7956704;models/unknown/unk_exp02_7956698/7956698_7956704.blp
 7958208;Interface/Icons/Unknown_7958208.blp
 7958302;World/Expansion11/Doodads/Primitive/12PM_Primitive_Lighting_Torch02_7958302.blp
 7958303;World/Expansion11/Doodads/Primitive/12PM_Primitive_Lighting_Torch02_7958303.blp
@@ -211091,6 +211103,8 @@
 8068602;sound/creature/TaurenMale_HD/TaurenMale_HD_greetings_8068602.ogg
 8068706;Housing/Thumbnails/FX_Candlelight_Aura_8068706.blp
 8068707;Housing/Icons/INV_FX_Candlelight_Aura_8068707.blp
+8068746;models/unknown/unk_exp11_7896767/7896767_8068746.blp
+8068748;models/unknown/unk_exp11_7896767/7896767_8068748.blp
 8071311;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8071311.ogg
 8071313;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8071313.ogg
 8071315;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8071315.ogg
@@ -211301,6 +211315,8 @@
 8105857;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Shed01_8105857.blp
 8105859;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Shed01_DyeColorMap_8105859.blp
 8105861;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Fall_Pastel_Shed01_DyeInfluenceMap_8105861.blp
+8106427;models/creature/unk_exp11_7866654/7866654_8106427.blp
+8106429;models/creature/unk_exp11_7866654/7866654_8106429.blp
 8106798;Housing/Thumbnails/12PH_Shop_Fall_PSL_RockingChair01_8106798.blp
 8106804;Housing/Thumbnails/12PH_Shop_Fall_PSL_AppleJuicer01_8106804.blp
 8106811;Housing/Thumbnails/12PH_Shop_Fall_Pastel_Pumpkins01_8106811.blp
