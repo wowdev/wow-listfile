@@ -206993,6 +206993,8 @@
 7844701;Sound/Creature/giantsnake/giantsnake_fidget7_7844701.ogg
 7844902;models/item/unk_exp11_7844902/7844902.m2
 7844904;models/item/unk_exp11_7844904/7844904.m2
+7844908;Creature/CrabTuskarrMount/CrabTuskarrMount_7844908.blp
+7844912;Creature/CrabTuskarrMount/CrabTuskarrMount_7844912.blp
 7845058;Housing/Icons/INV_12PH_Shop_VenthyrDecor_Organ01_7845058.blp
 7845060;Housing/Icons/INV_12BE_BloodElf_Furniture_Easel01_Empty_7845060.blp
 7845062;Housing/Thumbnails/12BE_BloodElf_Furniture_Easel01_Empty_7845062.blp
@@ -212923,7 +212925,6 @@
 8297482;models/unknown/unk_exp11_8297237/8297237_lod01.skin
 8297485;models/unknown/unk_exp11_8297237/8297237_lod02.skin
 8297489;models/unknown/unk_exp11_8297237/8297237_lod03.skin
-8313303;item/objectcomponents/cape/cape_armor_fisherfolk_c_01_8313303.blp
 8344187;World/WMO/Expansion11/PlayerHousing/Room/12PH_Option_Cosmetic_0_Generic42_lightcookie_8344187.blp
 8344191;World/WMO/Expansion11/PlayerHousing/Room/12PH_Option_Cosmetic_0_Generic42_lightcookie_8344191.blp
 8344202;World/WMO/Expansion11/PlayerHousing/Room/12PH_Option_Cosmetic_0_Generic42_lightcookie_8344202.blp
