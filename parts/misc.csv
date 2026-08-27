@@ -176863,6 +176863,7 @@
 3154286;textures/bakednpctextures/creaturedisplayextra-150277_hd.blp
 3154288;textures/bakednpctextures/creaturedisplayextra-150278.blp
 3154992;textures/bakednpctextures/creaturedisplayextra-150279.blp
+3155020;Tileset/Terrain Cube Maps/TCM_9XP_GreenReflect01.blp
 3155142;textures/bakednpctextures/creaturedisplayextra-150280.blp
 3155426;textures/bakednpctextures/creaturedisplayextra-150281.blp
 3155435;textures/bakednpctextures/creaturedisplayextra-150282.blp
@@ -176933,6 +176934,7 @@
 3186513;textures/bakednpctextures/creaturedisplayextra-150296.blp
 3186549;environments/stars/8xp_nzothmentalsky00.skin
 3186551;environments/stars/8xp_nzothmentalsky01.skin
+3187124;Tileset/Terrain Cube Maps/TCM_9XP_BlackMineralReflect01.blp
 3187578;textures/bakednpctextures/creaturedisplayextra-150297.blp
 3187901;textures/bakednpctextures/creaturedisplayextra-150298.blp
 3187964;textures/bakednpctextures/creaturedisplayextra-150299.blp
@@ -176968,6 +176970,7 @@
 3192607;textures/bakednpctextures/creaturedisplayextra-150322.blp
 3192610;textures/bakednpctextures/creaturedisplayextra-150323.blp
 3193198;textures/bakednpctextures/creaturedisplayextra-150324.blp
+3193344;Tileset/Terrain Cube Maps/TCM_9XP_BlueReflect01.blp
 3193611;textures/bakednpctextures/creaturedisplayextra-150325_hd.blp
 3193856;textures/bakednpctextures/creaturedisplayextra-150330_hd.blp
 3194325;textures/bakednpctextures/creaturedisplayextra-150331_hd.blp
@@ -179703,6 +179706,7 @@
 4186820;utils/blizzardbrowser.app/contents/frameworks/blizzardbrowser helper (renderer).app/contents/info.plist
 4186821;utils/blizzardbrowser.app/contents/frameworks/blizzardbrowser helper (renderer).app/contents/macos/blizzardbrowser helper (renderer)
 4186822;utils/blizzardbrowser.app/contents/frameworks/blizzardbrowser helper (renderer).app/contents/resources/icon.icns
+4187224;Tileset/Terrain Cube Maps/TCM_10XP_IceReflect01.blp
 4195187;DBFilesClient/ChrSelectBackgroundCDI.db2
 4196267;tileset/expansion09/10hgl_yellowgrass01_1024.blp
 4196268;tileset/expansion09/10hgl_yellowgrass01_1024_h.blp
@@ -180060,6 +180064,7 @@
 4214326;tileset/expansion09/10hgl_sand02_1024.blp
 4214327;tileset/expansion09/10hgl_sand02_1024_h.blp
 4214328;tileset/expansion09/10hgl_sand02_1024_s.blp
+4214329;Tileset/Terrain Cube Maps/TCM_10XP_YellowReflect01.blp
 4214666;textures/bakednpctextures/creaturedisplayextra-151212_hd.blp
 4214878;tileset/expansion09/10hgl_sand03_512.blp
 4214879;tileset/expansion09/10hgl_sand03_512_h.blp
@@ -180454,6 +180459,7 @@
 4329731;tileset/expansion08/9prg_whitesand01_512_s.blp
 4329732;textures/bakednpctextures/creaturedisplayextra-151447_hd.blp
 4329737;textures/bakednpctextures/creaturedisplayextra-151449_hd.blp
+4329968;Tileset/Terrain Cube Maps/TCM_9XP_BlueMineralReflect01.blp
 4330408;textures/bakednpctextures/creaturedisplayextra-151457.blp
 4330410;textures/bakednpctextures/creaturedisplayextra-151458.blp
 4330415;textures/bakednpctextures/creaturedisplayextra-151459.blp
@@ -186881,6 +186887,7 @@
 5752308;Tileset/Expansion10/11KRS_CrystalGlass01_2048.blp
 5752309;Tileset/Expansion10/11KRS_CrystalGlass01_2048_h.blp
 5752310;Tileset/Expansion10/11KRS_CrystalGlass01_2048_s.blp
+5752315;Tileset/Terrain Cube Maps/TCM_11XP_CosmicReflect01.blp
 5752382;textures/bakednpctextures/creaturedisplayextra-156514.blp
 5752617;textures/bakednpctextures/creaturedisplayextra-156515_hd.blp
 5752662;Dungeons/Textures/11GO_Goblin/11GO_Goblin_Stone_Column_02.blp
@@ -190010,6 +190017,7 @@
 6351398;textures/bakednpctextures/creaturedisplayextra-158793.blp
 6351400;textures/bakednpctextures/creaturedisplayextra-158794_hd.blp
 6351574;textures/bakednpctextures/creaturedisplayextra-158795.blp
+6351720;Tileset/Terrain Cube Maps/TCM_12XP_PearlescentReflect01.blp
 6351903;Dungeons/Textures/12OR_Orc/12OR_Orc_Roof02.blp
 6351904;Dungeons/Textures/12OR_Orc/12OR_Orc_Plaster01.blp
 6352064;textures/bakednpctextures/creaturedisplayextra-158796_hd.blp
@@ -190565,6 +190573,7 @@
 6374222;Tileset/Expansion10/11KRS_CrystalGlass02_2048_h.blp
 6374223;Tileset/Expansion10/11KRS_CrystalGlass02_2048_s.blp
 6374234;textures/bakednpctextures/creaturedisplayextra-159325.blp
+6374236;Tileset/Terrain Cube Maps/TCM_11XP_CosmicReflect02.blp
 6374237;textures/bakednpctextures/creaturedisplayextra-159326.blp
 6374239;textures/bakednpctextures/creaturedisplayextra-159327.blp
 6374241;textures/bakednpctextures/creaturedisplayextra-159328.blp
@@ -196766,6 +196775,7 @@
 7466666;Tileset/Expansion11/12PH_Checkers01_512_h.blp
 7466667;Tileset/Expansion11/12PH_Checkers01_512_s.blp
 7466680;textures/bakednpctextures/creaturedisplayextra-162936.blp
+7466711;Tileset/Terrain Cube Maps/TCM_12XP_BasicReflect01.blp
 7466717;textures/bakednpctextures/creaturedisplayextra-162937_hd.blp
 7467181;textures/bakednpctextures/creaturedisplayextra-162938_hd.blp
 7467183;textures/bakednpctextures/creaturedisplayextra-162939_hd.blp

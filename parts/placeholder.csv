@@ -12405,7 +12405,6 @@
 3155002;world/expansion08/doodads/vampire/9vm_vampire_3155002.blp
 3155007;world/expansion08/doodads/vampire/9vm_vampire_wallshelf01_3155007.blp
 3155011;world/expansion08/doodads/vampire/9vm_vampire_3155011.blp
-3155020;tileset/terrain cube maps/tcm_224_3155020.blp
 3155036;world/expansion08/doodads/vampire/9vm_vampire_ciborium01_3155036.blp
 3155043;world/expansion08/doodads/valkyr/9vl_aspirants_3155043.blp
 3155044;world/expansion08/doodads/valkyr/9vl_aspirants_temple_wallfountain01_3155044.blp
@@ -12837,7 +12836,6 @@
 3187097;world/expansion08/doodads/necro/9nc_necro_lich_3187097.blp
 3187122;world/expansion08/doodads/valkyr/9vl_valkyr_memorystorage01_3187122.blp
 3187123;world/expansion08/doodads/valkyr/9vl_valkyr_memorystorage01_3187123.blp
-3187124;tileset/terrain cube maps/tcm_225_3187124.blp
 3187430;spells/8fx_nzothraid_wormboss_errantblast_3187430.blp
 3187512;item/objectcomponents/head/helm_cloth_kultirasdungeon_c_02_3187512.blp
 3187526;spells/cfx_kyrian_demonhunter_impactworld_3187526.blp
@@ -13002,7 +13000,6 @@
 3193201;world/expansion08/doodads/ardenweald/9ard_dreamcatchertree_canopy01_3193201.blp
 3193269;Spells/12FX_MarchonQuelDanas_MidnightFalls_IrisofOblivion_AreaTrigger_3193269.blp
 3193306;world/expansion08/doodads/necro/9nc_necro_lich_pedestal01_3193306.blp
-3193344;tileset/terrain cube maps/tcm_227_3193344.blp
 3193349;world/expansion08/doodads/vampire/9vm_vampire_gravestonelarge03_3193349.blp
 3193351;World/WMO/Expansion08/Oribos/9OB_Oribos_City_3193351.blp
 3193411;world/expansion08/doodads/valkyr/9vl_aspirants_smallbuilding01_cloth02_3193411.blp
@@ -40034,7 +40031,6 @@
 4187216;World/Expansion09/Doodads/Dragon/10DG_Dragon_Tent07_4187216.blp
 4187218;World/Expansion09/Doodads/Dragon/10DG_Dragon_Tent07_4187218.blp
 4187220;world/expansion09/doodads/dragon/10dg_dragon_tentmarket02_4187220.blp
-4187224;tileset/terrain cube maps/tcm_232_4187224.blp
 4187237;World/WMO/Expansion08/Progenitor/9PRG_Progenitor_Gate02_4187237.blp
 4187265;item/objectcomponents/shield/4187260_4187265.blp
 4187266;item/objectcomponents/shield/4187260_4187266.blp
@@ -42134,7 +42130,6 @@
 4214291;spells/textures/spellchaineffect_7090_4214291.blp
 4214293;spells/textures/spellchaineffect_7211_4214293.blp
 4214295;spells/textures/spellchaineffect_7210_4214295.blp
-4214329;tileset/terrain cube maps/tcm_235_4214329.blp
 4214337;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_Main01_4214337.blp
 4214338;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_Main01_4214338.blp
 4214339;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_Main01_4214339.blp
@@ -48821,7 +48816,6 @@
 4329879;World/Expansion09/Doodads/Centaur/10CT_Centaur_Kiln02_4329879.blp
 4329955;creature/mantidprimal/mantidprimal_4329955.blp
 4329956;creature/mantidprimal/mantidprimal_4329956.blp
-4329968;tileset/terrain cube maps/tcm_237_4329968.blp
 4329986;world/expansion09/doodads/dragon/10dg_dragon_treasure_chest02_4329986.blp
 4329987;world/expansion09/doodads/dragon/10dg_dragon_treasure_chest02_4329987.blp
 4329990;world/expansion09/doodads/dragon/10dg_dragon_treasure_chest02_4329990.blp
@@ -118162,7 +118156,6 @@
 5752262;sound/ambience/zoneambience/amb_11zone2_day_5752262.ogg
 5752264;sound/ambience/zoneambience/amb_11zone2_day_5752264.ogg
 5752266;sound/ambience/zoneambience/amb_11zone2_day_5752266.ogg
-5752315;tileset/terrain cube maps/tcm_239_5752315.blp
 5752322;World/Expansion10/Doodads/Dungeon/11DU_NerubianRaid_Door01_5752322.blp
 5752372;World/Generic/PassiveDoodads/DEATHSKELETONS/EarthenDeathSkeleton_5752372.blp
 5752386;World/WMO/Dungeon/KoboldCatacombs/11DU_KoboldCatacombs_Main01_5752386.blp
@@ -147670,7 +147663,6 @@
 6351647;spells/11FX_UndermineRaid_RikReverb_Haywire_Aura01_6351647.blp
 6351658;Creature/VoidElementalBound/VoidElementalBound_6351658.blp
 6351667;Creature/VoidElementalBound/VoidElementalBound_6351667.blp
-6351720;tileset/terrain cube maps/tcm_242_6351720.blp
 6351721;sound/doodad/go_11GO_Goblin_Hatch01_oneshot_6351721.ogg
 6351723;sound/doodad/go_11GO_Goblin_Hatch01_oneshot_6351723.ogg
 6351725;sound/doodad/go_11GO_Goblin_Hatch01_oneshot_6351725.ogg
@@ -149611,7 +149603,6 @@
 6374190;item/objectcomponents/weapon/Mace_2H_EtherealKing_D_01_6374190.blp
 6374194;Item/ObjectComponents/weapon/mace_2h_etherealking_d_01_6374194.blp
 6374196;Item/ObjectComponents/weapon/mace_2h_etherealking_d_01_6374196.blp
-6374236;tileset/terrain cube maps/tcm_244_6374236.blp
 6374244;models/world/nodxt/detail/6360114_6374244.blp
 6374247;models/world/nodxt/detail/637416800.skin
 6374262;models/world/nodxt/detail/637416900.skin
@@ -193417,7 +193408,6 @@
 7466536;Housing/Icons/INV_12PH_Durotar_Decoration_HayPileLarge01_7466536.blp
 7466538;Housing/Thumbnails/12PH_Durotar_Structure_FishingNet01_7466538.blp
 7466540;Housing/Icons/INV_12PH_Durotar_Structure_FishingNet01_7466540.blp
-7466711;tileset/terrain cube maps/tcm_258_7466711.blp
 7466739;Sound/Creature/6993291/6993291_fidget_7466739.ogg
 7466741;Sound/Creature/6993291/6993291_fidget_7466741.ogg
 7466743;Sound/Creature/6993291/6993291_fidget_7466743.ogg
