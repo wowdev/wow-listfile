@@ -156451,11 +156451,8 @@
 6716618;models/spells/unk_exp11_6716611/6716611_lod01.skin
 6716619;models/spells/unk_exp11_6716611/6716611_lod02.skin
 6716620;models/spells/unk_exp11_6716611/6716611_lod03.skin
-6716621;models/world/unk_exp11_6310372/6310372_6716621.blp
-6716623;models/world/unk_exp11_6310372/8FX_ExplosionSmoke_A.blp
-6716625;models/world/unk_exp11_6310372/Fire_FlameLicks_DissolveFBs_Blend.blp
+6716621;World/Expansion10/Doodads/WildElves/Haranir_Totem_Fire_6716621.blp
 6716627;models/world/unk_exp11_6310372/Smoke_Puffy_Mask_BlendAdd.blp
-6716629;models/world/unk_exp11_6310372/7FX_EnergyScroll_Fire_A.blp
 6716632;models/world/unk_exp11_6310372/6310372_6716632.blp
 6716633;models/world/unk_exp11_6310372/7fx_lightraysup.blp
 6716635;models/world/unk_exp11_6310372/6310372_6716635.blp
@@ -204202,6 +204199,7 @@
 7758060;Sound/Creature/Dakzor/VO_121_Dakzor_7758060.ogg
 7758063;Sound/Creature/Dakzor/VO_121_Dakzor_7758063.ogg
 7758085;Sound/Creature/Taklejo/VO_121_Taklejo_7758085.ogg
+7758088;Sound/Creature/Taklejo/VO_121_Taklejo_7758088.ogg
 7758150;models/spells/unk_exp11_7757871/7757871_7758150.blp
 7758152;Spells/FX_BlossombackArboon_Precast_7758152.blp
 7758154;Spells/FX_BlossombackArboon_Precast_7758154.blp
