@@ -203782,6 +203782,7 @@
 7745620;models/world/unk_exp11_7745620/7745620.m2
 7745621;models/world/unk_exp11_7745621/7745621.m2
 7745622;models/world/unk_exp11_7745622/7745622.m2
+7745748;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745748.ogg
 7745751;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745751.ogg
 7745754;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745754.ogg
 7745757;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745757.ogg
@@ -204269,9 +204270,12 @@
 7759224;World/WMO/Expansion11/PlayerHousing/Room/12PH_Option_Doorway_2_Generic17_7759224.blp
 7759225;World/WMO/Expansion11/PlayerHousing/Room/12PH_Option_Doorway_2_Generic17_7759225.blp
 7759248;World/WMO/Expansion11/PlayerHousing/Room/12PH_Option_Cosmetic_0_Generic40_7759248.blp
+7759348;Sound/Creature/Taklejo/VO_121_Taklejo_7759348.ogg
+7759351;Sound/Creature/Taklejo/VO_121_Taklejo_7759351.ogg
 7759357;Sound/Creature/Dakzor/VO_121_Dakzor_7759357.ogg
 7759365;Sound/Creature/Zuljarra/VO_121_Zuljarra_7759365.ogg
 7759368;Sound/Creature/Zuljarra/VO_121_Zuljarra_7759368.ogg
+7759371;Sound/Creature/Zuljarra/VO_121_Zuljarra_7759371.ogg
 7759408;item/objectcomponents/weapon/Axe_1H_OutdoorAmaniLoa_C_01_7759408.blp
 7759409;item/objectcomponents/weapon/Axe_1H_OutdoorAmaniLoa_C_01_7759409.blp
 7759410;item/objectcomponents/weapon/Axe_1H_OutdoorAmaniLoa_C_01_7759410.blp
@@ -204282,6 +204286,8 @@
 7759419;models/world/unk_exp11_7881320/7FX_EnergyScroll_Fire_A.blp
 7759521;Sound/Creature/Zuljarra/VO_121_Zuljarra_7759521.ogg
 7759524;Sound/Creature/Zuljarra/VO_121_Zuljarra_7759524.ogg
+7759527;Sound/Creature/Dakzor/VO_121_Dakzor_7759527.ogg
+7759530;Sound/Creature/Dakzor/VO_121_Dakzor_7759530.ogg
 7759546;Sound/Creature/Dakzor/VO_121_Dakzor_7759546.ogg
 7759549;Sound/Creature/Dakzor/VO_121_Dakzor_7759549.ogg
 7759555;Sound/Creature/Taklejo/VO_121_Taklejo_7759555.ogg
