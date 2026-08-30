@@ -227181,6 +227181,8 @@
 4618552;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_FishBag01_lod02.skin
 4618553;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_FishBag01_lod03.skin
 4618554;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_flask0100.skin
+4618557;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_Flask01_lod01.skin
+4618558;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_Flask01_lod02.skin
 4618559;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_Bag0100.skin
 4618563;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_Bag01_lod01.skin
 4618567;World/Expansion09/Doodads/Tuskarr/10TR_Tuskarr_Bag01_lod02.skin
@@ -227190,6 +227192,9 @@
 4618584;WORLD/EXPANSION09/DOODADS/TUSKARR/10TS_Tuskarr_Fish04_lod02.skin
 4618585;WORLD/EXPANSION09/DOODADS/TUSKARR/10TS_Tuskarr_Fish04_lod03.skin
 4618589;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_fish0300.skin
+4618593;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_Fish03_lod01.skin
+4618597;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_Fish03_lod02.skin
+4618599;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_Fish03_lod03.skin
 4618615;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_fish0100.skin
 4618617;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_fish01_lod01.skin
 4618618;World/Expansion09/Doodads/Tuskarr/10TS_Tuskarr_fish01_lod02.skin
@@ -241425,9 +241430,9 @@
 5099534;world/expansion09/doodads/White_64.blp
 5099537;world/expansion09/doodads/7fx_alphamask_glow_holy2.blp
 5099540;WORLD/EXPANSION09/DOODADS/10XP_Generic_Toy_Bookshelf0100.skin
-5099543;world/expansion09/doodads/dragon/10dg_magicbookcase_lod01.skin
-5099546;world/expansion09/doodads/dragon/10dg_magicbookcase_lod02.skin
-5099548;world/expansion09/doodads/dragon/10dg_magicbookcase_lod03.skin
+5099543;World/Expansion09/Doodads/10XP_Generic_Toy_Bookshelf01_lod01.skin
+5099546;World/Expansion09/Doodads/10XP_Generic_Toy_Bookshelf01_lod02.skin
+5099548;World/Expansion09/Doodads/10XP_Generic_Toy_Bookshelf01_lod03.skin
 5099793;World/Expansion09/Doodads/Volcanic/10CAN_Volcanic_Lavafall01.m2
 5099864;World/Expansion09/Doodads/Volcanic/10CAN_Volcanic_Lavafall0100.skin
 5099866;World/Expansion09/Doodads/Volcanic/10CAN_Volcanic_Lavafall01_lod01.skin
