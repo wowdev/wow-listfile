@@ -83490,6 +83490,18 @@
 8245427;Creature/TuskarrSealPet/SealPet_Body_Brown.blp
 8245429;Creature/TuskarrSealPet/SealPet_Body_Winter_Blue.blp
 8245430;Creature/TuskarrSealPet/SealPet_Body_Winter_Brown.blp
+8245757;Creature/AncientProtector_Pet/AncientProtectorPetSummer_lod01.skin
+8245761;Creature/AncientProtector_Pet/AncientProtectorPetSummer_lod02.skin
+8245762;Creature/AncientProtector_Pet/AncientProtectorPetSummer_lod03.skin
+8245763;Creature/AncientProtector_Pet/AncientProtectorPetFall_lod01.skin
+8245764;Creature/AncientProtector_Pet/AncientProtectorPetFall_lod02.skin
+8245765;Creature/AncientProtector_Pet/AncientProtectorPetFall_lod03.skin
+8245766;Creature/AncientProtector_Pet/AncientProtectorPetSpring_lod01.skin
+8245767;Creature/AncientProtector_Pet/AncientProtectorPetSpring_lod02.skin
+8245768;Creature/AncientProtector_Pet/AncientProtectorPetSpring_lod03.skin
+8245769;Creature/AncientProtector_Pet/AncientProtectorPetWinter_lod01.skin
+8245771;Creature/AncientProtector_Pet/AncientProtectorPetWinter_lod02.skin
+8245773;Creature/AncientProtector_Pet/AncientProtectorPetWinter_lod03.skin
 8262594;Creature/ZulJarra/ZulJarra1172-00.anim
 8262595;Creature/ZulJarra/ZulJarra1174-00.anim
 8262596;Creature/ZulJarra/ZulJarra1176-00.anim
@@ -83503,3 +83515,6 @@
 8284172;Creature/Jimothy/Jimothy_lod01.skin
 8284173;Creature/Jimothy/Jimothy_lod02.skin
 8284174;Creature/Jimothy/Jimothy_lod03.skin
+8423235;creature/zandalarigolemgold/zandalarigolemgold_lod01.skin
+8423236;creature/zandalarigolemgold/zandalarigolemgold_lod02.skin
+8423237;creature/zandalarigolemgold/zandalarigolemgold_lod03.skin

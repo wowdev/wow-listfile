@@ -24057,6 +24057,7 @@
 4281025;spells/cfx_dracthyr_visage_red_castbase_lod03.skin
 4281028;Spells/10fx_generic_water_tide_01.blp
 4281030;Spells/8fx_bubbles_pop_nomip_01.blp
+4281046;Spells/10FX_Generic_Water_Tide_01_SoftHL.blp
 4282534;spells/FX_PickHooves_Aura.m2
 4287472;spells/FX_PickHooves_Aura00.skin
 4287473;spells/FX_PickHooves_Aura_lod01.skin
@@ -32618,6 +32619,9 @@
 6795632;Spells/11FX_CosmeticFog_Aura01_lod01.skin
 6795635;Spells/11FX_CosmeticFog_Aura01_lod02.skin
 6795638;Spells/11FX_CosmeticFog_Aura01_lod03.skin
+6797227;spells/8fx_rl_falloff_player_state_void_lod01.skin
+6797228;spells/8fx_rl_falloff_player_state_void_lod02.skin
+6797229;spells/8fx_rl_falloff_player_state_void_lod03.skin
 6839404;Spells/11FX_DarkPortal01.m2
 6839405;Spells/11FX_DarkSingularity_Aura.m2
 6839833;Spells/11FX_DarkHeart_Aura00.skin
@@ -34877,3 +34881,9 @@
 8245079;Spells/FX_Axegrinder_Aura_lod03.skin
 8245756;Spells/12FX_Bubbles01.m2
 8245962;Spells/12FX_Bubbles0100.skin
+8246701;spells/8fx_rl_falloff_player_state_shadow_lod01.skin
+8246703;spells/8fx_rl_falloff_player_state_shadow_lod02.skin
+8246704;spells/8fx_rl_falloff_player_state_shadow_lod03.skin
+8246706;spells/8fx_rl_falloff_player_state_lightning_lod01.skin
+8246707;spells/8fx_rl_falloff_player_state_lightning_lod02.skin
+8246708;spells/8fx_rl_falloff_player_state_lightning_lod03.skin
