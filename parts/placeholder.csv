@@ -204325,6 +204325,7 @@
 7745783;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745783.ogg
 7745786;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745786.ogg
 7745789;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745789.ogg
+7745792;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745792.ogg
 7745795;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745795.ogg
 7745798;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745798.ogg
 7745801;Sound/Creature/Astalor_Bloodsworn/VO_121_Astalor_Bloodsworn_7745801.ogg
@@ -204738,12 +204739,16 @@
 7757871;models/spells/unk_exp11_7757871/7757871.m2
 7757874;models/spells/unk_exp11_7757874/7757874.m2
 7758027;Sound/Creature/Zuljarra/VO_121_Zuljarra_7758027.ogg
+7758044;Sound/Creature/Zuljarra/VO_121_Zuljarra_7758044.ogg
+7758047;Sound/Creature/Zuljarra/VO_121_Zuljarra_7758047.ogg
 7758051;Sound/Creature/Taklejo/VO_121_Taklejo_7758051.ogg
 7758054;Sound/Creature/Taklejo/VO_121_Taklejo_7758054.ogg
 7758060;Sound/Creature/Dakzor/VO_121_Dakzor_7758060.ogg
 7758063;Sound/Creature/Dakzor/VO_121_Dakzor_7758063.ogg
 7758085;Sound/Creature/Taklejo/VO_121_Taklejo_7758085.ogg
 7758088;Sound/Creature/Taklejo/VO_121_Taklejo_7758088.ogg
+7758091;Sound/Creature/Taklejo/VO_121_Taklejo_7758091.ogg
+7758094;Sound/Creature/Taklejo/VO_121_Taklejo_7758094.ogg
 7758150;models/spells/unk_exp11_7757871/7757871_7758150.blp
 7758152;Spells/FX_BlossombackArboon_Precast_7758152.blp
 7758154;Spells/FX_BlossombackArboon_Precast_7758154.blp
@@ -204760,6 +204765,10 @@
 7758173;models/spells/unk_exp11_7757871/7757871_lod01.skin
 7758175;models/spells/unk_exp11_7757871/7757871_lod02.skin
 7758177;models/spells/unk_exp11_7757871/7757871_lod03.skin
+7758199;Sound/Creature/Dakzor/VO_121_Dakzor_7758199.ogg
+7758202;Sound/Creature/Dakzor/VO_121_Dakzor_7758202.ogg
+7758205;Sound/Creature/Taklejo/VO_121_Taklejo_7758205.ogg
+7758208;Sound/Creature/Taklejo/VO_121_Taklejo_7758208.ogg
 7758214;Sound/Creature/Zuljarra/VO_121_Zuljarra_7758214.ogg
 7758222;Spells/FX_AmberbackArboon_Precast_7758222.blp
 7758223;Spells/FX_AmberbackArboon_Precast_7758223.blp
@@ -204772,6 +204781,7 @@
 7758243;Sound/Creature/Dakzor/VO_121_Dakzor_7758243.ogg
 7758246;Sound/Creature/Dakzor/VO_121_Dakzor_7758246.ogg
 7758249;Sound/Creature/Dakzor/VO_121_Dakzor_7758249.ogg
+7758252;Sound/Creature/Dakzor/VO_121_Dakzor_7758252.ogg
 7758257;Sound/Creature/Dakzor/VO_121_Dakzor_7758257.ogg
 7758260;Character/BloodElf/Female/BloodElfFemale_HD_blindfold_7758260.blp
 7758264;Character/BloodElf/Female/BloodElfFemale_HD_blindfold_7758264.blp
@@ -207480,6 +207490,7 @@
 7825546;Sound/Creature/Valeera_Sanguinar/VO_121_Valeera_Sanguinar_7825546.ogg
 7825549;Sound/Creature/Zuljan/VO_121_Zuljan_7825549.ogg
 7825551;Sound/Creature/Zuljan/VO_121_Zuljan_7825551.ogg
+7825553;Sound/Creature/Scrollsage_Iku/VO_121_Scrollsage_Iku_7825553.ogg
 7825559;Sound/Creature/First_Mate_Nama/VO_121_First_Mate_Nama_7825559.ogg
 7825560;Sound/Creature/First_Mate_Nama/VO_121_First_Mate_Nama_7825560.ogg
 7825571;Sound/Creature/Lady_Liadrin/VO_121_Lady_Liadrin_7825571.ogg
