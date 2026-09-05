@@ -296948,11 +296948,16 @@
 7514260;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_Worgen_Bench_02_lod02.skin
 7514261;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_Worgen_Bench_02_lod03.skin
 7515605;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_7NE_Druid_StoneRune01.m2
+7515871;World/Expansion11/Doodads/Troll/12TR_Amani_Lighting_Hex_Candle02.m2
 7515872;World/Expansion11/Doodads/Troll/12TR_Amani_Lighting_Hex_SkullCandle01.m2
 7515926;World/Expansion11/Doodads/Troll/12TR_Amani_Lighting_Hex_SkullCandle0100.skin
 7515927;World/Expansion11/Doodads/Troll/12TR_Amani_Lighting_Hex_SkullCandle01_lod01.skin
 7515928;World/Expansion11/Doodads/Troll/12TR_Amani_Lighting_Hex_SkullCandle01_lod02.skin
 7515929;World/Expansion11/Doodads/Troll/12TR_Amani_Lighting_Hex_SkullCandle01_lod03.skin
+7515933;World/Expansion11/Doodads/Troll/12TR_Amani_Lighting_Hex_Candle0200.skin
+7515934;World/Expansion11/Doodads/Troll/12TR_Amani_Lighting_Hex_Candle02_lod01.skin
+7515935;World/Expansion11/Doodads/Troll/12TR_Amani_Lighting_Hex_Candle02_lod02.skin
+7515936;World/Expansion11/Doodads/Troll/12TR_Amani_Lighting_Hex_Candle02_lod03.skin
 7516114;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_MurlocPlush01_Ultramarine.m2
 7516115;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_MurlocPlush01_Brown.m2
 7516116;World/Expansion11/Doodads/PlayerHousing/12PH_Misc_MurlocPlush01_Flaxen.m2
@@ -299405,6 +299410,7 @@
 8122674;World/Expansion11/Doodads/Dungeon/12DU_Ulatek_Mural02_lod01.skin
 8122675;World/Expansion11/Doodads/Dungeon/12DU_Ulatek_Mural02_lod02.skin
 8122677;World/Expansion11/Doodads/Dungeon/12DU_Ulatek_Mural02_lod03.skin
+8123341;World/Expansion11/Doodads/Troll/12TR_Amani_Decor_AnimalTrophy06.m2
 8123480;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_Book_Troll_03.m2
 8123490;world/expansion01/doodads/silvermoon/water/be_fountain_water03.blp
 8123762;World/Expansion11/Doodads/PlayerHousing/Books_DalaranTroll01.blp
@@ -299412,6 +299418,11 @@
 8123766;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_Book_Troll_03_lod01.skin
 8123768;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_Book_Troll_03_lod02.skin
 8123770;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_Book_Troll_03_lod03.skin
+8124154;World/Expansion11/Doodads/Troll/aqirreflect.blp
+8124156;World/Expansion11/Doodads/Troll/12TR_Amani_Decor_AnimalTrophy0600.skin
+8124159;World/Expansion11/Doodads/Troll/12TR_Amani_Decor_AnimalTrophy06_lod01.skin
+8124162;World/Expansion11/Doodads/Troll/12TR_Amani_Decor_AnimalTrophy06_lod02.skin
+8124164;World/Expansion11/Doodads/Troll/12TR_Amani_Decor_AnimalTrophy06_lod03.skin
 8129005;World/Expansion10/Doodads/Kobold/11KO_Kobold_Lighting_candle09_Special00.skin
 8129006;World/Expansion10/Doodads/Kobold/11KO_Kobold_Lighting_candle09_Special_lod01.skin
 8129007;World/Expansion10/Doodads/Kobold/11KO_Kobold_Lighting_candle09_Special_lod02.skin
@@ -299863,3 +299874,8 @@
 8245964;world/expansion08/doodads/fx/9fx_rl_falloff_state_broker_lod02.skin
 8245965;world/expansion08/doodads/fx/9fx_rl_falloff_state_broker_lod03.skin
 8268853;world/expansion03/doodads/generic/black32.blp
+8344060;World/Expansion05/Doodads/Draenei/6dr_Draenei_tent04.m2
+8344517;World/Expansion05/Doodads/Draenei/6dr_Draenei_tent0400.skin
+8344518;World/Expansion05/Doodads/Draenei/6dr_Draenei_tent04_lod01.skin
+8344523;World/Expansion05/Doodads/Draenei/6dr_Draenei_tent04_lod02.skin
+8344529;World/Expansion05/Doodads/Draenei/6dr_Draenei_tent04_lod03.skin
