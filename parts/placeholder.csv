@@ -215474,12 +215474,9 @@
 8262184;models/unknown/unk_exp11_8262108/826210800.skin
 8262185;models/unknown/unk_exp11_8262109/826210900.skin
 8262564;Creature/FungalStriderMount/FungalStriderMount_8262564.blp
-8262788;Creature/DrustvarGolemMount/DrustvarGolemMount_8262788.blp
-8262790;Creature/DrustvarGolemMount/DrustvarGolemMount_8262790.blp
-8262792;Creature/DrustvarGolemMount/DrustvarGolemMount_8262792.blp
-8262794;Creature/DrustvarGolemMount/DrustvarGolemMount_8262794.blp
-8262796;Creature/DrustvarGolemMount/DrustvarGolemMount_8262796.blp
-8262800;Creature/DrustvarGolemMount/DrustvarGolemMount_8262800.blp
+8262788;Creature/LoaLabyrinthGolemMount/LoaLabyrinthGolemMount_8262788.blp
+8262790;Creature/LoaLabyrinthGolemMount/LoaLabyrinthGolemMount_8262790.blp
+8262792;Creature/LoaLabyrinthGolemMount/LoaLabyrinthGolemMount_8262792.blp
 8263076;models/item/unk_exp11_8117061_l/8117061_l_8263076.blp
 8263077;models/item/unk_exp11_8117061_l/8117061_l_8263077.blp
 8263078;models/item/unk_exp11_8117061_l/8117061_l_8263078.blp
@@ -215906,7 +215903,6 @@
 8269062;models/item/unk_exp11_8269062_l/8269062_l.m2
 8269063;models/item/unk_exp11_8269063_r/8269063_r.m2
 8269724;Interface/Glues/LOADINGSCREENS/Expansion11/Main/Loadscreen_TheUnbindingofKithix_8269724.blp
-8269989;Interface/Icons/LoaBlessedWayfarer_8269989.blp
 8270239;SPELLS/CallLightning_Impact_8270239.blp
 8270265;SPELLS/ArcaneExplosion_Base_8270265.blp
 8270287;models/unktextures/waterdrops_256x256_a_8270287.blp
