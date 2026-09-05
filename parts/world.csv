@@ -277034,11 +277034,21 @@
 6210891;World/Expansion11/Doodads/Void/12VD_Void_Curb_Divider04.m2
 6210892;World/Expansion11/Doodads/Void/12VD_Void_Curb_Divider05.m2
 6210893;World/Expansion11/Doodads/Void/12VD_Void_Structure_Pylon01.m2
+6210894;World/Expansion11/Doodads/12XP_DeleteMe183.m2
+6210895;World/Expansion11/Doodads/12XP_DeleteMe184.m2
 6210896;World/Expansion11/Doodads/Void/12VD_Void_Structure_Cage01.m2
+6210897;World/Expansion11/Doodads/12XP_DeleteMe185.m2
 6210898;World/Expansion11/Doodads/Void/12VD_Void_Storage_TreasureChest01.m2
 6210899;World/Expansion11/Doodads/Void/12VD_Void_Special_TargetDummy01.m2
 6210900;World/Expansion11/Doodads/Void/12VD_Void_Special_ControlConsole01.m2
+6210901;World/Expansion11/Doodads/12XP_DeleteMe186.m2
+6210902;World/Expansion11/Doodads/12XP_DeleteMe187.m2
+6210903;World/Expansion11/Doodads/12XP_DeleteMe188.m2
+6210904;World/Expansion11/Doodads/12XP_DeleteMe189.m2
+6210905;World/Expansion11/Doodads/12XP_DeleteMe190.m2
+6211650;World/Expansion11/Doodads/12XP_DeleteMe18400.skin
 6211771;World/Expansion11/Doodads/Void/7fx_alphamask_glow_bluedark_blend.blp
+6211772;World/Expansion11/Doodads/12XP_DeleteMe18300.skin
 6211827;World/Expansion11/Doodads/Void/12VD_Void_Decor_Banner0100.skin
 6211829;World/Expansion11/Doodads/Void/12VD_Void_Decor_Banner01_lod01.skin
 6211831;World/Expansion11/Doodads/Void/12VD_Void_Decor_Banner01_lod02.skin
@@ -277386,7 +277396,27 @@
 6213064;World/Expansion11/Doodads/Troll/12TR_Amani_Storage_Bag01_lod01.skin
 6213066;World/Expansion11/Doodads/Troll/12TR_Amani_Storage_Bag01_lod02.skin
 6213067;World/Expansion11/Doodads/Troll/12TR_Amani_Storage_Bag01_lod03.skin
+6213534;World/Expansion11/Doodads/12XP_DeleteMe18700.skin
+6213535;World/Expansion11/Doodads/12XP_DeleteMe187_lod01.skin
+6213536;World/Expansion11/Doodads/12XP_DeleteMe187_lod02.skin
+6213537;World/Expansion11/Doodads/12XP_DeleteMe187_lod03.skin
+6213540;World/Expansion11/Doodads/12XP_DeleteMe18600.skin
+6213543;World/Expansion11/Doodads/12XP_DeleteMe186_lod01.skin
+6213547;World/Expansion11/Doodads/12XP_DeleteMe186_lod02.skin
+6213551;World/Expansion11/Doodads/12XP_DeleteMe186_lod03.skin
+6213687;World/Expansion11/Doodads/12XP_DeleteMe18800.skin
+6213691;World/Expansion11/Doodads/12XP_DeleteMe188_lod01.skin
+6213695;World/Expansion11/Doodads/12XP_DeleteMe188_lod02.skin
+6213699;World/Expansion11/Doodads/12XP_DeleteMe188_lod03.skin
 6214257;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_DraperySet04_Small.m2
+6214259;World/Expansion11/Doodads/12XP_DeleteMe19000.skin
+6214260;World/Expansion11/Doodads/12XP_DeleteMe190_lod01.skin
+6214261;World/Expansion11/Doodads/12XP_DeleteMe190_lod02.skin
+6214262;World/Expansion11/Doodads/12XP_DeleteMe190_lod03.skin
+6214264;World/Expansion11/Doodads/12XP_DeleteMe18900.skin
+6214265;World/Expansion11/Doodads/12XP_DeleteMe189_lod01.skin
+6214267;World/Expansion11/Doodads/12XP_DeleteMe189_lod02.skin
+6214269;World/Expansion11/Doodads/12XP_DeleteMe189_lod03.skin
 6214273;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_DraperySet04_Small00.skin
 6214275;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_DraperySet04_Small_lod01.skin
 6214278;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_DraperySet04_Small_lod02.skin
@@ -277451,6 +277481,7 @@
 6214682;World/Expansion11/Doodads/Void/12VD_Void_Structure_Cage01_lod01.skin
 6214683;World/Expansion11/Doodads/Void/12VD_Void_Structure_Cage01_lod02.skin
 6214684;World/Expansion11/Doodads/Void/12VD_Void_Structure_Cage01_lod03.skin
+6214714;World/Expansion11/Doodads/12XP_DeleteMe18500.skin
 6215543;World/Expansion02/Doodads/Generic/Northrend Fires/flamelicksmallblue.blp
 6215547;World/Expansion02/Doodads/Generic/Northrend Fires/ELWYNNCAMPFIREROCK02.BLP
 6215551;World/Expansion02/Doodads/Generic/Northrend Fires/BATTLEGLADESPINEDARKSAT64.BLP
