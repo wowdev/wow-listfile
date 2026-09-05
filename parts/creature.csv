@@ -83532,6 +83532,7 @@
 8260777;Creature/TrikeBakerMount/TrikeBakerMount_lod01.skin
 8260778;Creature/TrikeBakerMount/TrikeBakerMount_lod02.skin
 8260779;Creature/TrikeBakerMount/TrikeBakerMount_lod03.skin
+8262430;Creature/DrustvarGolemMount/DrustvarGolemMount.m2
 8262531;Creature/FungalStriderMount/FungalStriderMount_Body.blp
 8262532;Creature/FungalStriderMount/FungalStriderMount_Glow.blp
 8262533;Creature/FungalStriderMount/FungalStriderMount_Saddle.blp
@@ -83551,6 +83552,11 @@
 8262596;Creature/ZulJarra/ZulJarra1176-00.anim
 8262597;Creature/ZulJarra/ZulJarra1276-00.anim
 8262598;Creature/ZulJarra/ZulJarra1168-00.anim
+8262798;Creature/DrustvarGolemMount/ArmorReflect4.blp
+8262803;Creature/DrustvarGolemMount/DrustvarGolemMount00.skin
+8262805;Creature/DrustvarGolemMount/DrustvarGolemMount_lod01.skin
+8262807;Creature/DrustvarGolemMount/DrustvarGolemMount_lod02.skin
+8262809;Creature/DrustvarGolemMount/DrustvarGolemMount_lod03.skin
 8270406;Creature/TrikeBakerMount/TrikeBakerMount_Blue.blp
 8270407;Creature/TrikeBakerMount/TrikeBakerMount_Glow.blp
 8270408;Creature/TrikeBakerMount/TrikeBakerMount_Green.blp
