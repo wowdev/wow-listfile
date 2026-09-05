@@ -171370,6 +171370,7 @@
 7977817;Interface/ICONS/INV_CatPet_Uldum.blp
 7979957;Interface/ICONS/INV_Helm_Armor_Mask_B_02.blp
 8014697;Interface/Icons/INV_Boots_Cloth_OutdoorAmaniLoa_C_01.blp
+8014728;Interface/ICONS/INV_AqirFlying_Blue.blp
 8014864;Interface/ICONS/INV_CatPet_KirinTor.blp
 8015084;Interface/ICONS/INV_Helm_Armor_Mask_B_04.blp
 8015794;Interface/AddOns/Blizzard_APIDocumentationGenerated/DurationTextBindingSharedDocumentation.lua
@@ -171920,6 +171921,12 @@
 8127985;Interface/Scenarios/ScenarioEvergreenWidgetShort.BLP
 8127994;Interface/Scenarios/ScenarioEvergreenWidgetShort2x.BLP
 8128276;Interface/WorldMap/TheCoiledIsle/TheCoiledIsleHighlight.blp
+8129859;Interface/ICONS/INV_Chest_Armor_Baker_B_01.blp
+8129860;Interface/ICONS/INV_Glove_Armor_Baker_B_01.blp
+8129861;Interface/ICONS/INV_Helm_Armor_Baker_B_01.blp
+8129862;Interface/ICONS/INV_Pant_Armor_Baker_B_01.blp
+8129863;Interface/ICONS/INV_Belt_Armor_Baker_B_01.blp
+8129864;Interface/ICONS/INV_Boot_Armor_Baker_B_01.blp
 8130949;Interface/AddOns/Blizzard_FrameXML/Mists/WorldStateFrame.lua
 8130950;Interface/AddOns/Blizzard_HousingBlueprint/Blizzard_HousingBlueprintCollection.lua
 8130951;Interface/AddOns/Blizzard_HousingBlueprint/Blizzard_HousingBlueprintCollection.xml
@@ -172363,6 +172370,7 @@
 8245783;Interface/AddOns/Blizzard_FrameXML/Mainline/TalentFrameTemplates.xml
 8245784;Interface/AddOns/Blizzard_FrameXML/Mainline/RolePoll.xml
 8261792;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerFlowLayout.lua
+8262534;Interface/ICONS/INV_FungalStriderMount.blp
 8262613;Interface/AddOns/Blizzard_SharedXMLBase/ForbiddenAspectTemplates.xml
 8262637;Interface/Icons/INV_12PH_ArtisanalRooms.blp
 8263018;Interface/AddOns/Blizzard_UnitPopup/Blizzard_UnitPopup.toc
@@ -172376,6 +172384,10 @@
 8269064;Interface/AddOns/Blizzard_FullscreenBrowser/Blizzard_FullscreenBrowser.toc
 8269065;Interface/AddOns/Blizzard_FullscreenBrowser/Blizzard_FullscreenBrowserSpinner.lua
 8269066;Interface/AddOns/Blizzard_FullscreenBrowser/Blizzard_FullscreenBrowserSpinner.xml
+8270409;Interface/ICONS/INV_TrikeBakerMount_Teal.blp
+8270410;Interface/ICONS/INV_TrikeBakerMount_Purple.blp
+8270411;Interface/ICONS/INV_TrikeBakerMount_Green.blp
+8270412;Interface/ICONS/INV_TrikeBakerMount_Blue.blp
 8279821;Interface/AddOns/Blizzard_TutorialTemplates/Blizzard_TutorialTemplates.xml
 8279822;Interface/AddOns/Blizzard_UIParentPanelManager/Blizzard_UIParentPanelManager.toc
 8281693;Interface/AddOns/Blizzard_APIDocumentationGenerated/LuaLocaleContextAPIDocumentation.lua
