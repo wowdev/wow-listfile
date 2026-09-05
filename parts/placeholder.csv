@@ -206895,6 +206895,7 @@
 7825455;Sound/Creature/First_Mate_Nama/VO_121_First_Mate_Nama_7825455.ogg
 7825460;Sound/Creature/Nekzali_the_Soulcoiler/VO_121_Nekzali_the_Soulcoiler_7825460.ogg
 7825464;Sound/Creature/Zuljarra/VO_121_Zuljarra_7825464.ogg
+7825479;Sound/Creature/Sszorak/VO_121_Sszorak_7825479.ogg
 7825486;Sound/Creature/Scrollsage_Iku/VO_121_Scrollsage_Iku_7825486.ogg
 7825487;Sound/Creature/Morzahi/VO_110_Morzahi_7825487.ogg
 7825492;Sound/Creature/Lady_Liadrin/VO_121_Lady_Liadrin_7825492.ogg
@@ -206939,6 +206940,7 @@
 7825681;Sound/Creature/Orweyna/VO_121_Orweyna_7825681.ogg
 7825682;Sound/Creature/Orweyna/VO_121_Orweyna_7825682.ogg
 7825683;Sound/Creature/Zuljan/VO_121_Zuljan_7825683.ogg
+7825688;Sound/Creature/Hex_Lord_Malacrass/VO_121_Hex_Lord_Malacrass_7825688.ogg
 7825690;Sound/Creature/Orweyna/VO_121_Orweyna_7825690.ogg
 7825704;Sound/Creature/Orweyna/VO_121_Orweyna_7825704.ogg
 7825712;Sound/Creature/Lady_Liadrin/VO_121_Lady_Liadrin_7825712.ogg
@@ -214767,9 +214769,7 @@
 8230872;models/unknown/unk_exp11_8230872/8230872.m2
 8230877;models/unknown/unk_exp11_8230872/823087200.skin
 8243182;Interface/Icons/GambitindeShadows_8243182.blp
-8243183;Interface/Icons/LoaSpiritConduits_8243183.blp
 8243184;Interface/Icons/EruptionofMojo_8243184.blp
-8243185;Interface/Icons/WhirlingAxes_8243185.blp
 8244659;models/unknown/unk_exp11_8122742/8122742_8244659.blp
 8245051;Spells/12FX_AltarofFangs_Ravi_FreshMeat_Aura_8245051.blp
 8245071;Spells/FX_Axegrinder_Aura_8245071.blp
@@ -215287,8 +215287,6 @@
 8267142;models/item/unk_exp11_8266369/8266369_lod03.skin
 8268085;models/unknown/unk_exp11_8268085/8268085.m2
 8268560;Interface/Icons/AcidbroodScourge_8268560.blp
-8268561;Interface/Icons/ShadeweaversHearthstone_8268561.blp
-8268562;Interface/Icons/ForestalltheEnd_8268562.blp
 8268563;Interface/Icons/TwistedHorrorsTendril_8268563.blp
 8268569;Interface/Icons/LightbearersShieldFragment_8268569.blp
 8268855;models/unknown/unk_exp11_8268085/8268085_8268855.blp

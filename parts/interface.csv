@@ -172385,6 +172385,8 @@
 8243150;Interface/ICONS/INV_1215_Lightning_Nova.blp
 8243151;Interface/ICONS/INV_1215_Lightning_Orb.blp
 8243152;Interface/ICONS/INV_1215_Lightning_Wave.blp
+8243183;Interface/Icons/INV_1215_Aura_LoaDebuff.blp
+8243185;Interface/Icons/INV_1215_Aura_StormofNecrotic.blp
 8244543;Interface/WorldMap/KithixRaid/KithixRaid_A1.blp
 8244546;Interface/WorldMap/KithixRaid/KithixRaid_A10.blp
 8244549;Interface/WorldMap/KithixRaid/KithixRaid_A11.blp
@@ -172718,6 +172720,8 @@
 8268282;Interface/AddOns/Blizzard_ChatFrame/Blizzard_ChatFrame.toc
 8268283;Interface/AddOns/Blizzard_ChatFrameBase/Blizzard_ChatFrameBase.toc
 8268284;Interface/AddOns/Blizzard_FrameXMLBase/Blizzard_FrameXMLBase.toc
+8268561;Interface/Icons/INV_1215_Toy_Kithix_Hearthstone.blp
+8268562;Interface/Icons/INV_1215_Trinket_Eclipse_Sigil.blp
 8269064;Interface/AddOns/Blizzard_FullscreenBrowser/Blizzard_FullscreenBrowser.toc
 8269065;Interface/AddOns/Blizzard_FullscreenBrowser/Blizzard_FullscreenBrowserSpinner.lua
 8269066;Interface/AddOns/Blizzard_FullscreenBrowser/Blizzard_FullscreenBrowserSpinner.xml
