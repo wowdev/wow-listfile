@@ -172708,6 +172708,7 @@
 8246536;Interface/WorldMap/12_15_Labyrinth/12_15_Labyrinth_A97.blp
 8246537;Interface/WorldMap/12_15_Labyrinth/12_15_Labyrinth_A98.blp
 8246538;Interface/WorldMap/12_15_Labyrinth/12_15_Labyrinth_A99.blp
+8261365;Interface/ICONS/INV_Shield_1H_Baker_C_01.blp
 8261792;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerFlowLayout.lua
 8262534;Interface/ICONS/INV_FungalStriderMount.blp
 8262613;Interface/AddOns/Blizzard_SharedXMLBase/ForbiddenAspectTemplates.xml
@@ -172780,6 +172781,7 @@
 8281693;Interface/AddOns/Blizzard_APIDocumentationGenerated/LuaLocaleContextAPIDocumentation.lua
 8281694;Interface/AddOns/Blizzard_APIDocumentationGenerated/IntlSharedTypesDocumentation.lua
 8284165;Interface/Icons/INV_RaccoonPet.blp
+8286069;Interface/ICONS/INV_Cape_Special_Baker_C_01.blp
 8293695;Interface/AddOns/Blizzard_APIDocumentationGenerated/LuaStringExtensionsDocumentation.lua
 8293696;Interface/AddOns/Blizzard_APIDocumentationGenerated/LuaTableExtensionsDocumentation.lua
 8293697;Interface/AddOns/Blizzard_APIDocumentationGenerated/LuaMathExtensionsDocumentation.lua
@@ -172793,4 +172795,7 @@
 8312419;Interface/AddOns/Blizzard_SharedXMLBase/TimerUtil.lua
 8346410;Interface/AddOns/Blizzard_APIDocumentationGenerated/WeatherConstantsDocumentation.lua
 8346411;Interface/AddOns/Blizzard_APIDocumentationGenerated/WeatherScriptDocumentation.lua
+8393508;Interface/ICONS/INV_Cape_Armor_LabyrinthLoa_C_01.blp
+8393517;Interface/ICONS/INV_Helm_Armor_LabyrinthLoa_C_01.blp
+8393518;Interface/ICONS/INV_Shoulder_Armor_LabyrinthLoa_C_01.blp
 8429958;Interface/Scenarios/ScoreboardEvergreen.blp
