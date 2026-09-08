@@ -171455,8 +171455,10 @@
 8063283;Interface/AddOns/Blizzard_TimeManager/Cata/Blizzard_TimeManagerOverrides.lua
 8068386;Interface/AddOns/Blizzard_FriendsFrame/Mainline/FriendRequestsListTemplates.lua
 8068387;Interface/AddOns/Blizzard_FriendsFrame/Mainline/FriendRequestsListTemplates.xml
+8068517;Interface/ICONS/INV_Cape_Special_HallowsEnd_D_01.blp
 8084346;Interface/AddOns/Blizzard_APIDocumentationGenerated/SimpleFrameScriptObjectConstantsDocumentation.lua
 8084347;Interface/AddOns/Blizzard_SocialUIShared/SocialUIControl.lua
+8093508;Interface/ICONS/INV_Helm_Armor_GhostGoggles_C_01.blp
 8095030;Interface/ICONS/INV_Bracer_Cloth_RaidDruidUlatek_D_01.blp
 8095063;Interface/ICONS/INV_Bracer_Leather_RaidDruidUlatek_D_01.blp
 8096446;Interface/AddOns/Blizzard_APIDocumentationGenerated/BattleNetSharedDocumentation.lua
@@ -172716,6 +172718,7 @@
 8262637;Interface/Icons/INV_12PH_ArtisanalRooms.blp
 8263018;Interface/AddOns/Blizzard_UnitPopup/Blizzard_UnitPopup.toc
 8266404;Interface/AddOns/Blizzard_Deprecated/Mainline/Deprecated_12_0_5.lua
+8267112;Interface/ICONS/INV_Mace_2H_Candy_C_01.blp
 8268279;Interface/AddOns/Blizzard_ActionBar/Blizzard_ActionBar.toc
 8268280;Interface/AddOns/Blizzard_AnimatedShine/Blizzard_AnimatedShine.toc
 8268281;Interface/AddOns/Blizzard_BNet/Blizzard_BNet.toc
