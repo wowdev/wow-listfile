@@ -164800,7 +164800,19 @@
 7342204;Interface/Store/ShopBundles1120MidnightNonExpansionSmallHeroic.BLP
 7342413;Interface/Store/ShopBundles1120MidnightNonExpansionSmallEpic.BLP
 7342415;Interface/Store/ShopBundles1120MidnightNonExpansionSmallHeroicAPAC.BLP
+7342424;INTERFACE/CINEMATICS/MDN_1200_TSA_1280.avi
+7342425;INTERFACE/CINEMATICS/MDN_1200_TSA_1920.avi
+7342426;INTERFACE/CINEMATICS/MDN_1200_TSA_640.avi
+7342427;INTERFACE/CINEMATICS/MDN_1200_SUN_640.avi
+7342428;INTERFACE/CINEMATICS/MDN_1200_SUN_1280.avi
+7342429;INTERFACE/CINEMATICS/MDN_1200_SUN_1920.avi
+7342430;INTERFACE/CINEMATICS/MDN_1200_FAL_1920.avi
 7342431;Interface/Store/ShopBundles1120MidnightNonExpansionSmallEpicAPAC.BLP
+7342433;INTERFACE/CINEMATICS/MDN_1200_FAL_1280.avi
+7342434;INTERFACE/CINEMATICS/MDN_1200_FAL_640.avi
+7342435;INTERFACE/CINEMATICS/MDN_1200_DRK_640.avi
+7342436;INTERFACE/CINEMATICS/MDN_1200_DRK_1280.avi
+7342437;INTERFACE/CINEMATICS/MDN_1200_DRK_1920.avi
 7342548;Interface/Store/ShopBundles1120MidnightNonExpansionHalfBase.BLP
 7342579;Interface/Store/ShopBundles1120MidnightNonExpansionHalfHeroic.BLP
 7342581;Interface/Store/ShopBundles1120MidnightNonExpansionHalfEpic.BLP
@@ -164815,6 +164827,7 @@
 7343848;Interface/AddOns/Blizzard_UnitPopup/WoWHack/UnitPopupButtons.lua
 7343849;Interface/AddOns/Blizzard_UnitPopup/WoWHack/UnitPopupMenus.lua
 7343859;Interface/Store/ShopBundles1120MidnightNonExpansionLargeEpic.BLP
+7343911;INTERFACE/CINEMATICS/MDN_1200_FAL.mp3
 7343945;Interface/Store/ShopBundles1120MidnightNonExpansionSmallBaseHeroic.BLP
 7344005;Interface/Store/ShopBundles1120MidnightNonExpansionSmallBaseEpic.BLP
 7344034;Interface/Store/ShopBundles1120MidnightNonExpansionLargeHeroicEpic.BLP
@@ -165106,6 +165119,9 @@
 7393680;Interface/ICONS/INV_Glove_Mail_OutdoorVoidElf_C_01.blp
 7393789;Interface/HUD/UICombatTimelineHighlightMask.BLP
 7393791;Interface/HUD/UICombatTimelineHighlightMask2x.BLP
+7406307;INTERFACE/CINEMATICS/MDN_1200_QM_1280.avi
+7406308;INTERFACE/CINEMATICS/MDN_1200_QM_1920.avi
+7406309;INTERFACE/CINEMATICS/MDN_1200_QM_640.avi
 7406652;Interface/AddOns/Blizzard_EditMode/Mainline/EditModePresetLayouts.lua
 7406653;Interface/AddOns/Blizzard_SettingsDefinitions_Frame/Nameplates.xml
 7406654;Interface/AddOns/Blizzard_SettingsDefinitions_Frame/Nameplates.lua
@@ -166628,6 +166644,7 @@
 7517482;Interface/AdventureMap/EasternKingdoms_Midnight/EasternKingdoms_Midnight_Taxi98.blp
 7517483;Interface/AdventureMap/EasternKingdoms_Midnight/EasternKingdoms_Midnight_Taxi99.blp
 7517520;Interface/Scenarios/ScoreboardMidnight.BLP
+7517581;INTERFACE/CINEMATICS/MDN_1200_TSA.mp3
 7517720;Interface/AddOns/Blizzard_HousingControls/Blizzard_HousingControlsUtil.lua
 7518368;Interface/Common/CommonDropdownSettings2x.BLP
 7518377;Interface/Common/CommonDropdownSettings.BLP
@@ -167341,6 +167358,7 @@
 7569529;Interface/ICONS/INV12_Ability_Priest_PowerWordMadness_Eye.blp
 7569777;Interface/AddOns/Blizzard_APIDocumentationGenerated/LocalizationSharedDocumentation.lua
 7569778;Interface/AddOns/Blizzard_APIDocumentationGenerated/AbbreviateConfigAPIDocumentation.lua
+7569816;INTERFACE/CINEMATICS/MDN_1200_QM.mp3
 7569834;Interface/ICONS/INV_Cape_PVP12Season2_D_01_Blue.blp
 7569835;Interface/ICONS/INV_Cape_PVP12Season2_D_01_Red.blp
 7569837;Interface/ICONS/INV_Tabard_PVP12Season2_D_01_Blue.blp
@@ -167372,6 +167390,7 @@
 7570648;Interface/AddOns/Blizzard_APIDocumentationGenerated/ColorUtilDocumentation.lua
 7570980;Interface/ICONS/INV_MothPet2_Yellow.blp
 7570997;Interface/Shop/CatalogShopVirtualCurrencyMenuBackground.BLP
+7571002;INTERFACE/CINEMATICS/MDN_1200_TSA.srt
 7576051;Interface/ICONS/INV_Mace_2H_Ulatek_D_01.blp
 7577148;Interface/AddOns/Blizzard_SimpleCheckout/Blizzard_SimpleCheckout_Inbound.lua
 7577149;Interface/AddOns/Blizzard_SimpleCheckout/Blizzard_SimpleCheckout_Outbound.lua
@@ -169539,12 +169558,33 @@
 7639548;Interface/ICONS/INV_Shoulder_Armor_SilvermoonBloodElf_B_01_vereesa.blp
 7639549;Interface/ICONS/INV_Tabard_Armor_SilvermoonBloodElf_B_01_vereesa.blp
 7639555;Interface/AddOns/Blizzard_FrameXMLBase/TBC/Constants.lua
+7639572;INTERFACE/CINEMATICS/MDN_1200_AM_1280.avi
+7639573;INTERFACE/CINEMATICS/MDN_1200_AM_1920.avi
+7639574;INTERFACE/CINEMATICS/MDN_1200_AM_640.avi
+7639575;INTERFACE/CINEMATICS/MDN_1200_AM.srt
+7639576;INTERFACE/CINEMATICS/MDN_1200_SUN.srt
+7639577;INTERFACE/CINEMATICS/MDN_1200_FAL.srt
+7639578;INTERFACE/CINEMATICS/MDN_1200_DRK.srt
+7639579;INTERFACE/CINEMATICS/MDN_1200_QM.srt
+7639580;INTERFACE/CINEMATICS/MDN_1200_MD_1280.avi
+7639581;INTERFACE/CINEMATICS/MDN_1200_MD_1920.avi
+7639582;INTERFACE/CINEMATICS/MDN_1200_MD_640.avi
+7639583;INTERFACE/CINEMATICS/MDN_1200_MD.srt
 7639743;Interface/Splash/Splash1201.BLP
 7639745;Interface/Splash/Splash12012.BLP
+7642955;INTERFACE/CINEMATICS/MDN_1207_TA_Lorewalking_640.avi
+7642956;INTERFACE/CINEMATICS/MDN_1207_TA_Lorewalking_1280.avi
+7642957;INTERFACE/CINEMATICS/MDN_1207_TA_Lorewalking_1920.avi
+7642958;INTERFACE/CINEMATICS/MDN_1207_TA_Lorewalking.srt
+7642959;INTERFACE/CINEMATICS/MDN_1207_SF_Lorewalking_1280.avi
+7642960;INTERFACE/CINEMATICS/MDN_1207_SF_Lorewalking_1920.avi
+7642961;INTERFACE/CINEMATICS/MDN_1207_SF_Lorewalking_640.avi
+7642962;INTERFACE/CINEMATICS/MDN_1207_SF_Lorewalking.srt
 7644019;Interface/LFGFRAME/LFGIcon-Midnight.blp
 7644021;Interface/EncounterJournal/UI-EJ-BACKGROUND-Midnight.blp
 7644022;Interface/EncounterJournal/UI-EJ-DUNGEONBUTTON-Midnight.blp
 7644023;Interface/EncounterJournal/UI-EJ-LOREBG-Midnight.blp
+7644135;INTERFACE/CINEMATICS/MDN_1200_SUN.mp3
 7644228;Interface/Shop/CatalogShopHearthsteelFX2x.BLP
 7644230;Interface/Shop/CatalogShopHearthsteelFX.BLP
 7644232;Interface/Shop/CatalogShopHearthsteelFXXLMask01.BLP
@@ -169732,6 +169772,8 @@
 7658163;Interface/WorldMap/MicroDungeon/NewEversong/WarthaMan_Crypts/WarthaMan_Crypts_A8.blp
 7658164;Interface/WorldMap/MicroDungeon/NewEversong/WarthaMan_Crypts/WarthaMan_Crypts_A9.blp
 7658229;Interface/RaidFrame/RaidFrameHpBgWhite.BLP
+7658489;INTERFACE/CINEMATICS/MDN_1207_SF_Lorewalking.mp3
+7658493;INTERFACE/CINEMATICS/MDN_1207_TA_Lorewalking.mp3
 7658508;Interface/AddOns/Blizzard_EditMode/Standard/EditModePresetLayoutConstants.lua
 7658809;Interface/ICONS/INV_ShaOwlMount.blp
 7660127;Interface/AddOns/Blizzard_APIDocumentationGenerated/LuaDurationObjectSharedDocumentation.lua
@@ -169813,6 +169855,7 @@
 7670587;Interface/ICONS/INV12_Ability_Alleria_SilverVulnerability.blp
 7670588;Interface/ICONS/INV12_Ability_Alleria_VoidstalkerSting.blp
 7670589;Interface/ICONS/INV_1205_Ability_Evoker_MassDisintegration.blp
+7671194;INTERFACE/CINEMATICS/MDN_1200_MD.mp3
 7671937;Interface/Worldmap/Harandar/HarandarHighlight.blp
 7671939;Interface/Worldmap/Voidstorm/VoidstormHighlight.blp
 7671982;Interface/ICONS/INV_QuilenMountFlying_CN.blp
@@ -169964,6 +170007,7 @@
 7698722;Interface/AddOns/Blizzard_FrameXML/Mainline/CinematicFrameButton.xml
 7700536;Interface/QuestionFrame/answer-RitualSites.blp
 7700598;Interface/ICONS/INV_Bow_1H_OutdoorAmaniLoa_C_01.blp
+7700630;INTERFACE/CINEMATICS/MDN_1200_DRK.mp3
 7700711;Interface/ICONS/INV_Misc_ SelfieCamera_Red.blp
 7700714;Interface/ICONS/INV_Misc_ SelfieCamera_Red_Camera.blp
 7700743;Interface/ICONS/INV_Misc_SelfieCamera_Red_Camera.blp
@@ -169999,6 +170043,12 @@
 7702135;Interface/WorldMap/RitualSite_ZulAman/RitualSite_ZulAman7.blp
 7702136;Interface/WorldMap/RitualSite_ZulAman/RitualSite_ZulAman8.blp
 7702137;Interface/WorldMap/RitualSite_ZulAman/RitualSite_ZulAman9.blp
+7702290;INTERFACE/CINEMATICS/MDN_1207_ZQI_1280.avi
+7702291;INTERFACE/CINEMATICS/MDN_1207_ZQI_1920.avi
+7702292;INTERFACE/CINEMATICS/MDN_1207_ZQI_640.avi
+7702497;INTERFACE/CINEMATICS/MDN_1210_WUT_1280.avi
+7702498;INTERFACE/CINEMATICS/MDN_1210_WUT_1920.avi
+7702499;INTERFACE/CINEMATICS/MDN_1210_WUT_640.avi
 7702708;Interface/achievement_dungeon_outland_dungeonmaster.blp
 7702709;Interface/achievement_reputation_tuskarr.blp
 7702710;Interface/inv_drink_17.blp
@@ -170026,6 +170076,9 @@
 7703610;Interface/CovenantRenown/UIJourneysDelverewardiconsquareMask.BLP
 7703821;Interface/ICONS/INV_Wand_1H_OutdoorAmaniLoa_C_01.blp
 7703890;Interface/ICONS/INV_FlyingSerpentMount.blp
+7704072;INTERFACE/CINEMATICS/MDN_1201_SSF_1280.avi
+7704073;INTERFACE/CINEMATICS/MDN_1201_SSF_1920.avi
+7704074;INTERFACE/CINEMATICS/MDN_1201_SSF_640.avi
 7704166;Interface/ICONS/INV_Misc_Red_Thumbtack.blp
 7704325;Interface/AddOns/Blizzard_EncounterTimeline/EncounterTimelineDataProvider.lua
 7704326;Interface/AddOns/Blizzard_EncounterTimeline/EncounterTimelineEventFrame.lua
@@ -170126,6 +170179,8 @@
 7726459;Interface/ICONS/Spell_Housing.blp
 7727259;Interface/ICONS/INV_Mace_1H_OutdoorAmaniLoa_C_01.blp
 7728063;Interface/ICONS/INV_Chest_Armor_Venthyr_D_01.blp
+7728181;INTERFACE/CINEMATICS/MDN_1201_SSF.mp3
+7728589;INTERFACE/CINEMATICS/MDN_1200_AM.mp3
 7730093;Interface/AddOns/Blizzard_APIDocumentationGenerated/EncounterEventsDocumentation.lua
 7730270;Interface/AddOns/Blizzard_APIDocumentationGenerated/EncounterEventsSharedDocumentation.lua
 7730276;Interface/ICONS/INV_KaijuGladiatorMount_Red.blp
@@ -170207,6 +170262,7 @@
 7745836;Interface/ICONS/INV_12XP_MDI_AWV_Banner02.blp
 7745837;Interface/ICONS/INV_12XP_MDI_AWV_Banner03.blp
 7745838;Interface/ICONS/INV_12XP_MDI_AWV_Banner04.blp
+7745994;INTERFACE/CINEMATICS/MDN_1201_SSF.srt
 7745995;Interface/Shop/CatalogShopFGHearthSteel100.BLP
 7745997;Interface/Shop/CatalogShopFGHearthSteel500.BLP
 7745999;Interface/Shop/CatalogShopFGHearthSteel1000.BLP
@@ -171355,6 +171411,9 @@
 7967660;Interface/AddOns/Blizzard_FriendsFrame/Mainline/FriendsListUtil.lua
 7970261;Interface/AddOns/Blizzard_Narration/Blizzard_NarrationEditBox.lua
 7975803;Interface/Delves/LairbuttonAssets.BLP
+7975883;INTERFACE/CINEMATICS/MDN_1207_ZQI.mp3
+7975904;INTERFACE/CINEMATICS/MDN_1207_ZQI.srt
+7975905;INTERFACE/CINEMATICS/MDN_1210_WUT.srt
 7975988;Interface/Splash/Splash1207.BLP
 7976211;Interface/AddOns/Blizzard_DeprecatedHousing/Blizzard_DeprecatedHousing.toc
 7976213;Interface/AddOns/Blizzard_DeprecatedHousing/Deprecated_HousingCatalog.lua
@@ -171376,6 +171435,7 @@
 8015794;Interface/AddOns/Blizzard_APIDocumentationGenerated/DurationTextBindingSharedDocumentation.lua
 8015795;Interface/AddOns/Blizzard_APIDocumentationGenerated/DurationTextBindingObjectAPIDocumentation.lua
 8017453;Interface/ICONS/INV_Helm_Armor_Mask_B_05.blp
+8018101;INTERFACE/CINEMATICS/MDN_1210_WUT.mp3
 8018396;Interface/ICONS/INV_Helm_Armor_Mask_B_06.blp
 8018698;Interface/AddOns/Blizzard_QuickJoin/QuickJoinFrame.xml
 8018699;Interface/AddOns/Blizzard_QuickJoin/QuickJoinFrame.lua
@@ -172390,6 +172450,7 @@
 8243152;Interface/ICONS/INV_1215_Lightning_Wave.blp
 8243182;Interface/Icons/INV_1215_Aura_Intercept.blp
 8243183;Interface/Icons/INV_1215_Aura_LoaDebuff.blp
+8243184;Interface/ICONS/INV_1215_Aura_PuddleOfDeath.blp
 8243185;Interface/Icons/INV_1215_Aura_StormofNecrotic.blp
 8244543;Interface/WorldMap/KithixRaid/KithixRaid_A1.blp
 8244546;Interface/WorldMap/KithixRaid/KithixRaid_A10.blp
@@ -172746,6 +172807,7 @@
 8280846;Interface/QuestionFrame/Answer-Labyrinth-Looter.blp
 8280847;Interface/QuestionFrame/Answer-Labyrinth-Spirits.blp
 8280848;Interface/QuestionFrame/Answer-Labyrinth-Vilebranch.blp
+8280891;Interface/TaxiFrame/LabyrinthTaxi.blp
 8280896;Interface/EncounterJournal/UI-EJ-BACKGROUND-RaidKithix.blp
 8280897;Interface/EncounterJournal/UI-EJ-LOREBG-RaidKithix.blp
 8280898;Interface/EncounterJournal/UI-EJ-DUNGEONBUTTON-RaidKithix.blp
