@@ -79739,6 +79739,7 @@
 7263302;Creature/AmaniBearMount2/AmaniBearMount2_Body_Red.blp
 7263303;Creature/AmaniBearMount2/AmaniBearMount2_Armor_Hex.blp
 7263304;Creature/AmaniBearMount2/AmaniBearMount2_Armor_Red.blp
+7263313;Creature/BabyMurloc3/BabyMurloc3_Emerald.blp
 7263315;Creature/TrigoreBoss/Gray8x8_Lighter.blp
 7263316;Creature/TrigoreBos/ArmorReflect4.blp
 7263317;Creature/TrigoreBoss/TrigoreBoss0100-00.anim
@@ -82722,6 +82723,16 @@
 7745576;Creature/SerpentHydra/SerpentHydra_FX.blp
 7746243;Creature/TwinFangs/TwinFangs0061-00.anim
 7746244;Creature/UlatekSnake/UlatekSnake010061-00.anim
+7749371;Creature/OwlCat2Mount/OwlCat2Mount.m2
+7749740;Creature/OwlCat2Mount/ArmorReflect4.blp
+7754342;Creature/OwlCat2Mount/OwlCat2Mount_Blue.blp
+7754343;Creature/OwlCat2Mount/OwlCat2Mount_Purple.blp
+7754344;Creature/OwlCat2Mount/OwlCat2Mount_Brown.blp
+7754345;Creature/OwlCat2Mount/OwlCat2Mount_WhiteBlue.blp
+7754346;Creature/OwlCat2Mount/OwlCat2Mount_Blue_Saddle.blp
+7754347;Creature/OwlCat2Mount/OwlCat2Mount_Purple_Saddle.blp
+7754348;Creature/OwlCat2Mount/OwlCat2Mount_Brown_Saddle.blp
+7754349;Creature/OwlCat2Mount/OwlCat2Mount_WhiteBlue_Saddle.blp
 7757693;Creature/StormCrowMount_Ink/StormCrowMount_Ink.m2
 7758386;Creature/SpringMonkeyMount/SpringMonkeyMount_FX_Brown.blp
 7758989;Creature/SpringMonkeyMount/10FX_Wind_Streams.blp

@@ -178584,7 +178584,6 @@
 7263193;Housing/Thumbnails/12FN_Fungarian_Lighting_HangingLight01_7263193.blp
 7263250;Housing/Thumbnails/12FN_Fungarian_Lighting_HangingLight02_7263250.blp
 7263290;Housing/Thumbnails/12fn_fungarian_storage_sack01_7263290.blp
-7263313;Creature/BabyMurloc3/BabyMurloc3_7263313.blp
 7263314;Creature/TrigoreBoss/TrigoreBoss_7263314.blp
 7263336;World/Expansion11/Doodads/Troll/12TR_Amani_Decor_Plate02_7263336.blp
 7263375;World/Expansion11/Doodads/Troll/12TR_Amani_Decor_Plate01_7263375.blp
@@ -178601,7 +178600,6 @@
 7264764;Housing/Thumbnails/10ne_nightelf_backpack02_7264764.blp
 7264796;Housing/Thumbnails/12PH_Durotar_Crafting_RedWoodenPlankStack01_7264796.blp
 7264797;Housing/Thumbnails/12PH_Durotar_Crafting_RedWoodenPlank01_7264797.blp
-7264939;Interface/Icons/Unknown_7264939.blp
 7264942;Sound/Emitters/12.0Amb-Silvermoon-SilvermoonHarbor-Ext-Buoy_0_7264942.ogg
 7264944;Sound/Emitters/12.0Amb-Silvermoon-SilvermoonHarbor-Ext-Buoy_1_7264944.ogg
 7264948;Sound/Emitters/12.0Amb-Silvermoon-SilvermoonHarbor-Ext-Buoy_2_7264948.ogg
@@ -199757,7 +199755,6 @@
 7749350;unkmaps/minimaps/7749350.blp
 7749352;unkmaps/maptextures/7749352_n.blp
 7749354;unkmaps/maptextures/7749354.blp
-7749371;models/creature/unk_exp11_7749371/7749371.m2
 7749375;unkmaps/maps/7749375_27_30.adt
 7749376;unkmaps/maps/7749376_27_30_obj0.adt
 7749377;unkmaps/maps/7749377_27_30_obj1.adt
@@ -199863,7 +199860,6 @@
 7749687;unkmaps/maptextures/7749687.blp
 7749689;unkmaps/maptextures/7749689.blp
 7749691;unkmaps/maptextures/7749691.blp
-7749740;models/unktextures/ArmorReflect4_7749740.blp
 7749953;unkmaps/maptextures/7749953.blp
 7749955;unkmaps/maptextures/7749955.blp
 7749957;unkmaps/maptextures/7749957.blp
@@ -199984,10 +199980,6 @@
 7754308;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_BrokenEgg02_7754308.blp
 7754309;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_BrokenEgg05_7754309.blp
 7754327;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_HangingEggCluster01_7754327.blp
-7754350;Interface/Icons/Unknown_7754350.blp
-7754351;Interface/Icons/Unknown_7754351.blp
-7754352;Interface/Icons/Unknown_7754352.blp
-7754353;Interface/Icons/Unknown_7754353.blp
 7754359;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_BrokenEgg04_7754359.blp
 7754360;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_BrokenEgg05_7754360.blp
 7754361;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_EggCluster04_7754361.blp
