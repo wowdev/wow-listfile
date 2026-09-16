@@ -172698,6 +172698,9 @@
 7976211;Interface/AddOns/Blizzard_DeprecatedHousing/Blizzard_DeprecatedHousing.toc
 7976213;Interface/AddOns/Blizzard_DeprecatedHousing/Deprecated_HousingCatalog.lua
 7976356;Interface/AddOns/Blizzard_EditMode/Cata/EditModeManagerOverrides.lua
+7976361;Interface/Glues/Models/UI_LightforgedDraenei/UI_LightForgedDraenei_lod01.skin
+7976362;Interface/Glues/Models/UI_LightforgedDraenei/UI_LightForgedDraenei_lod02.skin
+7976363;Interface/Glues/Models/UI_LightforgedDraenei/UI_LightForgedDraenei_lod03.skin
 7976398;Interface/ICONS/INV_Shoulder_Armor_GoldenPhoenix_D_01.blp
 7976399;Interface/ICONS/INV_Helm_Armor_GoldenPhoenix_D_01.blp
 7976400;Interface/ICONS/INV_Cape_Armor_GoldenPhoenix_D_01.blp
@@ -172707,6 +172710,9 @@
 7976673;Interface/Glues/Models/UI_DemonHunter/Smoke_Puffy_Mask_BlendAdd22_60.blp
 7976674;Interface/Glues/Models/UI_DemonHunter/Cloud_PuffySofter_Gorgrond_Bright.blp
 7976675;Interface/Glues/Models/UI_DemonHunter/T_VFX_Smoke_Loop_02.blp
+7976676;Interface/Glues/Models/UI_DemonHunter/UI_DemonHunter_lod01.skin
+7976677;Interface/Glues/Models/UI_DemonHunter/UI_DemonHunter_lod02.skin
+7976678;Interface/Glues/Models/UI_DemonHunter/UI_DemonHunter_lod03.skin
 7976758;Interface/ICONS/ui-hud-actionbar-keyring-disabled.blp
 7977499;Interface/AddOns/Deprecated_PaperDoll/Deprecated_PaperDoll.lua
 7977500;Interface/AddOns/Deprecated_PaperDoll/Deprecated_PaperDoll.toc
