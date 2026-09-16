@@ -147862,6 +147862,7 @@
 2060457;textures/bakednpctextures/creaturedisplayextra-146313_hd.blp
 2060459;textures/bakednpctextures/creaturedisplayextra-146314_hd.blp
 2060462;textures/bakednpctextures/creaturedisplayextra-146315_hd.blp
+2060639;DBFilesClient/ModelProperties.db2
 2060688;textures/bakednpctextures/creaturedisplayextra-146316.blp
 2060690;textures/bakednpctextures/creaturedisplayextra-146317.blp
 2060694;textures/bakednpctextures/creaturedisplayextra-146318.blp
@@ -197200,6 +197201,8 @@
 7489762;textures/bakednpctextures/creaturedisplayextra-163220_hd.blp
 7489765;textures/bakednpctextures/creaturedisplayextra-163221_hd.blp
 7489766;textures/bakednpctextures/creaturedisplayextra-163222_hd.blp
+7489860;DBFilesClient/FFTTile.db2
+7489861;DBFilesClient/LiquidTypeXFFTTile.db2
 7489876;textures/bakednpctextures/creaturedisplayextra-163224_hd.blp
 7490313;textures/bakednpctextures/creaturedisplayextra-163228_hd.blp
 7490315;textures/bakednpctextures/creaturedisplayextra-163229_hd.blp
@@ -197240,6 +197243,7 @@
 7491990;Housing/Icons/inv_11we_wildelves_lighting_lampost01.blp
 7492012;Housing/Thumbnails/11we_wildelves_furniture_bed01.blp
 7492716;textures/bakednpctextures/creaturedisplayextra-163240_hd.blp
+7492879;DBFilesClient/LightDataGlobalVolumeFog.db2
 7493584;textures/bakednpctextures/creaturedisplayextra-163245.blp
 7493585;textures/bakednpctextures/creaturedisplayextra-163246.blp
 7493586;textures/bakednpctextures/creaturedisplayextra-163247.blp
@@ -198430,6 +198434,7 @@
 7658165;textures/bakednpctextures/creaturedisplayextra-164079_hd.blp
 7658189;textures/bakednpctextures/creaturedisplayextra-164080_hd.blp
 7658506;textures/bakednpctextures/creaturedisplayextra-164086_hd.blp
+7667204;DBFilesClient/PlayerExpectedStat.db2
 7670579;textures/bakednpctextures/creaturedisplayextra-164107_hd.blp
 7670580;textures/bakednpctextures/creaturedisplayextra-164108_hd.blp
 7671883;textures/bakednpctextures/creaturedisplayextra-164110_hd.blp
@@ -198483,6 +198488,7 @@
 7710150;textures/bakednpctextures/creaturedisplayextra-164233_hd.blp
 7713711;textures/bakednpctextures/creaturedisplayextra-164270.blp
 7713743;textures/bakednpctextures/creaturedisplayextra-164271.blp
+7722633;DBFilesClient/RaceStat.db2
 7724023;textures/bakednpctextures/creaturedisplayextra-164287_hd.blp
 7724024;textures/bakednpctextures/creaturedisplayextra-164288_hd.blp
 7725784;DBFilesClient/UIScenarioDisplayInfo.db2
@@ -198688,6 +198694,7 @@
 7871286;textures/bakednpctextures/creaturedisplayextra-164809_hd.blp
 7871287;textures/bakednpctextures/creaturedisplayextra-164810_hd.blp
 7871288;textures/bakednpctextures/creaturedisplayextra-164811_hd.blp
+7871289;DBFilesClient/BattlePetTypeModifier.db2
 7873241;Housing/Icons/inv_12ve_voidelf_furniture_bedroll02.blp
 7873548;textures/bakednpctextures/creaturedisplayextra-164818_hd.blp
 7873565;textures/bakednpctextures/creaturedisplayextra-164819_hd.blp
@@ -198704,9 +198711,11 @@
 7875972;textures/bakednpctextures/creaturedisplayextra-164833.blp
 7877846;textures/bakednpctextures/creaturedisplayextra-164851_hd.blp
 7877847;textures/bakednpctextures/creaturedisplayextra-164852_hd.blp
+7877962;DBFilesClient/BattlePetXP.db2
 7879119;textures/bakednpctextures/creaturedisplayextra-164858_hd.blp
 7879120;textures/bakednpctextures/creaturedisplayextra-164859_hd.blp
 7879323;WTF/DefaultForeverBindings.wtf
+7880197;DBFilesClient/LevelExperience.db2
 7881045;textures/bakednpctextures/creaturedisplayextra-164860_hd.blp
 7881232;textures/bakednpctextures/creaturedisplayextra-164861_hd.blp
 7881284;textures/bakednpctextures/creaturedisplayextra-164862.blp
@@ -198735,6 +198744,8 @@
 7902968;textures/bakednpctextures/creaturedisplayextra-164906.blp
 7903011;textures/bakednpctextures/creaturedisplayextra-164907.blp
 7926496;textures/bakednpctextures/creaturedisplayextra-164920_hd.blp
+7928017;DBFilesClient/Cfg_DatacenterLocality.db2
+7929271;DBFilesClient/Cfg_SuperDistrict.db2
 7929900;textures/bakednpctextures/creaturedisplayextra-164922.blp
 7929901;textures/bakednpctextures/creaturedisplayextra-164922_e.blp
 7929902;textures/bakednpctextures/creaturedisplayextra-164923_hd.blp
@@ -198746,6 +198757,7 @@
 7935331;textures/bakednpctextures/creaturedisplayextra-164937_e.blp
 7935384;textures/bakednpctextures/creaturedisplayextra-164939.blp
 7935385;textures/bakednpctextures/creaturedisplayextra-164939_e.blp
+7935808;DBFilesClient/TraitNodeGroupDisplayInfo.db2
 7937108;textures/bakednpctextures/creaturedisplayextra-164942_hd.blp
 7937767;textures/bakednpctextures/creaturedisplayextra-164943.blp
 7937768;textures/bakednpctextures/creaturedisplayextra-164943_e.blp
@@ -198762,6 +198774,7 @@
 7938562;textures/bakednpctextures/creaturedisplayextra-164955.blp
 7938563;textures/bakednpctextures/creaturedisplayextra-164955_e.blp
 7939216;DBFilesClient/CooldownViewerItemSpell.db2
+7939471;DBFilesClient/UiTextureAtlasSet.db2
 7939592;textures/bakednpctextures/creaturedisplayextra-164961.blp
 7939593;textures/bakednpctextures/creaturedisplayextra-164962.blp
 7940509;Housing/Icons/inv_12ph_event_voidescalation_omnium01.blp
@@ -198935,6 +198948,9 @@
 8051147;textures/bakednpctextures/creaturedisplayextra-165280_hd.blp
 8051148;textures/bakednpctextures/creaturedisplayextra-165281_hd.blp
 8051149;textures/bakednpctextures/creaturedisplayextra-165282_hd.blp
+8068383;DBFilesClient/ChrModelAltVariant.db2
+8068384;DBFilesClient/ChrModelAltVariantChoice.db2
+8068385;DBFilesClient/ChrModelAltVariantOption.db2
 8070612;textures/bakednpctextures/creaturedisplayextra-165315_hd.blp
 8070613;textures/bakednpctextures/creaturedisplayextra-165316_hd.blp
 8070614;textures/bakednpctextures/creaturedisplayextra-165317_hd.blp
@@ -198971,8 +198987,13 @@
 8202055;textures/bakednpctextures/creaturedisplayextra-165574_hd.blp
 8202993;textures/bakednpctextures/creaturedisplayextra-165575_hd.blp
 8206999;textures/bakednpctextures/creaturedisplayextra-165622.blp
+8208798;DBFilesClient/AvailableSuperDistrict.db2
 8252077;textures/bakednpctextures/creaturedisplayextra-165786_hd.blp
 8252083;textures/bakednpctextures/creaturedisplayextra-165789.blp
+8279681;DBFilesClient/SuperDistrictSet.db2
+8279682;DBFilesClient/SuperDistrictSetCollection.db2
+8279874;DBFilesClient/SuperDistrictTransfer.db2
+8281618;DBFilesClient/SuperDistrictSetXAvailableSD.db2
 8282580;textures/bakednpctextures/creaturedisplayextra-165866_hd.blp
 8282841;textures/bakednpctextures/creaturedisplayextra-165867_hd.blp
 8284966;textures/bakednpctextures/creaturedisplayextra-165874.blp
@@ -198990,3 +199011,4 @@
 8416148;textures/bakednpctextures/creaturedisplayextra-166246.blp
 8416181;textures/bakednpctextures/creaturedisplayextra-166247.blp
 8416229;textures/bakednpctextures/creaturedisplayextra-166249.blp
+8426136;DBFilesClient/AuctionHouseRedirect.db2
