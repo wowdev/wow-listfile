@@ -170918,10 +170918,10 @@
 7754024;Interface/AddOns/Blizzard_APIDocumentationGenerated/NumericRuleFormatterAPIDocumentation.lua
 7754025;Interface/AddOns/Blizzard_APIDocumentationGenerated/AbbreviatedNumberFormatterAPIDocumentation.lua
 7754063;Interface/ICONS/INV_PalanquinMount.blp
-7754350;Interface/Icons/INV_OwlCat2Mount_Blue.blp
-7754351;Interface/Icons/INV_OwlCat2Mount_Purple.blp
-7754352;Interface/Icons/INV_OwlCat2Mount_Brown.blp
-7754353;Interface/Icons/INV_OwlCat2Mount_WhiteBlue.blp
+7754350;Interface/ICONS/INV_CatSkyborneMount_Blue.blp
+7754351;Interface/ICONS/INV_CatSkyborneMount_Gray.blp
+7754352;Interface/ICONS/INV_CatSkyborneMount_Green.blp
+7754353;Interface/ICONS/INV_CatSkyborneMount_White.blp
 7754704;Interface/ICONS/INV_CraneSkyborneSwiftMount_c60_Blue.blp
 7754705;Interface/ICONS/INV_CraneSkyborneSwiftMount_c60_Gray.blp
 7754706;Interface/ICONS/INV_CraneSkyborneSwiftMount_c60_Green.blp
