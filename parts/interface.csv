@@ -175247,6 +175247,7 @@
 8199121;Interface/AddOns/Blizzard_GlueXML/Mainline/SuperDistrict.xml
 8199122;Interface/AddOns/Blizzard_Minimap/Camelot/Skin.lua
 8199123;Interface/AddOns/Blizzard_Minimap/Camelot/Diel.lua
+8200220;Interface/Glues/CharacterCreate/CharacterCreateIcons_Skyborne.blp
 8200600;Interface/AddOns/Blizzard_DeprecatedTransmog/Blizzard_DeprecatedTransmog.toc
 8200601;Interface/AddOns/Blizzard_DeprecatedTransmog/Deprecated_Transmog.lua
 8200922;Interface/AddOns/Blizzard_FrameXML/Camelot/LootHistory.lua
