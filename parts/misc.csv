@@ -200907,6 +200907,8 @@
 8207454;textures/bakednpctextures/creaturedisplayextra-165646_hd.blp
 8207455;textures/bakednpctextures/creaturedisplayextra-165647_hd.blp
 8207456;textures/bakednpctextures/creaturedisplayextra-165648_hd.blp
+8208397;icudt78l.dat
+8208404;World of Warcraft.app/Contents/MacOS/icudt78l.dat
 8208798;DBFilesClient/AvailableSuperDistrict.db2
 8209549;textures/bakednpctextures/creaturedisplayextra-165661.blp
 8209550;textures/bakednpctextures/creaturedisplayextra-165661_hd.blp
@@ -202232,6 +202234,10 @@
 8283790;textures/bakednpctextures/creaturedisplayextra-165870.blp
 8283791;textures/bakednpctextures/creaturedisplayextra-165870_hd.blp
 8284966;textures/bakednpctextures/creaturedisplayextra-165874.blp
+8297127;D3D12_ARM64/D3D12Core.dll
+8297128;D3D12_ARM64/d3d12SDKLayers.dll
+8297129;D3D12/D3D12Core.dll
+8297130;D3D12/d3d12SDKLayers.dll
 8297300;textures/bakednpctextures/creaturedisplayextra-165888.blp
 8297301;textures/bakednpctextures/creaturedisplayextra-165888_e.blp
 8301366;textures/bakednpctextures/creaturedisplayextra-165780_hd.blp
@@ -202663,3 +202669,5 @@
 8466099;textures/bakednpctextures/creaturedisplayextra-166340_hd.blp
 8466146;textures/bakednpctextures/creaturedisplayextra-166341.blp
 8466147;textures/bakednpctextures/creaturedisplayextra-166341_hd.blp
+8470129;World of Warcraft Beta.app/Contents/MacOS/icudt78l.dat
+8470130;World of Warcraft Test.app/Contents/MacOS/icudt78l.dat
