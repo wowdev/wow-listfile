@@ -82969,6 +82969,10 @@
 7750896;Creature/firefly/alphacloud.blp
 7750900;Creature/firefly/glowball.blp
 7750904;Creature/firefly/OrbReflectBright.blp
+7754284;Creature/BearSkyBorne_C60/BearSkyBorne_C60_Blue.blp
+7754285;Creature/BearSkyBorne_C60/BearSkyBorne_C60_Gray.blp
+7754286;Creature/BearSkyBorne_C60/BearSkyBorne_C60_Green.blp
+7754287;Creature/BearSkyBorne_C60/BearSkyBorne_C60_White.blp
 7754288;Creature/CatSkyborne_C60/CatSkyborne_C60_Blue.blp
 7754289;Creature/CatSkyborne_C60/CatSkyborne_C60_Gray.blp
 7754290;Creature/CatSkyborne_C60/CatSkyborne_C60_Green.blp
@@ -84071,7 +84075,11 @@
 8195062;Creature/GolemHarvestStage2/GolemHarvestStage2_lod01.skin
 8195063;Creature/GolemHarvestStage2/GolemHarvestStage2_lod02.skin
 8195064;Creature/GolemHarvestStage2/GolemHarvestStage2_lod03.skin
+8197048;Creature/Nightmare/FlameLickSmall.blp
 8197049;Creature/Nightmare/ArmorReflect4.blp
+8197050;Creature/Nightmare/dust1.blp
+8197051;Creature/Nightmare/Smoke02_Flip.blp
+8197052;Creature/Nightmare/Smoke02A.blp
 8197053;Creature/Nightmare/Gorgon101_lod01.skin
 8197054;Creature/Nightmare/Gorgon101_lod02.skin
 8197055;Creature/Nightmare/Gorgon101_lod03.skin
