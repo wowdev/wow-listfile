@@ -210956,7 +210956,6 @@
 7816100;models/unknown/unk_exp00_7726786/7726786_7816100.blp
 7816123;models/unknown/unk_exp00_7962692/7962692_7816123.blp
 7816126;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium02_Glass_7816126.blp
-7816295;models/item/unk_exp00_7816295/7816295.m2
 7816593;Item/ObjectComponents/weapon/knife_1h_raidhyjalc60_d_01_7816593.blp
 7816630;Item/ObjectComponents/weapon/sword_2h_raidbarrowc60_d_01_7816630.blp
 7816635;Item/ObjectComponents/weapon/sword_2h_raidbarrowc60_d_01_7816635.blp
@@ -213727,10 +213726,6 @@
 7867331;models/unknown/unk_exp00_7864680/7864680_lod03.skin
 7867342;models/creature/unk_exp00_7867342/7867342.m2
 7867418;models/creature/unk_exp00_7867418/7867418.m2
-7867491;models/item/unk_exp00_7816295/781629500.skin
-7867492;models/item/unk_exp00_7816295/7816295_lod01.skin
-7867493;models/item/unk_exp00_7816295/7816295_lod02.skin
-7867494;models/item/unk_exp00_7816295/7816295_lod03.skin
 7867552;Sound/Creature/7133443/7133443_fidget_7867552.ogg
 7867554;Sound/Creature/7133443/7133443_fidget_7867554.ogg
 7867556;Sound/Creature/7133443/7133443_fidget_7867556.ogg
@@ -213755,10 +213750,6 @@
 7867634;Sound/Creature/7133443/7133443_fidget_7867634.ogg
 7867636;Sound/Creature/7133443/7133443_fidget_7867636.ogg
 7867638;Sound/Creature/7133443/7133443_fidget_7867638.ogg
-7867739;models/item/unk_exp00_7816295/7816295_7867739.blp
-7867740;models/item/unk_exp00_7816295/7816295_7867740.blp
-7867741;models/item/unk_exp00_7816295/7816295_7867741.blp
-7867742;models/item/unk_exp00_7816295/7816295_7867742.blp
 7867769;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Lighting_Chandelier03_7867769.blp
 7867770;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Lighting_Chandelier03_7867770.blp
 7867808;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_PoisonContainer02_7867808.blp
@@ -220791,7 +220782,6 @@
 8095463;World/WMO/Expansion11/Delves/12XP_DelveLabyrinthKindoJan01_8095463.blp
 8095464;World/WMO/Expansion11/Delves/12XP_DelveLabyrinthKindoJan01_8095464.blp
 8095465;World/WMO/Expansion11/Delves/12XP_DelveLabyrinthKindoJan01_8095465.blp
-8095489;Interface/Icons/Unknown_8095489.blp
 8096063;models/environments/stars/8096063.m2
 8096064;models/unknown/unk_exp00_8096064/8096064.m2
 8096067;models/unknown/unk_exp00_8096064/7FX_AlphaMask_Glow_512.blp
