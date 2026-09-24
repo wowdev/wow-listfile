@@ -69165,7 +69165,6 @@
 2978221;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_60DegreeBlockout01.wmo
 2978222;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_YJunction02.wmo
 2978238;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_30DegreeStairsBlockout01.wmo
-2979629;World/WMO/Expansion11/PlayerHousing/Exterior/GREY.blp
 2979630;World/WMO/Expansion08/Vampire/9VM_Vampire_Tower02_000.wmo
 2979631;World/WMO/Expansion08/Vampire/9VM_Vampire_Tower02_000_lod1.wmo
 2979632;World/WMO/Expansion08/Vampire/9VM_Vampire_Tower02_000_lod2.wmo
@@ -81287,7 +81286,7 @@
 3801422;world/wmo/expansion09/wildhammer/gryphonroost_000_lod1.wmo
 3801423;world/wmo/expansion09/wildhammer/gryphonroost_000_lod2.wmo
 3801425;world/wmo/expansion09/wildhammer/gryphonroost_000_lod3.wmo
-3802938;World/WMO/Expansion08/Human/BLACK_ALPHA.blp
+3802938;World/WMO/Expansion08/Human/BlastedLandsBlack_s.blp
 3802949;World/WMO/Expansion08/Human/9HU_Human_House01_001_lod1.blp
 3802950;World/WMO/Expansion08/Human/9HU_Human_House01_001_lod1_l.blp
 3802951;World/WMO/Expansion08/Human/9HU_Human_House01_001_lod2.blp
@@ -90554,6 +90553,7 @@
 4281454;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_PlatformExit02_000_lod1.wmo
 4281455;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_PlatformExit02_000_lod2.wmo
 4281456;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_PlatformExit02_000_lod3.wmo
+4282263;world/wmo/expansion09/nightelf/8swg_wall01.blp
 4282279;world/wmo/expansion09/nightelf/10ne_nightelf_transportship_000_lod1.blp
 4282280;world/wmo/expansion09/nightelf/10ne_nightelf_transportship_000_lod1_l.blp
 4282281;world/wmo/expansion09/nightelf/10ne_nightelf_transportship_000_lod2.blp
@@ -94596,19 +94596,31 @@
 4684196;World/WMO/Expansion10/Arathor/11AT_Arathor_DockStairsNarrow02_000_lod1.wmo
 4684197;World/WMO/Expansion10/Arathor/11AT_Arathor_DockStairsNarrow02_000_lod2.wmo
 4684198;World/WMO/Expansion10/Arathor/11AT_Arathor_DockStairsNarrow02_000_lod3.wmo
+4684245;world/wmo/expansion09/NightElf/8wsg_woodbeams01.blp
+4684246;world/wmo/expansion09/NightElf/8wsg_woodbeams02.blp
+4684248;world/wmo/expansion09/NightElf/8swg_woodtrims03.blp
 4684249;world/wmo/expansion09/NightElf/8wsg_base01.blp
+4684250;world/wmo/expansion09/NightElf/8wsg_ceiling01.blp
+4684251;world/wmo/expansion09/NightElf/8wsg_columnbase01.blp
+4684252;world/wmo/expansion09/NightElf/8wsg_column01.blp
 4684253;world/wmo/expansion09/NightElf/8wsg_stonetrims01.blp
+4684254;world/wmo/expansion09/NightElf/8wsg_woodbeams02_end.blp
 4684255;world/wmo/expansion09/NightElf/8wsg_brickwall01.blp
 4684256;world/wmo/expansion09/NightElf/8wsg_brickwall02.blp
 4684257;world/wmo/expansion09/NightElf/8wsg_roof01_trim - copy.blp
 4684258;world/wmo/expansion09/NightElf/8wsg_roof02_trim.blp
 4684259;world/wmo/expansion09/NightElf/8swg_woodtrims03_emissive.blp
 4684260;world/wmo/expansion09/NightElf/8wsg_woodfloor01.blp
+4684261;world/wmo/expansion09/NightElf/8wsg_woodtrims01.blp
 4684262;world/wmo/expansion09/NightElf/7NE_DRUID_WALL03_WHITEWALL.blp
 4684264;world/wmo/expansion09/NightElf/7NE_DRUID_EXTRAS10_WHITE.blp
 4684265;world/wmo/expansion09/NightElf/7NE_DRUID_BRIDGE01_NIGHTMARE.blp
+4684266;world/wmo/expansion09/NightElf/8wsg_roofgold01.blp
+4684267;world/wmo/expansion09/NightElf/8wsg_roof01.blp
 4684268;world/wmo/expansion09/NightElf/8wsg_roof02.blp
+4684269;world/wmo/expansion09/NightElf/8swg_wall01dark.blp
 4684270;world/wmo/expansion09/NightElf/8wsg_wall01.blp
+4684271;world/wmo/expansion09/NightElf/8wsg_woodbeams01_edge.blp
 4684272;world/wmo/expansion09/NightElf/7NE_DRUID_EXTRAS04.blp
 4684273;world/wmo/expansion09/NightElf/7NE_DRUID_ROCKBASE03.blp
 4684274;world/wmo/expansion09/NightElf/6SM_NIGHTELF_ MOONWELL_ROCK_CENTER.blp
@@ -96595,6 +96607,7 @@
 4883891;world/wmo/dungeon/InfiniteDungeon/10DU_InfiniteDungeon_TimewaysHub01_001_lod1.wmo
 4883892;world/wmo/dungeon/InfiniteDungeon/10DU_InfiniteDungeon_TimewaysHub01_001_lod2.wmo
 4883893;world/wmo/dungeon/InfiniteDungeon/10DU_InfiniteDungeon_TimewaysHub01_001_lod3.wmo
+4883919;World/WMO/Expansion10/Nerubian/T_VFX_SWIRL64_A_C1.blp
 4883929;World/WMO/Expansion10/Nerubian/11NB_Nerubian_BuildingLarge03_001.wmo
 4883930;World/WMO/Expansion10/Nerubian/11NB_Nerubian_BuildingLarge03_001_lod1.wmo
 4883931;World/WMO/Expansion10/Nerubian/11NB_Nerubian_BuildingLarge03_001_lod2.wmo
@@ -97415,7 +97428,6 @@
 4902147;World/WMO/Expansion10/Arathor/11AT_Arathor_DefensiveTower01_001.wmo
 4902148;World/WMO/Expansion10/Arathor/11AT_Arathor_DefensiveTower01_001_lod1.wmo
 4902149;World/WMO/Expansion10/Arathor/11AT_Arathor_DefensiveTower01_001_lod2.wmo
-4902155;world/wmo/dungeon/AberrusRaid/ICECOLORS.blp
 4902171;World/WMO/Expansion10/Arathor/11AT_Arathor_BaseLarge01_000_lod1.blp
 4902173;World/WMO/Expansion10/Arathor/11AT_Arathor_BaseLarge01_000_lod2.blp
 4902175;World/WMO/Expansion10/Arathor/11AT_Arathor_BaseLarge01_000_lod3.blp
@@ -97472,7 +97484,6 @@
 4902347;world/wmo/dungeon/InfiniteDungeon/10DU_InfiniteDungeon_Battlefield01_001_lod1.wmo
 4902348;world/wmo/dungeon/InfiniteDungeon/10DU_InfiniteDungeon_Battlefield01_001_lod2.wmo
 4902349;world/wmo/dungeon/InfiniteDungeon/10DU_InfiniteDungeon_Battlefield01_001_lod3.wmo
-4902457;world/wmo/expansion09/EmeraldDream/ORANGE.blp
 4902458;world/wmo/expansion09/EmeraldDream/10EMD_EmeraldDream_DragonGreen_Courtyard01_000.wmo
 4902473;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_031_lod1.wmo
 4902474;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_031_lod2.wmo
@@ -105348,7 +105359,6 @@
 5393245;World/WMO/Expansion10/Exterior/11XT_Underground_Ceiling_Main01_006_lod1.blp
 5393246;World/WMO/Expansion10/Exterior/11XT_Underground_Ceiling_Main01_006_lod2.blp
 5393247;World/WMO/Expansion10/Exterior/11XT_Underground_Ceiling_Main01_006_lod3.blp
-5393248;World/WMO/Expansion10/Earthen/ORANGE.blp
 5393266;World/WMO/Expansion10/Exterior/11XT_Underground_Ceiling_Main01_006_lod1.wmo
 5393267;World/WMO/Expansion10/Exterior/11XT_Underground_Ceiling_Main01_006_lod2.wmo
 5393268;World/WMO/Expansion10/Exterior/11XT_Underground_Ceiling_Main01_006_lod3.wmo
@@ -115447,7 +115457,6 @@
 5927953;World/WMO/Expansion10/Goblin/11GO_Goblin_CasinoRaid_015.wmo
 5927954;World/WMO/Expansion10/Goblin/11GO_Goblin_CasinoRaid_016.wmo
 5927955;World/WMO/Expansion10/Goblin/11GO_Goblin_CasinoRaid_017.wmo
-5927975;World/WMO/Expansion11/BloodElf/COLOR_01.blp
 5927989;World/WMO/Expansion10/Goblin/11GO_Goblin_GallagioLoyaltyBuilding_004_lod1_l.blp
 5927990;World/WMO/Expansion10/Goblin/11GO_Goblin_GallagioLoyaltyBuilding_009_lod1_l.blp
 5927991;World/WMO/Expansion10/Goblin/11GO_Goblin_GallagioLoyaltyBuilding_010_lod1.blp
@@ -116226,7 +116235,6 @@
 5935127;World/WMO/Expansion11/Troll/12TR_Amani_Building03_000_lod1.wmo
 5935128;World/WMO/Expansion11/Troll/12TR_Amani_Building03_000_lod2.wmo
 5935129;World/WMO/Expansion11/Troll/12TR_Amani_Building03_000_lod3.wmo
-5935163;World/wmo/Kalimdor/Ogrimmar/JLO_WORC_ENVMAP02.blp
 5935226;World/WMO/Expansion10/Karesh/11KRS_TazaveshTheVeiledMarket_Gazebo01._000_lod1.blp
 5935227;World/WMO/Expansion10/Karesh/11KRS_TazaveshTheVeiledMarket_Gazebo01._000_lod2.blp
 5935228;World/WMO/Expansion10/Karesh/11KRS_TazaveshTheVeiledMarket_Gazebo01._000_lod3.blp
@@ -122441,7 +122449,6 @@
 6359778;World/WMO/Dungeon/ScarletMonastery_Arthas/ScarletMonastery_Arthas01_003_lod3_l.blp
 6359779;World/WMO/Dungeon/ScarletMonastery_Arthas/ScarletMonastery_Arthas01_015_lod3.blp
 6359780;World/WMO/Dungeon/ScarletMonastery_Arthas/ScarletMonastery_Arthas01_015_lod3_l.blp
-6359835;World/WMO/Expansion11/Orc/PRETTYCOLORS.blp
 6359836;World/WMO/Expansion11/Orc/12OR_Orc_Lumbermill01_000_lod1.blp
 6359837;World/WMO/Expansion11/Orc/12OR_Orc_Lumbermill01_000_lod2.blp
 6359838;World/WMO/Expansion11/Orc/12OR_Orc_Lumbermill01_000_lod3.blp
@@ -150499,3 +150506,21 @@
 8459233;World/WMO/Dungeon/KZ_Uldaman/KZ_Uldaman_A_009_lod1.wmo
 8459234;World/WMO/Dungeon/KZ_Uldaman/KZ_Uldaman_A_009_lod2.wmo
 8459235;World/WMO/Dungeon/KZ_Uldaman/KZ_Uldaman_A_009_lod3.wmo
+8489896;World/WMO/Dungeon/MD_Goldmine/MD_Goldmine_variantA_000_lod1.blp
+8489897;World/WMO/Dungeon/MD_Goldmine/MD_Goldmine_variantA_000_lod2.blp
+8489898;World/WMO/Dungeon/MD_Goldmine/MD_Goldmine_variantA_000_lod3.blp
+8489899;World/WMO/Dungeon/MD_Goldmine/MD_Goldmine_variantA_000_lod1.wmo
+8489900;World/WMO/Dungeon/MD_Goldmine/MD_Goldmine_variantA_000_lod2.wmo
+8489901;World/WMO/Dungeon/MD_Goldmine/MD_Goldmine_variantA_000_lod3.wmo
+8489902;World/WMO/Dungeon/MD_Goldmine/MD_Goldmine_variantA_001_lod1.wmo
+8489903;World/WMO/Dungeon/MD_Goldmine/MD_Goldmine_variantA_001_lod2.wmo
+8489904;World/WMO/Dungeon/MD_Goldmine/MD_Goldmine_variantA_012_lod1.wmo
+8489905;World/WMO/Dungeon/MD_Goldmine/MD_Goldmine_variantA_012_lod2.wmo
+8490359;World/WMO/Kalimdor/ThunderBluff/GiantTotem_000_lod1.blp
+8490360;World/WMO/Kalimdor/ThunderBluff/GiantTotem_000_lod2.blp
+8490361;World/WMO/Kalimdor/ThunderBluff/GiantTotem_000_lod3.blp
+8490362;World/WMO/Kalimdor/ThunderBluff/GiantTotem_000_lod1.wmo
+8490363;World/WMO/Kalimdor/ThunderBluff/GiantTotem_000_lod2.wmo
+8490364;World/WMO/Kalimdor/ThunderBluff/GiantTotem_000_lod3.wmo
+8490365;World/WMO/Kalimdor/ThunderBluff/GiantTotem_001_lod1.wmo
+8490366;World/WMO/Kalimdor/ThunderBluff/GiantTotem_001_lod2.wmo
