@@ -8718,7 +8718,7 @@
 3180518;world/expansion08/doodads/vampire/9vm_vampire_gravestonelarge01_3180518.blp
 3180519;world/expansion08/doodads/vampire/9vm_vampire_gravestonelarge01_3180519.blp
 3181523;spells/8fx_wrathion_burningcataclysm_missile_3181523.blp
-3181910;models/item/unk_exp10_5686585_ed_m/5686585_Ed_m_3181910.blp
+3181910;Item/ObjectComponents/collections/Collections_Armor_Musician_D_01_Za_F_3181910.blp
 3182336;world/expansion08/doodads/ardenweald/9ardclover01_3182336.blp
 3182450;world/expansion08/doodads/fx/9fx_generic_aether_bastion_missile_3182450.blp
 3182452;world/expansion08/doodads/fx/9fx_generic_anima_bastion_3182452.blp
@@ -131889,8 +131889,8 @@
 6031449;models/world/nodxt/detail/603141100.skin
 6031454;models/world/nodxt/detail/603141000.skin
 6031461;models/world/nodxt/detail/603141200.skin
-6031478;models/unknown/unk_exp11_6031711/6031711_6031478.blp
-6031480;models/unknown/unk_exp11_6031711/6031711_6031480.blp
+6031478;World/Expansion11/Doodads/Void/12VDL_Arid_Tendril_Top_B01_6031478.blp
+6031480;World/Expansion11/Doodads/Void/12VDL_Arid_Tendril_Top_B01_6031480.blp
 6031498;World/Wmo/Dungeon/Floodgate/11DU_Floodgate_Dam_01_6031498.blp
 6031590;Item/ObjectComponents/collections/plate_raidpaladingoblin_d_01_shoulder_l_6031590.blp
 6031591;Item/ObjectComponents/collections/plate_raidpaladingoblin_d_01_shoulder_l_6031591.blp
@@ -223828,6 +223828,7 @@
 8124602;Shaders/Pixel/dx_5_0/unknown_8124602_comp-copy.bls
 8124603;Shaders/Pixel/dx_6_0/unknown_8124603_comp-copy.bls
 8124606;Shaders/Pixel/mtl_1_1/unknown_8124606_comp-copy.bls
+8124670;models/unktextures/Leather_RaidDruid_A_01OutlandPeacockBlue_Glove_HA_U_8124670.blp
 8124711;models/unknown/unk_exp11_7881320/7881320_8124711.blp
 8124735;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_WC3_Forsaken_MiniFigure01_8124735.blp
 8124853;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_WC3_Human_MiniFigure01_8124853.blp
