@@ -212126,6 +212126,7 @@
 7825559;Sound/Creature/First_Mate_Nama/VO_121_First_Mate_Nama_7825559.ogg
 7825560;Sound/Creature/First_Mate_Nama/VO_121_First_Mate_Nama_7825560.ogg
 7825571;Sound/Creature/Lady_Liadrin/VO_121_Lady_Liadrin_7825571.ogg
+7825573;Sound/Creature/Valeera_Sanguinar/VO_121_Valeera_Sanguinar_7825573.ogg
 7825579;Sound/Creature/Zuljarra/VO_121_Zuljarra_7825579.ogg
 7825583;Sound/Creature/Zuljarra/VO_121_Zuljarra_7825583.ogg
 7825587;Sound/Creature/Nekzali_the_Soulcoiler/VO_121_Nekzali_the_Soulcoiler_7825587.ogg
@@ -219651,6 +219652,21 @@
 7976374;Interface/Icons/Unknown_7976374.blp
 7976443;Item/ObjectComponents/Cape/Cape_Special_GoldenPhoenix_D_01_7976443.blp
 7976474;Item/ObjectComponents/Shoulder/Shoulder_Armor_GoldenPhoenix_D_01_7976474.blp
+7976499;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7976499.ogg
+7976500;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7976500.ogg
+7976501;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7976501.ogg
+7976502;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7976502.ogg
+7976503;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7976503.ogg
+7976504;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7976504.ogg
+7976508;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7976508.ogg
+7976509;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7976509.ogg
+7976510;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7976510.ogg
+7976511;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7976511.ogg
+7976512;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7976512.ogg
+7976513;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7976513.ogg
+7976514;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7976514.ogg
+7976515;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7976515.ogg
+7976516;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7976516.ogg
 7976553;World/Generic/Dwarf/Passive Doodads/LAMPPOSTS/LochLampPost_7976553.blp
 7976556;World/Generic/Dwarf/Passive Doodads/LAMPPOSTS/LochLampPost_7976556.blp
 7976679;World/WMO/Expansion11/Troll/12TR_Ulatek_Tomb01_7976679.blp
@@ -219763,8 +219779,10 @@
 7976974;Sound/Creature/Lorthemar_Theron/VO_1215_Lorthemar_Theron_7976974.ogg
 7976975;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7976975.ogg
 7976976;Sound/Creature/Lorthemar_Theron/VO_1215_Lorthemar_Theron_7976976.ogg
+7976977;Sound/Creature/Lorthemar_Theron/VO_1215_Lorthemar_Theron_7976977.ogg
 7976978;Sound/Creature/Lorthemar_Theron/VO_1215_Lorthemar_Theron_7976978.ogg
 7976979;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7976979.ogg
+7976980;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7976980.ogg
 7977232;sound/creature/AmaniTrollMale/AmaniTrollMale_farewell_7977232.ogg
 7977233;sound/creature/AmaniTrollMale/AmaniTrollMale_farewell_7977233.ogg
 7977234;sound/creature/AmaniTrollMale/AmaniTrollMale_farewell_7977234.ogg
@@ -219780,6 +219798,16 @@
 7977496;World/Kalimdor/MAURADON/PASSIVEDOODADS/SatyrFloorBraziers/SatyrFloorBrazierBlue01_7977496.blp
 7977498;World/Kalimdor/MAURADON/PASSIVEDOODADS/SatyrFloorBraziers/SatyrFloorBrazierBlue01_7977498.blp
 7977525;creature/trolllich/trolllich_7977525.blp
+7977563;Sound/Creature/Kinduru/VO_1215_Kinduru_7977563.ogg
+7977657;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977657.ogg
+7977659;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977659.ogg
+7977660;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977660.ogg
+7977661;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977661.ogg
+7977662;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977662.ogg
+7977663;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977663.ogg
+7977664;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977664.ogg
+7977665;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977665.ogg
+7977668;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977668.ogg
 7980081;Item/ObjectComponents/head/helm_armor_mask_b_02_Be_m_7980081.blp
 7980082;Item/ObjectComponents/head/helm_armor_mask_b_02_Be_m_7980082.blp
 7980083;Item/ObjectComponents/head/helm_armor_mask_b_02_Be_m_7980083.blp
@@ -226531,6 +226559,8 @@
 8202216;models/unknown/unk_exp00_7868964/7868964_lod01.skin
 8202218;models/unknown/unk_exp00_7868964/7868964_lod02.skin
 8202220;models/unknown/unk_exp00_7868964/7868964_lod03.skin
+8202368;Creature/AxolotlPetClassic/AxolotlPetClassic_8202368.blp
+8202369;Creature/AxolotlPetClassic/AxolotlPetClassic_8202369.blp
 8202386;models/unknown/unk_exp00_8202386/8202386.m2
 8202405;models/world/unk_exp00_8202405/8202405.m2
 8202551;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Ritual_WorshipNook02_8202551.blp
