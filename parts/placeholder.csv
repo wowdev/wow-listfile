@@ -6086,7 +6086,6 @@
 2976760;item/objectcomponents/shield/shield_1h_nzothraid_d_01_2976760.blp
 2977207;world/expansion08/doodads/castlezone/9casfungus01_2977207.blp
 2978227;item/objectcomponents/collections/collections_leather_nzothraidmythic_d_01_2978227.blp
-2979629;World/WMO/Expansion11/PlayerHousing/Exterior/12PH_Exterior_Human_Base12_2979629.blp
 2981217;world/expansion08/doodads/babylonzone/9pln_glowplant_a01_2981217.blp
 2981447;world/expansion08/doodads/babylonzone/9pln_plainrock_a01_2981447.blp
 2981549;World/WMO/Expansion08/Vampire/9VM_Vampire_Spire01_2981549.blp
@@ -77049,7 +77048,6 @@
 4902111;item/objectcomponents/weapon/sword_2h_emeralddreamoutdoor_d_01_4902111.blp
 4902112;item/objectcomponents/weapon/sword_2h_emeralddreamoutdoor_d_01_4902112.blp
 4902115;item/objectcomponents/weapon/glaive_1h_blackdragonoutdoor_d_01_4902115.blp
-4902155;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_4902155.blp
 4902156;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_4902156.blp
 4902157;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_4902157.blp
 4902158;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_4902158.blp
@@ -77057,7 +77055,6 @@
 4902425;World/WMO/Expansion10/Earthen/11EA_Earthen_CountryHouse02_4902425.blp
 4902455;world/wmo/expansion09/EmeraldDream/10EMD_EmeraldDream_DragonGreen_Courtyard01_4902455.blp
 4902456;world/wmo/expansion09/EmeraldDream/10EMD_EmeraldDream_DragonGreen_Courtyard01_4902456.blp
-4902457;world/wmo/expansion09/EmeraldDream/10EMD_EmeraldDream_DragonGreen_LargeBalcony01_4902457.blp
 4902470;world/wmo/dungeon/AberrusRaid/10DU_AberrusRaid_4902470.blp
 4902608;world/expansion09/doodads/EmeraldDream/10ED_EmeraldDream_Lamp01_4902608.blp
 4902626;World/Expansion10/Doodads/11XP_PlantMoss_SlimeSarlacc01_4902626.blp
@@ -100997,7 +100994,6 @@
 5393224;World/WMO/Dungeon/NerubianCrypt/11DU_NerubianCrypt_Main01_5393224.blp
 5393225;World/WMO/Dungeon/NerubianCrypt/11DU_NerubianCrypt_Main01_5393225.blp
 5393226;World/WMO/Dungeon/NerubianCrypt/11DU_NerubianCrypt_Main01_5393226.blp
-5393248;World/WMO/Expansion10/Earthen/11EA_Earthen_Corridor02_5393248.blp
 5393278;World/Expansion10/Doodads/Arathor/11AT_Arathor_Brazier03_5393278.blp
 5393436;Character/NightElf/Female/NightElfFemale_HD_markings_color_5393436.blp
 5393437;Character/NightElf/Female/NightElfFemale_HD_markings_color_5393437.blp
@@ -119487,7 +119483,6 @@
 5927951;World/WMO/autogen-names/unknown/17482_lightcookie_5927951.blp
 5927967;world/expansion10/doodads/goblin/11go_goblin_curb01_5927967.blp
 5927972;models/unknown/unk_exp10_5927972/5927972.m2
-5927975;World/WMO/Expansion11/BloodElf/12BE_BloodElf_House01_5927975.blp
 5927979;spells/FX_VoidArrowPatch_Aura_5927979.blp
 5927980;Spells/11FX_Behead_AreaTrigger_5927980.blp
 5927981;Spells/11FX_LightCircle02_5927981.blp
@@ -119920,7 +119915,6 @@
 5934894;models/unknown/unk_exp11_5926825/5926825_lod03.skin
 5934910;spells/11FX_UndermineRaid_Gallywix_ScatterblastCanisters_Cast02_5934910.blp
 5934937;Sound/Spell/PulsingAura_aurastart_loop_5934937.ogg
-5935163;World/WMO/Expansion11/Orc/12OR_Orc_House01_5935163.blp
 5935166;models/unknown/unk_exp11_5930508/5930508_lod03.skin
 5935173;World/Expansion11/Doodads/12XP_DeleteMe153_5935173.blp
 5935219;World/WMO/autogen-names/unknown/16903_lightcookie_5935219.blp
@@ -142162,7 +142156,7 @@
 6351889;World/Expansion11/Doodads/PlayerHousing/12ph_folk_wagon03_6351889.blp
 6351890;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_FlightRoost01_6351890.blp
 6351900;World/WMO/autogen-names/unknown/17472_6351900.blp
-6351901;World/WMO/autogen-names/unknown/17472_6351901.blp
+6351901;World/WMO/autogen-names/unknown/BE_FOUNTAIN_WATER05.blp
 6351902;World/WMO/autogen-names/unknown/17472_6351902.blp
 6351905;World/WMO/autogen-names/unknown/17472_001_lod1.blp
 6351906;World/WMO/autogen-names/unknown/17472_001_lod2.blp
@@ -142977,7 +142971,6 @@
 6359758;item/objectcomponents/weapon/Mace_1H_OutdoorEthereal_C_02_6359758.blp
 6359759;item/objectcomponents/weapon/Mace_1H_OutdoorEthereal_C_02_6359759.blp
 6359760;item/objectcomponents/weapon/Mace_1H_OutdoorEthereal_C_02_6359760.blp
-6359835;World/WMO/Expansion11/Orc/12OR_Orc_Lumbermill01_6359835.blp
 6359860;models/unknown/unk_exp11_6024257/602425700.skin
 6359861;models/unknown/unk_exp11_6024257/6024257_lod01.skin
 6359864;models/unknown/unk_exp11_6024257/6024257_lod02.skin
@@ -150527,7 +150520,16 @@
 6697904;models/unknown/unk_exp11_6363406/6363406_lod02.skin
 6697905;models/unknown/unk_exp11_6363406/6363406_lod03.skin
 6697917;World/Expansion10/Doodads/Goblin/11GO_Goblin_Mailbox01_6697917.blp
+6697919;Sound/Spell/FinalToll_impact_oneshot_6697919.ogg
+6697921;Sound/Spell/FinalToll_impact_oneshot_6697921.ogg
 6697923;Sound/Spell/BBShot_aurastart_oneshot_6697923.ogg
+6697925;Sound/Spell/FinalToll_impact_oneshot_6697925.ogg
+6697927;Sound/Spell/FinalToll_impact_oneshot_6697927.ogg
+6697929;Sound/Spell/FinalToll_impact_oneshot_6697929.ogg
+6697931;Sound/Spell/FinalToll_impact_oneshot_6697931.ogg
+6697933;Sound/Spell/FinalToll_impact_oneshot_6697933.ogg
+6697935;Sound/Spell/FinalToll_impact_oneshot_6697935.ogg
+6697937;Sound/Spell/FinalToll_impact_oneshot_6697937.ogg
 6698045;Creature/Mukleech/Mukleech_6698045.blp
 6698053;World/WMO/Expansion11/PlayerHousing/Exterior/12PH_Exterior_NE_L_PH_01_6698053.blp
 6698085;Sound/Emitters/AMBCamelot-Forest-Ext-CAM1-ZoneTone-Day-A_1_6698085.ogg
