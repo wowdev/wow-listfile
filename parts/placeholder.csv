@@ -194,7 +194,6 @@
 1990284;spells/textures/spellchaineffect_6018_1990284.blp
 1990285;spells/textures/spellchaineffect_6066_1990285.blp
 1990938;Environments/ParticulateVolumes/pvdata/unkweather567_1990938.pvdata
-1990967;Environments/ParticulateVolumes/pvdata/unkweather516_1990967.pvdata
 1991754;spells/textures/spellchaineffect_6237_1991754.blp
 2012317;spells/textures/spellchaineffect_6074_2012317.blp
 2024181;Environments/ColorGrading/ColorGrading_8riv_sky1_2024181.blp
@@ -763,7 +762,6 @@
 2446003;World/WMO/Dungeon/MechagonDungeon/8DU_MechagonDungeon_Main01_2446003.blp
 2446601;world/expansion07/doodads/nazjatar/8nzj_waterwall_custom_01_0_2446601.blp
 2446604;world/expansion07/doodads/nazjatar/8nzj_waterwall_custom_01_3_2446604.blp
-2447731;World/WMO/Expansion07/Nazjatar/8NZJ_Nazjatar_WallBack01_2447731.blp
 2447779;World/WMO/Expansion07/Nazjatar/8NZJ_Nazjatar_EluneTempl01_2447779.blp
 2449275;spells/8fx_vaultguardian_treasurepile_1_2449275.blp
 2449277;spells/8fx_vaultguardian_treasurepile_3_2449277.blp
@@ -21861,7 +21859,6 @@
 3638074;world/expansion08/doodads/9xp_flotsam02_3638074.blp
 3638075;world/expansion08/doodads/9xp_flotsam02_3638075.blp
 3638076;world/expansion08/doodads/9xp_flotsam02_3638076.blp
-3638078;world/expansion08/doodads/9xp_flotsam02_3638078.blp
 3638095;world/expansion08/doodads/9xp_flotsam01_3638095.blp
 3638099;world/expansion08/doodads/9xp_flotsam01_3638099.blp
 3638103;world/expansion08/doodads/9xp_flotsam01_3638103.blp
@@ -107828,6 +107825,7 @@
 5612270;item/texturecomponents/torsolowertexture/tabard_pvp_11season2_d_01_tl_u_5612270.blp
 5612271;item/texturecomponents/torsouppertexture/tabard_pvp_11season2_d_01_tu_u_5612271.blp
 5612272;item/objectcomponents/cape/cape_pvp_11season2_d_01_5612272.blp
+5614494;models/unknown/unk_exp10_5569152/5569152_5614494.mtl3lib
 5617096;World/Expansion10/Doodads/Earthen/11EA_Earthen_TrackStopBig01_5617096.blp
 5617098;World/Expansion10/Doodads/Earthen/11EA_Earthen_TrackStopBig01_5617098.blp
 5619520;sound/ambience/zoneambience/amb_11zone2_day_5619520.ogg
