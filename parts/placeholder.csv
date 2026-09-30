@@ -146531,19 +146531,19 @@
 6443933;World/Expansion11/Doodads/12XP_DeleteMe132_6443933.blp
 6443938;World/Expansion11/Doodads/12XP_DeleteMe132_6443938.blp
 6448392;models/unknown/unk_exp11_6448392/6448392.m2
-6448485;models/unknown/unk_exp11_6448392/6448392_6448485.blp
+6448485;models/unknown/unk_exp11_6448392/12ESW_skyscene_voidstorm_clouds03.blp
 6448486;models/unknown/unk_exp11_6448392/12ESW_skyscene_voidstorm_cloudsSpike01_mod.blp
-6448487;models/unknown/unk_exp11_6448392/6448392_6448487.blp
-6448488;models/unknown/unk_exp11_6448392/6448392_6448488.blp
+6448487;models/unknown/unk_exp11_6448392/12ESW_skyscene_voidstorm_cloudsSmall01.blp
+6448488;models/unknown/unk_exp11_6448392/12ESW_skyscene_voidstorm_cloudsSmall01_mod.blp
 6448489;models/unknown/unk_exp11_6448392/6448392_6448489.blp
 6448490;models/unknown/unk_exp11_6448392/6448392_6448490.blp
 6448492;models/unknown/unk_exp11_6448392/6448392_6448492.blp
 6448494;models/unknown/unk_exp11_6448392/6448392_6448494.blp
 6448496;models/unknown/unk_exp11_6448392/6448392_6448496.blp
-6448498;models/unknown/unk_exp11_6448392/6448392_6448498.blp
+6448498;models/unknown/unk_exp11_6448392/12ESW_skyscene_voidstorm_cloudInterior01.blp
 6448500;models/unknown/unk_exp11_6448392/6448392_6448500.blp
-6448502;models/unknown/unk_exp11_6448392/6448392_6448502.blp
-6448504;models/unknown/unk_exp11_6448392/6448392_6448504.blp
+6448502;models/unknown/unk_exp11_6448392/12ESW_skyscene_voidstorm_cloudsWeird01.blp
+6448504;models/unknown/unk_exp11_6448392/12ESW_skyscene_voidstorm_cloudsWeird01_mod.blp
 6448506;models/unknown/unk_exp11_6448392/6448392_6448506.blp
 6448508;models/unknown/unk_exp11_6448392/6448392_6448508.blp
 6448510;models/unknown/unk_exp11_6448392/6448392_6448510.blp
@@ -178584,6 +178584,7 @@
 7233269;models/creature/unk_exp11_7233269/7233269.m2
 7233278;Housing/Thumbnails/12ph_folk_roseflower02_7233278.blp
 7233279;Housing/Thumbnails/12ph_rugged_pillow02_7233279.blp
+7233292;Housing/Thumbnails/12PH_Folk_Table06_7233292.blp
 7233304;models/unknown/unk_exp11_7233304/7233304.m2
 7233305;models/unknown/unk_exp11_7233304/723330400.skin
 7233608;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_Table06_DyeColorMap_7233608.blp
@@ -184065,6 +184066,7 @@
 7322306;Sound/Emitters/12.0Amb-QuelThalas-SilvermoonQuelDanas-TheShiningSpan-Ext-BuilduptoQuelDanas-Waves-Right_8_7322306.ogg
 7322308;Sound/Emitters/12.0Amb-QuelThalas-SilvermoonQuelDanas-TheShiningSpan-Ext-BuilduptoQuelDanas-Waves-Right_9_7322308.ogg
 7322310;Sound/Emitters/12.0Amb-QuelThalas-SilvermoonQuelDanas-TheShiningSpan-Ext-BuilduptoQuelDanas-Waves-Right_10_7322310.ogg
+7322380;Housing/Thumbnails/12PH_Opulent_Crate01_Open_7322380.blp
 7322381;Housing/Thumbnails/12ph_opulent_chest01_7322381.blp
 7322399;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Chest01_7322399.blp
 7322402;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Chest01_DyeColorMap_7322402.blp
@@ -188298,6 +188300,7 @@
 7415826;World/Expansion11/Doodads/Void/12VD_Void_Special_ConsolePylon01_7415826.blp
 7415827;World/Expansion11/Doodads/Void/12VD_Void_Special_BridgeConsole01_7415827.blp
 7415828;World/Expansion11/Doodads/Void/12VD_Void_Special_ConsolePylon01_7415828.blp
+7415927;Housing/Icons/INV_12PH_Folk_Table06_7415927.blp
 7415945;Housing/Thumbnails/5408474_7415945.blp
 7415947;Housing/Icons/INV_5408474_7415947.blp
 7416029;Housing/Thumbnails/6OC_OrcClans_Bench01_7416029.blp
@@ -189264,6 +189267,7 @@
 7427783;Sound/Creature/6078519/6078519_fidget14_7427783.ogg
 7427785;Sound/Creature/6078519/6078519_fidget14_7427785.ogg
 7427787;Sound/Creature/6078519/6078519_fidget14_7427787.ogg
+7427815;Interface/Cinematics/Movie_1052/Movie_1052_Audio_7427815.mp3
 7428044;Sound/Music/Midnight/SceneScript_unknown_63184_7428044.mp3
 7428049;World/WMO/Expansion11/Troll/12TR_Ulatek_Balcony01_7428049.blp
 7428056;Housing/Thumbnails/7DL_Dalaran_CoffeeCreamer01_7428056.blp
@@ -216525,6 +216529,7 @@
 7940880;World/WMO/autogen-names/unknown/21308.wmo
 7940928;World/Generic/Dwarf/Passive Doodads/Braziers/DwarvenBrazier02_7940928.blp
 7940953;SPELLS/DynamiteA_SpellObject_7940953.blp
+7940954;SPELLS/DynamiteA_SpellObject_7940954.blp
 7941037;ITEM/ObjectComponents/Weapon/Polearm_2H_Trident_B_02_7941037.blp
 7941038;ITEM/ObjectComponents/Weapon/Polearm_2H_Trident_B_02_7941038.blp
 7941039;ITEM/ObjectComponents/Weapon/Polearm_2H_Trident_B_02_7941039.blp
@@ -218274,6 +218279,7 @@
 7960350;World/Lordaeron/TIRISFALGLADE/PASSIVEDOODADS/Outposts/TirisfallOutpost06_7960350.blp
 7960351;World/Generic/Undead/Passive Doodads/UndeadAlchemyTable/undead_alchemy_table_7960351.blp
 7960353;SPELLS/ShadowWordFumble_Head_7960353.blp
+7960465;SPELLS/ArcaneShot_Area_7960465.blp
 7960471;World/KhazModan/BLACKROCK/ACTIVEDOODADS/ARENAFLAG/ArenaFlag_7960471.blp
 7960472;World/KhazModan/BLACKROCK/ACTIVEDOODADS/ARENAFLAG/ArenaFlag_7960472.blp
 7960487;World/KhazModan/BLACKROCK/ACTIVEDOODADS/ARENAFLAG/ArenaFlag_7960487.blp
@@ -219161,6 +219167,7 @@
 7965531;Housing/Thumbnails/beerfest_fencepost01_7965531.blp
 7965533;Housing/Icons/INV_beerfest_wreath02_7965533.blp
 7965535;Housing/Thumbnails/beerfest_wreath02_7965535.blp
+7965537;SPELLS/SlowingStrike_Impact_Base_7965537.blp
 7965544;SPELLS/Enchantments/Shaman_Rock_7965544.blp
 7965545;SPELLS/UnholyShackles_State_Base_7965545.blp
 7965549;SPELLS/Teleport_7965549.blp
