@@ -30636,6 +30636,7 @@
 5747265;spells/FX_WebSpin_Aura_lod01.skin
 5747266;spells/FX_WebSpin_Aura_lod02.skin
 5747267;spells/FX_WebSpin_Aura_lod03.skin
+5747566;Spells/11FX_Poison_Bubble_05.blp
 5747569;Spells/11FX_AcidSplash0100.skin
 5749205;spells/FX_Poisoned_Channel.m2
 5749206;spells/11FX_AraKaraCityofEchoes_KikataltheHarvester_VenomVolley_Precast.m2
@@ -34962,6 +34963,7 @@
 8119284;Spells/FX_SermonofUlaTek_Cast00.skin
 8129029;Spells/FX_DestroyCenterPlatform_Aura.m2
 8129030;Spells/FX_TestMainPlatformDestruction_Impact.m2
+8129490;Spells/9FX_Gradient_BrightA.blp
 8129492;Spells/FX_DestroyCenterPlatform_Aura00.skin
 8129493;Spells/FX_DestroyCenterPlatform_Aura_lod01.skin
 8129494;Spells/FX_DestroyCenterPlatform_Aura_lod02.skin
