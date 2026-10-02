@@ -49480,7 +49480,7 @@
 4530185;sound/doodad/go_10XP_tree16_loop_4530185.ogg
 4530187;sound/doodad/go_10XP_tree16_loop_4530187.ogg
 4530220;models/unk_exp09_4529143/452914300.skin
-4530221;models/unk_exp09_4529142/452914200.skin
+4530221;models/spells/unk_exp09_4529142/452914200.skin
 4530222;models/unk_exp09_4529145/452914500.skin
 4530223;models/unk_exp09_4529145/4529145_lod01.skin
 4530224;models/unk_exp09_4529145/4529145_lod02.skin
@@ -118993,6 +118993,7 @@
 5917786;models/world/unk_exp10_5917786/5917786.m2
 5917787;Sound/Spell/TrilloftheSatiatedBrood_aurastart_loop_5917787.ogg
 5917789;Sound/Spell/TrilloftheSatiatedBrood_aurastart_loop_5917789.ogg
+5917791;Sound/Spell/TrilloftheSatiatedBrood_channelstart_loop_5917791.ogg
 5917793;Sound/Spell/TrilloftheSatiatedBrood_aurastart_loop_5917793.ogg
 5917795;Sound/Spell/TrilloftheSatiatedBrood_aurastart_loop_5917795.ogg
 5917797;Sound/Spell/TrilloftheSatiatedBrood_aurastart_loop_5917797.ogg
@@ -201866,7 +201867,6 @@
 7672264;Item/ObjectComponents/Weapon/Knife_1H_Sai_B_01_7672264.blp
 7672265;Item/ObjectComponents/weapon/sword_1h_katana_b_03_7672265.blp
 7672315;Creature/WealthCatToy_Classic/WealthCatToy_Classic_7672315.blp
-7672318;Creature/WealthCatToy_Classic/WealthCatToy_Classic_7672318.blp
 7672341;Creature/VenomSerpent/VenomSerpent_7672341.blp
 7672344;Creature/VenomSerpent/VenomSerpent_7672344.blp
 7672347;Creature/VenomSerpent/VenomSerpent_7672347.blp
@@ -220272,9 +220272,9 @@
 8018803;models/unknown/unk_exp00_8018373/8018373_8018803.blp
 8018804;models/unknown/unk_exp00_8018373/8018373_8018804.blp
 8018805;models/unknown/unk_exp00_8018373/8018373_8018805.blp
-8018806;models/unknown/unk_exp00_8018373/8018373_8018806.blp
-8018807;models/unknown/unk_exp00_8018373/8018373_8018807.blp
-8018808;models/unknown/unk_exp00_8018373/8018373_8018808.blp
+8018806;models/unknown/unk_exp00_8018373/10XP_Wind01.blp
+8018807;models/unknown/unk_exp00_8018373/10XP_Wind01_Mask.blp
+8018808;models/unknown/unk_exp00_8018373/10XP_Wind02.blp
 8018809;models/unknown/unk_exp00_8018373/8018373_8018809.blp
 8018810;models/unknown/unk_exp00_8018373/8018373_8018810.blp
 8018811;models/unknown/unk_exp00_8018373/801837300.skin
