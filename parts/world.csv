@@ -188873,6 +188873,7 @@
 3525996;world/expansion08/doodads/fx/9fx_raid1_sommelier_platformsmoke00.skin
 3525999;world/expansion08/doodads/fx/blurry_scroll_bright.blp
 3526001;world/expansion08/doodads/fx/9fx_raid1_sommelier_wallbreach00.skin
+3526004;world/expansion07/doodads/fx/8FX_ShadowRibbons_Bright.blp
 3526014;world/expansion07/doodads/fx/8fx_generic_shadow_verticalimpact00.skin
 3526019;world/expansion07/doodads/fx/8fx_generic_shadow_breath00.skin
 3526040;world/expansion08/doodads/broker/armorreflect_hard_bluegreen.blp
@@ -221876,6 +221877,9 @@
 4280734;World/Expansion09/Doodads/Exterior/10XP_wind_10.m2
 4280737;world/expansion08/doodads/fx/9fx_raid3_dominatedconstellar_orb00.skin
 4281020;world/expansion08/doodads/fx/9fx_raid3_dominatedconstellar_nova_raidlow00.skin
+4281229;World/Expansion09/Doodads/Exterior/10XP_Wind02.blp
+4281230;World/Expansion09/Doodads/Exterior/10XP_Wind01_Mask.blp
+4281231;World/Expansion09/Doodads/Exterior/10XP_Wind01.blp
 4281232;World/Expansion09/Doodads/Exterior/10XP_wind_0100.skin
 4281233;World/Expansion09/Doodads/Exterior/10XP_wind_01_lod01.skin
 4281234;World/Expansion09/Doodads/Exterior/10XP_wind_01_lod02.skin
@@ -228293,6 +228297,9 @@
 4521032;World/Expansion09/Doodads/Dungeon/10DU_PrimalistRaid_FireWind01_lod01.skin
 4521033;World/Expansion09/Doodads/Dungeon/10DU_PrimalistRaid_FireWind01_lod02.skin
 4521034;World/Expansion09/Doodads/Dungeon/10DU_PrimalistRaid_FireWind01_lod03.skin
+4521069;World/Expansion09/Doodads/Dungeon/10XP_Wind01.blp
+4521070;World/Expansion09/Doodads/Dungeon/10XP_Wind01_Mask.blp
+4521071;World/Expansion09/Doodads/Dungeon/10XP_Wind02.blp
 4521072;World/Expansion09/Doodads/Dungeon/10DU_PrimalistRaid_Wind0100.skin
 4521074;World/Expansion09/Doodads/Dungeon/10DU_PrimalistRaid_Wind01_lod01.skin
 4521075;World/Expansion09/Doodads/Dungeon/10DU_PrimalistRaid_Wind01_lod02.skin
@@ -234426,6 +234433,8 @@
 4683074;world/expansion09/doodads/titan/8du_nazmirraid_titanmachine8.blp
 4683504;World/Expansion09/Doodads/Primalist/wispymagic_vert_azeritemist_blue_128_lessalpha2_stripe.blp
 4683505;World/Expansion09/Doodads/Primalist/10FX_AlphaMask_Glow_Frost.blp
+4684104;World/Expansion09/Doodads/Primalist/10XP_Wind01.blp
+4684105;World/Expansion09/Doodads/Primalist/10XP_Wind01_Mask.blp
 4684206;World/Expansion10/Doodads/11XP_Plant14.m2
 4684207;World/Expansion10/Doodads/11XP_Plant15.m2
 4684208;World/Expansion10/Doodads/11XP_Plant16.m2
@@ -245475,6 +245484,7 @@
 5014195;World/Expansion09/Doodads/Dungeon/10DU_Aberrus_Jar25_lod02.skin
 5014196;World/Expansion09/Doodads/Dungeon/10DU_Aberrus_Jar25_lod03.skin
 5014197;World/Expansion09/Doodads/Dungeon/7FX_AlphaMask_glow_pink.blp
+5014198;World/Expansion09/Doodads/Dungeon/8FX_ShadowRibbons_Bright.blp
 5014199;World/Expansion09/Doodads/Dungeon/Flare1_TC_ShadowCombo.blp
 5014200;World/Expansion09/Doodads/Dungeon/7FX_Chunky_Soft_A.blp
 5014201;World/Expansion09/Doodads/Dungeon/Arcane_Water_Purple22.blp
@@ -291871,6 +291881,7 @@
 6798965;World/Expansion10/Doodads/Dungeon/EtherealRaid/11DU_EtherealRaid_Main_Emitters01.m2
 6799020;World/Expansion10/Doodads/Dungeon/EtherealRaid/Gray_64.blp
 6799026;World/Expansion10/Doodads/Dungeon/EtherealRaid/soft_flare_.blp
+6799031;World/Expansion10/Doodads/Dungeon/EtherealRaid/7FX_AlphaMask_GlowBright_02.blp
 6799032;World/Expansion10/Doodads/Dungeon/EtherealRaid/7FX_AlphaMask_Glow_Blend.blp
 6799033;World/Expansion10/Doodads/Dungeon/EtherealRaid/11DU_EtherealRaid_Main_Emitters0100.skin
 6799034;World/Expansion10/Doodads/Dungeon/EtherealRaid/11DU_EtherealRaid_Main_Emitters01_lod01.skin
@@ -306849,6 +306860,7 @@
 8065626;World/Expansion11/Doodads/Generic/rainbow_desat.blp
 8065627;World/Expansion11/Doodads/Generic/stripe_alpha_2.blp
 8065628;World/Expansion11/Doodads/Generic/7FX_AlphaMask_Glow_512_02.blp
+8065630;World/Expansion11/Doodads/Generic/7FX_EnergyFlow_Bright01.blp
 8078817;World/Expansion04/Doodads/Pandaren/Lantern_Paper/PA_Lantern_Paper_Round_Red_01_lod01.skin
 8078821;World/Expansion04/Doodads/Pandaren/Lantern_Paper/PA_Lantern_Paper_Round_Red_01_lod02.skin
 8078825;World/Expansion04/Doodads/Pandaren/Lantern_Paper/PA_Lantern_Paper_Round_Red_01_lod03.skin

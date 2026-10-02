@@ -22509,6 +22509,7 @@
 2575184;spells/tendrilstreak_vertical_a2.blp
 2575228;spells/8fx_rastakhan_dreadreaping_state.m2
 2575230;spells/8fx_rastakhan_dreadreaping_state00.skin
+2575232;Spells/Flare_Vertical_Necro_A.blp
 2575239;spells/8fx_rastakhan_zombiedust_debuff.m2
 2575241;spells/8fx_rastakhan_zombiedust_debuff00.skin
 2575442;spells/target_lightning_state_projected.m2
@@ -22884,6 +22885,7 @@
 3061959;spells/8fx_enchant_raf_regular_up00.skin
 3061966;spells/8fx_enchant_raf_short_down00.skin
 3061968;spells/8fx_enchant_raf_short_up00.skin
+3061971;Spells/8FX_ShadowRibbons_Bright.blp
 3061974;SPELLS/8FX_ShadowClouds_A.blp
 3061976;SPELLS/8FX_ShadowClouds_ThickA.blp
 3061977;SPELLS/8FX_ShadowEmbers_A.blp
@@ -26195,6 +26197,9 @@
 4624359;spells/CFX_Evoker_TemporalAnomaly_lod01.skin
 4624360;spells/CFX_Evoker_TemporalAnomaly_lod02.skin
 4624361;spells/CFX_Evoker_TemporalAnomaly_lod03.skin
+4624395;Spells/10XP_Wind01.blp
+4624396;Spells/10XP_Wind01_Mask.blp
+4624397;Spells/10XP_Wind02.blp
 4624398;spells/FX_Visual_Aura0400.skin
 4624399;spells/FX_Visual_Aura04_lod01.skin
 4624400;spells/FX_Visual_Aura04_lod02.skin
@@ -30116,6 +30121,7 @@
 5558661;Spells/11FX_GreenMissile01.m2
 5558662;spells/11FX_NerubarPalace_QueenAnsurek_AcidicResonance_Precast.m2
 5558663;spells/FX_VenomousCrunch_Cast.m2
+5558853;Spells/7FX_EnergyFlow_Bright01.blp
 5558856;spells/FX_Gearmorang_AreaTrigger00.skin
 5558857;spells/FX_Gearmorang_AreaTrigger_lod01.skin
 5558861;spells/FX_Gearmorang_AreaTrigger_lod02.skin
@@ -30129,12 +30135,14 @@
 5559617;SPELLS/CFX_Mage_FrostBolt_Missile_lod02.skin
 5559618;SPELLS/CFX_Mage_FrostBolt_Missile_lod03.skin
 5566977;SPELLS/11GFX_HOLY_DEBUFF_CHEST.M2
+5567050;Spells/7FX_AlphaMask_GlowBright_02.blp
 5567058;SPELLS/8FX_Consecrate_ImpactCloud_Holy.blp
 5567059;SPELLS/7FX_AlphaMask_Glow_HolyLightStream.blp
 5567060;SPELLS/11GFX_Holy_Debuff_Chest00.skin
 5567061;spells/FX_DraughtofShockingRevelations_Aura_lod01.skin
 5567062;spells/FX_DraughtofShockingRevelations_Aura_lod02.skin
 5567063;spells/FX_DraughtofShockingRevelations_Aura_lod03.skin
+5568019;Spells/11FX_AlphaMask_Holyfire_Flare_02.blp
 5568020;spells/FX_LightMaintainAuraBiggest_Aura_lod01.skin
 5568021;spells/FX_LightMaintainAuraBiggest_Aura_lod02.skin
 5568022;spells/FX_LightMaintainAuraBiggest_Aura_lod03.skin

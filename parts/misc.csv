@@ -121335,6 +121335,7 @@
 1278035;Environments/Stars/Smoke_Puffy_Mask.blp
 1278036;Environments/Stars/White8x8.blp
 1278037;Environments/Stars/Water_Hard_HighRes.blp
+1278098;Dungeons/Textures/6HU_GARRISON/6HU_GARRISON_GREYSTONE_06.BLP
 1278118;Textures/BakedNpcTextures/CreatureDisplayExtra-135330.blp
 1278119;Textures/BakedNpcTextures/CreatureDisplayExtra-135330_HD.blp
 1278155;Textures/BakedNpcTextures/CreatureDisplayExtra-135331.blp
@@ -129135,6 +129136,8 @@
 1501259;textures/bakednpctextures/creaturedisplayextra-138744.blp
 1501260;textures/bakednpctextures/creaturedisplayextra-138744_hd.blp
 1501499;Dungeons/TEXTURES/ULDUM/SC_ULDUM_RUBBLE01.BLP
+1501503;Tileset/Demo/DemoA/DemoA_Tileset8X_01_h.BLP
+1501504;Tileset/Demo/DemoA/DemoA_Tileset8X_01_s.BLP
 1501685;Environments/ColorGrading/ColorGrading_7IGC_IllidansFall1.blp
 1501686;Environments/ColorGrading/ColorGrading_7IGC_IllidansFall2.blp
 1501687;Environments/ColorGrading/ColorGrading_7IGC_IllidansFall3.blp
@@ -142666,6 +142669,7 @@
 1858435;textures/bakednpctextures/creaturedisplayextra-143652_e.blp
 1858441;textures/bakednpctextures/creaturedisplayextra-143654_hd.blp
 1858536;textures/bakednpctextures/creaturedisplayextra-143655_hd.blp
+1858583;Environments/ColorGrading/ColorGrading_8SWA_TrexDay_Boss.BLP
 1858598;tileset/8.0/river/data/8riv_rubble02_512.blp
 1858641;dungeons/textures/8du_waycrestmanor/8du_waycrestmanor_wallpaper4.blp
 1858643;dungeons/textures/8du_waycrestmanor/8du_waycrestmanor_wallpanel1.blp
@@ -147739,11 +147743,13 @@
 2057287;textures/bakednpctextures/creaturedisplayextra-146171_hd.blp
 2057289;textures/bakednpctextures/creaturedisplayextra-146172_hd.blp
 2057309;textures/bakednpctextures/creaturedisplayextra-146173_hd.blp
+2057322;Environments/ParticulateVolumes/pvdata/8XP_Pollen_01.pvdata
 2057589;textures/bakednpctextures/creaturedisplayextra-146174_hd.blp
 2057604;textures/bakednpctextures/creaturedisplayextra-146175_hd.blp
 2057624;DBFilesClient/SpecSetMember.db2
 2058070;textures/bakednpctextures/creaturedisplayextra-146176.blp
 2058079;textures/bakednpctextures/creaturedisplayextra-146177_hd.blp
+2058087;Environments/ParticulateVolumes/pvdata/8XP_Pollen_Magic_01.pvdata
 2058149;textures/bakednpctextures/creaturedisplayextra-146178.blp
 2058449;textures/bakednpctextures/creaturedisplayextra-146179.blp
 2058452;textures/bakednpctextures/creaturedisplayextra-146180.blp
@@ -147864,6 +147870,7 @@
 2060455;textures/bakednpctextures/creaturedisplayextra-146312_hd.blp
 2060457;textures/bakednpctextures/creaturedisplayextra-146313_hd.blp
 2060459;textures/bakednpctextures/creaturedisplayextra-146314_hd.blp
+2060461;Environments/ParticulateVolumes/pvdata/8XP_Azerite_Sparks_01.pvdata
 2060462;textures/bakednpctextures/creaturedisplayextra-146315_hd.blp
 2060639;DBFilesClient/ModelProperties.db2
 2060688;textures/bakednpctextures/creaturedisplayextra-146316.blp
@@ -187938,6 +187945,7 @@
 5902977;DBFilesClient/GossipUIDisplayInfoCondition.db2
 5903018;textures/bakednpctextures/creaturedisplayextra-157306_hd.blp
 5903020;textures/bakednpctextures/creaturedisplayextra-157307.blp
+5903102;character/RostrumAirship/7FX_EnergyFlow_Bright01.blp
 5903103;character/RostrumAirship/Gray8x8.blp
 5903104;character/RostrumAirship/Ember_Offset_Streak.blp
 5903105;character/RostrumAirship/White8x8.blp
