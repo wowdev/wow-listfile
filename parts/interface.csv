@@ -174676,6 +174676,10 @@
 8124664;Interface/WorldMap/ZephrasIsle/ShendarVillage3.blp
 8124665;Interface/WorldMap/ZephrasIsle/ShendarVillage4.blp
 8124666;Interface/WorldMap/ZephrasIsle/ShrineOfAkir1.blp
+8124667;Interface/WorldMap/ZephrasIsle/ThendralGrove1.blp
+8124668;Interface/WorldMap/ZephrasIsle/ThendralGrove2.blp
+8124669;Interface/WorldMap/ZephrasIsle/ThendralGrove3.blp
+8124670;Interface/WorldMap/ZephrasIsle/ThendralGrove4.blp
 8124671;Interface/WorldMap/ZephrasIsle/Valanaar1.blp
 8124672;Interface/WorldMap/ZephrasIsle/Valanaar2.blp
 8124673;Interface/WorldMap/ZephrasIsle/Valanaar3.blp
@@ -176285,3 +176289,12 @@
 8490766;Interface/AddOns/Blizzard_GlueXML/Mainline/CharacterCopy.xml
 8493895;Interface/Splash/Splash1215.blp
 8496374;Interface/AddOns/Blizzard_PTRFeedback/Blizzard_PTRFeedback_Gamepad.lua
+8503321;Interface/PetStableFrame/HunterPetStable2xc60.blp
+8503326;Interface/PetStableFrame/HunterPetStablec60.blp
+8505232;INTERFACE/CINEMATICS/FOR_160_CM_640.avi
+8505233;INTERFACE/CINEMATICS/FOR_160_CM_1280.avi
+8505234;INTERFACE/CINEMATICS/FOR_160_CM_1920.avi
+8507400;Interface/AddOns/Blizzard_ProjectConstants/Camelot/ProjectConstants.lua
+8508140;Interface/Gamepad/GamepadPressAndHoldc60.blp
+8509700;INTERFACE/CINEMATICS/FOR_160_CM.srt
+8512555;Interface/AddOns/Blizzard_AchievementUI/Camelot/Blizzard_AchievementUI.lua
