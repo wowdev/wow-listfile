@@ -174525,7 +174525,12 @@
 7128642;Housing/Thumbnails/dwarvenbookshelflarge_7128642.blp
 7128643;Housing/Thumbnails/worgen_townfence_03_battlegrounds_7128643.blp
 7128644;Housing/Thumbnails/12ph_gn_legacy_gearcoglarge01_7128644.blp
+7128645;Housing/Thumbnails/6914978_7128645.blp
+7128646;Housing/Thumbnails/6914979_7128646.blp
 7128647;Housing/Thumbnails/11go_goblin_lighting_stringlights03_housing_7128647.blp
+7128648;Housing/Thumbnails/6914981_7128648.blp
+7128649;Housing/Thumbnails/6914982_7128649.blp
+7128650;Housing/Thumbnails/6914983_7128650.blp
 7128651;Housing/Thumbnails/fk_fence03_7128651.blp
 7128652;Housing/Thumbnails/fk_fencepost01_7128652.blp
 7128653;Housing/Thumbnails/dwarventableaverage03_7128653.blp
@@ -174910,6 +174915,7 @@
 7134548;Housing/Thumbnails/8tr_zandalari_bookshelf01_7134548.blp
 7134549;Housing/Thumbnails/pa_stool_02_7134549.blp
 7134550;Housing/Thumbnails/12ph_tauren_waterwheel01_7134550.blp
+7134551;Housing/Thumbnails/6935311_7134551.blp
 7134552;Housing/Thumbnails/worgen_bed_large_02_7134552.blp
 7134553;Housing/Thumbnails/8tr_zandalari_marketstall01_7134553.blp
 7134554;Housing/Thumbnails/coffinlid_7134554.blp
@@ -176297,6 +176303,9 @@
 7154729;Sound/Emitters/12.0Amb-Rootlands-BloomingLattice-TreeRootMovement2_13_7154729.ogg
 7154731;Sound/Emitters/12.0Amb-Rootlands-BloomingLattice-TreeRootMovement2_14_7154731.ogg
 7154733;Sound/Emitters/12.0Amb-Rootlands-BloomingLattice-TreeRootMovement2_15_7154733.ogg
+7154802;Housing/Thumbnails/6391286_7154802.blp
+7154803;Housing/Thumbnails/6391287_7154803.blp
+7154804;Housing/Thumbnails/6391288_7154804.blp
 7154826;Housing/Thumbnails/12ph_void_gazebo01_7154826.blp
 7154843;Spells/11FX_ManaforgeOmega_SoulbinderNaazindhri_SoulweaveChrysalis_Precast_7154843.blp
 7154844;Spells/11FX_ManaforgeOmega_SoulbinderNaazindhri_SoulweaveChrysalis_Precast_7154844.blp
@@ -182045,6 +182054,7 @@
 7295525;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Chandelier01_DyeColorMap_7295525.blp
 7295527;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Chandelier01_DyeInfluenceMap_7295527.blp
 7295538;World/Expansion11/Doodads/Troll/12TR_Amani_Ritual_LoaShrine_Eagle01_7295538.blp
+7295564;Housing/Thumbnails/6794469_7295564.blp
 7295565;World/Expansion11/Doodads/PlayerHousing/12PH_Rugged_Rug03_7295565.blp
 7295571;World/Expansion11/Doodads/PlayerHousing/12PH_Rugged_Sconce01_7295571.blp
 7295572;World/Expansion11/Doodads/PlayerHousing/12PH_Rugged_Sconce01_7295572.blp
@@ -183072,7 +183082,7 @@
 7304589;Creature/BullMount/BullMount_7304589.blp
 7304592;Creature/BullMount/BullMount_7304592.blp
 7304594;Spells/FX_Smash_Cast_7304594.blp
-7304595;models/spells/unk_exp11_7463999/7463999_7304595.blp
+7304595;Spells/FX_Smash_Cast_7304595.blp
 7304801;Sound/Creature/5927360/5927360_fidget_7304801.ogg
 7304803;Sound/Creature/5927360/5927360_fidget_7304803.ogg
 7304805;Sound/Creature/5927360/5927360_fidget_7304805.ogg
@@ -184073,6 +184083,7 @@
 7324237;Creature/Cow2/Cow2_7324237.blp
 7324238;Creature/Cow2/Cow2_7324238.blp
 7324241;Creature/Cow2/Cow2_7324241.blp
+7324291;Housing/Thumbnails/7319685_7324291.blp
 7324454;Item/ObjectComponents/head/helm_mail_raidevokermidnight_d_01_Za_m_7324454.blp
 7324694;Item/ObjectComponents/shoulder/shoulder_mail_raidevokermidnight_d_01_r_7324694.blp
 7324707;Item/ObjectComponents/collections/belt_mail_raidevokermidnight_d_01_7324707.blp
@@ -184109,6 +184120,7 @@
 7327218;Housing/Thumbnails/10rq_reliquary_tent02_7327218.blp
 7327268;Housing/Thumbnails/12ph_orc_throne01_7327268.blp
 7327291;Housing/Thumbnails/12PH_NightElf_Door01_7327291.blp
+7327634;Housing/Thumbnails/7319687_7327634.blp
 7327679;models/unknown/unk_exp11_7319687/7319687_DyeColorMap_7327679.blp
 7327681;models/unknown/unk_exp11_7319687/7319687_DyeInfluenceMap_7327681.blp
 7327683;models/unknown/unk_exp11_7319687/7319687_7327683.blp
@@ -184117,6 +184129,7 @@
 7327693;models/unknown/unk_exp11_7319687/7319687_lod01.skin
 7327696;models/unknown/unk_exp11_7319687/7319687_lod02.skin
 7327700;models/unknown/unk_exp11_7319687/7319687_lod03.skin
+7328439;Housing/Thumbnails/7319690_7328439.blp
 7328687;models/unknown/unk_exp11_7319690/731969000.skin
 7328688;models/unknown/unk_exp11_7319690/7319690_lod01.skin
 7328689;models/unknown/unk_exp11_7319690/7319690_lod02.skin
@@ -184141,6 +184154,7 @@
 7329583;sound/doodad/go_7296038_oneshot_7329583.ogg
 7329585;sound/doodad/go_7296038_oneshot_7329585.ogg
 7329928;Environments/Stars/12ESW_Sky05_QuelDanasSuperVoid_7329928.blp
+7330163;Housing/Thumbnails/7319692_7330163.blp
 7330191;Item/ObjectComponents/collections/armor_azshararobe_d_01_helm_Be_m_7330191.blp
 7330200;Item/ObjectComponents/collections/armor_azshararobe_d_01_pants_Be_m_7330200.blp
 7330300;models/unknown/unk_exp11_7319692/7319692_7330300.blp
@@ -184154,6 +184168,8 @@
 7330769;Housing/Thumbnails/7fk_darkmoon_forsakenglowstick_green_7330769.blp
 7330772;Housing/Thumbnails/11ea_earthen_special_diggingmachine01_7330772.blp
 7330773;Housing/Thumbnails/11ea_earthen_decor_candelabra06_7330773.blp
+7330797;Housing/Thumbnails/7319691_7330797.blp
+7330913;Housing/Thumbnails/7319689_7330913.blp
 7331077;models/unknown/unk_exp11_7319688/7319688_7331077.blp
 7331078;models/unknown/unk_exp11_7319688/7319688_DyeColorMap_7331078.blp
 7331079;models/unknown/unk_exp11_7319688/7319688_DyeInfluenceMap_7331079.blp
@@ -184161,28 +184177,33 @@
 7331081;models/unknown/unk_exp11_7319689/7319689_lod01.skin
 7331082;models/unknown/unk_exp11_7319689/7319689_lod02.skin
 7331083;models/unknown/unk_exp11_7319689/7319689_lod03.skin
+7331385;Housing/Thumbnails/7319688_7331385.blp
 7331419;models/unktextures/HolyDreadlord_7331419.blp
 7331457;World/WMO/autogen-names/unknown/18903_lightcookie_7331457.blp
 7331458;models/unknown/unk_exp11_7319688/731968800.skin
 7331459;models/unknown/unk_exp11_7319688/7319688_lod01.skin
 7331460;models/unknown/unk_exp11_7319688/7319688_lod02.skin
 7331461;models/unknown/unk_exp11_7319688/7319688_lod03.skin
+7331563;Housing/Thumbnails/7319693_7331563.blp
 7331603;World/Expansion11/Doodads/ArmyofLight/12AL_ArmyofLight_Defense_Teleporter01_7331603.blp
 7331609;World/Expansion11/Doodads/ArmyofLight/12AL_ArmyofLight_Defense_Teleporter01_7331609.blp
 7331712;models/unknown/unk_exp11_7319693/7319693_7331712.blp
 7331715;models/unknown/unk_exp11_7319693/731969300.skin
 7331718;models/unknown/unk_exp11_7319693/7319693_lod01.skin
 7331722;models/unknown/unk_exp11_7319693/7319693_lod02.skin
+7331803;Housing/Thumbnails/7319696_7331803.blp
 7331863;models/unknown/unk_exp11_7319694/7319694_7331863.blp
 7331864;models/unknown/unk_exp11_7319694/7319694_7331864.blp
 7331865;models/unknown/unk_exp11_7319696/731969600.skin
 7331866;models/unknown/unk_exp11_7319696/7319696_lod01.skin
 7331867;models/unknown/unk_exp11_7319696/7319696_lod02.skin
 7331868;models/unknown/unk_exp11_7319696/7319696_lod03.skin
+7331957;Housing/Thumbnails/7319695_7331957.blp
 7331980;models/unknown/unk_exp11_7319695/731969500.skin
 7331984;models/unknown/unk_exp11_7319695/7319695_lod01.skin
 7331987;models/unknown/unk_exp11_7319695/7319695_lod02.skin
 7331991;models/unknown/unk_exp11_7319695/7319695_lod03.skin
+7332239;Housing/Thumbnails/7319694_7332239.blp
 7332240;models/unknown/unk_exp11_7319694/731969400.skin
 7332241;models/unknown/unk_exp11_7319694/7319694_lod01.skin
 7332242;models/unknown/unk_exp11_7319694/7319694_lod02.skin
@@ -184195,6 +184216,7 @@
 7332252;models/unknown/unk_exp11_7319698/7319698_lod01.skin
 7332256;models/unknown/unk_exp11_7319698/7319698_lod02.skin
 7332259;models/unknown/unk_exp11_7319698/7319698_lod03.skin
+7332263;Housing/Thumbnails/7319697_7332263.blp
 7332264;models/unknown/unk_exp11_7319697/731969700.skin
 7332266;models/unknown/unk_exp11_7319697/7319697_lod01.skin
 7332267;models/unknown/unk_exp11_7319697/7319697_lod02.skin
@@ -184616,6 +184638,7 @@
 7339508;Housing/Thumbnails/10ts_tuskarr_teapot01_7339508.blp
 7339509;Housing/Thumbnails/10TS_Tuskarr_CuttingBoard01_7339509.blp
 7339510;Housing/Thumbnails/10TR_Tuskarr_CookingPot01_7339510.blp
+7339518;Housing/Thumbnails/7277022_7339518.blp
 7339984;World/Expansion11/Doodads/Troll/12TR_Amani_Special_StatueEyes_Right01_7339984.blp
 7340086;Sound/Creature/5140839/5140839_aggro_7340086.ogg
 7340088;Sound/Creature/5140839/5140839_aggro_7340088.ogg
@@ -188682,6 +188705,9 @@
 7423725;Housing/Icons/INV_7fx_campfire_cooking01_nocollision_light_7423725.blp
 7423879;Housing/Thumbnails/6HU_INN_BED02_7423879.blp
 7423881;Housing/Icons/INV_6HU_INN_BED02_7423881.blp
+7423941;Housing/Icons/INV_6391286_7423941.blp
+7423945;Housing/Icons/INV_6391287_7423945.blp
+7423949;Housing/Icons/INV_6391288_7423949.blp
 7423983;Housing/Thumbnails/PA_noodle_cart_02_7423983.blp
 7423985;Housing/Icons/INV_PA_noodle_cart_02_7423985.blp
 7423999;Housing/Thumbnails/7AF_Warlock_MissionBoard01_7423999.blp
@@ -188788,6 +188814,7 @@
 7424953;Housing/Icons/INV_12PH_Elwynn_Navigation_EndCap01_7424953.blp
 7424955;Housing/Thumbnails/12PH_Elwynn_Navigation_EndCap02_7424955.blp
 7424957;Housing/Icons/INV_12PH_Elwynn_Navigation_EndCap02_7424957.blp
+7424959;Housing/Icons/INV_6794469_7424959.blp
 7424963;Housing/Icons/INV_12PH_Elwynn_Navigation_FenceShort03_7424963.blp
 7424965;Housing/Thumbnails/12PH_Elwynn_Navigation_FenceShort03_7424965.blp
 7424967;Housing/Thumbnails/12PH_Elwynn_Navigation_FenceShort04_7424967.blp
@@ -188860,6 +188887,7 @@
 7425365;Housing/Icons/INV_10TS_Tuskarr_CuttingBoard01_7425365.blp
 7425367;Housing/Thumbnails/10TR_Tuskarr_CookingPot01_7425367.blp
 7425369;Housing/Icons/INV_10TR_Tuskarr_CookingPot01_7425369.blp
+7425373;Housing/Icons/INV_7277022_7425373.blp
 7425451;Housing/Thumbnails/12be_bloodelf_decor_wallart06_7425451.blp
 7425509;Housing/Icons/INV_12FN_Fungarian_Crafting_WeaponRack01_7425509.blp
 7425513;Housing/Icons/INV_12FN_Fungarian_Crafting_WeaponRack01_Empty_7425513.blp
