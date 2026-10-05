@@ -184212,6 +184212,7 @@
 7332245;item/texturecomponents/torsolowertexture/armor_azshararobe_d_01_chest_tl_u_7332245.blp
 7332246;item/texturecomponents/leguppertexture/7276887_Be_m_lu_u_7332246.blp
 7332247;Item/ObjectComponents/collections/armor_azshararobe_d_01_pants_Be_m_7332247.blp
+7332248;Housing/Thumbnails/7319698_7332248.blp
 7332249;models/unknown/unk_exp11_7319698/731969800.skin
 7332252;models/unknown/unk_exp11_7319698/7319698_lod01.skin
 7332256;models/unknown/unk_exp11_7319698/7319698_lod02.skin
@@ -188815,6 +188816,7 @@
 7424955;Housing/Thumbnails/12PH_Elwynn_Navigation_EndCap02_7424955.blp
 7424957;Housing/Icons/INV_12PH_Elwynn_Navigation_EndCap02_7424957.blp
 7424959;Housing/Icons/INV_6794469_7424959.blp
+7424961;Housing/Thumbnails/6794469_7424961.blp
 7424963;Housing/Icons/INV_12PH_Elwynn_Navigation_FenceShort03_7424963.blp
 7424965;Housing/Thumbnails/12PH_Elwynn_Navigation_FenceShort03_7424965.blp
 7424967;Housing/Thumbnails/12PH_Elwynn_Navigation_FenceShort04_7424967.blp
@@ -190084,6 +190086,7 @@
 7440948;Sound/Creature/6213760/6213760_fidget_7440948.ogg
 7440950;Sound/Creature/6213760/6213760_fidget_7440950.ogg
 7440952;Sound/Creature/6213760/6213760_fidget_7440952.ogg
+7440962;sound/character/Harronir_haranir_male/vo_Harronir_haranir_male_TARGETTOOFAR_7440962.ogg
 7440967;World/Expansion11/Doodads/PlayerHousing/12PH_NightElf_INE01_Platform_S_7440967.blp
 7440985;Housing/Thumbnails/12PM_Primitive_Ritual_Incense02_7440985.blp
 7440987;Housing/Icons/INV_12PM_Primitive_Ritual_Incense02_7440987.blp
@@ -224126,7 +224129,7 @@
 8129485;Character/Human/Male/HumanMale_face_8129485.blp
 8129487;Character/Human/Male/HumanMale_face_8129487.blp
 8129488;Character/Human/Male/HumanMale_face_8129488.blp
-8129489;models/unknown/unk_exp11_8129029/8129029_8129489.blp
+8129489;Spells/FX_DestroyCenterPlatform_Aura_8129489.blp
 8129491;Spells/FX_DestroyCenterPlatform_Aura_8129491.blp
 8129496;Character/Human/Male/HumanMale_face_8129496.blp
 8129497;Character/Human/Male/HumanMale_face_8129497.blp
