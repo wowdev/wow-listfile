@@ -172357,6 +172357,10 @@
 7951667;Interface/WorldMap/MicroDungeon/NewQuelDanas/Magister_Library_Micro/Magister_Library_Micro7.blp
 7951668;Interface/WorldMap/MicroDungeon/NewQuelDanas/Magister_Library_Micro/Magister_Library_Micro8.blp
 7951669;Interface/WorldMap/MicroDungeon/NewQuelDanas/Magister_Library_Micro/Magister_Library_Micro9.blp
+7952803;Interface/ICONS/INV_CatSkyborneMountClassic_Blue.blp
+7952804;Interface/ICONS/INV_CatSkyborneMountClassic_Gray.blp
+7952805;Interface/ICONS/INV_CatSkyborneMountClassic_Green.blp
+7952806;Interface/ICONS/INV_CatSkyborneMountClassic_White.blp
 7954191;Interface/AddOns/Blizzard_MainMenuBarBagButtons/Classic/BagsBarOverrides.lua
 7954192;Interface/AddOns/Blizzard_VisualAlerts/Blizzard_VisualAlerts.toc
 7954193;Interface/AddOns/Blizzard_VisualAlerts/VisualAlertsManager.lua
@@ -176293,6 +176297,7 @@
 8496374;Interface/AddOns/Blizzard_PTRFeedback/Blizzard_PTRFeedback_Gamepad.lua
 8503321;Interface/PetStableFrame/HunterPetStable2xc60.blp
 8503326;Interface/PetStableFrame/HunterPetStablec60.blp
+8503767;Interface/ICONS/INV_DwarfBearMountClassic.blp
 8505232;INTERFACE/CINEMATICS/FOR_160_CM_640.avi
 8505233;INTERFACE/CINEMATICS/FOR_160_CM_1280.avi
 8505234;INTERFACE/CINEMATICS/FOR_160_CM_1920.avi
