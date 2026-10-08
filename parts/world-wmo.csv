@@ -90554,6 +90554,7 @@
 4281454;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_PlatformExit02_000_lod1.wmo
 4281455;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_PlatformExit02_000_lod2.wmo
 4281456;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_PlatformExit02_000_lod3.wmo
+4282263;world/wmo/expansion09/nightelf/8swg_wall01.blp
 4282279;world/wmo/expansion09/nightelf/10ne_nightelf_transportship_000_lod1.blp
 4282280;world/wmo/expansion09/nightelf/10ne_nightelf_transportship_000_lod1_l.blp
 4282281;world/wmo/expansion09/nightelf/10ne_nightelf_transportship_000_lod2.blp
@@ -94596,19 +94597,31 @@
 4684196;World/WMO/Expansion10/Arathor/11AT_Arathor_DockStairsNarrow02_000_lod1.wmo
 4684197;World/WMO/Expansion10/Arathor/11AT_Arathor_DockStairsNarrow02_000_lod2.wmo
 4684198;World/WMO/Expansion10/Arathor/11AT_Arathor_DockStairsNarrow02_000_lod3.wmo
+4684245;world/wmo/expansion09/NightElf/8wsg_woodbeams01.blp
+4684246;world/wmo/expansion09/NightElf/8wsg_woodbeams02.blp
+4684248;world/wmo/expansion09/NightElf/8swg_woodtrims03.blp
 4684249;world/wmo/expansion09/NightElf/8wsg_base01.blp
+4684250;world/wmo/expansion09/NightElf/8wsg_ceiling01.blp
+4684251;world/wmo/expansion09/NightElf/8wsg_columnbase01.blp
+4684252;world/wmo/expansion09/NightElf/8wsg_column01.blp
 4684253;world/wmo/expansion09/NightElf/8wsg_stonetrims01.blp
+4684254;world/wmo/expansion09/NightElf/8wsg_woodbeams02_end.blp
 4684255;world/wmo/expansion09/NightElf/8wsg_brickwall01.blp
 4684256;world/wmo/expansion09/NightElf/8wsg_brickwall02.blp
 4684257;world/wmo/expansion09/NightElf/8wsg_roof01_trim - copy.blp
 4684258;world/wmo/expansion09/NightElf/8wsg_roof02_trim.blp
 4684259;world/wmo/expansion09/NightElf/8swg_woodtrims03_emissive.blp
 4684260;world/wmo/expansion09/NightElf/8wsg_woodfloor01.blp
+4684261;world/wmo/expansion09/NightElf/8wsg_woodtrims01.blp
 4684262;world/wmo/expansion09/NightElf/7NE_DRUID_WALL03_WHITEWALL.blp
 4684264;world/wmo/expansion09/NightElf/7NE_DRUID_EXTRAS10_WHITE.blp
 4684265;world/wmo/expansion09/NightElf/7NE_DRUID_BRIDGE01_NIGHTMARE.blp
+4684266;world/wmo/expansion09/NightElf/8wsg_roofgold01.blp
+4684267;world/wmo/expansion09/NightElf/8wsg_roof01.blp
 4684268;world/wmo/expansion09/NightElf/8wsg_roof02.blp
+4684269;world/wmo/expansion09/NightElf/8swg_wall01dark.blp
 4684270;world/wmo/expansion09/NightElf/8wsg_wall01.blp
+4684271;world/wmo/expansion09/NightElf/8wsg_woodbeams01_edge.blp
 4684272;world/wmo/expansion09/NightElf/7NE_DRUID_EXTRAS04.blp
 4684273;world/wmo/expansion09/NightElf/7NE_DRUID_ROCKBASE03.blp
 4684274;world/wmo/expansion09/NightElf/6SM_NIGHTELF_ MOONWELL_ROCK_CENTER.blp
@@ -96595,6 +96608,7 @@
 4883891;world/wmo/dungeon/InfiniteDungeon/10DU_InfiniteDungeon_TimewaysHub01_001_lod1.wmo
 4883892;world/wmo/dungeon/InfiniteDungeon/10DU_InfiniteDungeon_TimewaysHub01_001_lod2.wmo
 4883893;world/wmo/dungeon/InfiniteDungeon/10DU_InfiniteDungeon_TimewaysHub01_001_lod3.wmo
+4883919;World/WMO/Expansion10/Nerubian/T_VFX_SWIRL64_A_C1.blp
 4883929;World/WMO/Expansion10/Nerubian/11NB_Nerubian_BuildingLarge03_001.wmo
 4883930;World/WMO/Expansion10/Nerubian/11NB_Nerubian_BuildingLarge03_001_lod1.wmo
 4883931;World/WMO/Expansion10/Nerubian/11NB_Nerubian_BuildingLarge03_001_lod2.wmo
@@ -150571,3 +150585,15 @@
 8513844;World/WMO/Azeroth/Buildings/Duskwood_MageTower/Duskwood_MageTower_000_lod3.wmo
 8513845;World/WMO/Azeroth/Buildings/Duskwood_MageTower/Duskwood_MageTower_001_lod1.wmo
 8513846;World/WMO/Azeroth/Buildings/Duskwood_MageTower/Duskwood_MageTower_001_lod2.wmo
+8516244;World/WMO/Outland/HumanBuildings/outlandhumantower02_000_lod1.blp
+8516245;World/WMO/Outland/HumanBuildings/outlandhumantower02_000_lod2.blp
+8516246;World/WMO/Outland/HumanBuildings/outlandhumantower02_000_lod3.blp
+8516247;World/WMO/Outland/HumanBuildings/outlandhumantower02_000_lod1.wmo
+8516248;World/WMO/Outland/HumanBuildings/outlandhumantower02_000_lod2.wmo
+8516249;World/WMO/Outland/HumanBuildings/outlandhumantower02_000_lod3.wmo
+8526931;World/WMO/KhazModan/Collidable Doodads/LochModan/DwarvenDam/DwarvenDam01_000_lod1.blp
+8526932;World/WMO/KhazModan/Collidable Doodads/LochModan/DwarvenDam/DwarvenDam01_000_lod2.blp
+8526933;World/WMO/KhazModan/Collidable Doodads/LochModan/DwarvenDam/DwarvenDam01_000_lod3.blp
+8526934;World/WMO/KhazModan/Collidable Doodads/LochModan/DwarvenDam/DwarvenDam01_000_lod1.wmo
+8526935;World/WMO/KhazModan/Collidable Doodads/LochModan/DwarvenDam/DwarvenDam01_000_lod2.wmo
+8526936;World/WMO/KhazModan/Collidable Doodads/LochModan/DwarvenDam/DwarvenDam01_000_lod3.wmo

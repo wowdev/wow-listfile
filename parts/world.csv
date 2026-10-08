@@ -207056,6 +207056,9 @@
 3912302;World/Expansion01/Doodads/SHATTRATH/PASSIVEDOODADS/Bookshelf/Ancient_D_Bookshelf_lod01.skin
 3912303;World/Expansion01/Doodads/SHATTRATH/PASSIVEDOODADS/Bookshelf/Ancient_D_Bookshelf_lod02.skin
 3912304;World/Expansion01/Doodads/SHATTRATH/PASSIVEDOODADS/Bookshelf/Ancient_D_Bookshelf_lod03.skin
+3912331;World/Generic/Orc/Passive Doodads/FIREPITS/LargeFirePit01_lod01.skin
+3912332;World/Generic/Orc/Passive Doodads/FIREPITS/LargeFirePit01_lod02.skin
+3912333;World/Generic/Orc/Passive Doodads/FIREPITS/LargeFirePit01_lod03.skin
 3912351;World/Kalimdor/Azshara/PassiveDoodads/NAGAFLAGS/NagaFlag02_lod01.skin
 3912391;World/Goober/G_HologramBaseTanaris_lod01.skin
 3912392;World/Goober/G_HologramBaseTanaris_lod02.skin
@@ -207287,6 +207290,8 @@
 3917154;World/Azeroth/STRANGLETHORN/PASSIVEDOODADS/TREES/bootybayTree01_lod01.skin
 3917155;World/Azeroth/STRANGLETHORN/PASSIVEDOODADS/TREES/bootybayTree01_lod02.skin
 3917156;World/Azeroth/STRANGLETHORN/PASSIVEDOODADS/TREES/bootybayTree01_lod03.skin
+3917190;World/Azeroth/Westfall/PassiveDoodads/Cages/HangingCage02_lod01.skin
+3917191;World/Azeroth/Westfall/PassiveDoodads/Cages/HangingCage02_lod02.skin
 3917242;World/Generic/Orc/Passive Doodads/FIREPITS/SmallFirePit01_lod01.skin
 3917243;World/Generic/Orc/Passive Doodads/FIREPITS/SmallFirePit01_lod02.skin
 3917244;World/Generic/Orc/Passive Doodads/FIREPITS/SmallFirePit01_lod03.skin
@@ -307756,3 +307761,6 @@
 8446760;World/DUNGEON/SCARLETMONASTERY/PASSIVEDOODADS/FOUNTAINS/MonasteryFalls_lod03.skin
 8451621;World/Generic/PassiveDoodads/Lights/Candelbra_brass01.blp
 8460541;World/KhazModan/BLACKROCK/PASSIVEDOODADS/BLACKROCKLAVAFLOW/PartRock.blp
+8519766;World/Generic/NightElf/Passive Doodads/Lanterns/White8x8.blp
+8519904;World/Generic/NightElf/Passive Doodads/Lanterns/FlameLickSmallMagicBlue.blp
+8526416;World/Generic/Orc/Passive Doodads/FIREPITS/Ember_Offset_Streak.blp
