@@ -214729,6 +214729,7 @@
 7867325;models/unknown/unk_exp00_7864680/7864680_lod01.skin
 7867328;models/unknown/unk_exp00_7864680/7864680_lod02.skin
 7867331;models/unknown/unk_exp00_7864680/7864680_lod03.skin
+7867339;Item/ObjectComponents/Cape/cape_unk_7867339.m2
 7867342;models/creature/unk_exp00_7867342/7867342.m2
 7867418;models/creature/unk_exp00_7867418/7867418.m2
 7867552;Sound/Creature/7133443/7133443_fidget_7867552.ogg
@@ -216839,7 +216840,7 @@
 7938815;ITEM/ObjectComponents/Weapon/Knife_1H_Standard_A_01_7938815.blp
 7938816;ITEM/ObjectComponents/Weapon/Knife_1H_Standard_A_01_7938816.blp
 7938817;ITEM/ObjectComponents/Weapon/Knife_1H_Standard_A_01_7938817.blp
-7938821;Item/ObjectComponents/cape/cape_special_camping_d_01_green_7938821.blp
+7938821;Item/ObjectComponents/Cape/cape_unk_7867339_7938821.blp
 7939020;ITEM/ObjectComponents/Weapon/Sword_1H_Troll_B_01_7939020.blp
 7939021;ITEM/ObjectComponents/Weapon/Sword_1H_Troll_B_01_7939021.blp
 7939022;ITEM/ObjectComponents/Weapon/Sword_1H_Troll_B_01_7939022.blp
