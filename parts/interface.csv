@@ -144724,6 +144724,7 @@
 5426346;Interface/ICONS/INV_Helm_Misc_Rose_A_01_Red.blp
 5426347;Interface/ICONS/INV_Helm_Misc_Rose_A_01_White.blp
 5426348;Interface/ICONS/INV_Helm_Misc_Rose_A_01_Yellow.blp
+5426612;Interface/Glues/CharacterCreate/KioskAssets.blp
 5427013;Interface/AddOns/Blizzard_VexToolUI/Blizzard_VexTemplateBrowser.xml
 5427014;Interface/AddOns/Blizzard_VexToolUI/Blizzard_VexTemplateBrowser.lua
 5427015;Interface/AddOns/Blizzard_ToolsUI/ScriptObjectRTTI.lua
@@ -175368,6 +175369,7 @@
 8180973;Interface/QuestionFrame/answer-VaultsofUlatek.blp
 8181802;Interface/AddOns/Blizzard_Collections/Camelot/Blizzard_Wardrobe.lua
 8181803;Interface/AddOns/Blizzard_Collections/Standard/Blizzard_Wardrobe.lua
+8186625;Interface/Glues/CharacterCreate/KioskModeScreenc60.blp
 8187491;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerFrameProviders.lua
 8187492;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerGroups.lua
 8187493;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerSources.lua
@@ -176305,6 +176307,7 @@
 8507400;Interface/AddOns/Blizzard_ProjectConstants/Camelot/ProjectConstants.lua
 8508140;Interface/Gamepad/GamepadPressAndHoldc60.blp
 8509700;INTERFACE/CINEMATICS/FOR_160_CM.srt
+8510709;INTERFACE/CINEMATICS/FOR_160_CM.mp3
 8512555;Interface/AddOns/Blizzard_AchievementUI/Camelot/Blizzard_AchievementUI.lua
 8516310;Interface/AddOns/Blizzard_LegacySystem/Blizzard_LegacyAchievementOverrides.lua
 8517877;Interface/AddOns/Blizzard_SettingsDefinitions_Frame/Camelot/ColorblindOverrides.lua
@@ -176319,7 +176322,9 @@
 8518871;Interface/AddOns/Blizzard_UnitFrame/Mainline/RogueComboPoint.lua
 8518872;Interface/AddOns/Blizzard_UnitFrame/Mainline/RogueComboPoint.xml
 8519489;Interface/AddOns/Blizzard_Settings_Shared/Camelot/AudioOverrides.lua
+8519559;Interface/PvPFrame/PvPQueuec60.blp
 8524653;Interface/AddOns/Blizzard_CatalogShop/Blizzard_CatalogShop_Gamepad.lua
+8525024;Interface/Gamepad/GamepadPressAndHold.blp
 8526420;Interface/AddOns/Blizzard_InspectUI/Camelot/InspectGuildFrame.xml
 8526421;Interface/AddOns/Blizzard_InspectUI/Camelot/InspectGuildFrame.lua
 8526422;Interface/AddOns/Blizzard_InspectUI/Camelot/InspectPVPFrame.lua
