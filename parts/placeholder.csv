@@ -175,7 +175,6 @@
 1890052;spells/cfx_warlock_handofguldan_impfelfirebolt_missile_4_1890052.blp
 1890526;spells/textures/spellchaineffect_5891_1890526.blp
 1890531;spells/textures/spellchaineffect_5892_1890531.blp
-1897220;world/minimaps/wmo/autogen-names/unknown/12075_001_00_00.blp
 1936952;spells/textures/spellchaineffect_5891_1936952.blp
 1936954;spells/textures/spellchaineffect_5888_1936954.blp
 1936956;Sound/Spell/AcidExpulsion_cast_oneshot_1936956.ogg
@@ -229212,3 +229211,5 @@
 8527363;models/spells/unk_exp00_8527347/8527347_lod01.skin
 8527364;models/spells/unk_exp00_8527347/8527347_lod02.skin
 8527365;models/spells/unk_exp00_8527347/8527347_lod03.skin
+8531242;Creature/DwarfBearMountClassic/DwarfBearMountClassic_8531242.blp
+8531243;Creature/DwarfBearMountClassic/DwarfBearMountClassic_8531243.blp
