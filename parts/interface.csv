@@ -161537,6 +161537,9 @@
 6927208;Interface/ICONS/INV_BasaliskMount_FelSlate.blp
 6927209;Interface/ICONS/INV_BasaliskMount_LeyStone.blp
 6927308;Interface/ICONS/INV_Cape_Special_Dwarf_D_01.blp
+6928097;INTERFACE/CINEMATICS/TWW_1127_VSU_640.avi
+6928098;INTERFACE/CINEMATICS/TWW_1127_VSU_1280.avi
+6928099;INTERFACE/CINEMATICS/TWW_1127_VSU_1920.avi
 6929479;Interface/ICONS/INV_Polearm_2H_DungeonHarronir_C_01.blp
 6929512;Interface/AddOns/Blizzard_UIPanelTemplates/Shared/UIPanelSpellButtonFrame.xml
 6929513;Interface/AddOns/Blizzard_UIPanelTemplates/Shared/UIPanelSpellButtonFrame.lua
@@ -165719,6 +165722,7 @@
 7433936;Interface/ICONS/INV_Glove_Plate_RaidWarriorMidnight_D_01.blp
 7433937;Interface/ICONS/INV_Pant_Plate_RaidWarriorMidnight_D_01.blp
 7433976;Interface/EncounterJournal/UI-EJ-BOSS-Arcane Crowd Dispersing Construct.blp
+7435350;INTERFACE/CINEMATICS/TWW_1127_VSU.mp3
 7435587;Interface/AddOns/Blizzard_GamepadSharedUtility/InputPrompts/ScrollBarHint.xml
 7435588;Interface/AddOns/Blizzard_GamepadSharedUtility/InputPrompts/ScrollBarHint.lua
 7435911;Interface/AddOns/Blizzard_SharedXML/Shared/Button/IconButtonTemplate.lua
@@ -166547,6 +166551,7 @@
 7480226;Interface/LFGFRAME/UI-LFG-BACKGROUND-ProveYourWorth.blp
 7480227;Interface/LFGFRAME/UI-LFG-BACKGROUND-WindrunnerSpire.blp
 7480487;Interface/ICONS/INV_Polearm_2H_Ulatek_D_01.blp
+7481098;INTERFACE/CINEMATICS/TWW_1127_VSU.srt
 7481099;INTERFACE/CINEMATICS/TWW_1127_SCD.srt
 7481100;INTERFACE/CINEMATICS/TWW_1127_BRC.srt
 7481108;Interface/ICONS/INV_ConstructionDogPet.blp
@@ -170526,6 +170531,9 @@
 7702497;INTERFACE/CINEMATICS/MDN_1210_WUT_1280.avi
 7702498;INTERFACE/CINEMATICS/MDN_1210_WUT_1920.avi
 7702499;INTERFACE/CINEMATICS/MDN_1210_WUT_640.avi
+7702502;INTERFACE/CINEMATICS/MDN_1210_URF_1280.avi
+7702506;INTERFACE/CINEMATICS/MDN_1210_URF_1920.avi
+7702507;INTERFACE/CINEMATICS/MDN_1210_URF_640.avi
 7702708;Interface/achievement_dungeon_outland_dungeonmaster.blp
 7702709;Interface/achievement_reputation_tuskarr.blp
 7702710;Interface/inv_drink_17.blp
@@ -172794,6 +172802,7 @@
 8015795;Interface/AddOns/Blizzard_APIDocumentationGenerated/DurationTextBindingObjectAPIDocumentation.lua
 8017453;Interface/ICONS/INV_Helm_Armor_Mask_B_05.blp
 8018101;INTERFACE/CINEMATICS/MDN_1210_WUT.mp3
+8018102;INTERFACE/CINEMATICS/MDN_1210_URF.mp3
 8018396;Interface/ICONS/INV_Helm_Armor_Mask_B_06.blp
 8018698;Interface/AddOns/Blizzard_QuickJoin/QuickJoinFrame.xml
 8018699;Interface/AddOns/Blizzard_QuickJoin/QuickJoinFrame.lua
@@ -174715,6 +174724,8 @@
 8127994;Interface/Scenarios/ScenarioEvergreenWidgetShort2x.BLP
 8128276;Interface/WorldMap/TheCoiledIsle/TheCoiledIsleHighlight.blp
 8129326;Interface/Gamepad/GamepadMenuIcons.blp
+8129349;Interface/PetPaperDollFrame/UI-PetMad.blp
+8129350;Interface/PetPaperDollFrame/UI-PetNeutral.blp
 8129859;Interface/ICONS/INV_Chest_Armor_Baker_B_01.blp
 8129860;Interface/ICONS/INV_Glove_Armor_Baker_B_01.blp
 8129861;Interface/ICONS/INV_Helm_Armor_Baker_B_01.blp
@@ -175372,6 +175383,7 @@
 8181802;Interface/AddOns/Blizzard_Collections/Camelot/Blizzard_Wardrobe.lua
 8181803;Interface/AddOns/Blizzard_Collections/Standard/Blizzard_Wardrobe.lua
 8186625;Interface/Glues/CharacterCreate/KioskModeScreenc60.blp
+8186664;INTERFACE/CINEMATICS/MDN_1210_URF.srt
 8187491;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerFrameProviders.lua
 8187492;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerGroups.lua
 8187493;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerSources.lua
@@ -175429,6 +175441,8 @@
 8200923;Interface/AddOns/Blizzard_Professions/Camelot/Blizzard_ProfessionsCraftingOutputLog.lua
 8201009;Interface/CharacterSelection/Kiosk-Mode-End-Background-c60.blp
 8201010;Interface/CharacterSelection/Kiosk-Mode-Welcome-Background-c60.blp
+8201433;Interface/ICONS/INV_BearMisha.blp
+8201595;Interface/ICONS/INV_BoarHuffer.blp
 8202011;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerSlots.lua
 8202012;Interface/AddOns/Blizzard_AuraContainer/Blizzard_ManagedAuraContainer.lua
 8202188;Interface/AddOns/Blizzard_APIDocumentationGenerated/BlizzCon2026Documentation.lua
