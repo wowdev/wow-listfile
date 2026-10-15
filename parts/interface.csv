@@ -175468,6 +175468,15 @@
 8202632;Interface/AddOns/Blizzard_Kiosk/Gamescom2025/Glue.xml
 8202633;Interface/AddOns/Blizzard_Kiosk/Unused/Unused.lua
 8202634;Interface/AddOns/Blizzard_Kiosk/Unused/Unused.xml
+8202891;Interface/ICONS/INV_Cape_Armor_Rexxar_D_01_Red.blp
+8202892;Interface/ICONS/INV_Chest_Armor_Rexxar_D_01_Red.blp
+8202893;Interface/ICONS/INV_Glove_Armor_Rexxar_D_01_Red.blp
+8202894;Interface/ICONS/INV_Helm_Armor_Rexxar_D_01_Red.blp
+8202895;Interface/ICONS/INV_Pant_Armor_Rexxar_D_01_Red.blp
+8202896;Interface/ICONS/INV_Shoulder_Armor_Rexxar_D_01_Red.blp
+8202897;Interface/ICONS/INV_Shoulder_Armor_Rexxar_D_02_Red.blp
+8202898;Interface/ICONS/INV_Buckle_Armor_Rexxar_D_01_Red.blp
+8202899;Interface/ICONS/INV_Boot_Armor_Rexxar_D_01_Red.blp
 8202971;Interface/AddOns/Blizzard_APIDocumentationGenerated/InputInterfaceStyleDocumentation.lua
 8202972;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerEnchantments.lua
 8202973;Interface/AddOns/Blizzard_HousingBlueprint/Blizzard_HousingBlueprintUtils.lua
