@@ -214083,7 +214083,6 @@
 7849681;Creature/ProtodragonIceMount/ProtodragonIceMount_7849681.blp
 7849683;Creature/ProtodragonIceMount/ProtodragonIceMount_7849683.blp
 7849684;Creature/ProtodragonIceMount/ProtodragonIceMount_7849684.blp
-7849700;models/creature/unk_exp11_7849700/7849700.m2
 7849746;Sound/Spell/SummonMonstrosity_channelstart_loop_7849746.ogg
 7849748;Sound/Spell/SummonMonstrosity_channelstart_loop_7849748.ogg
 7849750;Sound/Spell/SummonMonstrosity_channelstart_loop_7849750.ogg
@@ -215403,9 +215402,6 @@
 7876395;ITEM/ObjectComponents/Weapon/Offhand_Blackwing_A_01_7876395.blp
 7876396;ITEM/ObjectComponents/Weapon/Offhand_Blackwing_A_01_7876396.blp
 7876416;models/unktextures/ArmorReflect4_7876416.blp
-7876430;Creature/DRAKEMOUNT/DrakeMount_7876430.blp
-7876431;Creature/DRAKEMOUNT/DrakeMount_7876431.blp
-7876433;Creature/DRAKEMOUNT/DrakeMount_7876433.blp
 7876451;Sound/Creature/7234130/7234130_wingflap_7876451.ogg
 7876453;Sound/Creature/7234130/7234130_wingflap_7876453.ogg
 7876455;Sound/Creature/7234130/7234130_wingflap_7876455.ogg
@@ -216592,9 +216588,6 @@
 7932582;Shaders/Compute/dx_6_0/unknown_7932582_VolumeFogT-zz.bls
 7932585;Shaders/Compute/mtl_1_1/unknown_7932585_VolumeFogT-zz.bls
 7932941;Creature/BroomstickSpiceWitch/BroomstickSpiceWitch_7932941.blp
-7932952;Creature/MurlocMount/MurlocMount_7932952.blp
-7932958;Creature/MurlocMount/MurlocMount_7932958.blp
-7933423;Interface/Icons/Unknown_7933423.blp
 7933478;Sound/Emitters/12.1Amb-Zone5-UlaTek-ZoneTone-EXT-P35-53_24-IslandA_0_7933478.ogg
 7933484;Sound/Emitters/12.1Amb-Zone5-UlaTek-ZoneTone-EXT-M38-56_21-IslandB_0_7933484.ogg
 7933486;Sound/Emitters/12.1Amb-Zone5-UlaTek-ZoneTone-EXT-I36-54_17-IslandC_0_7933486.ogg
@@ -218663,7 +218656,6 @@
 7958313;World/WMO/autogen-names/unknown/20959_7958313.blp
 7958314;World/WMO/autogen-names/unknown/20959_020.wmo
 7958379;SPELLS/Corruption_ImpactDot_Med_Base_7958379.blp
-7958551;Interface/Icons/Unknown_7958551.blp
 7958634;Sound/Creature/Undying_Servant/VO_121_Undying_Servant_7958634.ogg
 7958650;World/WMO/autogen-names/unknown/21122.wmo
 7958652;World/WMO/autogen-names/unknown/21127.wmo
@@ -220004,9 +219996,8 @@
 7967506;World/Expansion11/Doodads/Troll/12TR_Amani_Door01_7967506.blp
 7967528;models/unknown/unk_exp11_7967528/7967528.m2
 7967530;Spells/FX_RageoftheShackled_Impact_7967530.blp
-7967541;models/unktextures/ArmorReflect4_7967541.blp
-7967545;models/unktextures/Organic_Smooth_7967545.blp
-7967547;models/unktextures/8FX_HeroAura_Shadowflame_Blur_7967547.blp
+7967551;Creature/DreadgliderMount/DreadgliderMount_7967551.blp
+7967554;Creature/DreadgliderMount/DreadgliderMount_7967554.blp
 7967607;models/world/unk_exp00_7967607/7967607.m2
 7967612;Interface/Icons/BlackWardenSaberMount_7967612.blp
 7967613;Interface/Icons/BrownWardenSaberMount_7967613.blp
@@ -228380,7 +228371,6 @@
 8358382;sound/doodad/go_FX_QuestGenericCoreFXUtilityStandHereQuestAreaTrigger_loop_8358382.ogg
 8358384;sound/doodad/go_FX_QuestGenericCoreFXUtilityStandHereQuestAreaTrigger_loop_8358384.ogg
 8358386;sound/doodad/go_FX_QuestGenericCoreFXUtilityStandHereQuestAreaTrigger_loop_8358386.ogg
-8365196;Creature/DRAKEMOUNT/DrakeMount_8365196.blp
 8365197;World/WMO/autogen-names/unknown/21730_000_lod1.blp
 8365198;World/WMO/autogen-names/unknown/21730_000_lod2.blp
 8365199;World/WMO/autogen-names/unknown/21730_000_lod3.blp
@@ -229273,5 +229263,3 @@
 8527363;models/spells/unk_exp00_8527347/8527347_lod01.skin
 8527364;models/spells/unk_exp00_8527347/8527347_lod02.skin
 8527365;models/spells/unk_exp00_8527347/8527347_lod03.skin
-8531242;Creature/DwarfBearMountClassic/DwarfBearMountClassic_8531242.blp
-8531243;Creature/DwarfBearMountClassic/DwarfBearMountClassic_8531243.blp

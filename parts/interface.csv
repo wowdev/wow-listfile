@@ -171885,6 +171885,7 @@
 7931300;Interface/ICONS/INV_DwarfBearSnowMount.blp
 7931707;Interface/ICONS/INV_DwarfBearSnowMount_c60.blp
 7931761;Interface/ICONS/INV_PigmyOwlMount.blp
+7933423;Interface/ICONS/INV_MurlocMount_Black.blp
 7935043;Interface/AddOns/Blizzard_Narration/Blizzard_Narration.toc
 7935044;Interface/AddOns/Blizzard_Narration/Blizzard_NarrationManager.lua
 7935045;Interface/AddOns/Blizzard_Narration/Blizzard_NarrationUtil.lua
@@ -172479,6 +172480,7 @@
 7958264;Interface/WorldMap/Tirisfal_C60/WhisperingForest2.blp
 7958265;Interface/WorldMap/Tirisfal_C60/WhisperingForest3.blp
 7958266;Interface/WorldMap/Tirisfal_C60/WhisperingForest4.blp
+7958551;Interface/ICONS/INV_DreadgliderMount.blp
 7958571;Interface/Cursor/Crosshair/UICrosshairMissions2x.BLP
 7958573;Interface/Cursor/Crosshair/UICrosshairMove2x.BLP
 7958575;Interface/Cursor/Crosshair/UICrosshairPetBattleGreen2x.BLP

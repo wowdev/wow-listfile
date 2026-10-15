@@ -83403,6 +83403,7 @@
 7849694;Creature/ProtodragonIceMount/ProtodragonIceMount_lod01.skin
 7849695;Creature/ProtodragonIceMount/ProtodragonIceMount_lod02.skin
 7849696;Creature/ProtodragonIceMount/ProtodragonIceMount_lod03.skin
+7849700;Creature/DreadgliderMount/DreadgliderMount.m2
 7851645;Creature/BroomstickSpiceWitch/BroomstickSpiceWitch.m2
 7851766;Creature/ChameleonMount/ChameleonMount.m2
 7864260;Creature/DwarfBearMount/DwarfBearMount.m2
@@ -83441,6 +83442,9 @@
 7873622;Creature/ShaOwlMount_Classic/ShaOwlMount_Saddle_Classic.blp
 7873623;Creature/ShaOwlMount_Classic/ShaOwlMount_Saddle_Glow_Classic.blp
 7874976;Creature/RabbitMountVoid/7FX_AlphaMask_Glow.blp
+7876430;Creature/DrakeMount/DrakeSkinLightBlue1.blp
+7876431;Creature/DrakeMount/DrakeSkinLightBlue2.blp
+7876433;Creature/DrakeMount/DrakeSkinLightBlue3.blp
 7877889;Creature/CauldronDrustvarMount/Smoke_Loose_02_256_Blend.blp
 7877893;Creature/CauldronDrustvarMount/White_64.blp
 7877901;Creature/CauldronDrustvarMount/7fx_arcane_wisps_blank.blp
@@ -83698,6 +83702,10 @@
 7932946;Creature/BroomstickSpiceWitch/BroomstickSpiceWitch_lod01.skin
 7932947;Creature/BroomstickSpiceWitch/BroomstickSpiceWitch_lod02.skin
 7932948;Creature/BroomstickSpiceWitch/BroomstickSpiceWitch_lod03.skin
+7932952;Creature/MurlocMount/MurlocMount_Body_Black.blp
+7932958;Creature/MurlocMount/MurlocMount_Saddle_Black.blp
+7935048;Creature/MurlocMount/MurlocMount_Saddle_White.blp
+7935049;Creature/MurlocMount/MurlocMount_Body_White.blp
 7935897;Creature/BroomstickSpiceWitch/BroomstickSpiceWitch_Green.blp
 7935898;Creature/BroomstickSpiceWitch/BroomstickSpiceWitch_Grey.blp
 7935899;Creature/BroomstickSpiceWitch/BroomstickSpiceWitch_Hallow.blp
@@ -83795,6 +83803,9 @@
 7952796;Creature/CatSkyborneMountClassic/CatSkyborneMountClassic_Saddle_Green.blp
 7952797;Creature/CatSkyborneMountClassic/CatSkyborneMountClassic_Saddle_White.blp
 7958137;Creature/UndeadPaladinMount_C60/UndeadPaladinMountBasic_C60.m2
+7958548;Creature/DreadgliderMount/DreadgliderMount_Glow.blp
+7958549;Creature/DreadgliderMount/DreadgliderMount_Body.blp
+7958550;Creature/DreadgliderMount/DreadgliderMount_Saddle.blp
 7962201;Creature/UndeadPaladinMount_C60/UndeadPaladinMountBasic_C60.blp
 7962202;Creature/UndeadPaladinMount_C60/UndeadPaladinMountBasic_C600061-00.anim
 7962203;Creature/UndeadPaladinMount_C60/UndeadPaladinMountBasic_C600062-00.anim
@@ -83807,6 +83818,9 @@
 7966929;Creature/Spells/ValentinesDummy_lod02.skin
 7966974;Creature/Spells/GenericGlow64.blp
 7966980;Creature/Spells/RIBBONMAGIC2.blp
+7967541;Creature/DreadgliderMount/ArmorReflect4.blp
+7967545;Creature/DreadgliderMount/Organic_Smooth.blp
+7967547;Creature/DreadgliderMount/8FX_HeroAura_Shadowflame_Blur.blp
 7972644;Creature/Spells/RIBBONBLUR1D.blp
 7972645;Creature/Spells/Yellow_Glow3.blp
 7975816;Creature/DwarfBearMount/ArmorReflect4.blp
@@ -84282,6 +84296,7 @@
 8309262;Creature/FungalStriderMount/7FX_AlphaMask_Glow_Red_Desat.blp
 8309263;Creature/FungalStriderMount/White_64.blp
 8309265;Creature/FungalStriderMount/Gradient_Vertical2.blp
+8365196;Creature/DrakeMount/DrakeMount_LightBlueSaddle.blp
 8382513;Creature/DruidBear/DruidBear_Legacy_lod01.skin
 8382514;Creature/DruidBear/DruidBear_Legacy_lod02.skin
 8382515;Creature/DruidBear/DruidBear_Legacy_lod03.skin
@@ -84306,3 +84321,5 @@
 8520686;Creature/SporeCreature/SporeCreature_lod01.skin
 8520687;Creature/SporeCreature/SporeCreature_lod02.skin
 8520689;Creature/SporeCreature/SporeCreature_lod03.skin
+8531242;Creature/DwarfBearMountClassic/DwarfBearMountClassic_Green.blp
+8531243;Creature/DwarfBearMountClassic/DwarfBearMountClassicSaddle_Green.blp
