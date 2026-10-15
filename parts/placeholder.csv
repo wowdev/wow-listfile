@@ -222563,7 +222563,6 @@
 8038320;models/unknown/unk_exp00_7868965/7868965_lod01.skin
 8038321;models/unknown/unk_exp00_7868965/7868965_lod02.skin
 8038322;models/unknown/unk_exp00_7868965/7868965_lod03.skin
-8038323;Interface/Icons/Unknown_8038323.blp
 8038380;models/unktextures/wispymagic_necro_alift_8038380.blp
 8038381;models/unktextures/7FX_LightraysUp_Bright_8038381.blp
 8038384;models/unktextures/wispymagic_necro_thin_a_8038384.blp
@@ -229986,10 +229985,6 @@
 8415172;models/creature/unk_exp11_7869411/7869411_8415172.blp
 8415173;models/creature/unk_exp11_7869411/7869411_8415173.blp
 8415178;models/creature/unk_exp11_7869411/7869411_8415178.blp
-8415179;Interface/Icons/StegodonPrimalPetBlack_8415179.blp
-8415180;Interface/Icons/StegodonPrimalPetBlue_8415180.blp
-8415181;Interface/Icons/StegodonPrimalPetGreen_8415181.blp
-8415182;Interface/Icons/StegodonPrimalPetPurple_8415182.blp
 8415183;models/creature/unk_exp11_7869411/7869411_8415183.blp
 8415196;models/creature/unk_exp11_7869411/ArmorReflect4.blp
 8415199;models/creature/unk_exp11_7869411/78694110061-00.anim
@@ -230007,9 +230002,6 @@
 8415313;models/creature/unk_exp11_7869409/7869409_8415313.blp
 8415314;models/creature/unk_exp11_7869409/7869409_8415314.blp
 8415315;models/creature/unk_exp11_7869409/7869409_8415315.blp
-8415317;Interface/Icons/PHStegodonBlack_8415317.blp
-8415318;Interface/Icons/PHStegodonGreen_8415318.blp
-8415319;Interface/Icons/PHStegodonPurple_8415319.blp
 8415320;models/creature/unk_exp11_7869409/7869409_8415320.blp
 8415329;models/creature/unk_exp11_7869409/7869409_8415329.blp
 8415330;models/creature/unk_exp11_7869409/7869409_8415330.blp
@@ -231081,7 +231073,6 @@
 8475677;Sound/Creature/humanmalekid2/humanmalekid2_fidget_8475677.ogg
 8475793;models/creature/unk_exp11_8475793/8475793.m2
 8475795;models/creature/unk_exp11_8475793/8475793_8475795.blp
-8475796;Interface/Icons/WinterrrglsPinePoweredCandyCaneContraption_8475796.blp
 8475797;models/creature/unk_exp11_8475793/ember_chunky_blank_a.blp
 8475798;models/creature/unk_exp11_8475793/White8x8.blp
 8475799;models/creature/unk_exp11_8475793/Smoke_Loose_02_256_Blend.blp
@@ -232082,7 +232073,6 @@
 8519732;models/unktextures/7FX_AlphaMask_Glow_8519732.blp
 8519750;models/spells/unk_exp00_8519645/851964500.skin
 8519771;models/spells/unk_exp00_8519643/851964300.skin
-8519836;Interface/Icons/AutumnDreamJumper_8519836.blp
 8519839;creature/toadardenwealdmount/toadardenwealdmount_8519839.blp
 8519840;creature/toadardenwealdmount/toadardenwealdmount_8519840.blp
 8519841;creature/toadardenwealdmount/toadardenwealdmount_8519841.blp
@@ -232141,7 +232131,6 @@
 8523622;models/unknown/unk_exp11_8270243_8448033/8270243_8448033_8523622.blp
 8523623;models/unknown/unk_exp11_8270243_8448033/8270243_8448033_8523623.blp
 8523678;models/unktextures/Fire_FlameLicks_DissolveFBs_Blend_8523678.blp
-8525119;Interface/Buttons/TalkToMe_Chat_8525119.blp
 8526316;models/item/unk_exp11_8526316/8526316.m2
 8526317;models/item/unk_exp11_8526317/8526317.m2
 8526319;Interface/Icons/Unknown_8526319.blp
@@ -232231,7 +232220,6 @@
 8529527;models/world/unk_exp11_7832548/7832548_lod03.skin
 8531194;models/unknown/unk_exp11_8494572_8531292/8494572_8531292_8531194.blp
 8531196;models/unknown/unk_exp11_8494572_8531292/8494572_853129200.skin
-8531288;Interface/Icons/PHStegodonBlue_8531288.blp
 8531292;Housing/Icons/INV_8494572_8531292.blp
 8531374;models/environments/stars/8531374.m2
 8531726;models/environments/stars/853137400.skin
