@@ -206301,6 +206301,9 @@
 3896296;world/generic/passivedoodads/particleemitters/aurapurple_lod01.skin
 3896297;world/generic/passivedoodads/particleemitters/aurapurple_lod02.skin
 3896298;world/generic/passivedoodads/particleemitters/aurapurple_lod03.skin
+3896425;World/Goober/G_FrostTrap_lod01.skin
+3896426;World/Goober/G_FrostTrap_lod02.skin
+3896427;World/Goober/G_FrostTrap_lod03.skin
 3896514;World/Generic/Human/Passive Doodads/SIGNS/ArmorerShop01_lod01.skin
 3896515;World/Generic/Human/Passive Doodads/SIGNS/ArmorerShop01_lod02.skin
 3896516;World/Generic/Human/Passive Doodads/SIGNS/ArmorerShop01_lod03.skin
@@ -206337,6 +206340,8 @@
 3897111;World/Expansion01/Doodads/Sunwell/Passivedoodads/Sunwell/SunwellRaid_Gate_03_lod01.skin
 3897113;World/Expansion01/Doodads/Sunwell/Passivedoodads/Sunwell/SunwellRaid_Gate_03_lod02.skin
 3897114;World/Expansion01/Doodads/Sunwell/Passivedoodads/Sunwell/SunwellRaid_Gate_03_lod03.skin
+3897203;World/Azeroth/Duskwood/PassiveDoodads/TREES/DuskwoodTreeCanopy01_lod01.skin
+3897206;World/Azeroth/Duskwood/PassiveDoodads/TREES/DuskwoodTreeCanopy01_lod02.skin
 3897313;World/SkillActivated/TradeskillEnablers/Tradeskill_AlchemySet_03_lod01.skin
 3897314;World/SkillActivated/TradeskillEnablers/Tradeskill_AlchemySet_03_lod02.skin
 3897315;World/SkillActivated/TradeskillEnablers/Tradeskill_AlchemySet_03_lod03.skin
@@ -206417,6 +206422,8 @@
 3898766;World/Expansion01/Doodads/Generic/Arakkoa/Totem/AK_Totem01_lod01.skin
 3898768;World/Expansion01/Doodads/Generic/Arakkoa/Totem/AK_Totem01_lod02.skin
 3898769;World/Expansion01/Doodads/Generic/Arakkoa/Totem/AK_Totem01_lod03.skin
+3898893;World/Azeroth/Duskwood/PassiveDoodads/SPOOKLESSTREES/DuskwoodTreeSpookless02_lod01.skin
+3898894;World/Azeroth/Duskwood/PassiveDoodads/SPOOKLESSTREES/DuskwoodTreeSpookless02_lod02.skin
 3898903;World/Goober/G_ScourgeRuneCircleCrystal_lod01.skin
 3898905;World/Goober/G_ScourgeRuneCircleCrystal_lod02.skin
 3898907;World/Goober/G_ScourgeRuneCircleCrystal_lod03.skin
@@ -206441,6 +206448,8 @@
 3899264;World/Generic/PVP/Runes/PVP_Rune_Restoration_lod01.skin
 3899265;World/Generic/PVP/Runes/PVP_Rune_Restoration_lod02.skin
 3899266;World/Generic/PVP/Runes/PVP_Rune_Restoration_lod03.skin
+3899343;World/Azeroth/Duskwood/PassiveDoodads/TREES/DuskwoodTree06_lod01.skin
+3899344;World/Azeroth/Duskwood/PassiveDoodads/TREES/DuskwoodTree06_lod02.skin
 3899441;World/Expansion01/Doodads/Generic/ETHEREAL/Collector/ET_Collector01_lod01.skin
 3899442;World/Expansion01/Doodads/Generic/ETHEREAL/Collector/ET_Collector01_lod02.skin
 3899443;World/Expansion01/Doodads/Generic/ETHEREAL/Collector/ET_Collector01_lod03.skin
@@ -206592,8 +206601,11 @@
 3902636;World/DREAMING/PASSIVEDOODADS/TREES/EmeraldDreamFountainTree04_lod01.skin
 3902637;World/DREAMING/PASSIVEDOODADS/TREES/EmeraldDreamFountainTree04_lod02.skin
 3902638;World/DREAMING/PASSIVEDOODADS/TREES/EmeraldDreamFountainTree04_lod03.skin
+3902723;World/Azeroth/Duskwood/PassiveDoodads/TREES/DuskwoodTree07_lod01.skin
 3902724;World/Generic/PassiveDoodads/Lights/FreestandingTorch01_lod01.skin
+3902725;World/Azeroth/Duskwood/PassiveDoodads/TREES/DuskwoodTree07_lod02.skin
 3902726;World/Generic/PassiveDoodads/Lights/FreestandingTorch01_lod02.skin
+3902727;World/Azeroth/Duskwood/PassiveDoodads/TREES/DuskwoodTree07_lod03.skin
 3902767;World/KhazModan/BLACKROCK/PASSIVEDOODADS/DeathWingExperiments/BlackRockBloodMachine02_lod01.skin
 3902768;World/KhazModan/BLACKROCK/PASSIVEDOODADS/DeathWingExperiments/BlackRockBloodMachine02_lod02.skin
 3902769;World/KhazModan/BLACKROCK/PASSIVEDOODADS/DeathWingExperiments/BlackRockBloodMachine02_lod03.skin
@@ -206631,6 +206643,8 @@
 3903590;World/Kalimdor/Kalidar/PassiveDoodads/OracleTree/OracleTree_lod01.skin
 3903591;World/Kalimdor/Kalidar/PassiveDoodads/OracleTree/OracleTree_lod02.skin
 3903592;World/Kalimdor/Kalidar/PassiveDoodads/OracleTree/OracleTree_lod03.skin
+3903637;World/Azeroth/Duskwood/PassiveDoodads/TREES/DuskwoodTreeCanopy02_lod01.skin
+3903638;World/Azeroth/Duskwood/PassiveDoodads/TREES/DuskwoodTreeCanopy02_lod02.skin
 3903701;World/Azeroth/Karazahn/PassiveDoodads/SCONCES/KarazahnSconce03_lod01.skin
 3903702;World/Azeroth/Karazahn/PassiveDoodads/SCONCES/KarazahnSconce03_lod02.skin
 3903703;World/Azeroth/Karazahn/PassiveDoodads/SCONCES/KarazahnSconce03_lod03.skin
@@ -206778,6 +206792,9 @@
 3906142;world/goober/g_pumpkin_03_lod01.skin
 3906144;world/goober/g_pumpkin_03_lod02.skin
 3906145;world/goober/g_pumpkin_03_lod03.skin
+3906152;World/Goober/G_ImmolationTrap_lod01.skin
+3906153;World/Goober/G_ImmolationTrap_lod02.skin
+3906154;World/Goober/G_ImmolationTrap_lod03.skin
 3906254;World/KhazModan/BLACKROCK/PASSIVEDOODADS/BLACKROCKLAVAFLOW/BlackrockStatueLavaFlowWide_lod01.skin
 3906255;World/KhazModan/BLACKROCK/PASSIVEDOODADS/BLACKROCKLAVAFLOW/BlackrockStatueLavaFlowWide_lod02.skin
 3906423;world/generic/passivedoodads/particleemitters/auragreen_lod01.skin
@@ -206871,6 +206888,9 @@
 3907787;World/Generic/Human/Passive Doodads/Outposts/GeneralOutpost07_lod01.skin
 3907788;World/Generic/Human/Passive Doodads/Outposts/GeneralOutpost07_lod02.skin
 3907789;World/Generic/Human/Passive Doodads/Outposts/GeneralOutpost07_lod03.skin
+3907927;World/Kalimdor/Winterspring/PassiveDoodads/Trees/NewWinterspringTree02_lod01.skin
+3907928;World/Kalimdor/Winterspring/PassiveDoodads/Trees/NewWinterspringTree02_lod02.skin
+3907929;World/Kalimdor/Winterspring/PassiveDoodads/Trees/NewWinterspringTree02_lod03.skin
 3907931;World/Lordaeron/Scholomance/PassiveDoodads/CANDLES/Scholme_Candelabra03_lod01.skin
 3907933;World/Lordaeron/Scholomance/PassiveDoodads/CANDLES/Scholme_Candelabra03_lod02.skin
 3907935;World/Lordaeron/Scholomance/PassiveDoodads/CANDLES/Scholme_Candelabra03_lod03.skin
@@ -206895,6 +206915,9 @@
 3908382;World/KhazModan/BLACKROCK/PASSIVEDOODADS/Doors/BlackRockCellDoor01_lod01.skin
 3908383;World/KhazModan/BLACKROCK/PASSIVEDOODADS/Doors/BlackRockCellDoor01_lod02.skin
 3908384;World/KhazModan/BLACKROCK/PASSIVEDOODADS/Doors/BlackRockCellDoor01_lod03.skin
+3908487;World/Goober/G_FreezingTrap_lod01.skin
+3908488;World/Goober/G_FreezingTrap_lod02.skin
+3908491;World/Goober/G_FreezingTrap_lod03.skin
 3908756;world/expansion01/doodads/hellfirecitadel/demonwing/passivedoodads/doors/main_prison _door00.skin
 3908767;World/Goober/G_BrazierOrcPurple_lod01.skin
 3908768;World/Goober/G_BrazierOrcPurple_lod02.skin
@@ -206950,6 +206973,9 @@
 3909929;World/Expansion01/Doodads/ZANGAR/MUSHROOM/ZangarMushroomTree06_lod01.skin
 3909930;World/Expansion01/Doodads/ZANGAR/MUSHROOM/ZangarMushroomTree06_lod02.skin
 3909931;World/Expansion01/Doodads/ZANGAR/MUSHROOM/ZangarMushroomTree06_lod03.skin
+3909992;World/Kalimdor/FELWOOD/PASSIVEDOODADS/TREE/FelwoodTree06_lod01.skin
+3909993;World/Kalimdor/FELWOOD/PASSIVEDOODADS/TREE/FelwoodTree06_lod02.skin
+3909994;World/Kalimdor/FELWOOD/PASSIVEDOODADS/TREE/FelwoodTree06_lod03.skin
 3910013;World/Lordaeron/Scholomance/PassiveDoodads/CANDLES/FloorCandlesStraight04Red_lod01.skin
 3910014;World/Lordaeron/Scholomance/PassiveDoodads/CANDLES/FloorCandlesStraight04Red_lod02.skin
 3910015;World/Lordaeron/Scholomance/PassiveDoodads/CANDLES/FloorCandlesStraight04Red_lod03.skin
@@ -206981,6 +207007,9 @@
 3910436;World/Generic/DARKIRONDWARF/PASSIVE DOODADS/Tools/DarkIronSaw01_lod03.skin
 3910607;World/Generic/Human/Passive Doodads/Lamps/WesternPlaguelandsLampost01_lod01.skin
 3910608;World/Generic/Human/Passive Doodads/Lamps/WesternPlaguelandsLampost01_lod02.skin
+3910713;World/Kalimdor/FELWOOD/PASSIVEDOODADS/TREE/FelwoodTree05_lod01.skin
+3910714;World/Kalimdor/FELWOOD/PASSIVEDOODADS/TREE/FelwoodTree05_lod02.skin
+3910715;World/Kalimdor/FELWOOD/PASSIVEDOODADS/TREE/FelwoodTree05_lod03.skin
 3910847;world/generic/passivedoodads/particleemitters/auraredverytall_lod01.skin
 3910848;world/generic/passivedoodads/particleemitters/auraredverytall_lod02.skin
 3910849;world/generic/passivedoodads/particleemitters/auraredverytall_lod03.skin
@@ -207104,6 +207133,9 @@
 3913066;World/Generic/Human/Passive Doodads/SIGNS/Tailor01_lod01.skin
 3913067;World/Generic/Human/Passive Doodads/SIGNS/Tailor01_lod02.skin
 3913068;World/Generic/Human/Passive Doodads/SIGNS/Tailor01_lod03.skin
+3913127;World/Goober/G_ExplosiveTrap_lod01.skin
+3913128;World/Goober/G_ExplosiveTrap_lod02.skin
+3913129;World/Goober/G_ExplosiveTrap_lod03.skin
 3913146;World/Kalimdor/MAURADON/PASSIVEDOODADS/FLOWERS/Maraudon_DrippingFlower01_lod01.skin
 3913147;World/Kalimdor/MAURADON/PASSIVEDOODADS/FLOWERS/Maraudon_DrippingFlower01_lod02.skin
 3913148;World/Kalimdor/MAURADON/PASSIVEDOODADS/FLOWERS/Maraudon_DrippingFlower01_lod03.skin
@@ -207310,6 +207342,8 @@
 3917249;World/Generic/PVP/BattlefieldBanners/BattlefieldBannerNeutralFlagOnly_lod01.skin
 3917250;World/Generic/PVP/BattlefieldBanners/BattlefieldBannerNeutralFlagOnly_lod02.skin
 3917251;World/Generic/PVP/BattlefieldBanners/BattlefieldBannerNeutralFlagOnly_lod03.skin
+3917260;World/Azeroth/Duskwood/PassiveDoodads/SPOOKLESSTREES/DuskwoodTreeSpookless01_lod01.skin
+3917261;World/Azeroth/Duskwood/PassiveDoodads/SPOOKLESSTREES/DuskwoodTreeSpookless01_lod02.skin
 3917364;world/expansion08/doodads/korthia/9mxt_coneplant_c01.m2
 3917366;world/expansion08/doodads/korthia/9mxt_coneplant_c02.m2
 3917368;world/expansion08/doodads/korthia/9mxt_coneplant_c03.m2
@@ -309900,3 +309934,15 @@
 8519766;World/Generic/NightElf/Passive Doodads/Lanterns/White8x8.blp
 8519904;World/Generic/NightElf/Passive Doodads/Lanterns/FlameLickSmallMagicBlue.blp
 8526416;World/Generic/Orc/Passive Doodads/FIREPITS/Ember_Offset_Streak.blp
+8530970;World/Kalimdor/FELWOOD/PASSIVEDOODADS/TREE/PartRock.blp
+8533601;World/Generic/ActiveDoodads/InstancePortal/White8x8.blp
+8538929;World/Azeroth/Duskwood/PassiveDoodads/TREES/DuskwoodTreeCanopy02_lod03.skin
+8540104;World/Generic/PassiveDoodads/Band/fire_spray1.blp
+8540106;World/Generic/PassiveDoodads/Band/LavaLump2.blp
+8540108;World/Generic/PassiveDoodads/Band/fireball_faded1.blp
+8540112;World/Generic/PassiveDoodads/Band/jlo_wtauren_trim02.blp
+8540114;World/Generic/PassiveDoodads/Band/jlo_wtauren_walldoor.blp
+8540120;World/Generic/PassiveDoodads/Band/final_stage_lod01.skin
+8540122;World/Generic/PassiveDoodads/Band/final_stage_lod02.skin
+8540124;World/Generic/PassiveDoodads/Band/final_stage_lod03.skin
+8547595;World/Goober/Dust1_A.blp

@@ -176583,6 +176583,9 @@
 8526423;Interface/AddOns/Blizzard_InspectUI/Camelot/InspectPVPFrame.xml
 8526957;Interface/AddOns/Blizzard_UnitFrame/Camelot/TargetBoundComboPointBar.lua
 8527852;Interface/AddOns/Blizzard_Settings_Shared/Camelot/NewDefinitions.lua
+8528956;Interface/Glues/Models/UI_NightElf/White8x8.blp
+8528958;Interface/Glues/Models/UI_NightElf/7fx_alphamask_flairblur_a_snake3.blp
+8528962;Interface/Glues/Models/UI_NightElf/white_64.blp
 8529186;Interface/AddOns/Blizzard_NewPlayerExperience/Camelot/Blizzard_TutorialData.lua
 8529187;Interface/AddOns/Blizzard_NewPlayerExperience/Camelot/Blizzard_TutorialKeyboardMouseFrame.xml
 8529188;Interface/AddOns/Blizzard_NewPlayerExperience/Camelot/Blizzard_TutorialLogicOverrides.lua
@@ -176641,3 +176644,6 @@
 8547387;Interface/AddOns/Blizzard_BattlefieldMap/Camelot/Blizzard_BattlefieldMap.lua
 8547388;Interface/AddOns/Blizzard_SubscriptionInterstitialUI/Camelot/Blizzard_SubscriptionInterstitialUI.lua
 8547607;Interface/AddOns/Blizzard_APIDocumentationGenerated/DistrictConstantsDocumentation.lua
+8552586;Interface/AddOns/Blizzard_ActionBar/Camelot/ActionButtonOverrides.lua
+8552587;Interface/AddOns/Blizzard_APIDocumentationGenerated/DeathRecapConstantsDocumentation.lua
+8552588;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchTableOverrides.lua

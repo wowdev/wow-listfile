@@ -191392,6 +191392,9 @@
 3669237;item/objectcomponents/head/helm_plate_nzothraidmythic_d_01_tr_m_lod01.skin
 3669239;item/objectcomponents/head/helm_plate_nzothraidmythic_d_01_tr_m_lod02.skin
 3669241;item/objectcomponents/head/helm_plate_nzothraidmythic_d_01_tr_m_lod03.skin
+3669245;ITEM/ObjectComponents/Shoulder/LShoulder_Leather_DungeonDruid_A_01_lod01.skin
+3669248;ITEM/ObjectComponents/Shoulder/LShoulder_Leather_DungeonDruid_A_01_lod02.skin
+3669250;ITEM/ObjectComponents/Shoulder/LShoulder_Leather_DungeonDruid_A_01_lod03.skin
 3669442;item/objectcomponents/head/helm_leather_raidrogue_d_01_orm_lod01.skin
 3669444;item/objectcomponents/head/helm_leather_raidrogue_d_01_orm_lod02.skin
 3669446;item/objectcomponents/head/helm_leather_raidrogue_d_01_nim_lod01.skin
@@ -212729,6 +212732,9 @@
 4510259;item/objectcomponents/shoulder/shouldereather_raidmonkprimalist_d_01_AirMythic.blp
 4510260;item/objectcomponents/shoulder/shouldereather_raidmonkprimalist_d_01_FireMythic.blp
 4510262;item/objectcomponents/shoulder/shouldereather_raidmonkprimalist_d_01_Water.blp
+4513229;ITEM/ObjectComponents/Shoulder/RShoulder_Leather_DungeonDruid_A_01_lod01.skin
+4513231;ITEM/ObjectComponents/Shoulder/RShoulder_Leather_DungeonDruid_A_01_lod02.skin
+4513233;ITEM/ObjectComponents/Shoulder/RShoulder_Leather_DungeonDruid_A_01_lod03.skin
 4513342;ITEM/ObjectComponents/Shield/flare.blp
 4516616;item/objectcomponents/weapon/staff_2h_alchemy_b_01.m2
 4516617;item/objectcomponents/collections/armor_helm_alchemy_b_01_be_m.m2
@@ -338132,6 +338138,9 @@
 8526410;ITEM/ObjectComponents/Shoulder/RShoulder_Robe_Common_B_03_lod02.skin
 8526804;Item/ObjectComponents/Head/Helm_Mail_A_02_HuM_lod01.skin
 8526805;Item/ObjectComponents/Head/Helm_Mail_A_02_HuM_lod02.skin
+8526826;Item/ObjectComponents/Head/Helm_Eyepatch_A_01_NiM_lod01.skin
+8526828;Item/ObjectComponents/Head/Helm_Eyepatch_A_01_NiM_lod02.skin
+8526836;Item/ObjectComponents/Head/Helm_Eyepatch_A_01_GnM_lod01.skin
 8526867;Item/ObjectComponents/Head/Helm_Mail_D_01_HuF_lod01.skin
 8526871;Item/ObjectComponents/Head/Helm_Mail_D_01_GnF_lod01.skin
 8527188;Item/ObjectComponents/Head/Helm_Engi_B_02_GnF_lod02.skin
@@ -338139,3 +338148,5 @@
 8527201;Item/ObjectComponents/Head/Helm_Engi_B_02_GnM_lod02.skin
 8527202;Item/ObjectComponents/Head/Helm_Engi_B_02_GnM_lod03.skin
 8527269;Item/ObjectComponents/Head/Helm_Plate_D_03_DwM_lod01.skin
+8527748;Item/ObjectComponents/Head/Helm_Goggles_B_04_DwF_lod01.skin
+8527751;Item/ObjectComponents/Head/Helm_Goggles_B_04_DwM_lod01.skin
