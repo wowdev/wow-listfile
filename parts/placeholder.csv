@@ -109246,7 +109246,7 @@
 5656373;spells/textures/textureblendset_1383_5656373.blp
 5656374;spells/textures/textureblendset_1383_5656374.blp
 5656493;models/unktextures/7fx_shockwave_holy_01_5656493.blp
-5656494;models/unktextures/8des_sethraliss_fire01_5656494.blp
+5656494;models/unktextures/Fire_Sparse_Pieces_5656494.blp
 5656495;models/unktextures/Dirt_Scroll_Wispy_firecloudtest_5656495.blp
 5656496;models/unktextures/draenei_wire_spark_5656496.blp
 5656497;models/unktextures/Ember_Offset_5656497.blp
@@ -223003,7 +223003,6 @@
 8078815;World/Expansion11/Doodads/Primitive/12PM_Primitive_Ritual_Effigy04_8078815.blp
 8078816;World/Expansion11/Doodads/Primitive/12PM_Primitive_Ritual_Effigy04_8078816.blp
 8078871;Creature/IGC_1215_Liadrin/IGC_1215_Liadrin_8078871.blp
-8078875;Creature/IGC_1215_Liadrin/IGC_1215_Liadrin_8078875.blp
 8078879;Creature/IGC_1215_Liadrin/IGC_1215_Liadrin_8078879.blp
 8078883;Creature/IGC_1215_Liadrin/IGC_1215_Liadrin_8078883.blp
 8078887;Creature/IGC_1215_Liadrin/IGC_1215_Liadrin_8078887.blp
@@ -223011,7 +223010,6 @@
 8078895;Creature/IGC_1215_Liadrin/IGC_1215_Liadrin_8078895.blp
 8078899;Creature/IGC_1215_Liadrin/IGC_1215_Liadrin_8078899.blp
 8078943;Creature/IGC_1215_Zuljarra/IGC_1215_Zuljarra_8078943.blp
-8078944;Creature/IGC_1215_Zuljarra/IGC_1215_Zuljarra_8078944.blp
 8078945;Creature/IGC_1215_Zuljarra/IGC_1215_Zuljarra_8078945.blp
 8078947;Creature/IGC_1215_Zuljarra/IGC_1215_Zuljarra_8078947.blp
 8078948;Creature/IGC_1215_Zuljarra/IGC_1215_Zuljarra_8078948.blp
@@ -223061,9 +223059,7 @@
 8094294;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8094294.ogg
 8094296;Sound/Spell/TestSoundVoidBoltMedium_precaststart_loop_8094296.ogg
 8095104;Creature/IGC_1215_Lorthemar/IGC_1215_Lorthemar_8095104.blp
-8095106;Creature/IGC_1215_Lorthemar/IGC_1215_Lorthemar_8095106.blp
 8095108;Creature/IGC_1215_Lorthemar/IGC_1215_Lorthemar_8095108.blp
-8095110;Creature/IGC_1215_Lorthemar/IGC_1215_Lorthemar_8095110.blp
 8095112;Creature/IGC_1215_Lorthemar/IGC_1215_Lorthemar_8095112.blp
 8095114;Creature/IGC_1215_Lorthemar/IGC_1215_Lorthemar_8095114.blp
 8095116;Creature/IGC_1215_Lorthemar/IGC_1215_Lorthemar_8095116.blp
