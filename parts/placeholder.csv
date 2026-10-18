@@ -217991,8 +217991,6 @@
 7950447;Housing/Thumbnails/7NE_Druid_MoonkinStatue01_7950447.blp
 7950449;Housing/Icons/INV_7NE_Druid_MoonkinStatue01_7950449.blp
 7950480;models/unktextures/Organic_Smooth_7950480.blp
-7950565;models/unktextures/Smoke_Loose_02_256_Blend_7950565.blp
-7950566;models/unktextures/8FX_Painted_CloudScroll_02_7950566.blp
 7950606;Sound/Creature/7377851/7377851_fidget14_7950606.ogg
 7950608;Sound/Creature/7377851/7377851_fidget14_7950608.ogg
 7950610;Sound/Creature/7377851/7377851_fidget14_7950610.ogg
@@ -221110,7 +221108,18 @@
 7977242;sound/creature/AmaniTrollMale/AmaniTrollMale_pissed_7977242.ogg
 7977270;Sound/Creature/Lorthemar_Theron/VO_1215_Lorthemar_Theron_7977270.ogg
 7977298;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7977298.ogg
+7977304;Sound/Creature/Lorthemar_Theron/VO_1215_Lorthemar_Theron_7977304.ogg
 7977306;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7977306.ogg
+7977307;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7977307.ogg
+7977308;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7977308.ogg
+7977309;Sound/Creature/Orweyna/VO_1215_Orweyna_7977309.ogg
+7977310;Sound/Creature/Lorthemar_Theron/VO_1215_Lorthemar_Theron_7977310.ogg
+7977311;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7977311.ogg
+7977312;Sound/Creature/Taklejo/VO_1215_Taklejo_7977312.ogg
+7977313;Sound/Creature/Halduron_Brightwing/VO_1215_Halduron_Brightwing_7977313.ogg
+7977314;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7977314.ogg
+7977315;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7977315.ogg
+7977316;Sound/Creature/Arator/VO_1215_Arator_7977316.ogg
 7977317;Sound/Creature/Lorthemar_Theron/VO_1215_Lorthemar_Theron_7977317.ogg
 7977318;Sound/Creature/Zuljarra/VO_1215_Zuljarra_7977318.ogg
 7977319;Sound/Creature/Lady_Liadrin/VO_1215_Lady_Liadrin_7977319.ogg
@@ -221129,6 +221138,7 @@
 7977564;Sound/Creature/Ancestral_Shaman/VO_1215_Ancestral_Shaman_7977564.ogg
 7977570;Sound/Creature/Kinduru/VO_1215_Kinduru_7977570.ogg
 7977642;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977642.ogg
+7977646;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977646.ogg
 7977657;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977657.ogg
 7977659;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977659.ogg
 7977660;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977660.ogg
@@ -229688,7 +229698,7 @@
 8365486;Interface/Icons/Unknown_8365486.blp
 8366807;item/texturecomponents/armlowertexture/idi754921_al_u_8366807.blp
 8366808;item/texturecomponents/handtexture/idi754921_ha_u_8366808.blp
-8366814;models/item/unk_exp00_8367381_dw_m/8367381_8366814.blp
+8366814;models/item/unk_exp00_8367381_dw_m/8367381_Dw_m_8366814.blp
 8366815;models/item/unk_exp00_8367400_r/8367400_r_8366815.blp
 8366919;spells/textures/textureblendset_4665_8366919.blp
 8366958;spells/textures/decal_775_8366958.blp
@@ -232274,6 +232284,7 @@
 8547030;World/WMO/autogen-names/winterspring/21137_006_lod1.wmo
 8547031;World/WMO/autogen-names/winterspring/21137_006_lod2.wmo
 8547573;SPELLS/MageArmor_Impact_Head_8547573.blp
+8547576;models/unktextures/Blue_GlowD_8547576.blp
 8547589;SPELLS/Mage_FireFrostBolt_8547589.blp
 8547590;SPELLS/Mage_FireFrostBolt_8547590.blp
 8547594;World/Goober/G_ExplosiveTrap_8547594.blp
