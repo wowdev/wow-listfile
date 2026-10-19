@@ -173056,6 +173056,8 @@
 8033454;Interface/AddOns/Blizzard_UIErrorsFrame/Mainline/UIErrorsFrame.lua
 8033455;Interface/AddOns/Blizzard_UIErrorsFrame/Camelot/UIErrorsFrameOverrides.lua
 8033456;Interface/AddOns/Blizzard_UIErrorsFrame/Mainline/UIErrorsFrame.xml
+8033474;Interface/PlayerChoice/TaleboundVendorscribeBackgroundWeapon.blp
+8033476;Interface/PlayerChoice/TaleboundVendorscribeBackground.blp
 8033656;Interface/AddOns/Blizzard_ScribeUI/Blizzard_ScribeClassCardTemplates.lua
 8033657;Interface/AddOns/Blizzard_ScribeUI/Blizzard_ScribeUI.lua
 8033658;Interface/AddOns/Blizzard_ScribeUI/Blizzard_ScribeUIRegistration.lua
@@ -174844,6 +174846,8 @@
 8125118;Interface/ICONS/INV_121_Pet_BabyWindserpent_Purple.blp
 8125119;Interface/ICONS/INV_121_Pet_BabyWindserpent_White.blp
 8125120;Interface/ICONS/INV_121_Pet_BabyWindserpent_Yellow.blp
+8125177;Interface/PlayerChoice/TaleboundVendorscribe2x.blp
+8125179;Interface/PlayerChoice/TaleboundVendorscribe.blp
 8125219;Interface/AddOns/Blizzard_APIDocumentationGenerated/SimpleVectorGraphicsAPIDocumentation.lua
 8125624;Interface/Scenarios/UITaleboundScenario2x.blp
 8125634;Interface/Scenarios/UITaleboundScenarioChallenge2x.blp
@@ -175688,6 +175692,8 @@
 8218265;Interface/PlayerChoice/PresetSelectionc602x.blp
 8218274;Interface/PlayerChoice/PresetSelectionDisabledc602x.blp
 8218293;Interface/PlayerChoice/PresetSelectionGlowc602x.blp
+8218343;Interface/PlayerChoice/TaleboundVendorArcanistBackground.blp
+8218380;Interface/PlayerChoice/TaleboundVendorOutfitterBackground.blp
 8229900;Interface/AddOns/Blizzard_QuickJoin/QuickJoinSocialView.lua
 8229901;Interface/AddOns/Blizzard_QuickJoin/QuickJoinSocialView.xml
 8229902;Interface/AddOns/Blizzard_RecruitAFriend/RecruitAFriendSocialView.lua
@@ -176214,6 +176220,7 @@
 8281590;Interface/TalentFrame/UILegacyTreeFrame2xc60.blp
 8281693;Interface/AddOns/Blizzard_APIDocumentationGenerated/LuaLocaleContextAPIDocumentation.lua
 8281694;Interface/AddOns/Blizzard_APIDocumentationGenerated/IntlSharedTypesDocumentation.lua
+8282291;Interface/PlayerChoice/TaleboundVendorAntiquarianBackground.blp
 8282760;Interface/AddOns/Blizzard_LegacyChallengeTracker/Blizzard_LegacyChallengeTracker.lua
 8282761;Interface/AddOns/Blizzard_LegacyChallengeTracker/Blizzard_LegacyChallengeTracker.toc
 8282808;Interface/Calendar/Holidays/Calendar_TaleboundEnd.blp
@@ -176279,6 +176286,7 @@
 8297428;Interface/AddOns/Blizzard_QuestTimer/Classic/Blizzard_QuestTimerOverrides.lua
 8297429;Interface/AddOns/Blizzard_QuestTimer/Mainline/Blizzard_QuestTimerOverrides.lua
 8299907;Interface/AddOns/Blizzard_GenericTraitUI/WoWHack/Blizzard_GenericWoWHackTraitsLayouts.lua
+8300570;Interface/PlayerChoice/TaleboundCharacterSheetBackground.blp
 8308982;Interface/AddOns/Blizzard_APIDocumentationGenerated/InstanceRunSaveMgrConstantsDocumentation.lua
 8311977;Interface/CastingBar/UICastingBarc60.BLP
 8311982;Interface/CastingBar/UICastingBar2xc60.BLP
@@ -176554,6 +176562,7 @@
 8507400;Interface/AddOns/Blizzard_ProjectConstants/Camelot/ProjectConstants.lua
 8508140;Interface/Gamepad/GamepadPressAndHoldc60.blp
 8509700;INTERFACE/CINEMATICS/FOR_160_CM.srt
+8510332;Interface/ICONS/INV_Misc_BoundSilver.blp
 8510709;INTERFACE/CINEMATICS/FOR_160_CM.mp3
 8512555;Interface/AddOns/Blizzard_AchievementUI/Camelot/Blizzard_AchievementUI.lua
 8516310;Interface/AddOns/Blizzard_LegacySystem/Blizzard_LegacyAchievementOverrides.lua
@@ -176587,8 +176596,20 @@
 8519559;Interface/PvPFrame/PvPQueuec60.blp
 8519836;Interface/ICONS/INV_ToadArdenwealdMount_Autumn.blp
 8524653;Interface/AddOns/Blizzard_CatalogShop/Blizzard_CatalogShop_Gamepad.lua
+8524951;Interface/HUD/UIUnitFramePlayerPortraitMask2xc60.blp
+8524953;Interface/HUD/UIUnitFramePlayerPortraitMaskc60.blp
 8525024;Interface/Gamepad/GamepadPressAndHold.blp
 8525119;Interface/Buttons/Black.blp
+8526234;Interface/HUD/UIUnitFrameTargetManaMask2xc60.blp
+8526236;Interface/HUD/UIUnitFrameTargetManaMaskc60.blp
+8526238;Interface/HUD/UIUnitFrameTargetHealthMask2xc60.blp
+8526240;Interface/HUD/UIUnitFrameTargetHealthMaskc60.blp
+8526242;Interface/HUD/UIUnitFramePlayerManaMask2xc60.blp
+8526244;Interface/HUD/UIUnitFramePlayerManaMaskc60.blp
+8526246;Interface/HUD/UIUnitFramePlayerHealthMask2xc60.blp
+8526248;Interface/HUD/UIUnitFramePlayerHealthMaskc60.blp
+8526250;Interface/HUD/UIUnitFrameMinusMobHealthMask2xc60.blp
+8526252;Interface/HUD/UIUnitFrameMinusMobHealthMaskc60.blp
 8526420;Interface/AddOns/Blizzard_InspectUI/Camelot/InspectGuildFrame.xml
 8526421;Interface/AddOns/Blizzard_InspectUI/Camelot/InspectGuildFrame.lua
 8526422;Interface/AddOns/Blizzard_InspectUI/Camelot/InspectPVPFrame.lua
@@ -176597,6 +176618,8 @@
 8527852;Interface/AddOns/Blizzard_Settings_Shared/Camelot/NewDefinitions.lua
 8528956;Interface/Glues/Models/UI_NightElf/White8x8.blp
 8528958;Interface/Glues/Models/UI_NightElf/7fx_alphamask_flairblur_a_snake3.blp
+8528960;Interface/Glues/Models/UI_NightElf/Waterfall02.blp
+8528961;Interface/Glues/Models/UI_NightElf/NIGHTELFSTATUEFEMALEWATER01.blp
 8528962;Interface/Glues/Models/UI_NightElf/white_64.blp
 8529186;Interface/AddOns/Blizzard_NewPlayerExperience/Camelot/Blizzard_TutorialData.lua
 8529187;Interface/AddOns/Blizzard_NewPlayerExperience/Camelot/Blizzard_TutorialKeyboardMouseFrame.xml
@@ -176611,6 +176634,7 @@
 8531689;Interface/Buttons/TalkToMe_Listen_lod01.skin
 8531690;Interface/Buttons/TalkToMe_Listen_lod02.skin
 8531692;Interface/Buttons/TalkToMe_Listen_lod03.skin
+8535169;Interface/Gamepad/UIUnitFramePlayerOnPartyHealthMask2xc60.blp
 8539471;Interface/AddOns/Blizzard_GlueParent/Camelot/GlueParentUtil.lua
 8539472;Interface/AddOns/Blizzard_GlueParent/Mainline/GlueParentUtil.lua
 8539473;Interface/AddOns/Blizzard_GlueXML/Camelot/AccountReactivateOverrides.lua
@@ -176634,6 +176658,9 @@
 8539491;Interface/AddOns/Blizzard_Minimap/Mainline/MinimapTrackingButton.xml
 8539492;Interface/AddOns/Blizzard_Minimap/Mainline/MinimapZoneTextButton.xml
 8539493;Interface/AddOns/Blizzard_TimeManager/Camelot/Blizzard_TimeManagerOverrides.lua
+8539797;Interface/HUD/UIPartyFramePortraitOnManaMaskc60.blp
+8539831;Interface/HUD/UIPartyFramePortraitOnHealthMaskc60.blp
+8539918;Interface/Gamepad/UIUnitFramePlayerOnPartyManaMask2xc60.blp
 8541629;Interface/AddOns/Blizzard_ChatFrame/Mainline/ChatConfigFrameOverrides.lua
 8541630;Interface/AddOns/Blizzard_ChatFrame/Camelot/ChatConfigFrameOverrides.lua
 8541631;Interface/AddOns/Blizzard_FrameXML/Camelot/FloatingPetBattleTooltip.lua
@@ -176644,6 +176671,8 @@
 8542079;Interface/AddOns/Blizzard_ActionBar/Camelot/MultiCastActionBarOverrides.lua
 8542080;Interface/AddOns/Blizzard_Minimap/Shared/ExternalEventURLMinimapButton.xml
 8542081;Interface/AddOns/Blizzard_Minimap/Shared/ExternalEventURLMinimapButton.lua
+8547016;Interface/Store/InterstitialNewPlayerExperiencec60.blp
+8547022;Interface/Store/InterstitialNewPlayerExperiencePart2c60.blp
 8547102;Interface/AddOns/Blizzard_ActionBar/Camelot/ExtraActionBarOverrides.lua
 8547103;Interface/AddOns/Blizzard_ChatFrameBase/Camelot/ChatFrameOverrides.lua
 8547104;Interface/AddOns/Blizzard_ChatFrameBase/Camelot/ChatFrameUtilOverrides.lua
