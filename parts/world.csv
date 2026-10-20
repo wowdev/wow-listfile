@@ -306925,6 +306925,7 @@
 7707587;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_Cookware_Pot01_Lid_lod01.skin
 7707590;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_Cookware_Pot01_Lid_lod02.skin
 7707594;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_Cookware_Pot01_Lid_lod03.skin
+7710130;World/Expansion11/Doodads/PlayerHousing/orbreflectdark_reverse_fresnel.blp
 7710131;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium0100.skin
 7710135;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium01_lod01.skin
 7710139;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Decor_DisplayPodium01_lod02.skin
@@ -309840,7 +309841,13 @@
 8353282;World/Expansion11/Doodads/PlayerHousing/12PH_DR_Draenei_HoloRunes03.m2
 8353283;World/Expansion11/Doodads/PlayerHousing/12PH_DR_Draenei_HoloRunes01.m2
 8353887;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_MH_RuneCircle01.m2
+8353890;World/Expansion11/Doodads/PlayerHousing/HELLFIRE_RUNE.blp
+8353893;World/Expansion11/Doodads/PlayerHousing/AURARUNE3_MIP1.blp
+8353898;World/Expansion11/Doodads/PlayerHousing/Gradient64FlipA.blp
+8353903;World/Expansion11/Doodads/PlayerHousing/flare.blp
+8353908;World/Expansion11/Doodads/PlayerHousing/Star8b.blp
 8353916;World/Expansion11/Doodads/PlayerHousing/12PH_DR_Draenei_HoloRunes0100.skin
+8353918;World/Expansion11/Doodads/PlayerHousing/HELLFIRE_RUNE2.blp
 8353919;World/Expansion11/Doodads/PlayerHousing/12PH_DR_Draenei_HoloRunes0300.skin
 8353925;World/Expansion11/Doodads/PlayerHousing/runic_circle_01.blp
 8353929;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_MH_RuneCircle0100.skin
@@ -309912,6 +309919,12 @@
 8460541;World/KhazModan/BLACKROCK/PASSIVEDOODADS/BLACKROCKLAVAFLOW/PartRock.blp
 8465335;World/Expansion11/Doodads/PlayerHousing/12TR_Amani_Structure_Fountain01.m2
 8465336;World/Expansion11/Doodads/PlayerHousing/12PH_10CAN_Volcanic_LavaPool01.m2
+8465340;World/Expansion11/Doodads/PlayerHousing/7FX_AlphaMask_GlowBrightDonut_02.blp
+8465343;World/Expansion11/Doodads/PlayerHousing/10FX_Lava_Scroll_09.blp
+8465346;World/Expansion11/Doodads/PlayerHousing/10FX_WaterFall_StaticAlpha_02.blp
+8465349;World/Expansion11/Doodads/PlayerHousing/10FX_Goo_Sphere_01.blp
+8465352;World/Expansion11/Doodads/PlayerHousing/10FX_Lava_Scroll_06.blp
+8465367;World/Expansion11/Doodads/PlayerHousing/10FX_Lava_Scroll_08.blp
 8465379;World/Expansion11/Doodads/PlayerHousing/12PH_10CAN_Volcanic_LavaPool0100.skin
 8465382;World/Expansion11/Doodads/PlayerHousing/12PH_10CAN_Volcanic_LavaPool01_lod01.skin
 8465385;World/Expansion11/Doodads/PlayerHousing/12PH_10CAN_Volcanic_LavaPool01_lod02.skin
@@ -309931,6 +309944,7 @@
 8489382;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Curtain01_mirrored_lod02.skin
 8489387;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Curtain01_mirrored_lod03.skin
 8489465;World/Expansion11/Doodads/PlayerHousing/PA_STILL_01.m2
+8490136;World/Expansion11/Doodads/PlayerHousing/PA_STILL_01.blp
 8490140;World/Expansion11/Doodads/PlayerHousing/PA_STILL_0100.skin
 8490143;World/Expansion11/Doodads/PlayerHousing/PA_STILL_01_lod01.skin
 8490148;World/Expansion11/Doodads/PlayerHousing/PA_STILL_01_lod02.skin
@@ -310057,6 +310071,7 @@
 8512539;World/Expansion04/Doodads/Jinyu/Jinyu_Fountain_01_lod02.skin
 8512540;World/Expansion04/Doodads/Jinyu/Jinyu_Fountain_01_lod03.skin
 8515093;World/Expansion11/Doodads/PlayerHousing/9VL_Aspirants_CookingOven01.m2
+8515915;World/Expansion11/Doodads/PlayerHousing/fresnelreflect2.blp
 8515923;World/Expansion11/Doodads/PlayerHousing/9VL_Aspirants_CookingOven0100.skin
 8515927;World/Expansion11/Doodads/PlayerHousing/9VL_Aspirants_CookingOven01_lod01.skin
 8515931;World/Expansion11/Doodads/PlayerHousing/9VL_Aspirants_CookingOven01_lod02.skin
@@ -310068,6 +310083,7 @@
 8517502;world/expansion07/doodads/human/8hu_kultiras_entrancedecoleft_01_lod03.skin
 8517505;world/expansion07/doodads/human/8hu_kultiras_entrancedecoright_01_lod03.skin
 8517621;World/Expansion11/Doodads/PlayerHousing/12PH_8XP_Drustvar_Witch_GroundCrack01_Doodad01.m2
+8517635;World/Expansion11/Doodads/PlayerHousing/8fx_lightningcracks_noise_01.blp
 8517641;World/Expansion11/Doodads/PlayerHousing/12PH_8XP_Drustvar_Witch_GroundCrack01_Doodad0100.skin
 8519362;World/Expansion11/Doodads/PlayerHousing/12PH_Holiday_XMasGift01.m2
 8519363;World/Expansion11/Doodads/PlayerHousing/12PH_Holiday_XMasGift01_NoRibbon.m2
