@@ -171842,6 +171842,7 @@
 2431403;DUNGEONS/TEXTURES/WALLS/RG_JLO_UDERCITY_WALLTRIM_DOME.BLP.meta
 2431404;DUNGEONS/TEXTURES/TRIM/MM_STRATH_DOOREDGE_01.BLP.meta
 2431416;TILESET/TANARIS/TANARISSANDBASE02.BLP.meta
+2431863;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_SeaRock01.blp
 2432184;textures/bakednpctextures/creaturedisplayextra-148423.blp
 2432186;textures/bakednpctextures/creaturedisplayextra-148424.blp
 2432772;textures/bakednpctextures/creaturedisplayextra-148425.blp
@@ -172235,6 +172236,8 @@
 2480300;textures/bakednpctextures/creaturedisplayextra-148754_hd.blp
 2480330;textures/bakednpctextures/creaturedisplayextra-148755_hd.blp
 2480353;textures/bakednpctextures/creaturedisplayextra-148756.blp
+2480405;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Window01.blp
+2480406;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Window01_Emissive.blp
 2480414;textures/bakednpctextures/creaturedisplayextra-148757.blp
 2480440;textures/bakednpctextures/creaturedisplayextra-148758.blp
 2480703;textures/bakednpctextures/creaturedisplayextra-148760.blp
@@ -172301,6 +172304,8 @@
 2490695;textures/bakednpctextures/creaturedisplayextra-148814_hd.blp
 2490697;textures/bakednpctextures/creaturedisplayextra-148815_hd.blp
 2490699;textures/bakednpctextures/creaturedisplayextra-148816_hd.blp
+2490711;Dungeons/Textures/TESTING/color_graybrown.blp
+2490712;Dungeons/Textures/TESTING/color_black.blp
 2490727;textures/bakednpctextures/creaturedisplayextra-148817.blp
 2490729;textures/bakednpctextures/creaturedisplayextra-148818.blp
 2490731;textures/bakednpctextures/creaturedisplayextra-148819.blp
@@ -172386,6 +172391,7 @@
 2495959;textures/bakednpctextures/creaturedisplayextra-148896_hd.blp
 2495961;textures/bakednpctextures/creaturedisplayextra-148897_hd.blp
 2495974;textures/bakednpctextures/creaturedisplayextra-148898_hd.blp
+2498817;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Wall01.blp
 2499816;textures/bakednpctextures/creaturedisplayextra-148899_hd.blp
 2499818;textures/bakednpctextures/creaturedisplayextra-148900.blp
 2499820;textures/bakednpctextures/creaturedisplayextra-148901.blp
@@ -172400,6 +172406,7 @@
 2499871;textures/bakednpctextures/creaturedisplayextra-148909_hd.blp
 2503492;textures/bakednpctextures/creaturedisplayextra-143322_e.blp
 2503563;textures/bakednpctextures/creaturedisplayextra-148910.blp
+2529736;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Wall02.blp
 2529781;textures/bakednpctextures/creaturedisplayextra-148911_hd.blp
 2529783;textures/bakednpctextures/creaturedisplayextra-148912_hd.blp
 2529788;textures/bakednpctextures/creaturedisplayextra-148913_hd.blp
@@ -172414,6 +172421,7 @@
 2532094;character/scourge/female/scourgefemale_hd1220-00.anim
 2532389;textures/bakednpctextures/creaturedisplayextra-148919.blp
 2532393;textures/bakednpctextures/creaturedisplayextra-148920.blp
+2532421;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Emissive01.blp
 2563865;textures/bakednpctextures/creaturedisplayextra-148921_hd.blp
 2563867;textures/bakednpctextures/creaturedisplayextra-148922_hd.blp
 2563869;textures/bakednpctextures/creaturedisplayextra-148923_hd.blp
@@ -172494,6 +172502,7 @@
 2565426;textures/bakednpctextures/creaturedisplayextra-148988_hd.blp
 2565439;textures/bakednpctextures/creaturedisplayextra-148989_hd.blp
 2565533;textures/bakednpctextures/creaturedisplayextra-148990.blp
+2565676;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Emissive02.blp
 2574060;textures/bakednpctextures/creaturedisplayextra-148991.blp
 2574065;textures/bakednpctextures/creaturedisplayextra-148992_hd.blp
 2575191;textures/bakednpctextures/creaturedisplayextra-148993_hd.blp
@@ -172510,6 +172519,8 @@
 2575262;textures/bakednpctextures/creaturedisplayextra-149005.blp
 2575264;textures/bakednpctextures/creaturedisplayextra-149006.blp
 2575322;environments/stars/8xp_spiritsky01.m2
+2576992;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Window02.blp
+2576993;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Window02_Emissive.blp
 2614701;environments/stars/8xp_spiritsky0100.skin
 2614702;environments/stars/8xp_spiritsky0101.skin
 2614703;tileset/expansion08/9ard_grassyroot01_1024.blp
@@ -172519,6 +172530,7 @@
 2614757;textures/bakednpctextures/creaturedisplayextra-149008_hd.blp
 2614760;tileset/kunlaisummit/data/kls_snow02_512_h.blp
 2614781;textures/bakednpctextures/creaturedisplayextra-149009_hd.blp
+2614888;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Wall03.blp
 2615830;textures/bakednpctextures/creaturedisplayextra-149010_hd.blp
 2615833;textures/bakednpctextures/creaturedisplayextra-149011_hd.blp
 2615835;textures/bakednpctextures/creaturedisplayextra-149012_hd.blp
@@ -172545,6 +172557,7 @@
 2618991;textures/bakednpctextures/creaturedisplayextra-149026_hd.blp
 2618993;textures/bakednpctextures/creaturedisplayextra-149027.blp
 2620044;textures/bakednpctextures/creaturedisplayextra-149028.blp
+2620116;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Specular.blp
 2620229;textures/bakednpctextures/creaturedisplayextra-149029_hd.blp
 2620659;textures/bakednpctextures/creaturedisplayextra-149030_hd.blp
 2620665;tileset/expansion07/8cre_crestfallmoss01_512.blp
@@ -172593,6 +172606,9 @@
 2622924;textures/bakednpctextures/creaturedisplayextra-149066_hd.blp
 2623063;character/naga_/male/naga_male0075-00.anim
 2623064;character/naga_/male/naga_male0084-00.anim
+2623633;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Wall04.blp
+2623634;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Wall04_Emissive.blp
+2623635;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Emissive03.blp
 2623658;tileset/expansion07/8naj_drydirt01_1024.blp
 2623659;tileset/expansion07/8naj_drydirt01_1024_h.blp
 2623660;tileset/expansion07/8naj_drydirt01_1024_s.blp
@@ -172665,6 +172681,11 @@
 2735960;textures/bakednpctextures/creaturedisplayextra-149129.blp
 2735987;textures/bakednpctextures/creaturedisplayextra-149131.blp
 2735990;textures/bakednpctextures/creaturedisplayextra-149132.blp
+2736021;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Brick01.blp
+2736022;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Brick02.blp
+2736023;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Wall01.blp
+2736024;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Wall02.blp
+2736025;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Wall03.blp
 2736066;textures/bakednpctextures/creaturedisplayextra-149133.blp
 2736114;textures/bakednpctextures/creaturedisplayextra-149134_hd.blp
 2736123;textures/bakednpctextures/creaturedisplayextra-149135.blp
@@ -172954,6 +172975,7 @@
 2831778;d3d12.dll
 2832592;textures/bakednpctextures/creaturedisplayextra-149342_hd.blp
 2832594;textures/bakednpctextures/creaturedisplayextra-149343_hd.blp
+2833882;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Wall04.blp
 2833932;textures/bakednpctextures/creaturedisplayextra-149348_hd.blp
 2833988;tileset/expansion08/9bas_road02_1024.blp
 2833989;tileset/expansion08/9bas_road02_1024_h.blp
@@ -172982,6 +173004,7 @@
 2835161;textures/bakednpctextures/creaturedisplayextra-149357_hd.blp
 2835163;textures/bakednpctextures/creaturedisplayextra-149358_hd.blp
 2835165;textures/bakednpctextures/creaturedisplayextra-149359_hd.blp
+2835398;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Trim01.blp
 2835729;textures/bakednpctextures/creaturedisplayextra-149094.blp
 2835731;tileset/expansion08/9ard_goldenroot02_1024.blp
 2835732;tileset/expansion08/9ard_goldenroot02_1024_h.blp
@@ -173065,7 +173088,11 @@
 2839395;textures/bakednpctextures/creaturedisplayextra-149441.blp
 2839397;textures/bakednpctextures/creaturedisplayextra-149442.blp
 2839426;textures/bakednpctextures/creaturedisplayextra-149443.blp
+2839577;Dungeons/Textures/9VL_Valkyr/9VL_Valkyr_Mosaic01.blp
+2839834;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Dirt01.blp
 2840027;textures/bakednpctextures/creaturedisplayextra-149411_hd_e.blp
+2842184;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Marble01.blp
+2842185;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Marble02.blp
 2843486;tileset/expansion08/9cas_rubble02_512.blp
 2843487;tileset/expansion08/9cas_rubble02_512_h.blp
 2843488;tileset/expansion08/9cas_rubble02_512_s.blp
@@ -173389,6 +173416,7 @@
 2924107;textures/bakednpctextures/creaturedisplayextra-149661_hd.blp
 2924126;textures/bakednpctextures/creaturedisplayextra-149662_hd.blp
 2924135;textures/bakednpctextures/creaturedisplayextra-149663_hd.blp
+2924139;Dungeons/Textures/10DU_AmirdrassilRaid/10DU_AmirdrassilRaid_Specular01.blp
 2924142;textures/bakednpctextures/creaturedisplayextra-149664.blp
 2924144;textures/bakednpctextures/creaturedisplayextra-149665_hd.blp
 2924146;textures/bakednpctextures/creaturedisplayextra-149666_hd.blp
@@ -173438,14 +173466,25 @@
 2929797;textures/bakednpctextures/creaturedisplayextra-149708_hd.blp
 2929822;textures/bakednpctextures/creaturedisplayextra-149709.blp
 2929824;textures/bakednpctextures/creaturedisplayextra-149710.blp
+2930448;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Roof01.blp
+2930449;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Brick03.blp
+2930450;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Marble03.blp
+2930451;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Brick04.blp
 2931526;textures/bakednpctextures/creaturedisplayextra-149711.blp
 2931529;textures/bakednpctextures/creaturedisplayextra-149712.blp
 2931531;textures/bakednpctextures/creaturedisplayextra-149713.blp
+2932258;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Brick05.blp
+2932259;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Trim02.blp
+2932260;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Brick06.blp
 2957296;textures/bakednpctextures/creaturedisplayextra-149714.blp
 2957923;textures/bakednpctextures/creaturedisplayextra-149715.blp
 2957925;textures/bakednpctextures/creaturedisplayextra-149716.blp
 2957927;textures/bakednpctextures/creaturedisplayextra-149717.blp
+2958196;Dungeons/Textures/9VL_Valkyr/9VL_Valkyr_Mosaic02.blp
+2958197;Dungeons/Textures/9VL_Valkyr/9VL_Valkyr_Mosaic03.blp
 2958728;textures/bakednpctextures/creaturedisplayextra-149718.blp
+2958972;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Marble04.blp
+2958973;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Trim03.blp
 2959207;textures/bakednpctextures/creaturedisplayextra-149719_hd.blp
 2959890;textures/bakednpctextures/creaturedisplayextra-149720_hd.blp
 2960060;textures/bakednpctextures/creaturedisplayextra-149721.blp
@@ -173453,8 +173492,13 @@
 2960122;DBFilesClient/UISplashScreen.db2
 2960158;textures/bakednpctextures/creaturedisplayextra-149722.blp
 2960257;DBFilesClient/ContentTuningXExpectedStatMod.db2
+2960405;Dungeons/Textures/9VM_Vampire/9VM_Vampire_Stone01.blp
 2962267;textures/bakednpctextures/creaturedisplayextra-149248.blp
 2962310;xtextures/valkyrwater/valkyrwaterdiffuse02.blp
+2962311;Dungeons/Textures/9VL_Valkyr/9VL_Valkyr_Mosaic04.blp
+2962312;Dungeons/Textures/9VL_Valkyr/9VL_Valkyr_Mosaic05.blp
+2962313;Dungeons/Textures/9VL_Valkyr/9VL_Valkyr_Mosaic06.blp
+2962314;Dungeons/Textures/9VL_Valkyr/9VL_Valkyr_Mosaic07.blp
 2964708;character/naga_/male/naga_male_lod01.skin
 2964710;character/naga_/male/naga_male_lod02.skin
 2964711;character/naga_/male/naga_male_lod03.skin
