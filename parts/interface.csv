@@ -176689,3 +176689,10 @@
 8552586;Interface/AddOns/Blizzard_ActionBar/Camelot/ActionButtonOverrides.lua
 8552587;Interface/AddOns/Blizzard_APIDocumentationGenerated/DeathRecapConstantsDocumentation.lua
 8552588;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchTableOverrides.lua
+8558473;Interface/AddOns/Blizzard_GlueXML/Camelot/CharacterSelect.lua
+8561792;Interface/AddOns/Blizzard_GlueXML/Camelot/CharacterCopyOverrides.lua
+8561793;Interface/AddOns/Blizzard_WoWHackTutorials/WoWHackTutorialHighlights.lua
+8561794;Interface/AddOns/Blizzard_WoWHackTutorials/WoWHackTutorialHighlights.xml
+8561795;Interface/AddOns/Blizzard_WoWHackTutorials/Blizzard_WoWHackTutorials.toc
+8561796;Interface/AddOns/Blizzard_WoWHackTutorials/WoWHackTutorials.lua
+8561797;Interface/AddOns/Blizzard_WoWHackTutorials/WoWHackTutorials.xml
