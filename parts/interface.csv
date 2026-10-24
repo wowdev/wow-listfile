@@ -160362,7 +160362,9 @@
 6707794;Interface/ICONS/INV_Cape_Armor_SpiritValkyr_D_01.blp
 6707795;Interface/ICONS/INV_Chest _Armor_SpiritValkyr_D_01.blp
 6707796;Interface/ICONS/INV_Glove_Armor_SpiritValkyr_D_01.blp
+6707797;Interface/Store/ShopBundles442MOPPreorderShaHeroicBundle.BLP
 6707800;Interface/HUD/UICooldownManagerMask.BLP
+6707803;Interface/Store/ShopBundles442MOPPreorderShaEpicBundle.BLP
 6708771;Interface/AddOns/Blizzard_Fonts_Shared/Classic/GlueFontStyles.xml
 6708772;Interface/AddOns/Blizzard_Fonts_Shared/Classic/FontStyles.xml
 6708773;Interface/AddOns/Blizzard_Fonts_Shared/Classic/SharedFontStyles.xml
@@ -160390,6 +160392,7 @@
 6712971;Interface/ICONS/INV_1115_Warrior_Kick.blp
 6712972;Interface/ICONS/INV_1115_Warrior_Punch.blp
 6712973;Interface/ICONS/INV_1115_Warrior_VictoryPose.blp
+6713148;Interface/Store/ShopBundles442MOPPreorderEpicUpgrade.BLP
 6713169;Interface/AddOns/Blizzard_APIDocumentationGenerated/LogDocumentation.lua
 6713170;Interface/AddOns/Blizzard_Deprecated/Deprecated_11_1_5.lua
 6714213;Interface/ICONS/INV_Tabard_Stromgarde_C_01.blp
@@ -162621,6 +162624,10 @@
 7139256;Interface/WorldMap/Hyjal_Camelot/Hyjal_Camelot9.blp
 7139665;Interface/Worldmap/karesh/KareshHighlight.blp
 7139837;Interface/ICONS/INV_Sword_1H_QuestBloodElf_B_01.blp
+7139841;Interface/Store/ShopBundles5506MoRefresh.BLP
+7139843;Interface/Store/ShopBundles550180RefreshAPAC.BLP
+7139845;Interface/Store/ShopBundles55012MoRefresh.BLP
+7139847;Interface/Store/ShopBundles550360DayRefreshAPAC.BLP
 7139859;Interface/ICONS/INV_Mace_1H_OutdoorVoidElf_C_01.blp
 7139902;Interface/ICONS/INV_Axe_2H_Frostwolf_D_01.blp
 7141356;Interface/AddOns/Blizzard_Deprecated/Deprecated_11_2_5.lua
@@ -166387,6 +166394,7 @@
 7460425;Interface/ICONS/INV_Shield_1H_Blood_A_01.blp
 7460556;Interface/ICONS/INV_Misc_2H_GardenRake_B_01.blp
 7461352;Interface/Store/ShopBundles1125YearOfAzeroth2025.BLP
+7461488;Interface/Store/ShopBundles551YearofAzeroth2025.BLP
 7462551;INTERFACE/shop/shop-drop-shadow-TGA.blp
 7463452;Interface/ICONS/INV_Glaive_1H_RaidMidnight_D_01.blp
 7464100;Interface/EncounterJournal/UI-EJ-BOSS-ChiefCorewrightKasreth.blp
@@ -166609,6 +166617,7 @@
 7479110;Interface/EncounterJournal/UI-EJ-DUNGEONBUTTON-DomanaarArena.blp
 7479111;Interface/EncounterJournal/UI-EJ-LOREBG-DomanaarArena.blp
 7479112;Interface/LFGFRAME/LFGIcon-DomanaarArena.blp
+7480043;Interface/Store/ShopBundles345YearofAzeroth2025CN.BLP
 7480123;Interface/EncounterJournal/UI-EJ-BACKGROUND-Darkwell.blp
 7480124;Interface/EncounterJournal/UI-EJ-DUNGEONBUTTON-Darkwell.blp
 7480125;Interface/EncounterJournal/UI-EJ-LOREBG-Darkwell.blp
@@ -167139,10 +167148,12 @@
 7532048;Interface/TalentFrame/TalentsProgress.BLP
 7532050;Interface/TalentFrame/TalentsProgressActive.BLP
 7532584;Interface/Shop/CatalogShopWideCardBrutosaurComebackROW.BLP
+7535050;Interface/Store/ShopBundles552KRTW6MoSubBundle.BLP
 7535078;Interface/AddOns/Blizzard_HousingModelPreview/Blizzard_HousingModelPreview.lua
 7535079;Interface/AddOns/Blizzard_HousingModelPreview/Blizzard_HousingModelPreview.toc
 7535080;Interface/AddOns/Blizzard_HousingModelPreview/Blizzard_HousingModelPreview.xml
 7535081;Interface/AddOns/Blizzard_HousingModelPreview/Blizzard_HousingModelPreviewFrameRegistration.lua
+7535085;Interface/Store/ShopBundles552YearofAzeroth2025APAC.BLP
 7535090;Interface/ICONS/INV_VoidForgedMechSuit.blp
 7535872;Interface/Transmogrify/UITransmogrifySetB.BLP
 7535874;Interface/Transmogrify/UITransmogrifySetB2x.BLP
@@ -169887,6 +169898,7 @@
 7636570;Interface/ICONS/INV12_ApexTalent_Warrior_MasterOfWarfare.blp
 7636571;Interface/ICONS/INV12_ApexTalent_Warrior_Phalanx.blp
 7636572;Interface/ICONS/INV12_ApexTalent_Warrior_RampagingBerserker.blp
+7636573;Interface/Store/ShopBundles3800January2026LNY.BLP
 7636574;Interface/ICONS/INV_12_Jewelry_DevouringHost_Necklace_Bronze.blp
 7636579;Interface/ICONS/INV_12_Jewelry_DevouringHost_Necklace_Bronze2.blp
 7636580;Interface/ICONS/INV_12_Jewelry_DevouringHost_Necklace_Dark.blp
