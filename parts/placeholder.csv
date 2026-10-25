@@ -148071,12 +148071,12 @@
 6657116;models/world/nodxt/detail/6657116.m2
 6657117;models/world/nodxt/detail/6657117.m2
 6657118;models/world/nodxt/detail/6657118.m2
-6657119;models/creature/unk_exp11_6657119/6657119.m2
+6657119;models/world/nodxt/detail/6657119.m2
 6657120;models/world/nodxt/detail/6657120.m2
 6657121;models/world/nodxt/detail/6657121.m2
 6657143;models/world/nodxt/detail/6657110_6657143.blp
 6657146;models/world/nodxt/detail/665712000.skin
-6657151;models/creature/unk_exp11_6657119/665711900.skin
+6657151;models/world/nodxt/detail/665711900.skin
 6657154;models/world/nodxt/detail/665712100.skin
 6657155;models/world/nodxt/detail/665711800.skin
 6657157;models/world/nodxt/detail/665711500.skin
@@ -189447,9 +189447,6 @@
 7455433;item/objectcomponents/weapon/Polearm_2H_Ulatek_D_01_7455433.blp
 7455465;models/unknown/unk_exp11_7454264/7454264_7455465.blp
 7455472;models/unknown/unk_exp11_7454263/7454263_7455472.blp
-7455480;models/unknown/unk_exp11_7454263/7454263_lod01.skin
-7455481;models/unknown/unk_exp11_7454263/7454263_lod02.skin
-7455484;models/unknown/unk_exp11_7454263/7454263_lod03.skin
 7455511;Spells/11FX_SquirrelFlying_Shadow_Nova_Low_7455511.blp
 7455514;Spells/11FX_SquirrelFlying_Shadow_Nova_Low_7455514.blp
 7455515;Spells/11FX_SquirrelFlying_Shadow_Nova_Low_7455515.blp
@@ -189468,9 +189465,6 @@
 7455632;models/unknown/unk_exp11_7454264/7454264_7455632.blp
 7455638;models/unknown/unk_exp11_7454264/7454264_7455638.blp
 7455641;models/unknown/unk_exp11_7454264/7454264_7455641.blp
-7455647;models/unknown/unk_exp11_7454264/7454264_lod01.skin
-7455650;models/unknown/unk_exp11_7454264/7454264_lod02.skin
-7455652;models/unknown/unk_exp11_7454264/7454264_lod03.skin
 7455665;World/WMO/Expansion11/PlayerHousing/Room/12PH_Room_H02_Ceiling_7455665.blp
 7455666;World/WMO/Expansion11/PlayerHousing/Room/12PH_Room_H02_Ceiling_7455666.blp
 7455667;World/WMO/Expansion11/PlayerHousing/Room/12PH_Room_H02_Ceiling_7455667.blp
@@ -189484,13 +189478,7 @@
 7456053;Spells/FX_DevouringCosmos_AreaTrigger_7456053.blp
 7456054;Spells/FX_DevouringCosmos_AreaTrigger_7456054.blp
 7456055;models/unknown/unk_exp11_7454265/7454265_7456055.blp
-7456059;models/unknown/unk_exp11_7454265/7454265_lod01.skin
-7456061;models/unknown/unk_exp11_7454265/7454265_lod02.skin
-7456063;models/unknown/unk_exp11_7454265/7454265_lod03.skin
 7456077;models/unknown/unk_exp11_7454266/7454266_7456077.blp
-7456081;models/unknown/unk_exp11_7454266/7454266_lod01.skin
-7456083;models/unknown/unk_exp11_7454266/7454266_lod02.skin
-7456085;models/unknown/unk_exp11_7454266/7454266_lod03.skin
 7456101;models/unknown/unk_exp11_7454244/7454244_7456101.blp
 7456198;World/Expansion11/Doodads/Troll/12TR_Amani_Decor_LoaMask_Eagle01_7456198.blp
 7456238;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_CherryBlossom_Chair01_7456238.blp
@@ -190182,14 +190170,8 @@
 7475819;models/unknown/unk_exp11_7454246/7454246_7475819.blp
 7475820;models/unknown/unk_exp11_7454246/7454246_7475820.blp
 7475821;models/unknown/unk_exp11_7454246/7454246_7475821.blp
-7475823;models/unknown/unk_exp11_7454246/7454246_lod01.skin
-7475824;models/unknown/unk_exp11_7454246/7454246_lod02.skin
-7475825;models/unknown/unk_exp11_7454246/7454246_lod03.skin
 7475826;models/unknown/unk_exp11_7377823/7377823_7475826.blp
 7475827;models/unknown/unk_exp11_7377823/7377823_7475827.blp
-7475829;models/unknown/unk_exp11_7377823/7377823_lod01.skin
-7475830;models/unknown/unk_exp11_7377823/7377823_lod02.skin
-7475831;models/unknown/unk_exp11_7377823/7377823_lod03.skin
 7475843;Creature/VoidDragonSilver/VoidDragonSilver_7475843.blp
 7475859;models/world/unk_exp00_7475859/7475859.m2
 7475864;models/creature/unk_exp00_7475864/7475864.m2
@@ -190978,9 +190960,6 @@
 7480061;World/Expansion10/Doodads/WildElves/11WE_WildElves_Navigation_RootPortal02_7480061.blp
 7480066;models/unknown/unk_exp11_7454245/7454245_7480066.blp
 7480068;models/unknown/unk_exp11_7377837/7377837_7480068.blp
-7480070;models/unknown/unk_exp11_7377837/7377837_lod01.skin
-7480071;models/unknown/unk_exp11_7377837/7377837_lod02.skin
-7480072;models/unknown/unk_exp11_7377837/7377837_lod03.skin
 7480171;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Spring_GardenGnome_Chair01_7480171.blp
 7480191;Sound/Creature/VoidWraithRaidBoss/VoidWraithRaidBoss_battleshout_7480191.ogg
 7480193;Sound/Creature/VoidWraithRaidBoss/VoidWraithRaidBoss_battleshout_7480193.ogg
@@ -191020,9 +190999,6 @@
 7480765;models/spells/unk_exp11_7539095/7539095_7480765.blp
 7480766;models/unknown/unk_exp11_7454245/7454245_7480766.blp
 7480770;models/unknown/unk_exp11_7454245/7454245_7480770.blp
-7480772;models/unknown/unk_exp11_7454245/7454245_lod01.skin
-7480773;models/unknown/unk_exp11_7454245/7454245_lod02.skin
-7480774;models/unknown/unk_exp11_7454245/7454245_lod03.skin
 7481113;World/Expansion11/Doodads/Primitive/12PM_Primitive_Decor_Rug01_7481113.blp
 7481121;World/Expansion11/Doodads/Primitive/12PM_Primitive_Lighting_CampFire_Unlit01_7481121.blp
 7481124;World/Expansion11/Doodads/Primitive/12PM_Primitive_Lighting_CampFire01_7481124.blp
@@ -195002,6 +194978,7 @@
 7535828;Sound/Creature/GardenSnailMount/GardenSnailMount_fidget6_7535828.ogg
 7535830;Sound/Creature/GardenSnailMount/GardenSnailMount_fidget6_7535830.ogg
 7535832;Sound/Creature/GardenSnailMount/GardenSnailMount_fidget6_7535832.ogg
+7536825;models/unknown/unk_exp04_7536825/7536825.m2
 7536831;Item/Objectcomponents/Weapon/Knife_1h_Raidmidnight_d_02_7536831.blp
 7536832;Item/Objectcomponents/Weapon/Knife_1h_Raidmidnight_d_02_7536832.blp
 7536833;Item/Objectcomponents/Weapon/Knife_1h_Raidmidnight_d_02_7536833.blp
@@ -202431,7 +202408,7 @@
 7702170;models/unknown/unk_exp00_7702170/7702170.m2
 7702171;models/unknown/unk_exp00_7702171/7702171.m2
 7702184;models/unknown/unk_exp00_7702166/7702166_7702184.blp
-7702185;models/unknown/unk_exp00_7702141/7702141_7702185.blp
+7702185;models/unknown/unk_exp00_7702141/silithus_crystal_environment_map.blp
 7702187;models/unknown/unk_exp00_7702141/WaterfallMist.blp
 7702189;models/unknown/unk_exp00_7702166/770216600.skin
 7702191;models/unknown/unk_exp00_7702166/7702166_lod01.skin
@@ -202574,7 +202551,7 @@
 7703206;Housing/Icons/INV_8zul_palmplant_b01_7703206.blp
 7703209;Housing/Icons/INV_8zul_palmplant_b02_7703209.blp
 7703341;Housing/Icons/INV_12DUR_Durotar_Oasis_Tree_PalmLarge_A01_7703341.blp
-7703509;models/creature/unk_exp00_7455216/7455216_7703509.blp
+7703509;models/creature/unk_exp00_7455216/robospec.blp
 7703510;models/creature/unk_exp00_7455216/74552160062-00.anim
 7703511;models/creature/unk_exp00_7455216/74552160060-00.anim
 7703512;models/creature/unk_exp00_7455216/745521600.skin
@@ -216802,7 +216779,7 @@
 7961452;models/unknown/unk_exp00_7960277/796027700.skin
 7961453;models/unknown/unk_exp00_7960277/7960277_lod01.skin
 7961454;models/unknown/unk_exp00_7960277/7960277_lod02.skin
-7961455;models/unknown/unk_exp00_7960278/7960278_7961455.blp
+7961455;models/unknown/unk_exp00_7960278/mm_orc_bkrtrim_01.blp
 7961457;models/unktextures/hordebanner05_7961457.blp
 7961459;models/unknown/unk_exp00_7960278/796027800.skin
 7961461;models/unknown/unk_exp00_7960278/7960278_lod01.skin
@@ -217520,7 +217497,7 @@
 7964899;World/WMO/autogen-names/stormwindcity/21138_285.wmo
 7964900;World/WMO/autogen-names/stormwindcity/21138_286.wmo
 7964901;World/WMO/autogen-names/stormwindcity/21138_287.wmo
-7965276;models/unknown/unk_exp00_7964275/7964275_7965276.blp
+7965276;models/unknown/unk_exp00_7964275/itk_treejunk.blp
 7965277;models/unknown/unk_exp00_7964275/796427500.skin
 7965320;World/Generic/Orc/Passive Doodads/TABLECOOKER/OrcTableCooker01Fire_7965320.blp
 7965322;World/Generic/Orc/Passive Doodads/TABLECOOKER/OrcTableCooker01Fire_7965322.blp
