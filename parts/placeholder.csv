@@ -155780,9 +155780,6 @@
 6839125;models/unknown/unk_exp11_6799073/6799073_lod02.skin
 6839126;models/unknown/unk_exp11_6799073/6799073_lod03.skin
 6839129;models/unktextures/Water_Hard_BlendAdd_6839129.blp
-6839133;Creature/BloodElementalMount/BloodElementalMount_6839133.blp
-6839134;Creature/BloodElementalMount/BloodElementalMount_6839134.blp
-6839137;Creature/BloodElementalMount/BloodElementalMount_6839137.blp
 6839142;models/unknown/unk_exp11_6799074/6799074_6839142.blp
 6839144;models/unknown/unk_exp11_6799075/679907500.skin
 6839146;models/unknown/unk_exp11_6799075/6799075_lod01.skin
@@ -184729,10 +184726,6 @@
 7377788;item/texturecomponents/armlowertexture/6758597_Be_m_al_u_7377788.blp
 7377789;item/texturecomponents/armlowertexture/6758597_Be_m_al_u_7377789.blp
 7377816;Environments/Stars/12RTL_DreamRiftRaid_7377816.blp
-7377817;models/spells/unk_exp11_7377817/7377817.m2
-7377819;models/spells/unk_exp11_7377819/7377819.m2
-7377821;models/spells/unk_exp11_7377821/7377821.m2
-7377823;models/spells/unk_exp11_7377823/7377823.m2
 7377824;Spells/CFX_DemonHunter_HungeringSlash_Cast_7377824.blp
 7377825;Spells/CFX_DemonHunter_HungeringSlash_Cast_7377825.blp
 7377826;Spells/CFX_DemonHunter_HungeringSlash_Cast_7377826.blp
@@ -184741,7 +184734,6 @@
 7377829;Spells/CFX_DemonHunter_HungeringSlash_Cast_7377829.blp
 7377830;Spells/CFX_DemonHunter_HungeringSlash_Cast_7377830.blp
 7377831;Spells/CFX_DemonHunter_HungeringSlash_Cast_7377831.blp
-7377837;models/spells/unk_exp11_7377837/7377837.m2
 7377914;Spells/FX_VoidQuill_Channel_7377914.blp
 7377917;Spells/FX_LightQuill_Channel_7377917.blp
 7377920;models/World/Expansion11/Doodads/Troll/12TR_Troll_Amani_Unknown_6733841_7377920.blp
@@ -189299,15 +189291,6 @@
 7454223;Item/ObjectComponents/weapon/offhand_1h_paperbag_c_01_7454223.blp
 7454224;Item/ObjectComponents/weapon/offhand_1h_paperbag_c_01_7454224.blp
 7454241;World/Expansion11/Doodads/Primitive/12PM_Primitive_Ritual_Effigy02_7454241.blp
-7454243;models/spells/unk_exp11_7454243/7454243.m2
-7454244;models/spells/unk_exp11_7454244/7454244.m2
-7454245;models/spells/unk_exp11_7454245/7454245.m2
-7454246;models/spells/unk_exp11_7454246/7454246.m2
-7454247;models/spells/unk_exp11_7454247/7454247.m2
-7454263;models/spells/unk_exp11_7454263/7454263.m2
-7454264;models/spells/unk_exp11_7454264/7454264.m2
-7454265;models/spells/unk_exp11_7454265/7454265.m2
-7454266;models/spells/unk_exp11_7454266/7454266.m2
 7454330;World/Expansion11/Doodads/Primitive/12PM_Primitive_Ritual_Effigy05_7454330.blp
 7454341;Creature/UVMapBird/UVMapBird_7454341.blp
 7454358;Creature/UVMapMan/UVMapMan_7454358.blp
@@ -213562,7 +213545,6 @@
 7893727;models/unknown/unk_exp00_7840123/7840123_7893727.blp
 7893728;models/unknown/unk_exp00_7840123/784012300.skin
 7893729;models/unknown/unk_exp00_7840123/7840123_lod01.skin
-7893899;models/spells/unk_exp11_7893899/7893899.m2
 7894616;World/WMO/autogen-names/unknown/20959_7894616.blp
 7894671;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Lighting_Chandelier03_7894671.blp
 7894673;World/Expansion11/Doodads/Snakoid/12SN_Snakeoid_Lighting_Chandelier03_7894673.blp
@@ -213679,7 +213661,6 @@
 7897458;models/spells/unk_exp11_7893899/7893899_7897458.blp
 7897461;models/spells/unk_exp11_7893899/7893899_7897461.blp
 7897464;models/spells/unk_exp11_7893899/7893899_7897464.blp
-7897470;models/spells/unk_exp11_7893899/789389900.skin
 7897474;models/unknown/unk_exp11_7893899/7893899_lod01.skin
 7897476;models/unknown/unk_exp11_7893899/7893899_lod02.skin
 7897479;models/unknown/unk_exp11_7893899/7893899_lod03.skin
@@ -213709,8 +213690,6 @@
 7897653;Spells/FX_RitualoftheFang_Aura_7897653.blp
 7897658;models/unknown/unk_exp11_7892994/789299400.skin
 7897659;models/unknown/unk_exp11_7892995/789299500.skin
-7897682;models/spells/unk_exp11_7897682/7897682.m2
-7897683;models/spells/unk_exp11_7897683/7897683.m2
 7897749;models/unknown/unk_exp00_7835054/7835054_7897749.blp
 7897750;models/unknown/unk_exp00_7867830/786783000.skin
 7897751;models/unknown/unk_exp00_7867830/7867830_lod01.skin
@@ -213977,7 +213956,6 @@
 7900205;sound/ambience/zoneambience/amb_vaultsofatalutek_day_7900205.ogg
 7900207;sound/ambience/zoneambience/amb_vaultsofatalutek_day_7900207.ogg
 7900239;models/spells/unk_exp11_7897682/7897682_7900239.blp
-7900243;models/spells/unk_exp11_7897682/789768200.skin
 7900247;models/unknown/unk_exp11_7897682/7897682_lod01.skin
 7900251;models/unknown/unk_exp11_7897682/7897682_lod02.skin
 7900255;models/unknown/unk_exp11_7897682/7897682_lod03.skin
@@ -213985,7 +213963,6 @@
 7900308;Housing/Icons/INV_5869189_7900308.blp
 7900314;Housing/Thumbnails/12ZAM_Swamp_Plant_PineappleAccent_B02_7900314.blp
 7900316;Housing/Icons/INV_12ZAM_Swamp_Plant_PineappleAccent_B02_7900316.blp
-7900376;models/spells/unk_exp11_7897683/789768300.skin
 7902266;Item/ObjectComponents/weapon/axe_1h_taretha_c_01_7902266.blp
 7902267;Item/ObjectComponents/weapon/axe_1h_taretha_c_01_7902267.blp
 7902268;Item/ObjectComponents/weapon/axe_1h_taretha_c_01_7902268.blp
@@ -214011,9 +213988,6 @@
 7902389;models/world/unk_exp11_7881320/7881320_lod03.skin
 7902556;models/creature/unk_exp00_7926156/7926156_7902556.blp
 7902858;Spells/FX_HelicalToxins_Aura04_7902858.blp
-7902963;models/unknown/unk_exp11_7902963/7902963.m2
-7902964;models/unknown/unk_exp11_7902964/7902964.m2
-7902965;models/unknown/unk_exp11_7902965/7902965.m2
 7902966;models/unknown/unk_exp11_7902966/7902966.m2
 7902992;models/unknown/unk_exp11_7902966/7902966_7902992.blp
 7902993;models/unknown/unk_exp11_7902966/7902966_7902993.blp
@@ -214024,10 +213998,7 @@
 7902998;models/unknown/unk_exp11_7902966/7902966_lod03.skin
 7903034;models/spells/unk_exp11_7902963/7902963_7903034.blp
 7903039;models/spells/unk_exp11_7902963/7902963_7903039.blp
-7903043;models/spells/unk_exp11_7902963/790296300.skin
-7903047;models/spells/unk_exp11_7902964/790296400.skin
 7903055;models/spells/unk_exp11_7902965/7902965_7903055.blp
-7903058;models/spells/unk_exp11_7902965/790296500.skin
 7903059;models/unknown/unk_exp11_7902965/7902965_lod01.skin
 7903060;models/unknown/unk_exp11_7902965/7902965_lod02.skin
 7903061;models/unknown/unk_exp11_7902965/7902965_lod03.skin
@@ -225394,7 +225365,6 @@
 8203474;Creature/CrabTuskarrMount/CrabTuskarrMount_8203474.blp
 8203476;Creature/CrabTuskarrMount/CrabTuskarrMount_8203476.blp
 8203479;Creature/CrabTuskarrMount/CrabTuskarrMount_8203479.blp
-8203482;models/unktextures/Glass_Beveled_Distortion_8203482.blp
 8203483;Creature/CrabTuskarrMount/CrabTuskarrMount_8203483.blp
 8203484;Creature/CrabTuskarrMount/CrabTuskarrMount_8203484.blp
 8203486;Creature/CrabTuskarrMount/CrabTuskarrMount_8203486.blp

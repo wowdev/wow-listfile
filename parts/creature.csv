@@ -77420,8 +77420,11 @@
 6839130;Creature/BloodElementalMount/7fx_alphamask_liquid_puddle.blp
 6839131;Creature/BloodElementalMount/energy1b_witchredcontrasthori_alphalift.blp
 6839132;Creature/BloodElementalMount/BloodElementalMount_Creature.blp
+6839133;Creature/BloodElementalMount/BloodElementalMount_Scrolling_Dark.blp
+6839134;Creature/BloodElementalMount/BloodElementalMount_Scrolling_Light.blp
 6839135;Creature/BloodElementalMount/BloodElementalMount_Saddle.blp
 6839136;Creature/BloodElementalMount/ArmorReflect4.blp
+6839137;Creature/BloodElementalMount/BloodElementalMount_GlassSpec.blp
 6839138;Creature/BloodElementalMount/BloodElementalMount00.skin
 6839139;Creature/BloodElementalMount/BloodElementalMount_lod01.skin
 6839140;Creature/BloodElementalMount/BloodElementalMount_lod02.skin
@@ -79150,6 +79153,7 @@
 7150469;Creature/DragonDeepholmMount3Orange.blp
 7150470;Creature/DRAGONDEEPHOLMMOUNT3PURPLE.BLP
 7150471;Creature/DragonDeepholmMount3Red.blp
+7150472;Creature/DrakeDeepSaddle.blp
 7150479;Creature/FireRavenGodMountFireGreen2.blp
 7150480;Creature/FireRavenGodMountFirePurple2.blp
 7150481;Creature/FireRavenGodMountFireRed2.blp
@@ -84266,6 +84270,7 @@
 8203478;Creature/CrabTuskarrMount/10FX_Blue_Fresnel_Blend.blp
 8203480;Creature/CrabTuskarrMount/Smoke_PaintyLoose_00.blp
 8203481;Creature/CrabTuskarrMount/11FX_Poison_Bubble_05.blp
+8203482;Creature/CrabTuskarrMount/Glass_Beveled_Distortion_Grainy.blp
 8203485;Creature/CrabTuskarrMount/9FX_Gradient_BrightA.blp
 8208046;Creature/WolfFelMount01/WolfFelMount01.m2
 8208048;Creature/WolfFelMount02/WolfFelMount02.m2
