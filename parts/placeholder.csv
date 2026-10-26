@@ -78643,8 +78643,12 @@
 4919047;spells/7FX_AlphaMask_Glow_Red_4919047.blp
 4919048;world/expansion09/doodads/DruidsOfTheFlame/10DF_DruidsOfTheFlame_Book01_4919048.blp
 4919049;spells/Arakkoa_spec1_4919049.blp
+4919208;Sound/UI/TRADING_POST_UI_COMPLETED_ACTIVITY_0_4919208.ogg
+4919210;Sound/UI/TRADING_POST_UI_COMPLETED_PROGRESS_0_4919210.ogg
 4919212;Sound/UI/TRADING_POST_UI_ACTIVITY_PROGRESSION_1_4919212.ogg
 4919214;Sound/UI/TRADING_POST_UI_ACTIVITY_PROGRESSION_0_4919214.ogg
+4919216;Sound/UI/TRADING_POST_UI_REWARD_TIER_COMPLETE_0_4919216.ogg
+4919228;Sound/UI/TRADING_POST_UI_ACTIVITY_PROGRESSION_STOP_0_4919228.ogg
 4919273;World/WMO/Expansion10/Earthen/11EA_Earthen_CountryHouse01_4919273.blp
 4919274;World/WMO/Expansion10/Earthen/11EA_Earthen_CountryHouse01_4919274.blp
 4919287;World/WMO/Expansion10/Arathor/11AT_Arathor_Church01_lightcookie_4919287.blp
@@ -140803,7 +140807,6 @@
 6310751;Sound/Spell/ScrapRockets_channelstart_loop_6310751.ogg
 6310753;Sound/Spell/ScrapRockets_channelstart_loop_6310753.ogg
 6310755;Sound/Spell/ScrapRockets_channelstart_loop_6310755.ogg
-6310769;Creature/RedPandaMountClassic/RedPandaMountClassic_6310769.blp
 6310781;Creature/RedPandaMountClassic/RedPandaMountClassic_6310781.blp
 6310785;Creature/RedPandaMountClassic/RedPandaMountClassic_6310785.blp
 6310787;Creature/RedPandaMountClassic/RedPandaMountClassic_6310787.blp
@@ -189374,6 +189377,7 @@
 7455619;Creature/CosmicflyerMount/CosmicflyerMount_7455619.blp
 7455620;Creature/CosmicflyerMount/CosmicflyerMount_7455620.blp
 7455626;models/unknown/unk_exp11_7454264/7454264_7455626.blp
+7455629;Spells/11FX_HorseDragonMount_MountSpecial_Base_Yellow_7455629.blp
 7455632;models/unknown/unk_exp11_7454264/7454264_7455632.blp
 7455638;models/unknown/unk_exp11_7454264/7454264_7455638.blp
 7455641;models/unknown/unk_exp11_7454264/7454264_7455641.blp
@@ -196992,7 +196996,7 @@
 7570388;models/World/Expansion11/Doodads/Troll/12TR_Amani_Unknown_6164082_lod01.skin
 7570391;models/World/Expansion11/Doodads/Troll/12TR_Amani_Unknown_6163858_lod01.skin
 7570393;World/WMO/Expansion11/PlayerHousing/Room/12PH_Octagon_Room_Large_Ceiling_0_1_Rugged01_7570393.blp
-7570527;models/unknown/unk_exp11_7319698/7319698_7570527.blp
+7570527;models/unknown/unk_exp11_7319698/7319698_DyeColorMap_7570527.blp
 7570529;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Chair_Dining_Small01_7570529.blp
 7570573;World/Expansion11/Doodads/VoidElf/12VE_VoidElf_Furniture_BedRoll02_7570573.blp
 7570585;World/Expansion11/Doodads/PlayerHousing/12PH_Opulent_Chair_Dining_Small01_DyeColorMap_7570585.blp
