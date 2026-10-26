@@ -178794,6 +178794,7 @@
 3111570;world/expansion08/doodads/vampire/caustic_medfreq.blp
 3111572;world/expansion07/doodads/fx/8fx_wrathion_burningmadness_debuff.m2
 3111574;world/expansion07/doodads/fx/8fx_wrathion_burningmadness_debuff00.skin
+3113416;world/expansion08/doodads/vampire/Candle_Flipbook.blp
 3113417;world/expansion08/doodads/vampire/9vm_vampire_mirror0300.skin
 3113679;world/expansion08/doodads/valkyr/9vl_aspirants_drapery01.m2
 3113680;world/expansion08/doodads/valkyr/9vl_aspirants_drapery0100.skin
@@ -186018,6 +186019,7 @@
 3487957;world/expansion08/doodads/necro/9nc_necro_soulbind01.m2
 3487958;world/expansion08/doodads/valkyr/9vl_valkyr_soulbind01.m2
 3487959;world/expansion08/doodads/maw/9mw_domination_brazier03.m2
+3488245;world/expansion08/doodads/fairy/9FX_NebulaClouds_A.blp
 3488542;world/expansion08/doodads/ardenweald/9ard_farm_ardenwealdcatalyst0100.skin
 3488564;world/expansion08/doodads/ardenweald/9ard_farm_bastioncatalyst0100.skin
 3488570;world/expansion08/doodads/ardenweald/9ard_farm_revendrethcatalyst0100.skin
@@ -190743,6 +190745,7 @@
 3564821;world/expansion08/doodads/maw/9mw_domination_guillotine0200.skin
 3564833;world/expansion08/doodads/fx/9fx_cinematic_revendreth_animaflow00.skin
 3565239;world/expansion08/doodads/dungeon/9du_vampire_raid_chandelier01.m2
+3565252;world/expansion08/doodads/dungeon/Candle_Flipbook.blp
 3565256;world/expansion08/doodads/dungeon/GenericGlow_Alpha_128.blp
 3565263;world/expansion08/doodads/dungeon/9du_vampire_raid_chandelier0100.skin
 3565267;world/expansion08/doodads/dungeon/9du_vampire_raid_chandelier0101.skin
@@ -207541,6 +207544,7 @@
 3922500;world/expansion09/doodads/dragon/10dg_forge03_lod02.skin
 3922503;world/expansion09/doodads/dragon/10dg_forge03_lod03.skin
 3922548;world/expansion08/doodads/broker/Cloud_Center_Contrast.blp
+3922550;world/expansion08/doodads/broker/9FX_NebulaClouds_A.blp
 3922552;world/expansion08/doodads/broker/9bo_broker_door_0100.skin
 3922553;world/expansion08/doodads/broker/9bo_broker_door_01_lod01.skin
 3922554;world/expansion08/doodads/broker/9bo_broker_door_01_lod02.skin
@@ -224678,6 +224682,7 @@
 4381765;world/expansion09/doodads/reliquary/glowwhite32.blp
 4381768;world/expansion09/doodads/reliquary/candleflameorange.blp
 4381783;world/expansion08/doodads/fx/dirt_02.blp
+4381784;world/expansion08/doodads/fx/9FX_Chunky_Dirt_01.blp
 4381785;world/expansion08/doodads/fx/9fx_generic_earth_barrier00.skin
 4381786;world/expansion08/doodads/fx/9fx_generic_earth_barrier_lod01.skin
 4381787;world/expansion08/doodads/fx/9fx_generic_earth_barrier_lod02.skin
@@ -233337,6 +233342,7 @@
 4629443;world/expansion09/doodads/dragon/7fx_heroaura_fire_noedge.blp
 4629453;world/expansion09/doodads/dragon/conemask2.blp
 4629465;world/expansion09/doodads/dragon/7FX_AlphaMask_Glow_512.blp
+4629467;World/Expansion09/Doodads/Dungeon/7FX_Wavey_Mask_03_Vert.blp
 4629513;World/Expansion09/Doodads/Centaur/10CT_Centaur_GrainSack0100.skin
 4629514;World/Expansion09/Doodads/Centaur/10CT_Centaur_GrainSack01_lod01.skin
 4629515;World/Expansion09/Doodads/Centaur/10CT_Centaur_GrainSack01_lod02.skin
@@ -233557,6 +233563,7 @@
 4633778;World/Expansion09/Doodads/Volcanic/10CAN_Volcanic_Lavafall17_lod02.skin
 4633779;World/Expansion09/Doodads/Volcanic/10CAN_Volcanic_Lavafall17_lod03.skin
 4633782;World/Expansion09/Doodads/Titan/7fx_alphamask_glow_red512.blp
+4633783;World/Expansion09/Doodads/Volcanic/7FX_Wavey_Mask_03_Vert.blp
 4633784;World/Expansion09/Doodads/Titan/10TI_Titan_Kiln0100.skin
 4633785;World/Expansion09/Doodads/Titan/10TI_Titan_Kiln01_lod01.skin
 4633786;World/Expansion09/Doodads/Titan/10TI_Titan_Kiln01_lod02.skin
@@ -237875,6 +237882,7 @@
 4878179;world/expansion09/doodads/molepeople/10mp_housepart01_lod01.skin
 4878182;world/expansion09/doodads/molepeople/10mp_housepart01_lod02.skin
 4878185;world/expansion09/doodads/molepeople/10mp_housepart01_lod03.skin
+4878324;World/Expansion10/Doodads/Earthen/Smoke_Generic_PaintyMask01_Blend.blp
 4878328;World/Expansion10/Doodads/Earthen/8FX_ExplosionSmoke_A.blp
 4878332;World/Expansion10/Doodads/Earthen/7FX_AlphaMask_Glow_Red.blp
 4878352;World/Expansion10/Doodads/Earthen/7fx_lightraysup.blp
@@ -238132,6 +238140,7 @@
 4882714;World/Expansion10/Doodads/Nerubian/Smoke_Puffy_Mask_BlendAdd.blp
 4882715;World/Expansion10/Doodads/Nerubian/7FX_EnergyScroll_Fire_A.blp
 4882716;World/Expansion10/Doodads/Nerubian/ember_chunky_blankmorerotation_A.blp
+4882717;World/Expansion10/Doodads/Nerubian/Smoke_Generic_PaintyMask01_Blend.blp
 4882718;World/Expansion10/Doodads/Nerubian/8FX_ExplosionSmoke_A.blp
 4882720;World/Expansion10/Doodads/Nerubian/7FX_AlphaMask_Glow.blp
 4882721;World/Expansion10/Doodads/Nerubian/GenericGlow_Alpha_128.blp
@@ -254022,6 +254031,7 @@
 5215130;World/Expansion10/Doodads/Arathor/11AT_Arathor_Mailbox01_lod01.skin
 5215138;World/Expansion10/Doodads/Arathor/11AT_Arathor_Mailbox01_lod02.skin
 5215139;World/Expansion10/Doodads/Arathor/11AT_Arathor_Mailbox01_lod03.skin
+5215147;World/Expansion10/Doodads/Arathor/Candle_Flipbook.blp
 5215151;World/Expansion10/Doodads/Arathor/GenericGlow_Alpha_128.blp
 5215152;World/Expansion10/Doodads/Arathor/11AT_Arathor_Candle0100.skin
 5215153;World/Expansion10/Doodads/Arathor/11AT_Arathor_Candle01_lod01.skin
@@ -254031,6 +254041,7 @@
 5215160;World/Expansion10/Doodads/Arathor/11AT_Arathor_Candle02_lod01.skin
 5215162;World/Expansion10/Doodads/Arathor/11AT_Arathor_Candle02_lod02.skin
 5215164;World/Expansion10/Doodads/Arathor/11AT_Arathor_Candle02_lod03.skin
+5215171;World/Expansion10/Doodads/Arathor/Smoke_Generic_PaintyMask01_Blend.blp
 5215173;World/Expansion10/Doodads/Arathor/8FX_ExplosionSmoke_A.blp
 5215175;World/Expansion10/Doodads/Arathor/11AT_Arathor_Torch0100.skin
 5215176;World/Expansion10/Doodads/Arathor/11AT_Arathor_Torch01_lod01.skin
@@ -259319,6 +259330,7 @@
 5347607;World/Expansion10/Doodads/Kobold/Smoke_Puffy_Mask_BlendAdd.blp
 5347608;World/Expansion10/Doodads/Kobold/7FX_EnergyScroll_Fire_A.blp
 5347609;World/Expansion10/Doodads/Kobold/ember_chunky_blankmorerotation_A.blp
+5347610;World/Expansion10/Doodads/Kobold/Smoke_Generic_PaintyMask01_Blend.blp
 5347611;World/Expansion10/Doodads/Kobold/8FX_ExplosionSmoke_A.blp
 5347612;World/Expansion10/Doodads/Kobold/7FX_AlphaMask_Glow.blp
 5347621;World/Expansion10/Doodads/Kobold/11KO_Kobold_WaxPot0100.skin
@@ -259600,6 +259612,7 @@
 5351167;World/Expansion10/Doodads/Arathor/11AT_Arathor_Vase02.m2
 5351168;World/Expansion10/Doodads/11XP_DeleteMe187.m2
 5351169;World/Expansion10/Doodads/11XP_DeleteMe188.m2
+5351914;World/Expansion10/Doodads/Candle_Flipbook.blp
 5351917;world/expansion09/doodads/Festival/nex_envmap01p.blp
 5351919;world/expansion09/doodads/Festival/10XP_Summerfest_Icestone00.skin
 5351920;world/expansion09/doodads/Festival/10XP_Summerfest_Icestone_lod01.skin
@@ -260778,6 +260791,7 @@
 5369393;World/Expansion10/Doodads/Earthen/11EA_Earthen_Rack01_lod03.skin
 5369395;World/Expansion10/Doodads/Dungeon/Fire_FlameLicks_DissolveFBs_Blend.blp
 5369398;World/Expansion10/Doodads/Dungeon/White8x8.blp
+5369402;World/Expansion10/Doodads/Dungeon/Smoke_Generic_PaintyMask01_Blend.blp
 5369405;World/Expansion10/Doodads/Dungeon/8FX_ExplosionSmoke_A.blp
 5369407;World/Expansion10/Doodads/Dungeon/ember_chunky_blankmorerotation_A.blp
 5369409;World/Expansion10/Doodads/Dungeon/Smoke_Puffy_Mask_BlendAdd.blp
@@ -264797,6 +264811,7 @@
 5489485;World/Expansion10/Doodads/Earthen/11EA_Earthen_Chain24_lod01.skin
 5489487;World/Expansion10/Doodads/Earthen/11EA_Earthen_Chain24_lod02.skin
 5489489;World/Expansion10/Doodads/Earthen/11EA_Earthen_Chain24_lod03.skin
+5489542;World/Expansion09/Doodads/Candle_Flipbook.blp
 5489543;World/Generic/PassiveDoodads/ValentinesDay/GenericGlow_Alpha_128.blp
 5490510;World/Expansion10/Doodads/11XP_Plant_Coral01.m2
 5490511;World/Expansion10/Doodads/11XP_Plant_Coral02.m2
@@ -270121,6 +270136,7 @@
 5684773;World/Expansion10/Doodads/Arathor/ember_chunky_blank_a.blp
 5684774;World/Expansion10/Doodads/Arathor/7FX_HeroAura_Shadowflame_NoEdge.blp
 5684776;World/Expansion10/Doodads/Arathor/10FX_FlameMask_b.blp
+5684779;World/Expansion10/Doodads/Arathor/7FX_Wavey_Mask_03_Vert.blp
 5684785;World/Expansion10/Doodads/Nerubian/Webs/11NB_Nerubian_Web_Bridge0100.skin
 5684786;World/Expansion10/Doodads/Nerubian/Webs/11NB_Nerubian_Web_Bridge01_lod01.skin
 5684787;World/Expansion10/Doodads/Nerubian/Webs/11NB_Nerubian_Web_Bridge01_lod02.skin
@@ -270496,6 +270512,7 @@
 5705387;World/Expansion10/Doodads/Arathor/11AT_Arathor_CircleEffectVoid01.m2
 5705388;World/Expansion10/Doodads/Arathor/11AT_Arathor_CircleEffectLight01.m2
 5705398;World/Expansion10/Doodads/Arathor/7FX_Arcane_Wisps_Purple.blp
+5705401;World/Expansion10/Doodads/Arathor/gradient_01.blp
 5705405;World/Expansion10/Doodads/Arathor/7FX_EnergyScroll_PinkPurple.blp
 5705412;World/Expansion10/Doodads/Arathor/7FX_Arcane_Wisps_Amanthul2.blp
 5705416;World/Expansion10/Doodads/Arathor/7FX_EnergyRing_TilePurple.blp
@@ -272714,6 +272731,7 @@
 5788649;World/Expansion10/Doodads/Goblin/11GO_Goblin_BarrelFire01.m2
 5788650;World/Expansion10/Doodads/Goblin/Fire_FlameLicks_DissolveFBs_Blend.blp
 5788651;World/Expansion10/Doodads/Goblin/White8x8.blp
+5788652;world/expansion10/doodads/goblin/Smoke_Generic_PaintyMask01_Blend.blp
 5788653;World/Expansion10/Doodads/Goblin/8FX_ExplosionSmoke_A.blp
 5788654;World/Expansion10/Doodads/Goblin/ember_chunky_blankmorerotation_A.blp
 5788655;World/Expansion10/Doodads/Goblin/Smoke_Puffy_Mask_BlendAdd.blp
@@ -275198,6 +275216,7 @@
 5903506;World/MapTextures/2785/2785_38_22.blp
 5903874;World/MapTextures/2786/2786_31_31_n.blp
 5903876;World/MapTextures/2786/2786_31_31.blp
+5904553;world/expansion09/doodads/Festival/Candle_Flipbook.blp
 5904692;world/expansion09/doodads/Festival/10XP_ChildrensWeek_BannerSingle02.m2
 5904707;world/expansion09/doodads/Festival/10XP_Easter_Banner01.m2
 5904708;world/expansion09/doodads/Festival/10XP_ChildrensWeek_BannerSingle0200.skin
@@ -277941,6 +277960,7 @@
 6010323;World/Expansion11/Doodads/Troll/Smoke_Puffy_Mask_BlendAdd.blp
 6010324;World/Expansion11/Doodads/TwilightsBlade/Lava_Shadow.blp
 6010325;World/Expansion11/Doodads/Troll/ember_chunky_blankmorerotation_A.blp
+6010326;World/Expansion11/Doodads/TwilightsBlade/Smoke_Generic_PaintyMask01_Blend.blp
 6010327;World/Expansion11/Doodads/Troll/8FX_ExplosionSmoke_A.blp
 6010328;World/Expansion11/Doodads/Troll/7FX_AlphaMask_Glow.blp
 6010329;World/Expansion11/Doodads/TwilightsBlade/12TB_TwilightsBlade_Decor_Torch0300.skin
@@ -278007,6 +278027,7 @@
 6011181;World/Expansion11/Doodads/TwilightsBlade/12TB_TwilightsBlade_Storage_Barrel01_lod01.skin
 6011183;World/Expansion11/Doodads/TwilightsBlade/12TB_TwilightsBlade_Storage_Barrel01_lod02.skin
 6011185;World/Expansion11/Doodads/TwilightsBlade/12TB_TwilightsBlade_Storage_Barrel01_lod03.skin
+6011196;World/Expansion11/Doodads/PlayerHousing/Candle_Flipbook.blp
 6011198;World/Expansion11/Doodads/PlayerHousing/12ph_folk_standinglamp0100.skin
 6011200;World/Expansion11/Doodads/PlayerHousing/12ph_folk_standinglamp01_lod01.skin
 6011202;World/Expansion11/Doodads/PlayerHousing/12ph_folk_standinglamp01_lod02.skin
@@ -278303,6 +278324,7 @@
 6024549;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Rug_01.m2
 6024550;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_Rug03.m2
 6024551;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Special_SweepingBroom01.m2
+6024780;World/Expansion11/Doodads/BloodElf/Smoke_Generic_PaintyMask01_Blend.blp
 6024782;World/Expansion11/Doodads/BloodElf/8FX_ExplosionSmoke_A.blp
 6024784;World/Expansion11/Doodads/BloodElf/Smoke_Puffy_Mask_BlendAdd.blp
 6024787;World/Expansion11/Doodads/BloodElf/Lava_Shadow.blp
@@ -280376,6 +280398,7 @@
 6076767;World/Expansion11/Doodads/Troll/12TR_Amani_Crafting_Anvil01_lod01.skin
 6076771;World/Expansion11/Doodads/Troll/12TR_Amani_Crafting_Anvil01_lod02.skin
 6076776;World/Expansion11/Doodads/Troll/12TR_Amani_Crafting_Anvil01_lod03.skin
+6076781;World/Expansion11/Doodads/Troll/Smoke_Generic_PaintyMask01_Blend.blp
 6076787;World/Expansion11/Doodads/Troll/12TR_Amani_Crafting_Forge0100.skin
 6076788;World/Expansion11/Doodads/Troll/12TR_Amani_Crafting_Forge01_lod01.skin
 6076789;World/Expansion11/Doodads/Troll/12TR_Amani_Crafting_Forge01_lod02.skin
@@ -280677,6 +280700,7 @@
 6100311;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_Scrolls01_lod02.skin
 6100312;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_Scrolls01_lod03.skin
 6101774;world/expansion09/doodads/Festival/smoke_puffy_mask_blendadd2_thicker.blp
+6101779;world/expansion09/doodads/Festival/Smoke_Generic_PaintyMask01_Blend.blp
 6101780;world/expansion09/doodads/Festival/8FX_ExplosionSmoke_A.blp
 6103388;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_Scroll03.m2
 6103389;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Decor_Scroll04.m2
@@ -280752,6 +280776,7 @@
 6104953;World/MapTextures/2811/2811_42_12.blp
 6105543;World/Expansion10/Doodads/Ethereal/Flares_Varied_ArcaneVariety_BA.blp
 6105544;World/Expansion10/Doodads/Ethereal/10FX_Blue_Fresnel_Scarf.blp
+6105545;World/Expansion10/Doodads/Ethereal/8FX_General_WindTile_B_Arcane.blp
 6116441;World/Expansion11/Doodads/Durotar/12DUR_Durotar_Main_Plant_GrassLush_A01.m2
 6116442;World/Expansion11/Doodads/Durotar/12DUR_Durotar_Main_Plant_GrassLush_B01.m2
 6116443;World/Expansion11/Doodads/Durotar/12DUR_Durotar_Main_Plant_GrassLush_B02.m2
@@ -284505,6 +284530,7 @@
 6252908;World/Expansion10/Doodads/Earthen/11EA_Earthen_Chain30_lod01.skin
 6252909;World/Expansion10/Doodads/Earthen/11EA_Earthen_Chain30_lod02.skin
 6252910;World/Expansion10/Doodads/Earthen/11EA_Earthen_Chain30_lod03.skin
+6252972;World/Expansion11/Doodads/Fungarian/Smoke_Generic_PaintyMask01_Blend.blp
 6252973;World/Expansion11/Doodads/Fungarian/8FX_ExplosionSmoke_A.blp
 6252979;World/Expansion11/Doodads/Fungarian/ArmorReflect4.blp
 6252981;World/Expansion11/Doodads/Fungarian/SMOOTHREFLECT01.blp
@@ -291572,6 +291598,7 @@
 6692398;World/Expansion11/Doodads/BloodElf/10FX_WaterFall_StaticAlpha_02.blp
 6692400;World/Expansion11/Doodads/BloodElf/10FX_Lava_Scroll_09.blp
 6692405;World/Expansion11/Doodads/BloodElf/white_64.blp
+6692410;World/Expansion11/Doodads/BloodElf/7FX_Wavey_Mask_03_Vert.blp
 6692765;World/Expansion10/Doodads/Ethereal/11ET_Ethereal_Forcefield03.m2
 6692772;World/Expansion10/Doodads/Dungeon/EtherealRaid/7fx_wavey_mask_horizontal.blp
 6692778;World/Expansion10/Doodads/Ethereal/11ET_Ethereal_Forcefield0300.skin
@@ -292378,6 +292405,7 @@
 6715386;World/Expansion10/Doodads/WildElves/11WE_WildElves_Special_Mural0600.skin
 6715390;World/Expansion10/Doodads/WildElves/11WE_WildElves_Special_Mural06_lod01.skin
 6715395;World/Expansion10/Doodads/WildElves/11WE_WildElves_Special_Mural06_lod02.skin
+6716621;World/Expansion10/Doodads/WildElves/Smoke_Generic_PaintyMask01_Blend.blp
 6716623;World/Expansion10/Doodads/WildElves/8FX_ExplosionSmoke_A.blp
 6716625;World/Expansion10/Doodads/WildElves/Fire_FlameLicks_DissolveFBs_Blend.blp
 6716629;World/Expansion10/Doodads/WildElves/7FX_EnergyScroll_Fire_A.blp
@@ -292733,6 +292761,7 @@
 6755781;world/expansion07/doodads/forsaken/8fk_forsaken_treasurechest01_lod01.skin
 6755783;world/expansion07/doodads/forsaken/8fk_forsaken_treasurechest01_lod02.skin
 6755785;world/expansion07/doodads/forsaken/8fk_forsaken_treasurechest01_lod03.skin
+6755823;World/Expansion11/Doodads/PlayerHousing/Smoke_Generic_PaintyMask01_Blend.blp
 6755824;World/Expansion11/Doodads/PlayerHousing/8FX_ExplosionSmoke_A.blp
 6755825;World/Expansion11/Doodads/PlayerHousing/7DL_Dalaran_KitchenFire01.blp
 6755826;World/Expansion11/Doodads/PlayerHousing/7DL_Dalaran_KitchenFire01_glow.blp
@@ -292786,6 +292815,7 @@
 6769478;World/Expansion11/Doodads/Void/8FX_RingThick_A.blp
 6769480;World/Expansion11/Doodads/Void/wispymagic_vert_azeritemist_blue_128_greyrotate_solid.blp
 6769484;World/Expansion11/Doodads/Void/10FX_Fire_Line_01.blp
+6769487;World/Expansion11/Doodads/Void/Smoke_Generic_PaintyMask01_Blend.blp
 6777601;World/Expansion11/Doodads/Troll/12TR_Amani_Storage_Pot01_Destroyed01.m2
 6777602;World/Expansion11/Doodads/Troll/12TR_Amani_Storage_Pot02_Destroyed01.m2
 6777603;World/Expansion11/Doodads/Troll/12TR_Amani_Storage_Pot03_Destroyed01.m2
@@ -293143,6 +293173,7 @@
 6791777;World/Expansion11/Doodads/Primitive/Smoke_Puffy_Mask_BlendAdd.blp
 6791778;World/Expansion11/Doodads/Primitive/7FX_EnergyScroll_Fire_A.blp
 6791779;World/Expansion11/Doodads/Primitive/ember_chunky_blankmorerotation_A.blp
+6791780;World/Expansion11/Doodads/Primitive/Smoke_Generic_PaintyMask01_Blend.blp
 6791781;World/Expansion11/Doodads/Primitive/8FX_ExplosionSmoke_A.blp
 6791782;World/Expansion11/Doodads/Primitive/7FX_AlphaMask_Glow.blp
 6791783;World/Expansion11/Doodads/Primitive/GenericGlow_Alpha_128.blp
@@ -293717,6 +293748,7 @@
 6852033;World/Expansion11/Doodads/VoidElf/Fire_FlameLicks_DissolveFBs_Blend.blp
 6852034;World/Expansion11/Doodads/VoidElf/White8x8.blp
 6852036;World/Expansion11/Doodads/VoidElf/ember_chunky_blankmorerotation_A.blp
+6852037;World/Expansion11/Doodads/VoidElf/Smoke_Generic_PaintyMask01_Blend.blp
 6852038;World/Expansion11/Doodads/VoidElf/8FX_ExplosionSmoke_A.blp
 6852041;World/Expansion11/Doodads/VoidElf/7FX_AlphaMask_Glow.blp
 6852042;World/Expansion11/Doodads/VoidElf/GenericGlow_Alpha_128.blp
@@ -293968,6 +294000,7 @@
 6865536;World/Expansion11/Doodads/Void/12VD_Void_Decor_Rune05_lod02.skin
 6865537;World/Expansion11/Doodads/Void/12VD_Void_Decor_Rune05_lod03.skin
 6865595;World/Expansion10/Doodads/WildElves/11WE_WildElves_Decor_MagicalItem01.m2
+6865746;World/Expansion11/Doodads/Primitive/Candle_Flipbook.blp
 6865896;world/expansion07/doodads/zandalaritroll/8tr_zandalari_table01_lod01.skin
 6865897;world/expansion07/doodads/zandalaritroll/8tr_zandalari_table01_lod02.skin
 6865898;world/expansion07/doodads/zandalaritroll/8tr_zandalari_table01_lod03.skin
@@ -294329,6 +294362,7 @@
 6880322;World/Expansion05/Doodads/Orc/Doodads/6OR_GARRISON_BOOKSHELF01_lod01.skin
 6880325;World/Expansion05/Doodads/Orc/Doodads/6OR_GARRISON_BOOKSHELF01_lod02.skin
 6880328;World/Expansion05/Doodads/Orc/Doodads/6OR_GARRISON_BOOKSHELF01_lod03.skin
+6883597;World/Expansion10/Doodads/Dungeon/AzureVault/8FX_General_WindTile_B_Arcane.blp
 6883656;World/MapTextures/2928/2928_23_21.blp
 6883658;World/MapTextures/2928/2928_24_21.blp
 6883660;World/MapTextures/2928/2928_26_21.blp
@@ -294840,6 +294874,7 @@
 6893129;World/Expansion10/Doodads/Dungeon/AzureVault/8fx_hard_flash_.blp
 6893130;World/Expansion10/Doodads/Dungeon/AzureVault/White8x8.blp
 6893131;World/Expansion10/Doodads/Dungeon/AzureVault/grey50percentsquare16x16_a.blp
+6893132;World/Expansion10/Doodads/Dungeon/AzureVault/Smoke_Generic_PaintyMask01_Blend.blp
 6893133;World/Expansion10/Doodads/Dungeon/AzureVault/Smoke_Wispy_Desat.blp
 6893137;World/Expansion10/Doodads/Dungeon/AzureVault/fx_flipbook_lightning02.blp
 6893138;World/Expansion10/Doodads/Dungeon/AzureVault/fx_star02.blp
@@ -299249,6 +299284,7 @@
 7154481;World/Generic/Human/PassiveDoodads/human_food_cart_lod01.skin
 7154482;World/Generic/Human/PassiveDoodads/human_food_cart_lod02.skin
 7154483;World/Generic/Human/PassiveDoodads/human_food_cart_lod03.skin
+7154584;World/Expansion05/Doodads/Human/Doodads/Candle_Flipbook.blp
 7154585;World/Expansion05/Doodads/Human/Doodads/6HU_Barracks_Candle01_lod03.skin
 7154641;World/Expansion11/Doodads/PlayerHousing/6HU_INN_CHAIR_N_BED.blp
 7154642;World/Expansion11/Doodads/PlayerHousing/12PH_Leg_6HU_INN_SMALLCHAIR0100.skin
@@ -301155,6 +301191,7 @@
 7300900;World/Expansion11/Doodads/Dungeon/Gray8x8.blp
 7300901;World/Expansion11/Doodads/Dungeon/10FX_Shards_03.blp
 7300902;World/Expansion11/Doodads/Dungeon/10FX_StarField_Tile_04.blp
+7300903;World/Expansion11/Doodads/Dungeon/Smoke_Generic_PaintyMask01_Blend.blp
 7300904;World/Expansion11/Doodads/Dungeon/8FX_Painted_CloudScroll_02.blp
 7300908;World/Expansion11/Doodads/Dungeon/grey50percentsquare16x16_a.blp
 7300909;World/Expansion11/Doodads/Dungeon/wispymagic_vert_azeritemist_blue_128_greyrotate_solid.blp
@@ -301526,6 +301563,7 @@
 7337263;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_Barrel02_Open_lod01.skin
 7337264;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_Barrel02_Open_lod02.skin
 7337265;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_Barrel02_Open_lod03.skin
+7337941;World/Expansion11/Doodads/Generic/gradient_01.blp
 7337942;World/Expansion11/Doodads/Generic/Fire_Blurred_Mod2x_fixed.blp
 7338169;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_Mirror_Wall01.m2
 7338170;World/Expansion11/Doodads/PlayerHousing/12PH_Folk_WallLamp01.m2
@@ -306028,6 +306066,7 @@
 7553110;World/Expansion11/Doodads/PlayerHousing/12PH_Founders_CobblestonePath_01.m2
 7553111;World/Expansion11/Doodads/PlayerHousing/12PH_Founders_CobblestonePath_02.m2
 7553130;World/Expansion11/Doodads/PlayerHousing/7fx_arcane_wisps_blank.blp
+7553148;World/Expansion11/Doodads/PlayerHousing/7FX_Wavey_Mask_03_Vert.blp
 7553151;World/Expansion11/Doodads/PlayerHousing/10FX_Generic_Water_WaveMask_03_512.blp
 7553157;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Food_WineBottle01_SpecialAnim00.skin
 7553160;World/Expansion11/Doodads/PlayerHousing/12PH_BloodElf_Food_WineBottle01_SpecialAnim_lod01.skin
@@ -307916,6 +307955,7 @@
 7873482;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/12XP_Generic_Toy_DragonThroneToy01_Blue.blp
 7873484;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/ArmorReflect4.blp
 7873486;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/11FX_Dragonhawk_Chromatic_Energy.blp
+7873488;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/10FX_AlphaMask_GlowBlur_DesatB.blp
 7873490;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/7FX_AlphaMask_Glow_512_02.blp
 7873492;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/12GFX_WeaponEnchant_Mask.blp
 7873498;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/8FX_Dirt_Bits.blp
@@ -308560,6 +308600,7 @@
 7954820;World/Expansion11/Doodads/Dungeon/12DU_Ulatek_Dungeon_Door03_lod01.skin
 7954821;World/Expansion11/Doodads/Dungeon/12DU_Ulatek_Dungeon_Door03_lod02.skin
 7954822;World/Expansion11/Doodads/Dungeon/12DU_Ulatek_Dungeon_Door03_lod03.skin
+7955684;World/Expansion11/Doodads/Troll/Candle_Flipbook.blp
 7956698;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/12XP_Generic_Toy_DragonThroneToy01_Classic.m2
 7956704;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/12XP_Generic_Toy_DragonThroneToy01_Blue_Classic.blp
 7956705;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/12XP_Generic_Toy_DragonThroneToy01_Classic00.skin

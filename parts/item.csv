@@ -186407,6 +186407,7 @@
 3514207;item/objectcomponents/cape/cape_special_revendreth_d_0100.skin
 3514210;item/objectcomponents/cape/cape_special_revendreth_d_02_renow.blp
 3514213;item/objectcomponents/cape/cape_special_revendreth_d_0200.skin
+3514216;item/objectcomponents/cape/Candle_Flipbook.blp
 3514217;item/objectcomponents/cape/cape_special_revendreth_d_0300.skin
 3514218;item/objectcomponents/cape/cape_special_revendreth_d_01_embercourt.blp
 3514219;item/objectcomponents/cape/cape_special_revendreth_d_01_renow.blp
@@ -188889,6 +188890,7 @@
 3567856;item/objectcomponents/head/helm_mail_revendreth_d_01_za_m00.skin
 3567857;item/objectcomponents/head/helm_mail_revendreth_d_01_sc_f00.skin
 3567877;item/objectcomponents/waist/buckle_mail_revendreth_d_0100.skin
+3567947;item/objectcomponents/shoulder/Candle_Flipbook.blp
 3567948;item/objectcomponents/shoulder/shoulder_mail_revendreth_d_01_r00.skin
 3567958;item/objectcomponents/weapon/staff_2h_maldraxxus_d_01.m2
 3567966;item/objectcomponents/weapon/Staff_2H_Maldraxxus_D_01_Dark.blp
@@ -204687,6 +204689,7 @@
 4202489;item/objectcomponents/head/helm_armor_mining_a_01_wo_m.m2
 4202490;item/objectcomponents/head/helm_armor_mining_a_01_wo_f.m2
 4202491;item/objectcomponents/head/helm_armor_mining_a_01_za_m.m2
+4202501;item/objectcomponents/head/Candle_Flipbook.blp
 4202502;item/objectcomponents/head/glowball_orange.blp
 4202503;item/objectcomponents/head/Caustic_LowFreq.blp
 4202505;item/objectcomponents/head/helm_armor_mining_a_01_dr_m00.skin
@@ -256406,6 +256409,7 @@
 5658083;ITEM/OBJECTCOMPONENTS/Head/Helm_Leather_ArgentHorde_D_01_DwM_lod03.skin
 5658085;Item/ObjectComponents/Head/Helm_Leather_PVPHorde_A_01_DwF_lod01.skin
 5658087;Item/ObjectComponents/Head/Helm_Leather_PVPHorde_A_01_DwF_lod02.skin
+5658088;Item/ObjectComponents/Weapon/10FX_Generic_Water_Drops_02.blp
 5658089;Item/ObjectComponents/Weapon/10fx_generic_water_tide_01.blp
 5658090;Item/ObjectComponents/Weapon/Firearm_2H_Waterblaster_C_0100.skin
 5658091;Item/ObjectComponents/Weapon/Firearm_2H_Waterblaster_C_01_lod01.skin
@@ -278582,6 +278586,7 @@
 6254342;Item/ObjectComponents/weapon/mace_1h_etherealdefense_b_01_lod02.skin
 6254344;Item/ObjectComponents/weapon/mace_1h_etherealdefense_b_01_lod03.skin
 6254392;Item/ObjectComponents/shield/10FX_Blue_Fresnel_Scarf.blp
+6254394;Item/ObjectComponents/shield/8FX_General_WindTile_B_Arcane.blp
 6254398;Item/ObjectComponents/shield/shield_1h_etherealdefense_b_0100.skin
 6254402;Item/ObjectComponents/shield/shield_1h_etherealdefense_b_01_lod01.skin
 6254403;Item/ObjectComponents/shield/shield_1h_etherealdefense_b_01_lod02.skin
@@ -290659,6 +290664,7 @@
 6853021;item/objectcomponents/collections/Leather_RaidRogueEthereal_D_01_lod01.skin
 6853022;item/objectcomponents/collections/Leather_RaidRogueEthereal_D_01_lod02.skin
 6853024;item/objectcomponents/collections/Leather_RaidRogueEthereal_D_01_lod03.skin
+6853026;item/objectcomponents/collections/Smoke_Generic_PaintyMask01_Blend.blp
 6853029;item/objectcomponents/collections/8FX_ExplosionSmoke_A.blp
 6853035;Item/ObjectComponents/head/helm_leather_raidrogueethereal_d_01_Hu_m00.skin
 6853038;Item/ObjectComponents/head/helm_leather_raidrogueethereal_d_01_Hu_m_lod01.skin
