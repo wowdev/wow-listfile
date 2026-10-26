@@ -213638,9 +213638,6 @@
 7897458;models/spells/unk_exp11_7893899/7893899_7897458.blp
 7897461;models/spells/unk_exp11_7893899/7893899_7897461.blp
 7897464;models/spells/unk_exp11_7893899/7893899_7897464.blp
-7897474;models/unknown/unk_exp11_7893899/7893899_lod01.skin
-7897476;models/unknown/unk_exp11_7893899/7893899_lod02.skin
-7897479;models/unknown/unk_exp11_7893899/7893899_lod03.skin
 7897518;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/12XP_Generic_Toy_DragonThroneToy01_7897518.blp
 7897520;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/12XP_Generic_Toy_DragonThroneToy01_7897520.blp
 7897524;World/Expansion11/Doodads/12XP_Generic_Toy_DragonThroneToy01/12XP_Generic_Toy_DragonThroneToy01_7897524.blp
@@ -213933,9 +213930,6 @@
 7900205;sound/ambience/zoneambience/amb_vaultsofatalutek_day_7900205.ogg
 7900207;sound/ambience/zoneambience/amb_vaultsofatalutek_day_7900207.ogg
 7900239;models/spells/unk_exp11_7897682/7897682_7900239.blp
-7900247;models/unknown/unk_exp11_7897682/7897682_lod01.skin
-7900251;models/unknown/unk_exp11_7897682/7897682_lod02.skin
-7900255;models/unknown/unk_exp11_7897682/7897682_lod03.skin
 7900306;Housing/Thumbnails/5869189_7900306.blp
 7900308;Housing/Icons/INV_5869189_7900308.blp
 7900314;Housing/Thumbnails/12ZAM_Swamp_Plant_PineappleAccent_B02_7900314.blp
@@ -213976,9 +213970,6 @@
 7903034;models/spells/unk_exp11_7902963/7902963_7903034.blp
 7903039;models/spells/unk_exp11_7902963/7902963_7903039.blp
 7903055;models/spells/unk_exp11_7902965/7902965_7903055.blp
-7903059;models/unknown/unk_exp11_7902965/7902965_lod01.skin
-7903060;models/unknown/unk_exp11_7902965/7902965_lod02.skin
-7903061;models/unknown/unk_exp11_7902965/7902965_lod03.skin
 7903191;Shaders/Pixel/dx_5_0/unknown_7903191_volumefogp-water.bls
 7903192;Shaders/Pixel/dx_6_0/unknown_7903192_volumefogp-water.bls
 7903195;Shaders/Pixel/mtl_1_1/unknown_7903195_volumefogp-water.bls

@@ -34809,6 +34809,9 @@
 7897456;Spells/12GFX_WeaponEnchant_Mask.blp
 7897468;Spells/12XP_Generic_Toy_DragonThroneToy01_Blue.blp
 7897470;Spells/12FX_Custom_Summon_DragonThroneToy0100.skin
+7897474;Spells/12FX_Custom_Summon_DragonThroneToy01_lod01.skin
+7897476;Spells/12FX_Custom_Summon_DragonThroneToy01_lod02.skin
+7897479;Spells/12FX_Custom_Summon_DragonThroneToy01_lod03.skin
 7897567;Spells/12FX_UlatekRaid_Sszorak_Ravage_Precast00.skin
 7897569;Spells/12FX_UlatekRaid_Sszorak_Ravage_Precast_lod01.skin
 7897571;Spells/12FX_UlatekRaid_Sszorak_Ravage_Precast_lod02.skin
@@ -34819,6 +34822,9 @@
 7897682;Spells/12FX_Custom_Summon_Impact_DragonThroneToy01.m2
 7897683;Spells/12FX_Custom_Summon_Aura_DragonThroneToy01.m2
 7900243;Spells/12FX_Custom_Summon_Impact_DragonThroneToy0100.skin
+7900247;Spells/12FX_Custom_Summon_Impact_DragonThroneToy01_lod01.skin
+7900251;Spells/12FX_Custom_Summon_Impact_DragonThroneToy01_lod02.skin
+7900255;Spells/12FX_Custom_Summon_Impact_DragonThroneToy01_lod03.skin
 7900376;Spells/12FX_Custom_Summon_Aura_DragonThroneToy0100.skin
 7902431;Spells/FX_VoraciousHeartofUlatek_Cast.m2
 7902963;Spells/12FX_SpringPanda_Mount_Footprint.m2
@@ -34831,6 +34837,9 @@
 7903056;Spells/12FX_AlphaMask_Dissolve_Bamboo.blp
 7903057;Spells/12FX_AlphaMask_Dissolve_Bamboo_Mask_02.blp
 7903058;Spells/12FX_SpringPanda_Mount_Precast_Summon00.skin
+7903059;Spells/12FX_SpringPanda_Mount_Precast_Summon_lod01.skin
+7903060;Spells/12FX_SpringPanda_Mount_Precast_Summon_lod02.skin
+7903061;Spells/12FX_SpringPanda_Mount_Precast_Summon_lod03.skin
 7926157;Spells/FX_SlitheringClutch_Missile.m2
 7926159;Spells/FX_CausticWaves_AreaTrigger.m2
 7929315;Spells/FX_VoraciousHeartofUlatek_Cast00.skin
