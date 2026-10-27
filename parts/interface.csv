@@ -175523,6 +175523,18 @@
 8166882;Interface/ICONS/INV_OxHomeMount_Brown.blp
 8168849;Interface/FrameGeneral/UIFrameTabsc60.BLP
 8169111;Interface/AddOns/Blizzard_APIDocumentationGenerated/PlayerChoiceConstantsDocumentation.lua
+8169270;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena1.blp
+8169271;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena10.blp
+8169272;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena11.blp
+8169273;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena12.blp
+8169274;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena2.blp
+8169275;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena3.blp
+8169276;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena4.blp
+8169277;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena5.blp
+8169278;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena6.blp
+8169279;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena7.blp
+8169280;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena8.blp
+8169281;Interface/WorldMap/Delve_Ulatek_Arena/Delve_Ulatek_Arena9.blp
 8171905;Interface/Delves/121DelvesEntranceBackgrounds.blp
 8171907;interface/splash/splash1210.blp
 8173229;Interface/PlayerChoice/TaleboundPlayerChoiceFXFlipbook.blp
@@ -176631,6 +176643,7 @@
 8527852;Interface/AddOns/Blizzard_Settings_Shared/Camelot/NewDefinitions.lua
 8528956;Interface/Glues/Models/UI_NightElf/White8x8.blp
 8528958;Interface/Glues/Models/UI_NightElf/7fx_alphamask_flairblur_a_snake3.blp
+8528959;Interface/Glues/Models/UI_NightElf/Smoke02A_60.blp
 8528960;Interface/Glues/Models/UI_NightElf/Waterfall02.blp
 8528961;Interface/Glues/Models/UI_NightElf/NIGHTELFSTATUEFEMALEWATER01.blp
 8528962;Interface/Glues/Models/UI_NightElf/white_64.blp
@@ -176647,6 +176660,7 @@
 8531689;Interface/Buttons/TalkToMe_Listen_lod01.skin
 8531690;Interface/Buttons/TalkToMe_Listen_lod02.skin
 8531692;Interface/Buttons/TalkToMe_Listen_lod03.skin
+8533408;Interface/GLUES/COMMON/WoWFreeTrialLogo.blp
 8535169;Interface/Gamepad/UIUnitFramePlayerOnPartyHealthMask2xc60.blp
 8539471;Interface/AddOns/Blizzard_GlueParent/Camelot/GlueParentUtil.lua
 8539472;Interface/AddOns/Blizzard_GlueParent/Mainline/GlueParentUtil.lua
@@ -176708,3 +176722,8 @@
 8561795;Interface/AddOns/Blizzard_WoWHackTutorials/Blizzard_WoWHackTutorials.toc
 8561796;Interface/AddOns/Blizzard_WoWHackTutorials/WoWHackTutorials.lua
 8561797;Interface/AddOns/Blizzard_WoWHackTutorials/WoWHackTutorials.xml
+8571977;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchResults.lua
+8571978;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchResults.xml
+8571979;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchScoreboard.lua
+8571980;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchScoreboard.xml
+8574807;Interface/AddOns/Blizzard_SettingsDefinitions_Shared/Preset.lua

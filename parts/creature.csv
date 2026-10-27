@@ -48718,6 +48718,7 @@
 2510494;creature/kezancrowdpummeler_gallywix/White8x8.blp
 2510495;creature/kezancrowdpummeler_gallywix/WispyMagic_Vert_AzeriteGold_ForProjections.blp
 2510496;creature/kezancrowdpummeler_gallywix/wispymagic_vert_azeritemist_yellowmixed_amulet2_a.blp
+2510497;Creature/kezancrowdpummeler_gallywix/WispyMagic_Vert_AzeriteMist_YellowMixed.blp
 2510498;creature/kezancrowdpummeler_gallywix/8fx_mask_glowgeneric_a_128_brighter.blp
 2510499;creature/kezancrowdpummeler_gallywix/white_64.blp
 2510500;creature/kezancrowdpummeler_gallywix/7fx_alphamask_glow_blue.blp
@@ -73659,6 +73660,7 @@
 6025481;Creature/RidingPhoenix2/White8x8.blp
 6025499;Creature/RidingPhoenix/Gray8x8.blp
 6025501;Creature/RidingPhoenix/White8x8.blp
+6025505;Creature/RidingPhoenix2/PlasmaPartiBaseGlow2_Mask_Orange.blp
 6025966;Creature/MimicPresent/MimicPresent.m2
 6025968;Creature/MimicPresent/WaterfallMist.blp
 6025971;Creature/MimicPresent/fire_reflection.blp
@@ -74436,6 +74438,7 @@
 6157034;creature/GoblinTrike01_HD/GoblinTrike01_HD_lod03.skin
 6157078;Creature/DarkPhoenix/Gray8x8.blp
 6157080;Creature/DarkPhoenix/White8x8.blp
+6157081;Creature/DarkPhoenix/PlasmaPartiBaseGlow2_Mask.blp
 6158141;creature/Ethereal2_F/Ethereal2_F00.skin
 6158142;creature/Ethereal2_F/Ethereal2_F_lod01.skin
 6158143;creature/Ethereal2_F/Ethereal2_F_lod02.skin
@@ -74986,6 +74989,7 @@
 6243138;Creature/LunarSnakePetClassic/9fx_sand.blp
 6243139;Creature/LunarSnakePetClassic/Smoke_Generic_PaintyMask02_BlendGreen.blp
 6243140;Creature/LunarSnakePetClassic/10FX_EnergyStars_Lift.blp
+6243141;Creature/LunarSnakePetClassic/10FX_Painted_CloudScroll_03_Frost2.blp
 6243142;Creature/LunarSnakePetClassic/Smoke_Loose_03.blp
 6243143;Creature/LunarSnakePetClassic/7fx_explosionsmoke.blp
 6243144;Creature/LunarSnakePetClassic/8FX_LightShard.blp
@@ -74998,6 +75002,7 @@
 6243152;Creature/LunarSnakePetClassic/11FX_Bubble_Lighter_Dissolve.blp
 6243156;Creature/LunarSnakePetClassic/8FX_Fireworks_Flares_Bits.blp
 6243157;Creature/LunarSnakePetClassic/FLARE05_BlendAdd2_gold.blp
+6243162;Creature/LunarSnakePetClassic/10FX_EnergyStars_Lift_02.blp
 6243164;Creature/LunarSnakePetClassic/9FX_Progenitor_Crystal_Gold.blp
 6243166;Creature/LunarSnakePetClassic/10FX_EnergyTendril_C.blp
 6243486;Creature/ShaPetClassic/ShaPetClassic.blp
@@ -80139,6 +80144,7 @@
 7299950;Creature/ArcaneGolem2/ArcaneGolem2_lod03.skin
 7300006;Creature/ArcaneGolem2/ArcaneGolem2_Green.blp
 7300196;Creature/LunarHorsePet/Smoke_Soft_02.blp
+7300199;Creature/LunarHorsePet/8FX_Painted_CloudScroll_03_Bright_Solid.blp
 7300201;Creature/LunarHorsePet/FLARE05_BlendAdd2_rr.blp
 7301920;Creature/BabyManaWyrm/BabyManaWyrm_Blue.blp
 7301921;Creature/BabyManaWyrm/BabyManaWyrm_Green.blp
@@ -80172,6 +80178,7 @@
 7304571;Creature/BullMount/8FX_Painted_CloudScroll_03_512.blp
 7304574;Creature/BullMount/8FX_Generic_Stars_Cyan.blp
 7304577;Creature/BullMount/11FX_Dragonhawk_Chromatic_Energy.blp
+7304578;Creature/BullMount/10FX_EnergyStars_Lift_02.blp
 7304579;Creature/BullMount/7FX_AlphaMask_Glow_Blue7.blp
 7304581;Creature/BullMount/soft_flare_.blp
 7304583;Creature/BullMount/7FX_AlphaMask_Glow.blp
@@ -80236,6 +80243,7 @@
 7317309;Creature/NetherWingMount/NetherWingMount_lod01.skin
 7317312;Creature/NetherWingMount/NetherWingMount_lod02.skin
 7317315;Creature/NetherWingMount/NetherWingMount_lod03.skin
+7317322;Creature/NetherWingMount/Eyes_00_NE.blp
 7318892;Creature/GardenVineMount/GardenVineMount.m2
 7318994;Creature/DragonWhelpCataclysm/DragonWhelpCataclysm_Gold.blp
 7319663;Creature/BerserkerBoss/BerserkerBoss0097-00.anim
@@ -80351,6 +80359,7 @@
 7337907;Creature/NetherWingMount_Classic/NetherWingMount_Classic_Saddle.blp
 7337909;Creature/NetherWingMount_Classic/ArmorReflect4.blp
 7337911;Creature/NetherWingMount_Classic/NetherWingMount_Stars.blp
+7337913;Creature/NetherWingMount_Classic/Eyes_00_NE.blp
 7337918;Creature/NetherWingMount_Classic/NetherWingMount_Classic00.skin
 7339102;Creature/Horse4/ArmorReflect_Rainbow.blp
 7339103;Creature/Horse4/Horse40061-00.anim
@@ -81060,6 +81069,7 @@
 7456414;Creature/SquirrelFlyingMount/Flares_Varied_CyanHues_BA.blp
 7456415;Creature/SquirrelFlyingMount/FairyDust2OffsetTwinkle_2x2_A.blp
 7456416;Creature/SquirrelFlyingMount/flares_varied_azerite_ba.blp
+7456417;Creature/SquirrelFlyingMount/Smoke_Loose_02_256_Blend_Blur.blp
 7456418;Creature/SquirrelFlyingMount/11FX_Arcane_Smoke_Energy.blp
 7456420;Creature/SquirrelFlyingMount/Smoke_Generic_PaintyMask02_Blend2.blp
 7456426;Creature/SquirrelFlyingMount/7FX_HeroAura_Vertical_Warm_512.blp
@@ -81231,8 +81241,11 @@
 7476132;Creature/GardenSnailMount/GardenSnailMount_lod01.skin
 7476133;Creature/GardenSnailMount/GardenSnailMount_lod02.skin
 7476134;Creature/GardenSnailMount/GardenSnailMount_lod03.skin
+7476136;Creature/NetherWingMount_Classic/NetherWingMount_Classic_Blue03.blp
+7476139;Creature/NetherWingMount_Classic/NetherWingMount_Classic_Blue02.blp
 7476142;Creature/NetherWingMount_Classic/DeathFire2.blp
 7476145;Creature/NetherWingMount_Classic/dust1.blp
+7476148;Creature/NetherWingMount_Classic/NetherWingMount_Classic_Blue01.blp
 7476151;Creature/NetherWingMount_Classic/smoothreflect.blp
 7476154;Creature/NetherWingMount_Classic/PVPWARHORSEEYEGLOW.BLP
 7476157;Creature/NetherWingMount_Classic/PLASMAPARTIBASEGLOW2.BLP
@@ -82746,6 +82759,7 @@
 7678039;Creature/HorseDragonMount_Classic/HorseDragonMount_Classic.m2
 7678042;Creature/HorseDragonMount_Classic/10FX_Lightning_Circle_BW_512.blp
 7678043;Creature/HorseDragonMount_Classic/White8x8.blp
+7678044;Creature/HorseDragonMount_Classic/Smoke_Loose_02_256_Blend_Blur.blp
 7678046;Creature/HorseDragonMount_Classic/11FX_Arcane_Energy_Desat_A.blp
 7678047;Creature/HorseDragonMount_Classic/ArmorReflect4.blp
 7678048;Creature/HorseDragonMount_Classic/HorseDragonMount_Glow_BW_Classic.blp
@@ -83631,6 +83645,7 @@
 7902367;Creature/SpringPandaMount/12FX_Chromatic_Mote.blp
 7902370;Creature/SpringPandaMount/smoke_loose_02_256_blend_contrast.blp
 7902371;Creature/SpringPandaMount/8FX_Painted_CloudScroll_02.blp
+7902372;Creature/SpringPandaMount/Ribbon_Artifact_Starfall.blp
 7902373;Creature/SpringPandaMount/Arcane_Wisps_Fel.blp
 7902374;Creature/SpringPandaMount/11FX_Bubble_Lighter_Dissolve.blp
 7902376;Creature/SpringPandaMount/7FX_AlphaMask_Glow.blp
@@ -83984,6 +83999,7 @@
 8019711;Creature/MothFluffyMount/grey50percentsquare16x16_a.blp
 8019712;Creature/MothFluffyMount/8FX_Bit_Glow_01.blp
 8019716;Creature/MothFluffyMount/MothFluffyMount_Orange.blp
+8019718;Creature/MothFluffyMount/7FX_EnergyScroll_Fire_Stylized_Dull.blp
 8019719;creature/mothfluffymount/gray8x8.blp
 8019720;creature/mothfluffymount/7fx_energy_fire.blp
 8019721;Creature/MothFluffyMount/White256.blp
@@ -84309,6 +84325,7 @@
 8203469;Creature/CrabTuskarrMount/8FX_Bubbles_Pop.blp
 8203470;Creature/CrabTuskarrMount/10FX_ShadowEatAway_Small_White.blp
 8203472;Creature/CrabTuskarrMount/grey50percentsquare16x16_a.blp
+8203474;Creature/CrabTuskarrMount/Water_Tide3_NoA.blp
 8203475;Creature/CrabTuskarrMount/white_64.blp
 8203477;Creature/CrabTuskarrMount/12GFX_WaterBubble_Flip.blp
 8203478;Creature/CrabTuskarrMount/10FX_Blue_Fresnel_Blend.blp
