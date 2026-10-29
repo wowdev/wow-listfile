@@ -176726,4 +176726,8 @@
 8571978;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchResults.xml
 8571979;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchScoreboard.lua
 8571980;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchScoreboard.xml
+8572884;Interface/AddOns/Blizzard_ActionBar/Camelot/ActionButtonUtilOverrides.lua
+8573816;Interface/AddOns/Blizzard_LFGUtil/Shared/LFGVoiceChatUtil.lua
 8574807;Interface/AddOns/Blizzard_SettingsDefinitions_Shared/Preset.lua
+8575208;Interface/AddOns/Blizzard_SharedTalentUI/WoWHack/Blizzard_WoWHackCharacterStats.lua
+8578853;Interface/Splash/Splash1217.blp
