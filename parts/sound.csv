@@ -144363,7 +144363,7 @@
 2146640;sound/music/battleforazeroth/mus_80_sirenssong_a.mp3
 2146641;sound/music/battleforazeroth/mus_80_sirenssong_b.mp3
 2146642;sound/music/battleforazeroth/mus_80_sirenssong_c.mp3
-2146643;sound/music/battleforazeroth/mus_80_sirenssong_d.mp3
+2146643;sound/music/battleforazeroth/mus_80_sirenssong_d_solo.mp3
 2146644;sound/music/battleforazeroth/mus_80_sirenssong_h.mp3
 2146645;sound/music/battleforazeroth/mus_80_warfrontsbattle_a.mp3
 2146646;sound/music/battleforazeroth/mus_80_warfrontsbattle_b.mp3
@@ -164039,7 +164039,7 @@
 3014242;sound/creature/void_dragon/mon_void_dragon_battleshout_01.ogg
 3014243;sound/creature/void_dragon/mon_void_dragon_battleshout_02.ogg
 3014244;sound/creature/void_dragon/mon_void_dragon_battleshout_03.ogg
-3014245;sound/music/battleforazeroth/rtc_82_mvr_dragon_wound_02.mp3
+3014245;sound/music/battleforazeroth/rtc_82_mvr_dragon_wound_02.ogg
 3014246;sound/creature/void_dragon/mon_void_dragon_death_01.ogg
 3014247;sound/creature/void_dragon/mon_void_dragon_death_02.ogg
 3014248;sound/creature/void_dragon/mon_void_dragon_preaggro_01.ogg
@@ -164240,15 +164240,15 @@
 3037322;sound/music/battleforazeroth/mus_82_rtc_mmd.mp3
 3038632;sound/music/battleforazeroth/mus_rtc_82_nst_01.mp3
 3038633;sound/music/battleforazeroth/mus_rtc_82_cts.mp3
-3038645;sound/music/battleforazeroth/mus_82_mechagonjukebox_6.mp3
-3038646;sound/music/battleforazeroth/mus_82_mechagonjukebox_4_h.mp3
-3038647;sound/music/battleforazeroth/mus_82_mechagonjukebox_4_a.mp3
-3038648;sound/music/battleforazeroth/mus_82_mechagonjukebox_2.mp3
-3038649;sound/music/battleforazeroth/mus_82_mechagonjukebox_1_h.mp3
-3038650;sound/music/battleforazeroth/mus_82_mechagonjukebox_1_a.mp3
-3038651;sound/music/battleforazeroth/mus_82_mechagonjukebox_3.mp3
-3038652;sound/music/battleforazeroth/mus_82_mechagonjukebox_5_h.mp3
-3038653;sound/music/battleforazeroth/mus_82_mechagonjukebox_5_a.mp3
+3038645;sound/music/battleforazeroth/mus_82_mechagonjukebox_6.ogg
+3038646;sound/music/battleforazeroth/mus_82_mechagonjukebox_4_h.ogg
+3038647;sound/music/battleforazeroth/mus_82_mechagonjukebox_4_a.ogg
+3038648;sound/music/battleforazeroth/mus_82_mechagonjukebox_2.ogg
+3038649;sound/music/battleforazeroth/mus_82_mechagonjukebox_1_h.ogg
+3038650;sound/music/battleforazeroth/mus_82_mechagonjukebox_1_a.ogg
+3038651;sound/music/battleforazeroth/mus_82_mechagonjukebox_3.ogg
+3038652;sound/music/battleforazeroth/mus_82_mechagonjukebox_5_h.ogg
+3038653;sound/music/battleforazeroth/mus_82_mechagonjukebox_5_a.ogg
 3038663;sound/music/battleforazeroth/mus_82_fromthedepths_1_a.mp3
 3038664;sound/music/battleforazeroth/mus_82_fromthedepths_1_b.mp3
 3038665;sound/music/battleforazeroth/mus_82_fromthedepths_1_c.mp3
@@ -182579,7 +182579,7 @@
 3931066;sound/music/shadowlands/mus_90_utherconfront.mp3
 3931390;sound/music/shadowlands/mus_90_shadow_inbetween_b.mp3
 3931392;sound/music/shadowlands/mus_90_shadow_inbetween_c.mp3
-3931650;sound/music/shadowlands/mus_mx_cov_seatoftheprimus_01.mp3
+3931650;sound/music/shadowlands/mus_mx_cov_seatoftheprimus_01.ogg
 3977445;sound/emitters/9.1 skyhold - amb_emit periodic - tavern foley_06.ogg
 3977447;sound/emitters/9.1 skyhold - amb_emit periodic - tavern foley_07.ogg
 3977449;sound/emitters/9.1 skyhold - amb_emit periodic - tavern foley_08.ogg

@@ -188,16 +188,13 @@
 1989711;spells/weapontrail_1122_1989711.blp
 1990284;spells/textures/spellchaineffect_6018_1990284.blp
 1990285;spells/textures/spellchaineffect_6066_1990285.blp
-1990938;Environments/ParticulateVolumes/pvdata/unkweather567_1990938.pvdata
 1991754;spells/textures/spellchaineffect_6237_1991754.blp
 2012317;spells/textures/spellchaineffect_6074_2012317.blp
-2020325;Environments/ParticulateVolumes/pvdata/unkweather280_2020325.pvdata
 2024181;Environments/ColorGrading/ColorGrading_8riv_sky1_2024181.blp
 2024182;Environments/ColorGrading/ColorGrading_8riv_sky2_2024182.blp
 2024183;Environments/ColorGrading/ColorGrading_8riv_sky3_2024183.blp
 2037631;spells/textures/spellchaineffect_6018_2037631.blp
 2062368;spells/textures/textureblendset_1989_2062368.blp
-2066231;Environments/ParticulateVolumes/pvdata/unkweather292_2066231.pvdata
 2067104;spells/textures/textureblendset_602_2067104.blp
 2068315;Sound/Spell/SubjugatingDemon_aurastart_loop_2068315.ogg
 2068316;Sound/Spell/SubjugatingDemon_aurastart_loop_2068316.ogg
@@ -332,7 +329,6 @@
 2175448;spells/cfx_warlock_summoningstone01_5_2175448.blp
 2175450;spells/cfx_warlock_summoningstone01_7_2175450.blp
 2175500;sound/creature/horse2ardenwealdmount/horse2ardenwealdmount_impact_oneshot_2175500.ogg
-2175672;Environments/ParticulateVolumes/pvdata/unkweather520_2175672.pvdata
 2175685;world/expansion07/doodads/fx/8fx_firewall_door_5_2175685.blp
 2175696;spells/cfx_hunter_harpoon_impactchest_10_2175696.blp
 2175704;world/expansion07/doodads/nazjatar/8nzj_largekelp_b01_0_2175704.blp
@@ -433,7 +429,6 @@
 2318847;world/expansion07/doodads/fx/8fx_kingmecha_cuttingbeam_13_2318847.blp
 2319916;world/expansion07/doodads/dungeon/doodads/8du_mechagon_conveyor_special01_7_2319916.blp
 2319917;world/expansion07/doodads/dungeon/doodads/8du_mechagon_conveyor_special01_8_2319917.blp
-2319943;environments/stars/8wsg_sky02_0_2319943.blp
 2319960;world/expansion07/doodads/ashenvale/8ash_tree_b01_0_2319960.blp
 2319966;world/expansion07/doodads/barrens/8bar_bush_b01_0_2319966.blp
 2319970;world/expansion07/doodads/barrens/8bar_tree_a01_1_2319970.blp
@@ -760,8 +755,6 @@
 2447779;World/WMO/Expansion07/Nazjatar/8NZJ_Nazjatar_EluneTempl01_2447779.blp
 2449275;spells/8fx_vaultguardian_treasurepile_1_2449275.blp
 2449277;spells/8fx_vaultguardian_treasurepile_3_2449277.blp
-2451330;environments/stars/8wsg_sky02_1_2451330.blp
-2451331;environments/stars/8wsg_sky02_2_2451331.blp
 2451894;world/expansion07/doodads/nazjatar/8nzj_creepystarfish_c01_0_2451894.blp
 2451895;world/expansion07/doodads/nazjatar/8nzj_creepystarfish_c02_1_2451895.blp
 2451901;world/expansion07/doodads/nazjatar/8nzj_creepystarfish_c01_1_2451901.blp
@@ -779,7 +772,6 @@
 2466901;creature/mekkatorque/mekkatorque_0_2466901.blp
 2466903;creature/mekkatorque/mekkatorque_2_2466903.blp
 2466904;creature/mekkatorque/mekkatorque_3_2466904.blp
-2466938;environments/stars/8wsg_sky03_0_2466938.blp
 2466939;environments/stars/8wsg_sky03_1_2466939.blp
 2467322;world/expansion07/doodads/human/8hu_transport_alliance_sails_drydock_1_2467322.blp
 2467385;world/expansion08/doodads/castlezone/9cas_castlepinebroken_2467385.blp
@@ -4090,7 +4082,6 @@
 2921617;World/WMO/Dungeon/EternalPalace/8DU_EternalPalace_Main01_2921617.blp
 2921863;World/WMO/Expansion08/Vampire/9VM_Vampire_CryptDungeon01_2921863.blp
 2921864;World/WMO/Expansion08/Vampire/9VM_Vampire_CryptDungeon01_2921864.blp
-2921900;creature/encrypted18/encrypted18_2921900.blp
 2921951;world/expansion08/doodads/babylonzone/9pln_lilies_a01_2921951.blp
 2922054;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_BigBuilding01_2922054.blp
 2922055;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_BigBuilding01_2922055.blp
@@ -4147,7 +4138,6 @@
 2924926;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_CovenantSanctum01_2924926.blp
 2924959;world/expansion07/doodads/fx/8fx_deepsea_toxicspine_impact_chest_6_2924959.blp
 2925001;creature/encrypted19/encrypted19_2925001.blp
-2925005;creature/encrypted19/encrypted19_2925005.blp
 2925018;item/objectcomponents/head/helm_plate_nazjatarraid_d_01_2925018.blp
 2925019;item/objectcomponents/shoulder/shoulder_plate_nazjatarraid_d_01_2925019.blp
 2925021;item/objectcomponents/collections/collections_plate_nazjatarraid_d_01_2925021.blp
@@ -30201,7 +30191,7 @@
 3885391;Sound/Spell/Threat2_cast_oneshot_3885391.ogg
 3885393;Sound/Spell/Threat3_cast_oneshot_3885393.ogg
 3885395;Sound/Spell/Threat4_cast_oneshot_3885395.ogg
-3885397;Sound/Music/Shadowlands/RAID_91_Torghast_Sanctum_Raid_Eye_Intro_3885397.mp3
+3885397;Sound/Music/Shadowlands/RAID_91_Torghast_Sanctum_Raid_Eye_Intro_3885397.ogg
 3885477;world/expansion08/doodads/broker/9bo_broker_ledger01_3885477.blp
 3885486;world/expansion08/doodads/broker/9bo_broker_scroll01_3885486.blp
 3885498;world/expansion08/doodads/broker/OrbReflect_Super_rainbow_3885498.blp
@@ -223872,7 +223862,7 @@
 8175848;sound/ambience/zoneambience/amb_thedrownedcity_day_8175848.ogg
 8175850;sound/ambience/zoneambience/amb_thedrownedcity_day_8175850.ogg
 8175852;sound/ambience/zoneambience/amb_thedrownedcity_day_8175852.ogg
-8176610;Sound/UI/MUS_1_0_MAINTITLE_ORIGINAL_0_8176610.ogg
+8176610;Sound/UI/MUS_1_0_MAINTITLE_ORIGINAL_0_8176610.mp3
 8176648;models/unktextures/7Legion_8176648.blp
 8176660;models/unktextures/ArmorReflectGold2_8176660.blp
 8178339;Sound/Creature/tortollan/tortollan_fidget_8178339.ogg

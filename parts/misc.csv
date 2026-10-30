@@ -144848,6 +144848,7 @@
 1928033;textures/bakednpctextures/creaturedisplayextra-144382.blp
 1928034;textures/bakednpctextures/creaturedisplayextra-144382_hd.blp
 1928038;Environments/ParticulateVolumes/Textures/8XP_Ash_Tumbling_02.BLP
+1928039;Environments/ParticulateVolumes/Textures/8XP_Ember_01.blp
 1928112;dungeons/textures/8tr_zandalari/ship_psds/8tr_ship_woodplanks_lacquer02.blp
 1928117;dungeons/textures/8du_nazmirraid/8du_nazmirraid_bloodspec.blp
 1928119;dungeons/textures/8du_nazmirraid/8du_nazmirraid_titanface01.blp
@@ -145101,6 +145102,8 @@
 1938982;textures/bakednpctextures/creaturedisplayextra-144600_hd.blp
 1938985;textures/bakednpctextures/creaturedisplayextra-144601.blp
 1938986;textures/bakednpctextures/creaturedisplayextra-144601_hd.blp
+1938990;Environments/ParticulateVolumes/Textures/8XP_Rain_01.blp
+1938991;Environments/ParticulateVolumes/Textures/8XP_Snowflakes_01.blp
 1938992;textures/bakednpctextures/creaturedisplayextra-144602.blp
 1939039;users/nthatcher/kultiras/8hu_kultiras_stoneblock_brown.blp
 1939092;textures/bakednpctextures/creaturedisplayextra-144615.blp
@@ -145364,6 +145367,7 @@
 1939841;textures/bakednpctextures/creaturedisplayextra-144639.blp
 1939843;DBFilesClient/ClientSceneEffect.db2
 1939846;environments/stars/8kul_tiragardesoundsky0100.skin
+1939848;Environments/ParticulateVolumes/Textures/8XP_Fog_01.blp
 1939950;character/vulpera/male/vulperamalefaceupper00_00.blp
 1939951;character/vulpera/male/vulperamalefaceupper00_01.blp
 1939952;character/vulpera/male/vulperamalefaceupper00_02.blp
@@ -145559,6 +145563,7 @@
 1943816;textures/bakednpctextures/creaturedisplayextra-144722.blp
 1944314;textures/bakednpctextures/creaturedisplayextra-144723.blp
 1949824;textures/bakednpctextures/creaturedisplayextra-144739_hd.blp
+1949886;Environments/ParticulateVolumes/Textures/8XP_Spore_01.blp
 1949892;textures/bakednpctextures/creaturedisplayextra-144741_hd.blp
 1949894;textures/bakednpctextures/creaturedisplayextra-144742_hd.blp
 1949896;textures/bakednpctextures/creaturedisplayextra-144743_hd.blp
@@ -146502,6 +146507,12 @@
 1982526;character/darkirondwarf/male/darkirondwarfmaletattoo04.blp
 1982824;textures/bakednpctextures/creaturedisplayextra-145413_hd.blp
 1982826;textures/bakednpctextures/creaturedisplayextra-145414.blp
+1982832;Environments/ParticulateVolumes/Textures/8XP_BloodFly_01.blp
+1982833;Environments/ParticulateVolumes/Textures/8XP_FallingEmbers_01.blp
+1982834;Environments/ParticulateVolumes/Textures/8XP_Lighting_01.blp
+1982835;Environments/ParticulateVolumes/Textures/8XP_Pebble_01.blp
+1982836;Environments/ParticulateVolumes/Textures/8XP_Sand_02.blp
+1982837;Environments/ParticulateVolumes/Textures/8XP_Sand_03.blp
 1983003;Environments/ColorGrading/ColorGrading_8xp_lordaeronscenarioblight.BLP
 1983008;textures/bakednpctextures/creaturedisplayextra-145417_hd.blp
 1983010;textures/bakednpctextures/creaturedisplayextra-145418_hd.blp
@@ -146512,7 +146523,10 @@
 1983049;environments/stars/8kul_prison_sky0100.skin
 1983050;textures/bakednpctextures/creaturedisplayextra-145422.blp
 1983052;textures/bakednpctextures/creaturedisplayextra-145423.blp
+1983054;Environments/ParticulateVolumes/Textures/8XP_Mist_01.blp
 1983095;textures/bakednpctextures/creaturedisplayextra-145424_hd.blp
+1983113;Environments/ParticulateVolumes/Textures/8XP_Dust_01.blp
+1983114;Environments/ParticulateVolumes/Textures/8XP_Rain_02.blp
 1983123;textures/bakednpctextures/creaturedisplayextra-145425.blp
 1983125;textures/bakednpctextures/creaturedisplayextra-145426.blp
 1983127;textures/bakednpctextures/creaturedisplayextra-145426_e.blp
@@ -146658,6 +146672,9 @@
 1987770;DUNGEONS/TEXTURES/PILLAR/MM_DRNSS_PILLAR_02.blp.meta
 1987771;DUNGEONS/TEXTURES/TREES/GREATTREEGRASS128.blp.meta
 1987779;DUNGEONS/TEXTURES/CEILING/MM_DRNSS_CEILING_02.blp.meta
+1987784;Environments/ParticulateVolumes/Textures/8XP_Blast_01.blp
+1987785;Environments/ParticulateVolumes/Textures/8XP_DustMote_01.blp
+1987786;Environments/ParticulateVolumes/Textures/8XP_GhostMist_01.blp
 1987796;textures/bakednpctextures/creaturedisplayextra-145529_hd.blp
 1987988;textures/bakednpctextures/creaturedisplayextra-145530_hd.blp
 1987990;textures/bakednpctextures/creaturedisplayextra-145531_hd.blp
@@ -146765,6 +146782,7 @@
 1990934;Environments/ParticulateVolumes/pvdata/8XP_Snow_01.pvdata
 1990935;textures/bakednpctextures/creaturedisplayextra-145612_hd.blp
 1990937;Environments/ParticulateVolumes/pvdata/8xp_cold_mist_01.pvdata
+1990938;Environments/ParticulateVolumes/pvdata/8XP_Snow_Directional_01.pvdata
 1990939;textures/bakednpctextures/creaturedisplayextra-145613_hd.blp
 1990941;textures/bakednpctextures/creaturedisplayextra-145614_hd.blp
 1990943;Environments/ParticulateVolumes/pvdata/8XP_Snow_Mist_02.pvdata
@@ -146790,6 +146808,7 @@
 1990973;Environments/ParticulateVolumes/pvdata/8XP_Mist_01.pvdata
 1990974;Environments/ParticulateVolumes/pvdata/8XP_Lightning_Strike_01.pvdata
 1990975;Environments/ParticulateVolumes/pvdata/8XP_Lightning_Hit_01.pvdata
+1990976;Environments/ParticulateVolumes/pvdata/8XP_DustMotes_01.pvdata
 1990977;Environments/ParticulateVolumes/pvdata/8XP_Blizzard_01.pvdata
 1991006;textures/bakednpctextures/creaturedisplayextra-145622_hd.blp
 1991119;textures/bakednpctextures/creaturedisplayextra-145623.blp
@@ -146816,6 +146835,7 @@
 1991720;environments/stars/8swa_darkheart_clouds01.blp
 1991722;environments/stars/8swa_darkheart_clouds03.blp
 1991724;environments/stars/8swa_darkheart_clouds02.blp
+1991980;Environments/ParticulateVolumes/Textures/8XP_Void_Lightning_01.blp
 1991981;textures/bakednpctextures/creaturedisplayextra-145634_hd.blp
 1991983;textures/bakednpctextures/creaturedisplayextra-145635.blp
 1991985;textures/bakednpctextures/creaturedisplayextra-145636_hd.blp
@@ -147398,6 +147418,7 @@
 2020320;Environments/ParticulateVolumes/pvdata/Rain_Sheets_01.pvdata
 2020321;Environments/ParticulateVolumes/pvdata/Rain_Mist_01.pvdata
 2020322;Environments/ParticulateVolumes/pvdata/Rain_Light_01.pvdata
+2020325;Environments/ParticulateVolumes/pvdata/Sand_Scatter_01.pvdata
 2020329;Environments/ParticulateVolumes/pvdata/cold_mist_01.pvdata
 2020380;textures/bakednpctextures/creaturedisplayextra-145910_hd.blp
 2020382;textures/bakednpctextures/creaturedisplayextra-145911_hd.blp
@@ -147747,9 +147768,11 @@
 2057589;textures/bakednpctextures/creaturedisplayextra-146174_hd.blp
 2057604;textures/bakednpctextures/creaturedisplayextra-146175_hd.blp
 2057624;DBFilesClient/SpecSetMember.db2
+2057625;Environments/ParticulateVolumes/Textures/8XP_Pollen_01.blp
 2058070;textures/bakednpctextures/creaturedisplayextra-146176.blp
 2058079;textures/bakednpctextures/creaturedisplayextra-146177_hd.blp
 2058087;Environments/ParticulateVolumes/pvdata/8XP_Pollen_Magic_01.pvdata
+2058148;Environments/ParticulateVolumes/Textures/8XP_Pollen_Magic_01.blp
 2058149;textures/bakednpctextures/creaturedisplayextra-146178.blp
 2058449;textures/bakednpctextures/creaturedisplayextra-146179.blp
 2058452;textures/bakednpctextures/creaturedisplayextra-146180.blp
@@ -147794,6 +147817,7 @@
 2059644;textures/bakednpctextures/creaturedisplayextra-146227.blp
 2059646;textures/bakednpctextures/creaturedisplayextra-146228.blp
 2059648;textures/bakednpctextures/creaturedisplayextra-146229.blp
+2059655;Environments/ParticulateVolumes/Textures/8XP_Azerite_Sparks_01.blp
 2059656;textures/bakednpctextures/creaturedisplayextra-146230.blp
 2059688;textures/bakednpctextures/creaturedisplayextra-146231_hd.blp
 2059691;textures/bakednpctextures/creaturedisplayextra-146232_hd.blp
@@ -147803,6 +147827,7 @@
 2059710;textures/bakednpctextures/creaturedisplayextra-146236_hd.blp
 2059712;textures/bakednpctextures/creaturedisplayextra-146237_hd.blp
 2059714;textures/bakednpctextures/creaturedisplayextra-146238.blp
+2059716;Environments/ParticulateVolumes/pvdata/8XP_Ash_Falling_Height_01.pvdata
 2059733;textures/bakednpctextures/creaturedisplayextra-146240_hd.blp
 2059735;textures/bakednpctextures/creaturedisplayextra-146241_hd.blp
 2059737;textures/bakednpctextures/creaturedisplayextra-146242_hd.blp
@@ -147969,6 +147994,7 @@
 2066158;textures/bakednpctextures/creaturedisplayextra-146407_hd.blp
 2066174;textures/bakednpctextures/creaturedisplayextra-146408_hd.blp
 2066218;textures/bakednpctextures/creaturedisplayextra-146409.blp
+2066231;Environments/ParticulateVolumes/pvdata/8XP_Rain_Forest_Cafe_01.pvdata
 2066273;textures/bakednpctextures/creaturedisplayextra-146410_hd.blp
 2066456;textures/bakednpctextures/creaturedisplayextra-146411.blp
 2066458;textures/bakednpctextures/creaturedisplayextra-146412_hd.blp
@@ -148441,6 +148467,7 @@
 2114930;textures/bakednpctextures/creaturedisplayextra-146914_hd.blp
 2114968;textures/bakednpctextures/creaturedisplayextra-146915_hd.blp
 2114970;textures/bakednpctextures/creaturedisplayextra-146916.blp
+2115042;Environments/ParticulateVolumes/Textures/8XP_Snow_Landing_01.blp
 2115043;textures/bakednpctextures/creaturedisplayextra-146917_hd.blp
 2115045;textures/bakednpctextures/creaturedisplayextra-146918_hd.blp
 2115047;textures/bakednpctextures/creaturedisplayextra-146919_hd.blp
@@ -148929,6 +148956,7 @@
 2146211;DUNGEONS/TEXTURES/WALLS/MM_ORC_WALL_01.blp.meta
 2146224;character/human/female/humanfemale_hd1198-00.anim
 2146225;character/human/female/humanfemale_hd1196-00.anim
+2147393;Environments/ParticulateVolumes/pvdata/8XP_Corruption_01.pvdata
 2147639;dungeons/textures/8tr_zandalari/8tr_dark2.blp
 2147828;textures/bakednpctextures/creaturedisplayextra-147267_hd.blp
 2147847;textures/bakednpctextures/creaturedisplayextra-147268.blp
@@ -148979,6 +149007,7 @@
 2149144;textures/bakednpctextures/creaturedisplayextra-147301_hd.blp
 2149165;textures/bakednpctextures/creaturedisplayextra-147302_hd.blp
 2149193;textures/bakednpctextures/creaturedisplayextra-147303_hd.blp
+2149231;Environments/ParticulateVolumes/Textures/8XP_Dust_02.blp
 2149422;Environments/ParticulateVolumes/pvdata/8DES_Duststorm_01.pvdata
 2149670;Environments/ParticulateVolumes/pvdata/8DES_Sand_Blown_01.pvdata
 2150414;Environments/ParticulateVolumes/pvdata/8DES_Sand_Scatter_01.pvdata
@@ -149413,6 +149442,8 @@
 2175496;textures/bakednpctextures/creaturedisplayextra-147577_hd.blp
 2175552;character/kultiran/male/kultiranmale.skel
 2175553;character/kultiran/female/kultiranfemale.skel
+2175672;Environments/ParticulateVolumes/pvdata/8XP_Azerite_Sparks_Floating_01.pvdata
+2175673;Environments/ParticulateVolumes/Textures/8XP_Azerite_Sparks_02.blp
 2175709;dungeons/textures/8du_motherlode/8du_motherlode_metalgirder_01.blp
 2175744;dungeons/textures/testing/grey_144.blp
 2175753;Dungeons/Textures/Nazjatar/8NZJ_Coral01.blp
@@ -150100,6 +150131,7 @@
 2201182;Character/Dwarf/ScalpUpperHair03_07.blp.meta
 2201183;Character/Dwarf/ScalpUpperHair03_08.blp.meta
 2201184;Character/Dwarf/ScalpUpperHair03_09.blp.meta
+2201185;Environments/ParticulateVolumes/pvdata/8XP_Fog_Filth_01.pvdata
 2201218;Character/Dwarf/Female/DwarfFemaleFaceLower00_04.blp.meta
 2201220;Character/Dwarf/Female/DwarfFemaleFaceLower00_06.blp.meta
 2201221;Character/Dwarf/Female/DwarfFemaleFaceLower00_03.blp.meta
@@ -164221,6 +164253,11 @@
 2319519;textures/bakednpctextures/creaturedisplayextra-147916_hd.blp
 2319523;textures/bakednpctextures/creaturedisplayextra-147917_hd.blp
 2319535;textures/bakednpctextures/creaturedisplayextra-147918_hd.blp
+2319943;Environments/Stars/8WSG_Sky01_Base.blp
+2319944;Environments/Stars/8WSG_Sky01_DayCloud01.blp
+2319945;Environments/Stars/8WSG_Sky01_DayCloud02.blp
+2319946;Environments/Stars/8WSG_Sky01_WispyCloud1.blp
+2319948;Environments/Stars/8WSG_Sky01_Alpha01.blp
 2319962;tileset/expansion07/8naj_whitesand01_512.blp
 2319963;tileset/expansion07/8naj_whitesand01_512_h.blp
 2319964;tileset/expansion07/8naj_whitesand01_512_s.blp
@@ -171304,6 +171341,8 @@
 2351339;Textures/BakedNpcTextures/CreatureDisplayExtra-12016.blp.meta
 2351368;environments/stars/8drk_darkshoreelunecrescent_sky01.m2
 2351480;environments/stars/8wsg_sky03.m2
+2351602;Environments/Stars/8WSG_Sky01_NightCloud01.blp
+2351606;Environments/Stars/8WSG_Sky01_NightCloud02.blp
 2351614;environments/stars/8wsg_sky0300.skin
 2351817;character/kultiran/male/kultiranmale0081-00.anim
 2351818;character/kultiran/male/kultiranmale0195-00.anim
@@ -171861,11 +171900,13 @@
 2432958;textures/bakednpctextures/creaturedisplayextra-148438.blp
 2432969;textures/bakednpctextures/creaturedisplayextra-148439_hd.blp
 2432975;Environments/ParticulateVolumes/pvdata/8XP_Frost_01.pvdata
+2433042;Environments/ParticulateVolumes/pvdata/8XP_Mist_02.pvdata
 2433109;textures/bakednpctextures/creaturedisplayextra-148440_hd.blp
 2433387;textures/bakednpctextures/creaturedisplayextra-148441_hd.blp
 2433403;textures/bakednpctextures/creaturedisplayextra-148442_hd.blp
 2433408;textures/bakednpctextures/creaturedisplayextra-148443_hd.blp
 2433582;DBFilesClient/GradientEffect.db2
+2433629;Environments/ParticulateVolumes/pvdata/8WSG_Dust_01.pvdata
 2433630;Environments/ParticulateVolumes/pvdata/8WSG_Wisps_01.pvdata
 2433834;textures/bakednpctextures/creaturedisplayextra-148445.blp
 2433836;textures/bakednpctextures/creaturedisplayextra-148446_hd.blp
@@ -172085,6 +172126,8 @@
 2449934;textures/bakednpctextures/creaturedisplayextra-148638.blp
 2451027;textures/bakednpctextures/creaturedisplayextra-148639_hd.blp
 2451167;textures/bakednpctextures/creaturedisplayextra-148640.blp
+2451330;Environments/Stars/8WSG_Sky01_WispyMainCloud01.blp
+2451331;Environments/Stars/8WSG_Sky01_WispyTopClouds01.blp
 2451593;textures/bakednpctextures/creaturedisplayextra-148641_hd.blp
 2451893;environments/stars/8xp_zuldazarraid_frozensky01.m2
 2451906;textures/bakednpctextures/creaturedisplayextra-148642_hd.blp
@@ -172099,6 +172142,7 @@
 2458928;tileset/expansion07/8naj_mossyrock3_512.blp
 2458929;tileset/expansion07/8naj_mossyrock3_512_h.blp
 2458930;tileset/expansion07/8naj_mossyrock3_512_s.blp
+2459256;Environments/ParticulateVolumes/Textures/8XP_Wisp_01.blp
 2459261;tileset/expansion07/zuldazarzone/8zul_entrancerubble01_512.blp
 2459262;tileset/expansion07/zuldazarzone/8zul_entrancerubble01_512_h.blp
 2459263;tileset/expansion07/zuldazarzone/8zul_entrancerubble01_512_s.blp
@@ -172164,6 +172208,7 @@
 2466560;textures/bakednpctextures/creaturedisplayextra-148696_hd.blp
 2466562;textures/bakednpctextures/creaturedisplayextra-148697_hd.blp
 2466643;textures/bakednpctextures/creaturedisplayextra-148698_hd.blp
+2466938;Environments/Stars/8WSG_Sky01_Base_Night.blp
 2467030;textures/bakednpctextures/creaturedisplayextra-148700_hd.blp
 2467032;textures/bakednpctextures/creaturedisplayextra-148701_hd.blp
 2467034;textures/bakednpctextures/creaturedisplayextra-148702_hd.blp
@@ -172559,6 +172604,7 @@
 2620044;textures/bakednpctextures/creaturedisplayextra-149028.blp
 2620116;Dungeons/Textures/8NZJ_Nazjatar/8NZJ_Nazjatar_Specular.blp
 2620229;textures/bakednpctextures/creaturedisplayextra-149029_hd.blp
+2620658;Environments/Stars/8WSG_Sky01_Band01.blp
 2620659;textures/bakednpctextures/creaturedisplayextra-149030_hd.blp
 2620665;tileset/expansion07/8cre_crestfallmoss01_512.blp
 2620666;tileset/expansion07/8cre_crestfallmoss01_512_h.blp

@@ -175662,7 +175662,7 @@
 8202895;Interface/ICONS/INV_Pant_Armor_Rexxar_D_01.blp
 8202896;Interface/ICONS/INV_Shoulder_L_Armor_Rexxar_D_01.blp
 8202897;Interface/ICONS/INV_Shoulder_R_Armor_Rexxar_D_01.blp
-8202898;Interface/ICONS/INV_Buckle_Armor_Rexxar_D_01.blp
+8202898;Interface/ICONS/INV_Belt_Armor_Rexxar_D_01.blp
 8202899;Interface/ICONS/INV_Boot_Armor_Rexxar_D_01.blp
 8202971;Interface/AddOns/Blizzard_APIDocumentationGenerated/InputInterfaceStyleDocumentation.lua
 8202972;Interface/AddOns/Blizzard_AuraContainer/Blizzard_AuraContainerEnchantments.lua
@@ -176729,6 +176729,7 @@
 8572884;Interface/AddOns/Blizzard_ActionBar/Camelot/ActionButtonUtilOverrides.lua
 8573816;Interface/AddOns/Blizzard_LFGUtil/Shared/LFGVoiceChatUtil.lua
 8574807;Interface/AddOns/Blizzard_SettingsDefinitions_Shared/Preset.lua
+8575111;Interface/Glues/COMMON/Glues-WoW-TaleboundLogo.blp
 8575208;Interface/AddOns/Blizzard_SharedTalentUI/WoWHack/Blizzard_WoWHackCharacterStats.lua
 8578853;Interface/Splash/Splash1217.blp
 8587058;Interface/AddOns/Blizzard_GamepadSmartNavigation/SecureHelper.lua
