@@ -33859,7 +33859,7 @@
 1504115;creature/cat2/cat2_catskin.blp
 1504116;creature/cat2/cat2_cornishrex.blp
 1504117;creature/cat2/cat2_cringer.blp
-1504118;creature/cat2/cat2.blp
+1504118;creature/cat2/cat2_flatnosed.blp
 1504119;creature/cat2/cat2_mainecoon.blp
 1504120;creature/cat2/cat2_max.blp
 1504121;creature/cat2/cat2_orangetabby.blp
@@ -33870,7 +33870,7 @@
 1504126;creature/spectralcat2/spectralcat2.blp
 1504162;creature/cat2large/cat2_max.blp
 1504163;creature/cat2large/cat2_orangetabby.blp
-1504164;creature/cat2pudge/cat2pudge.blp
+1504164;creature/cat2pudge/cat2_flatnosed.blp
 1504165;creature/cat2shaggy/cat2_boots.blp
 1504166;creature/cat2shaggy/cat2_mainecoon.blp
 1505169;creature/druidbear2/druidbear2_artifact6.m2
@@ -41853,7 +41853,7 @@
 1968627;creature/cat2large/cat2_catskin.blp
 1968628;creature/cat2large/cat2_cornishrex.blp
 1968629;creature/cat2large/cat2_cringer.blp
-1968630;creature/cat2large/cat2_wewillneverknow.blp
+1968630;creature/cat2large/cat2_flatnosed.blp
 1968631;creature/cat2large/cat2_mainecoon.blp
 1968632;creature/cat2large/cat2_salome.blp
 1968633;creature/cat2large/cat2_silvertabby.blp
@@ -41875,7 +41875,7 @@
 1968649;creature/cat2shaggy/cat2_catskin.blp
 1968650;creature/cat2shaggy/cat2_cornishrex.blp
 1968651;creature/cat2shaggy/cat2_cringer.blp
-1968652;creature/cat2shaggy/cat2_wewillneverknow.blp
+1968652;creature/cat2shaggy/cat2_flatnosed.blp
 1968653;creature/cat2shaggy/cat2_max.blp
 1968654;creature/cat2shaggy/cat2_orangetabby.blp
 1968655;creature/cat2shaggy/cat2_salome.blp

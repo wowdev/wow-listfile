@@ -152041,7 +152041,6 @@
 2387353;world/expansion07/doodads/nazjatar/8ng_nazjatar_chair01.m2
 2387354;world/expansion07/doodads/nazjatar/8ng_nazjatar_statue01.m2
 2387355;world/expansion07/doodads/nazjatar/8ng_nazjatar_food01.m2
-2388156;world/expansion07/doodads/fx/8fx_nagacouncil_decree_formranks_debuff.blp
 2388503;world/expansion07/doodads/fx/8xp_mechagonarena_lightningidle01.blp
 2390672;world/expansion07/doodads/arathizone/8pvp_arathibg_bush_c0100.skin
 2390679;world/expansion07/doodads/nazjatar/8ng_nazjatar_weaponrack0100.skin
@@ -154918,7 +154917,9 @@
 2517723;world/expansion07/doodads/reflection.blp
 2517724;world/expansion07/doodads/helm_plate_raidwarrior_d_01_ponytailsparks.blp
 2517725;world/expansion07/doodads/8fx_iceglow_arcane.blp
+2517729;World/Expansion07/Doodads/8FX_OceanIcicles_01.blp
 2517730;world/expansion07/doodads/flare_invert.blp
+2517731;World/Expansion07/Doodads/8FX_OceanIcicles_02.blp
 2517732;world/expansion07/doodads/white_64.blp
 2517733;world/expansion07/doodads/7fx_smoketile_bright_a3_horizontal.blp
 2517734;world/expansion07/doodads/mask_fullscreen_01_scroll_a.blp
@@ -301168,6 +301169,7 @@
 7298737;World/Expansion10/Doodads/10XP_Generic_Toy_TreasureBowlToy01/holydust_ba.blp
 7298738;World/Expansion10/Doodads/10XP_Generic_Toy_TreasureBowlToy01/ArmorReflect4.blp
 7298739;World/Expansion10/Doodads/10XP_Generic_Toy_TreasureBowlToy01/Flare_perfect.blp
+7298740;World/Expansion10/Doodads/10XP_Generic_Toy_TreasureBowlToy01/7FX_EnergyScroll_Paladin_D_Warm.blp
 7298741;World/Expansion10/Doodads/10XP_Generic_Toy_TreasureBowlToy01/alpha grad4_paladin.blp
 7298742;World/Expansion10/Doodads/10XP_Generic_Toy_TreasureBowlToy01/7fx_energyscroll_holy_dull.blp
 7298743;World/Expansion10/Doodads/10XP_Generic_Toy_TreasureBowlToy01/7FX_AlphaMask_ShockwaveSoft1_NoEdge.blp

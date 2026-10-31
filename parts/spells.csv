@@ -21719,6 +21719,7 @@
 2388150;spells/8fx_generic_necromancy_missile00.skin
 2388152;spells/8fx_generic_necromancy_missilegeo.m2
 2388154;spells/8fx_generic_necromancy_missilegeo00.skin
+2388156;Spells/8FX_Ribbon_Swirly_A.blp
 2388158;spells/8fx_generic_necromancy_novahigh_base.m2
 2388160;spells/8fx_generic_necromancy_novahigh_base00.skin
 2388162;Spells/7FX_AlphaMask_firemask_alphahigh.blp
@@ -21882,7 +21883,9 @@
 2429615;spells/cfx_paladin_lightofdawn_heal_impact.m2
 2429617;spells/cfx_paladin_lightofdawn_heal_impact00.skin
 2429619;spells/8fx_generic_spark_ambient_medium00.skin
+2429621;Spells/7FX_EnergyScroll_Paladin_H_Warm.blp
 2429622;spells/alpha grad4_paladin.blp
+2429623;Spells/7FX_EnergyScroll_Paladin_D_Warm.blp
 2429624;spells/7fx_energyscroll_holy_dull.blp
 2429625;spells/7fx_heroaura_shadowflame4_taper_additive.blp
 2429626;spells/smoke_generic_paintymask01_blend.blp
@@ -22017,6 +22020,7 @@
 2460899;spells/8fx_warfronts_warden_glaive_missile00.skin
 2460901;spells/8fx_ground_crack_semicircle_a.blp
 2460903;spells/8fx_ground_crack_semicircle_dark.blp
+2460904;Spells/8FX_HeadingVelocity_01.blp
 2464023;spells/8fx_vaultguardian_flames_impact.m2
 2464025;spells/8fx_vaultguardian_flames_impact00.skin
 2466520;spells/8fx_mekkatorque_thruster_burst.m2
@@ -22314,6 +22318,8 @@
 2510367;spells/reflection.blp
 2510368;spells/helm_plate_raidwarrior_d_01_ponytailsparks.blp
 2510369;spells/8fx_iceglow_arcane.blp
+2510372;Spells/8FX_OceanIcicles_01.blp
+2510373;Spells/8FX_OceanIcicles_02.blp
 2510374;spells/7fx_smoketile_bright_a3_horizontal.blp
 2510375;spells/mask_fullscreen_01_scroll_a.blp
 2510376;spells/7fx_smoketile_bright_na_horizontal.blp
@@ -22589,6 +22595,7 @@
 2818010;SPELLS/Vamp_Ribbon03.blp
 2818012;Spells/FB_Bat_2x2.blp
 2819603;spells/7fx_lightning_scroll_crystal_v3.blp
+2820821;Spells/8FX_Ribbon_Twin_A.blp
 2821668;spells/8fx_shrineraid_uunat_maddeningeyes.m2
 2821669;spells/8fx_shrineraid_uunat_transition_orb.m2
 2821670;spells/8fx_shrineraid_uunat_transition_beam.m2
@@ -22704,6 +22711,7 @@
 2901737;spells/textures/armorreflect3.blp
 2904312;spells/8fx_generic_lightning_impactvertical.blp
 2904678;spells/textures/8FX_Fire_Toon_BW.blp
+2908043;Spells/8FX_HashEnergy_A.blp
 2909712;Spells/8fx_nagacentaur_barrage_poison_impact.m2
 2909714;Spells/8fx_nagacentaur_barrage_poison_impact00.skin
 2913785;SPELLS/8FX_Basic_Spark_Sheet_blue.blp
@@ -24032,6 +24040,7 @@
 4212019;SPELLS/7FX_AlphaMask_Glow_Red01.blp
 4212592;SPELLS/8FX_Painted_CloudScroll_06.blp
 4212594;SPELLS/10FX_Leaf_Litter_01.blp
+4212603;Spells/10FX_Leaf_Litter_02.blp
 4212606;spells/10FX_VOTI_Dathea_ZephyrSlam_Cast00.skin
 4212607;SPELLS/10FX_SmokeSpiral.blp
 4212613;spells/10fx_general_windtile_04.blp
