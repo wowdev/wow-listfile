@@ -79627,8 +79627,11 @@
 3606425;World/WMO/Expansion08/9XP_Hex_DeleteMe08_000_lod3.wmo
 3607313;World/WMO/Expansion08/Vampire/9VM_Vampire_Bridge02_000_lod3_l.blp
 3607341;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_001_lod1.blp
+3607342;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_014_lod1.blp
 3607343;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_001_lod2.blp
+3607344;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_014_lod2.blp
 3607345;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_001_lod3.blp
+3607346;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_014_lod3.blp
 3607347;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_000.wmo
 3607348;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_000_lod1.wmo
 3607349;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_000_lod2.wmo
@@ -79648,6 +79651,12 @@
 3607363;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_011.wmo
 3607364;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_012.wmo
 3607365;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_013.wmo
+3607366;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_013_lod1.wmo
+3607367;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_013_lod2.wmo
+3607368;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_014.wmo
+3607369;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_014_lod1.wmo
+3607370;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_014_lod2.wmo
+3607371;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_BossRoom04_014_lod3.wmo
 3608198;World/WMO/Dungeon/Torghast/9DU_Torghast_Modular_Crescent02_000_lod3_l.blp
 3608312;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_Arch03_000_lod1.blp
 3608313;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_Arch03_000_lod2.blp
