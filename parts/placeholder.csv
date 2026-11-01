@@ -943,6 +943,7 @@
 2517716;world/expansion07/doodads/8xp_jaina_iceberg_0_2517716.blp
 2517717;world/expansion07/doodads/8xp_jaina_iceberg_1_2517717.blp
 2517718;world/expansion07/doodads/8xp_jaina_iceberg_2_2517718.blp
+2517727;models/unktextures/8FX_OceanIcicles_02_2517727.blp
 2529569;world/expansion07/doodads/forsaken/8fk_forsaken_table02_4_2529569.blp
 2529570;world/expansion07/doodads/forsaken/8fk_forsaken_table02_5_2529570.blp
 2529709;world/expansion07/doodads/nazjatar/8ng_nazjatar_brazier01_0_2529709.blp
@@ -20177,7 +20178,7 @@
 3608281;world/expansion08/doodads/fx/9fx_generic_slime_novahigh_impact_3608281.blp
 3608285;world/expansion08/doodads/fx/9fx_generic_slime_novahigh_impact_3608285.blp
 3608289;Spells/FX_BedrockSlam_Missile_3608289.blp
-3608311;world/wmo/autogen-names/unknown/13956_3608311.blp
+3608311;World/WMO/Expansion08/BabylonZone/9VL_Valkyr_Arch03_3608311.blp
 3608322;character/bloodelf/female/bloodelffemale_hd_eye_color_3608322.blp
 3608323;character/bloodelf/female/bloodelffemale_hd_eye_color_3608323.blp
 3608324;character/bloodelf/female/bloodelffemale_hd_eye_color_3608324.blp
@@ -33746,9 +33747,9 @@
 4072110;Sound/Spell/ThreatNeutralization_precaststart_loop_4072110.ogg
 4072114;Sound/Spell/PurgingProtocol_precaststart_loop_4072114.ogg
 4072118;Sound/Spell/Sunder_precaststart_loop_4072118.ogg
-4072148;world/wmo/autogen-names/torghastraidsylvanasp2/14264_4072148.blp
-4072149;world/wmo/autogen-names/torghastraidsylvanasp2/14264_4072149.blp
-4072150;world/wmo/autogen-names/torghastraidsylvanasp2/14264_4072150.blp
+4072148;World/WMO/Dungeon/Torghast/9DU_Torghast_Chains01_4072148.blp
+4072149;World/WMO/Dungeon/Torghast/9DU_Torghast_Chains01_4072149.blp
+4072150;World/WMO/Dungeon/Torghast/9DU_Torghast_Chains01_4072150.blp
 4072219;World/WMO/Expansion08/Progenitor/9PRG_Progenitor_Chambers06_4072219.blp
 4072220;World/WMO/Expansion08/Progenitor/9PRG_Progenitor_Pylon02_4072220.blp
 4072223;World/WMO/Dungeon/TorghastRaid/9DU_TorghastRaid_ObserverRoom01_4072223.blp
@@ -33847,7 +33848,7 @@
 4073111;item/objectcomponents/head/4072785_4073111.blp
 4073113;item/objectcomponents/head/4072785_4073113.blp
 4073115;World/WMO/Dungeon/Torghast/9DU_Torghast_Chains01_4073115.blp
-4073116;world/wmo/autogen-names/torghastraidsylvanasp2/14264_4073116.blp
+4073116;World/WMO/Dungeon/Torghast/9DU_Torghast_Chains01_4073116.blp
 4073824;World/WMO/Dungeon/TorghastRaid/9DU_TorghastRaid_Main03_4073824.blp
 4073825;World/WMO/Dungeon/TorghastRaid/9DU_TorghastRaid_Main03_4073825.blp
 4073826;World/WMO/Dungeon/TorghastRaid/9DU_TorghastRaid_Main03_4073826.blp
@@ -105284,7 +105285,7 @@
 5497158;World/WMO/Expansion10/Exterior/11XT_Cave33_5497158.blp
 5497159;World/WMO/Expansion10/Exterior/11XT_Cave33_5497159.blp
 5497160;World/WMO/Expansion10/Delves/11XP_Kobyss02_Flooded_5497160.blp
-5497161;World/WMO/autogen-names/unknown/18878_5497161.blp
+5497161;World/WMO/Expansion11/Delves/12XP_TwilightsBlade01_5497161.blp
 5497162;World/WMO/Expansion10/Delves/11XP_Kobyss02_Flooded_5497162.blp
 5497293;item/texturecomponents/foottexture/5425319_Dw_f_fo_u_5497293.blp
 5497294;item/texturecomponents/leglowertexture/5425319_Dw_f_ll_u_5497294.blp
@@ -107056,7 +107057,7 @@
 5549245;World/Expansion10/Doodads/Arathor/11AT_Arathor_Drill01_5549245.blp
 5549280;World/WMO/Expansion10/Nerubian/11NB_Nerubian_BuildingLarge01_5549280.blp
 5549285;World/Expansion10/Doodads/Kobold/11KO_Kobold_Ladder02_5549285.blp
-5549326;World/WMO/autogen-names/unknown/18878_5549326.blp
+5549326;World/WMO/Expansion11/Delves/12XP_TwilightsBlade01_5549326.blp
 5549329;Environments/ColorGrading/ColorGrading_10EMD_skybox_5549329.blp
 5549372;World/Expansion10/Doodads/Earthen/11EA_Earthen_Gate04_5549372.blp
 5549377;sound/creature/squirrelflying/squirrelflying_fidget_5549377.ogg
@@ -151608,6 +151609,7 @@
 6739486;models/unknown/unk_exp10_6736708/6736708_lod03.skin
 6739489;Sound/Creature/6422460/6422460_fidget8_6739489.ogg
 6739491;Sound/Creature/6422460/6422460_fidget8_6739491.ogg
+6739497;World/WMO/autogen-names/unknown-fdid/map-2856/6739497.wmo
 6739500;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Tome02_6739500.blp
 6739502;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Tome02_6739502.blp
 6739526;models/World/Expansion11/Doodads/Troll/7AF_ROGUE_MAP18.blp
@@ -202181,7 +202183,7 @@
 7702170;models/unknown/unk_exp00_7702170/7702170.m2
 7702171;models/unknown/unk_exp00_7702171/7702171.m2
 7702184;models/unknown/unk_exp00_7702166/7702166_7702184.blp
-7702185;models/unknown/unk_exp00_7702141/7702141_7702185.blp
+7702185;models/unknown/unk_exp00_7702141/silithus_crystal_environment_map.blp
 7702187;models/unknown/unk_exp00_7702141/WaterfallMist.blp
 7702189;models/unknown/unk_exp00_7702166/770216600.skin
 7702191;models/unknown/unk_exp00_7702166/7702166_lod01.skin
@@ -216653,7 +216655,7 @@
 7961452;models/unknown/unk_exp00_7960277/796027700.skin
 7961453;models/unknown/unk_exp00_7960277/7960277_lod01.skin
 7961454;models/unknown/unk_exp00_7960277/7960277_lod02.skin
-7961455;models/unknown/unk_exp00_7960278/7960278_7961455.blp
+7961455;models/unknown/unk_exp00_7960278/mm_orc_bkrtrim_01.blp
 7961457;models/unktextures/hordebanner05_7961457.blp
 7961459;models/unknown/unk_exp00_7960278/796027800.skin
 7961461;models/unknown/unk_exp00_7960278/7960278_lod01.skin
