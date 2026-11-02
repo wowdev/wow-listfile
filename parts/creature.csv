@@ -62887,6 +62887,7 @@
 4496450;creature/protodragonfire/protodragonfire_blue2.blp
 4496463;creature/terros/terros.m2
 4496814;creature/terros/smoke_loose_02_256_blend_contrast.blp
+4496815;creature/terros/8FX_Painted_CloudScroll_03.blp
 4496817;creature/terros/robospec.blp
 4496818;creature/terros/glow_gold_high.blp
 4496822;creature/terros/terros0060-00.anim
@@ -62949,6 +62950,7 @@
 4498082;creature/refti/refti0084-00.anim
 4498203;creature/dracthyrfemale_nochar/dracthyrfemale_nochar.m2
 4498270;creature/nozdormudragon2/nozdormudragon2.m2
+4498273;creature/nozdormudragon2/8FX_HeadingVelocity_01.blp
 4498274;creature/nozdormudragon2/7FX_Arcane_Starfield_Holy.blp
 4498275;creature/nozdormudragon2/Sand_Scroll.blp
 4498276;creature/nozdormudragon2/Smoke_Generic_PaintyMask02_Blend.blp
@@ -63860,6 +63862,7 @@
 4559372;creature/stormelemental/8FX_Lighting_Point_C.blp
 4559374;creature/stormelemental/9FX_HeroAura_RibbonMask.blp
 4559376;creature/stormelemental/7FX_AlphaMask_Glow.blp
+4559378;creature/stormelemental/8FX_Ribbon_Twin_A.blp
 4559662;creature/ent2/ent2.m2
 4559664;creature/ent2corrupted/ent2corrupted.m2
 4559677;creature/ent2/ent2_brown.blp
@@ -64046,6 +64049,7 @@
 4612256;creature/airelementalprimal/7fx_alphamask_glow_blue_sethrak.blp
 4612257;creature/airelementalprimal/9FX_HeroAura_RibbonMask.blp
 4612258;creature/airelementalprimal/7FX_AlphaMask_Glow.blp
+4612259;creature/airelementalprimal/8FX_Ribbon_Twin_A.blp
 4612462;creature/snailrock/snailrock_black.blp
 4612463;creature/snailrock/snailrock_blue.blp
 4612464;creature/snailrock/snailrock_green.blp
@@ -64072,6 +64076,7 @@
 4613986;creature/snailrock/snailrock_lod02.skin
 4613987;creature/snailrock/snailrock_lod03.skin
 4615736;creature/dragonspawn2caster/dragonspawn2caster0061-00.anim
+4615828;creature/windelemental/10FX_Leaf_Litter_02.blp
 4615829;creature/windelemental/Gray8x8.blp
 4615832;creature/windelemental/10FX_Leaf_Litter_03.blp
 4615843;creature/windelemental/ArmorReflect4.blp
@@ -66500,6 +66505,7 @@
 4995327;Creature/EmeraldDreamStagMount/EmeraldDreamStagMount_Saddle_Green.blp
 4995347;creature/SerpentMountGladiator/SerpentMountGladiator.m2
 5000461;Creature/MurkyYsera/smoke_loose_02_256_blend_contrast.blp
+5000462;Creature/MurkyYsera/8FX_Painted_CloudScroll_03.blp
 5000463;Creature/MurkyYsera/8FX_Glow_Dot_Irregular_Round.blp
 5000464;Creature/MurkyYsera/7fx_energyscroll_holy_dark_highalpha.blp
 5000465;Creature/MurkyYsera/7FX_Chunky_Soft_A_01.blp
@@ -68155,6 +68161,7 @@
 5201970;creature/azmerlothmurlocpet/azmerlothmurlocpet_lod01.skin
 5201971;creature/azmerlothmurlocpet/azmerlothmurlocpet_lod02.skin
 5201972;creature/azmerlothmurlocpet/azmerlothmurlocpet_lod03.skin
+5202882;creature/WoodDragonPet/10FX_Leaf_Litter_02.blp
 5202884;creature/WoodDragonPet/Gray8x8.blp
 5202887;creature/WoodDragonPet/10FX_Leaf_Litter_01.blp
 5202890;creature/WoodDragonPet/10FX_Leaf_Litter_03.blp
@@ -68162,6 +68169,7 @@
 5202899;creature/WoodDragonPet/8fx_water_scroll_alpha2.blp
 5202902;creature/WoodDragonPet/White8x8.blp
 5202906;creature/WoodDragonPet/smoke_loose_02_256_blend_contrast.blp
+5202911;creature/WoodDragonPet/8FX_Painted_CloudScroll_03.blp
 5202921;creature/WoodDragonPet/Smoke_Loose_03.blp
 5202926;creature/WoodDragonPet/7fx_explosionsmoke.blp
 5202931;creature/WoodDragonPet/9FX_HeroAura_RibbonMask_05.blp
@@ -73703,6 +73711,7 @@
 6027161;Creature/MurlocBabyThrall/dirt_02.blp
 6027162;Creature/MurlocBabyThrall/Gray8x8.blp
 6027163;Creature/MurlocBabyThrall/Smoke_Loose_02_256_Blend.blp
+6027164;Creature/MurlocBabyThrall/8FX_Painted_CloudScroll_03.blp
 6027165;Creature/MurlocBabyThrall/10FX_Generic_Water_Drops_02.blp
 6027167;Creature/MurlocBabyThrall/White8x8.blp
 6027169;Creature/MurlocBabyThrall/10FX_Lightning_Strike.blp
@@ -84648,6 +84657,7 @@
 8531242;Creature/DwarfBearMountClassic/DwarfBearMountClassic_Green.blp
 8531243;Creature/DwarfBearMountClassic/DwarfBearMountClassicSaddle_Green.blp
 8532113;Creature/StegodonPrimalMount/smoke_loose_02_256_blend_contrast.blp
+8532116;Creature/StegodonPrimalMount/8FX_Painted_CloudScroll_03.blp
 8532120;Creature/StegodonPrimalMount/White8x8.blp
 8532122;Creature/StegodonPrimalMount/7FX_Crystal_Geometric_Sharp02.blp
 8532124;Creature/StegodonPrimalMount/8FX_Dirt_Bits.blp
@@ -84658,7 +84668,9 @@
 8532134;Creature/StegodonPrimalMount/7FX_AlphaMask_Glow_Blend.blp
 8532136;Creature/StegodonPrimalMount/8fx_BloodBlur_b.blp
 8532138;Creature/StegodonPrimalMount/Glass_Beveled_Distortion.blp
+8532144;Creature/StegodonPrimalMount/8FX_AlphaMask_WavyHalf_Vert50.blp
 8532146;Creature/StegodonPrimalMount/Gray_64.blp
+8532148;Creature/StegodonPrimalMount/8FX_Ribbon_Twin_A.blp
 8532150;Creature/StegodonPrimalMount/7FX_AlphaMask_Glow.blp
 8533285;Creature/Imp/FlameLickSmallMagicGreen.blp
 8533287;Creature/Imp/Imp_lod01.skin

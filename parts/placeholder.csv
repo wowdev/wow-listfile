@@ -31240,7 +31240,6 @@
 3978354;world/expansion08/doodads/korthia/9mxt_midtiershrub_b01_3978354.blp
 3978476;World/WMO/Expansion09/Exterior/10XT_Exterior_Rock05_3978476.blp
 3982250;World/Expansion09/Doodads/10FX_Explosion01_3982250.blp
-3982251;Spells/FX_Axegrinder_Aura_3982251.blp
 3982252;world/expansion08/doodads/fx/9fx_generic_earth_impact_chest_3982252.blp
 3982253;spells/11FX_Undermine_RocketMissile01_3982253.blp
 3982255;Spells/11FX_CirclingSmoke02_3982255.blp
@@ -33441,7 +33440,6 @@
 4064724;item/objectcomponents/weapon/4062861_4064724.blp
 4064725;item/objectcomponents/weapon/4062861_4064725.blp
 4064739;world/expansion08/doodads/fx/9fx_raid2_sylvanas_chainhurl_missile_4064739.blp
-4064756;world/expansion08/doodads/maw/9mw_torghastraid_bridgerock03_4064756.blp
 4064758;world/expansion08/doodads/maw/9mw_torghastraid_bridgerock03_4064758.blp
 4064865;world/expansion08/doodads/maw/9mw_korthia_pillarbanner_destroyed01_4064865.blp
 4064870;world/nodxt/detail/expansion09/10GSLMineralPebble02_4064870.blp
@@ -42337,7 +42335,6 @@
 4280202;item/texturecomponents/leguppertexture/tabard_enlightenedbrokers_c_01_lu_u_4280202.blp
 4280204;item/texturecomponents/torsolowertexture/tabard_enlightenedbrokers_c_01_tl_u_4280204.blp
 4280205;item/texturecomponents/torsouppertexture/tabard_enlightenedbrokers_c_01_tu_u_4280205.blp
-4280212;world/expansion09/doodads/dragon/10dg_dragon_protodrakeegg01_4280212.blp
 4280213;world/expansion09/doodads/dragon/10dg_dragon_protodrakeegg01_4280213.blp
 4280217;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_Main01_4280217.blp
 4280218;World/WMO/Dungeon/SepulcheroftheFirstOnes/9DU_SepulcheroftheFirstOnes_Main01_4280218.blp
@@ -45027,7 +45024,6 @@
 4381763;world/expansion09/doodads/reliquary/10rq_reliquary_candelabra02_4381763.blp
 4381771;world/expansion09/doodads/reliquary/10rq_reliquary_candelabra01_4381771.blp
 4381775;world/expansion09/doodads/reliquary/10rq_reliquary_candelabra01_4381775.blp
-4381781;world/expansion08/doodads/fx/4374898_4381781.blp
 4381791;creature/protodragonearth_boss/protodragonearth_boss_4381791.blp
 4381792;creature/protodragonearth_boss/protodragonearth_boss_4381792.blp
 4381793;creature/protodragonearth_boss/protodragonearth_boss_4381793.blp
@@ -46430,7 +46426,6 @@
 4420725;World/Expansion09/Doodads/Primalist/7fx_energyscroll_desat_4420725.blp
 4420731;World/Expansion09/Doodads/Primalist/10PM_Primalist_AirTotem02_4420731.blp
 4420746;World/Expansion09/Doodads/Primalist/10PM_Primalist_AirTotem03_4420746.blp
-4420776;World/Expansion09/Doodads/Primalist/10PM_Primalist_EarthTotem01_4420776.blp
 4420786;World/Expansion09/Doodads/Primalist/10PM_Primalist_EarthTotem01_4420786.blp
 4420788;World/Expansion09/Doodads/Primalist/10PM_Primalist_EarthTotem01_4420788.blp
 4420790;World/Expansion09/Doodads/Primalist/10PM_Primalist_EarthTotem01_4420790.blp
@@ -46865,7 +46860,6 @@
 4496415;environments/stars/10HGL_HighlandsSky01_4496415.blp
 4496419;environments/stars/10HGL_HighlandsSky01_4496419.blp
 4496423;environments/stars/10HGL_HighlandsSky01_4496423.blp
-4496815;creature/terros/terros_4496815.blp
 4496816;creature/terros/terros_4496816.blp
 4496819;creature/terros/terros_4496819.blp
 4496820;creature/terros/terros_4496820.blp
@@ -46997,7 +46991,6 @@
 4498233;World/Expansion09/Doodads/Centaur/10CT_Centaur_TotemPole12_4498233.blp
 4498237;World/Expansion09/Doodads/Centaur/10CT_Centaur_TotemPole10_4498237.blp
 4498241;World/Expansion09/Doodads/Centaur/10CT_Centaur_Banner02_4498241.blp
-4498273;creature/nozdormudragon2/nozdormudragon2_4498273.blp
 4498279;creature/nozdormudragon2/nozdormudragon2_4498279.blp
 4498281;creature/nozdormudragon2/nozdormudragon2_4498281.blp
 4498282;creature/nozdormudragon2/nozdormudragon2_4498282.blp
@@ -48434,7 +48427,6 @@
 4520479;World/Expansion09/Doodads/Primalist/7FX_AlphaMask_Glow_512_4520479.blp
 4520480;world/expansion09/doodads/primalist/Gray8x8_4520480.blp
 4520482;World/Expansion09/Doodads/Primalist/10PM_Primalist_AirTotem01_4520482.blp
-4520484;World/Expansion09/Doodads/Primalist/10PM_Primalist_AirTotem01_4520484.blp
 4520485;World/Expansion09/Doodads/Primalist/7fx_energyscroll_desat_4520485.blp
 4520488;World/Expansion09/Doodads/Primalist/GenericGlow64_4520488.blp
 4520489;World/Expansion09/Doodads/Primalist/AURA_03_A_4520489.blp
@@ -48467,7 +48459,7 @@
 4520563;World/Expansion09/Doodads/Primalist/Smoke_Soft_01_4520563.blp
 4520564;World/Expansion09/Doodads/Primalist/8FX_Painted_CloudScroll_06_4520564.blp
 4520565;World/Expansion09/Doodads/Primalist/10FX_Leaf_Litter_01_4520565.blp
-4520566;World/Expansion09/Doodads/Primalist/10PM_Primalist_WindBall01_4520566.blp
+4520566;World/Expansion09/Doodads/Primalist/10FX_Leaf_Litter_02_4520566.blp
 4520569;World/Expansion09/Doodads/Primalist/9FX_HeroAura_RibbonMask_4520569.blp
 4520570;World/Expansion09/Doodads/Primalist/7fx_alphamask_shockwavesoft_256_4520570.blp
 4520571;World/Expansion09/Doodads/Primalist/10PM_Primalist_ElementalPylon01_4520571.blp
@@ -48476,7 +48468,7 @@
 4520576;World/Expansion09/Doodads/Primalist/10PM_Primalist_WindBall01_4520576.blp
 4520626;world/wmo/autogen-names/unknown/14783_lightcookie_4520626.blp
 4520627;world/wmo/autogen-names/unknown/14783_lightcookie_4520627.blp
-4520671;World/Expansion09/Doodads/Primalist/10PM_Primalist_FireBall01_4520671.blp
+4520671;World/Expansion09/Doodads/Primalist/8FX_Painted_CloudScroll_03_4520671.blp
 4520673;World/Expansion09/Doodads/Primalist/7FX_AlphaMask_Glow_YellowOrange_4520673.blp
 4520680;World/Expansion09/Doodads/Primalist/10PM_Primalist_ElementalPylon02_4520680.blp
 4520682;World/Expansion09/Doodads/Primalist/10PM_Primalist_ElementalPylon02_4520682.blp
@@ -50317,7 +50309,6 @@
 4546766;item/objectcomponents/weapon/sword_2h_dragonpvp_01_4546766.blp
 4546767;item/objectcomponents/weapon/sword_2h_dragonpvp_01_4546767.blp
 4546768;item/objectcomponents/weapon/sword_2h_dragonpvp_01_4546768.blp
-4546771;world/expansion09/doodads/dragon/10dr_hourglass02_4546771.blp
 4546777;world/expansion09/doodads/dragon/10dr_hourglass02_4546777.blp
 4546778;World/Expansion09/Doodads/Dragon/10DG_Dragon_HourglassSand03_4546778.blp
 4546779;World/Expansion09/Doodads/Dragon/10DG_Dragon_TemporalConflux_Door02_4546779.blp
@@ -51528,7 +51519,6 @@
 4559362;creature/stormelemental/stormelemental_4559362.blp
 4559365;creature/stormelemental/stormelemental_4559365.blp
 4559366;creature/stormelemental/stormelemental_4559366.blp
-4559378;creature/stormelemental/stormelemental_4559378.blp
 4559380;spells/10FX_VOTI_Raszageth_Surge_Aura_4559380.blp
 4559381;Spells/11FX_CosmeticFog_Aura_4559381.blp
 4559382;Spells/11FX_DarkHeart_Aura_4559382.blp
@@ -61299,7 +61289,6 @@
 4612243;creature/airelementalprimal/airelementalprimal_4612243.blp
 4612251;creature/airelementalprimal/airelementalprimal_4612251.blp
 4612252;creature/airelementalprimal/airelementalprimal_4612252.blp
-4612259;creature/airelementalprimal/airelementalprimal_4612259.blp
 4612265;sound/doodad/go_10PM_Primalist_ElementalPylon01_oneshot_4612265.ogg
 4612334;world/expansion09/doodads/livingworld/10lw_thunderstorm01_4612334.blp
 4612340;world/expansion09/doodads/livingworld/10lw_thunderstorm01_4612340.blp
@@ -61656,7 +61645,6 @@
 4615824;creature/windelemental/windelemental_4615824.blp
 4615825;creature/windelemental/windelemental_4615825.blp
 4615826;creature/windelemental/windelemental_4615826.blp
-4615828;creature/windelemental/windelemental_4615828.blp
 4615838;creature/windelemental/windelemental_4615838.blp
 4615863;models/unktextures/7FX_AlphaMask_GlowBrightDonut_02_4615863.blp
 4615864;models/unktextures/10FX_Goo_Sphere_01_4615864.blp
@@ -62704,7 +62692,7 @@
 4627500;world/wmo/expansion09/titan/10ti_titan_titanraidentrance01_4627500.blp
 4627520;spells/CFX_Hunter_CoordinatedAssault_Impact_4627520.blp
 4627521;spells/CFX_Hunter_SpottersMark_Aura_4627521.blp
-4627522;spells/CFX_Hunter_CoordinatedAssault_Impact_4627522.blp
+4627522;spells/8FX_Ribbon_Swirly_A_4627522.blp
 4627523;spells/CFX_Hunter_CoordinatedAssault_Impact_4627523.blp
 4627533;spells/CFX_Hunter_CoordinatedAssault_Aura_4627533.blp
 4627536;spells/CFX_Hunter_SpottersMark_Aura_4627536.blp
@@ -65558,7 +65546,6 @@
 4690506;item/objectcomponents/cape/cape_armor_dragonbronze_c_01_4690506.blp
 4690507;item/objectcomponents/cape/cape_armor_dragonbronze_c_01_4690507.blp
 4690539;World/WMO/Expansion10/Exterior/11XT_Underground_Ceiling_Main01_4690539.blp
-4690548;item/objectcomponents/weapon/staff_2h_nozdormuscythe_d_01_4690548.blp
 4690551;item/objectcomponents/weapon/staff_2h_nozdormuscythe_d_01_4690551.blp
 4690762;models/unktextures/Skywall_Fog_Clouds_02_4690762.blp
 4690819;World/Expansion09/Doodads/Dragon/10DG_Dragon_Statue10_4690819.blp
@@ -66217,8 +66204,8 @@
 4707905;item/objectcomponents/collections/leather_perditionsblade_c_01_helmet_Be_m_4707905.blp
 4707911;item/objectcomponents/collections/leather_perditionsblade_c_01_shoulder_l_4707911.blp
 4707918;spells/10FX_Leaf_Litter_01_4707918.blp
-4707919;spells/FX_WindLiftVisual_Aura_4707919.blp
-4707920;spells/FX_WindLiftVisual_Aura_4707920.blp
+4707919;spells/10FX_Leaf_Litter_02_4707919.blp
+4707920;spells/8FX_Ribbon_Twin_A_4707920.blp
 4707980;item/objectcomponents/collections/leather_perditionsblade_c_01_buckle_4707980.blp
 4707981;item/objectcomponents/collections/leather_perditionsblade_c_01_buckle_4707981.blp
 4708183;item/objectcomponents/collections/cloth_kithir_c_01_helmet_Be_m_4708183.blp
@@ -66272,7 +66259,6 @@
 4711002;World/Expansion10/Doodads/11XP_Plant52_4711002.blp
 4711007;item/texturecomponents/leguppertexture/mail_dragongold_c_01_buckle_lu_u_4711007.blp
 4711008;item/texturecomponents/leguppertexture/mail_dragongold_c_01_buckle_lu_u_4711008.blp
-4711062;item/objectcomponents/collections/mail_dragongold_c_01_shoulder_l_4711062.blp
 4712225;world/expansion09/doodads/centaur/10ct_centaur_martial_hut03_doodadset01_4712225.blp
 4712228;world/expansion09/doodads/centaur/10ct_centaur_martial_hut03_doodadset01_4712228.blp
 4712232;world/expansion09/doodads/centaur/10ct_centaur_martial_hut03_doodadset01_4712232.blp
@@ -77261,7 +77247,6 @@
 4899403;spells/10FX_Aberrus_Zaqali_CatastrophicSlam_Cast_4899403.blp
 4899404;spells/10FX_Aberrus_Kazzara_TerrorClaws_Precast_4899404.blp
 4899409;spells/10FX_Aberrus_ForgottenExperiments_MassiveSlam_Cast_4899409.blp
-4899410;spells/10FX_Aberrus_ForgottenExperiments_MassiveSlam_Cast_4899410.blp
 4899412;spells/10FX_Aberrus_Zaqali_HeavyCudgel_Cast_4899412.blp
 4899414;Spells/FX_CrystalDamage_Aura_4899414.blp
 4899428;spells/10FX_Aberrus_Zaqali_CatastrophicSlam_Cast_4899428.blp
@@ -84549,7 +84534,6 @@
 4995965;World/Expansion09/Doodads/Primalist/10PM_Primalist_ElementalPylon05_4995965.blp
 4995966;World/Expansion09/Doodads/Primalist/10PM_Primalist_ElementalPylon05_4995966.blp
 4995967;World/Expansion09/Doodads/Primalist/10PM_Primalist_ElementalPylon05_4995967.blp
-4995968;World/Expansion09/Doodads/Primalist/10PM_Primalist_ElementalPylon05_4995968.blp
 4995969;World/Expansion09/Doodads/Primalist/10PM_Primalist_ElementalPylon05_4995969.blp
 4995970;World/Expansion09/Doodads/Primalist/10PM_Primalist_ElementalPylon05_4995970.blp
 4995971;World/Expansion09/Doodads/Primalist/8FX_Fire_Toon_BW_Contrast_4995971.blp
@@ -84734,7 +84718,6 @@
 5000438;world/wmo/expansion09/EmeraldDream/10EMD_EmeraldDream_DragonGreen_Tower01_5000438.blp
 5000439;world/wmo/expansion09/EmeraldDream/10EMD_EmeraldDream_DragonGreen_Tower01_5000439.blp
 5000440;world/wmo/expansion09/EmeraldDream/10EMD_EmeraldDream_DragonGreen_Tower01_5000440.blp
-5000462;Creature/MurkyYsera/MurkyYsera_5000462.blp
 5000469;Creature/MurkyYsera/MurkyYsera_5000469.blp
 5000475;Creature/MurkyYsera/MurkyYsera_5000475.blp
 5000476;Creature/MurkyYsera/MurkyYsera_5000476.blp
@@ -92980,8 +92963,6 @@
 5202532;item/objectcomponents/weapon/offhand_1h_emeralddreamraid_d_01_5202532.blp
 5202571;item/objectcomponents/weapon/offhand_1h_emeralddreamraid_d_01_5202571.blp
 5202872;Spells/FX_FIREVFXTEST_Aura_5202872.blp
-5202882;creature/WoodDragonPet/WoodDragonPet_5202882.blp
-5202911;creature/WoodDragonPet/WoodDragonPet_5202911.blp
 5202917;creature/WoodDragonPet/WoodDragonPet_5202917.blp
 5202964;World/WMO/Expansion10/Earthen/11EA_Earthen_Crane01_5202964.blp
 5202966;Spells/FX_ActiveFountainAura_Aura01_5202966.blp
@@ -93114,7 +93095,7 @@
 5205076;world/expansion09/doodads/Primalist/7FX_Chunky_Soft_A_01_5205076.blp
 5205077;spells/dirt_02_5205077.blp
 5205078;world/expansion09/doodads/Primalist/7fx_flipbook_fire_style_blur_a_5205078.blp
-5205079;world/expansion09/doodads/Primalist/10PM_Primalist_Portal01_5205079.blp
+5205079;world/expansion09/doodads/Primalist/8FX_Painted_CloudScroll_03_5205079.blp
 5205083;spells/smoke_loose_02_256_blend_contrast_5205083.blp
 5205084;spells/wispymagic_vert_azeritemist_blue_128_greyrotate_5205084.blp
 5205086;world/expansion09/doodads/Primalist/10PM_Primalist_Portal01_5205086.blp
@@ -94443,7 +94424,7 @@
 5228764;sound/creature/felhound4/felhound4_fidget_5228764.ogg
 5228766;sound/creature/felhound4/felhound4_fidget_5228766.ogg
 5228904;spells/9FX_AmimaArd_FlareOut_BlurA_5228904.blp
-5228907;spells/FX_Spark_Cast_5228907.blp
+5228907;spells/8FX_HeadingVelocity_01_5228907.blp
 5228911;spells/7FX_Arcane_Starfield_Holy_5228911.blp
 5228915;spells/Sand_Scroll_5228915.blp
 5228919;spells/7fx_alphamask_glow_pala_5228919.blp
@@ -102119,7 +102100,7 @@
 5423360;Sound/Spell/Rootquake_precaststart_loop_5423360.ogg
 5423366;Spells/8FX_Dirt_Bits_5423366.blp
 5423371;Spells/smoke_loose_02_256_blend_contrast_5423371.blp
-5423376;Spells/11FX_Earthen_Totem_Earth01_5423376.blp
+5423376;Spells/8FX_Painted_CloudScroll_03_5423376.blp
 5423381;Spells/7fx_alphamask_shockwavesoft_contrast_256_5423381.blp
 5423386;Spells/7FX_Chunky_Soft_A_01_5423386.blp
 5423388;Spells/7FX_Smoke_WispyMask_Yellow_5423388.blp
@@ -109069,7 +109050,7 @@
 5656373;spells/textures/textureblendset_1383_5656373.blp
 5656374;spells/textures/textureblendset_1383_5656374.blp
 5656493;models/unktextures/7fx_shockwave_holy_01_5656493.blp
-5656494;models/unktextures/8des_sethraliss_fire01_5656494.blp
+5656494;models/unktextures/Fire_Sparse_Pieces_5656494.blp
 5656495;models/unktextures/Dirt_Scroll_Wispy_firecloudtest_5656495.blp
 5656496;models/unktextures/draenei_wire_spark_5656496.blp
 5656497;models/unktextures/Ember_Offset_5656497.blp
@@ -114869,7 +114850,6 @@
 5789483;item/objectcomponents/cape/cape_special_nerubian_d_02_5789483.blp
 5789498;World/Expansion10/Doodads/Dalaran/11DL_Rhonin_Statue01_5789498.blp
 5789505;World/Expansion10/Doodads/Dalaran/11DL_Rhonin_Statue01_5789505.blp
-5789511;World/Expansion10/Doodads/Dalaran/11DL_Rhonin_Statue01_5789511.blp
 5789520;World/Expansion10/Doodads/Dalaran/11DL_Rhonin_Statue01_5789520.blp
 5789521;World/Expansion10/Doodads/Dalaran/11DL_Rhonin_Statue01_5789521.blp
 5789530;Creature/Orweyna/Orweyna_5789530.blp
@@ -117095,7 +117075,6 @@
 5869546;Tileset/Unused/11KRS_PurpleSand02_1024.blp
 5869547;Tileset/Unused/11KRS_PurpleSand02_1024_h.blp
 5869548;Tileset/Unused/11KRS_PurpleSand02_1024_s.blp
-5869831;World/Expansion10/Doodads/Nerubian/11NB_Nerubian_Claws01_5869831.blp
 5869836;World/Expansion10/Doodads/Nerubian/11NB_Nerubian_Claws01_5869836.blp
 5869837;World/Expansion10/Doodads/Nerubian/11NB_Nerubian_Claws01_5869837.blp
 5869841;World/Expansion10/Doodads/Nerubian/11NB_Nerubian_Claws01_5869841.blp
@@ -132192,7 +132171,6 @@
 6027156;Item/ObjectComponents/head/helm_cloth_raidwarlockgoblin_d_01_Be_m_6027156.blp
 6027157;Item/ObjectComponents/head/helm_cloth_raidwarlockgoblin_d_01_Be_m_6027157.blp
 6027158;Item/ObjectComponents/head/helm_cloth_raidwarlockgoblin_d_01_Be_m_6027158.blp
-6027164;Creature/MurlocBabyThrall/MurlocBabyThrall_6027164.blp
 6027166;Creature/MurlocBabyThrall/MurlocBabyThrall_6027166.blp
 6027168;Creature/MurlocBabyThrall/MurlocBabyThrall_6027168.blp
 6027176;Creature/MurlocBabyThrall/MurlocBabyThrall_6027176.blp
@@ -137456,7 +137434,6 @@
 6216709;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Tent_04_6216709.blp
 6216710;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Tent_04_6216710.blp
 6216711;World/Expansion11/Doodads/BloodElf/12BE_BloodElf_Tent_04_6216711.blp
-6216755;world/expansion10/doodads/goblin/11go_goblin_bath01_6216755.blp
 6216758;models/unknown/unk_exp11_6216758/6216758.m2
 6216799;models/unknown/unk_exp11_6215907/6215907_6216799.blp
 6216802;models/unknown/unk_exp11_6215907/621590700.skin
@@ -161213,6 +161190,7 @@
 6890945;item/objectcomponents/shield/Shield_1H_EtherealRaid_D_01_6890945.blp
 6890946;item/objectcomponents/shield/Shield_1H_EtherealRaid_D_01_6890946.blp
 6890986;models/unktextures/smoke_loose_02_256_blend_contrast_6890986.blp
+6890987;models/unktextures/8FX_Painted_CloudScroll_03_6890987.blp
 6890988;models/unktextures/7FX_AlphaMask_Glow_DirtyYellow512_6890988.blp
 6890989;models/unktextures/White8x8_6890989.blp
 6890990;models/unktextures/Flash_Explosion_Directed_BA_6890990.blp
@@ -162769,7 +162747,7 @@
 6929040;Sound/Spell/Torrent_aurastart_loop_6929040.ogg
 6929187;models/world/unk_exp10_6927669/8FX_Dirt_Bits.blp
 6929188;models/world/unk_exp10_6927669/smoke_loose_02_256_blend_contrast.blp
-6929189;models/world/unk_exp10_6927669/6927669_6929189.blp
+6929189;models/world/unk_exp10_6927669/8FX_Painted_CloudScroll_03.blp
 6929191;models/world/unk_exp10_6927669/11KRS_crystalReflection01.blp
 6929192;models/world/unk_exp10_6927669/692766900.skin
 6929193;models/world/unk_exp10_6927669/6927669_lod01.skin
@@ -187312,7 +187290,6 @@
 7429107;World/Expansion10/Doodads/WildElves/Haranir_Totem_Water_7429107.blp
 7429111;World/Expansion10/Doodads/WildElves/Haranir_Totem_Water_7429111.blp
 7429113;World/Expansion10/Doodads/WildElves/Haranir_Totem_Water_7429113.blp
-7429142;World/Expansion10/Doodads/WildElves/Haranir_Totem_Earth_7429142.blp
 7429149;World/Expansion10/Doodads/WildElves/Haranir_Totem_Earth_7429149.blp
 7429151;World/Expansion10/Doodads/WildElves/Haranir_Totem_Earth_7429151.blp
 7429155;World/Expansion10/Doodads/WildElves/Haranir_Totem_Earth_7429155.blp
@@ -190733,7 +190710,6 @@
 7480051;World/Expansion10/Doodads/WildElves/11WE_WildElves_Navigation_RootPortal02_7480051.blp
 7480052;World/Expansion10/Doodads/WildElves/11WE_WildElves_Navigation_RootPortal02_7480052.blp
 7480055;World/Expansion10/Doodads/WildElves/11WE_WildElves_Navigation_RootPortal02_7480055.blp
-7480057;World/Expansion10/Doodads/WildElves/11WE_WildElves_Navigation_RootPortal02_7480057.blp
 7480058;World/Expansion10/Doodads/WildElves/11WE_WildElves_Navigation_RootPortal02_7480058.blp
 7480059;World/Expansion10/Doodads/WildElves/11WE_WildElves_Navigation_RootPortal02_7480059.blp
 7480060;World/Expansion10/Doodads/WildElves/11WE_WildElves_Navigation_RootPortal02_7480060.blp
@@ -195087,6 +195063,7 @@
 7539830;models/unktextures/Gray8x8_7539830.blp
 7539832;models/unktextures/wispymagic_vert_azeritemist_blue_128_greyrotate_7539832.blp
 7539834;models/unktextures/7fx_flipbook_fire_style_blur_a_7539834.blp
+7539836;models/unktextures/8FX_Painted_CloudScroll_03_7539836.blp
 7539838;models/unktextures/smoke_loose_02_256_blend_contrast_7539838.blp
 7539840;models/unktextures/7FX_Chunky_Soft_A_01_7539840.blp
 7539841;models/unktextures/dirt_02_7539841.blp
@@ -203649,7 +203626,6 @@
 7728553;Housing/Icons/INV_12SN_Snakeoid_Storage_Bag02_7728553.blp
 7728557;Housing/Icons/INV_12SN_Snakeoid_Storage_Bag01_7728557.blp
 7728590;models/unknown/unk_exp11_7728590/7728590.m2
-7728610;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Skyborne_Windwell01_7728610.blp
 7728611;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Skyborne_Windwell01_7728611.blp
 7728612;World/Expansion11/Doodads/PlayerHousing/12PH_Shop_Skyborne_Windwell01_7728612.blp
 7728613;models/unknown/unk_exp11_7728590/772859000.skin
@@ -219450,6 +219426,7 @@
 8062783;models/unktextures/8FX_FlipBook_NecroAsh_8062783.blp
 8062785;models/unktextures/wispymagic_necroblur_a_8062785.blp
 8062793;models/unktextures/8FX_General_WindTile_C_8062793.blp
+8062797;models/unktextures/8FX_HashEnergy_A_8062797.blp
 8062899;Sound/Creature/7234130/7234130_aggro_8062899.ogg
 8062901;Sound/Creature/7234130/7234130_aggro_8062901.ogg
 8062903;Sound/Creature/7234130/7234130_aggro_8062903.ogg
@@ -219706,7 +219683,7 @@
 8087548;models/world/unk_exp11_8072659/8072659_8087548.blp
 8087549;models/world/unk_exp11_8072659/8FX_General_WindTile_C.blp
 8087550;models/world/unk_exp11_8072659/8072659_8087550.blp
-8087551;models/world/unk_exp11_8072659/8072659_8087551.blp
+8087551;models/world/unk_exp11_8072659/8FX_HashEnergy_A.blp
 8087552;models/world/unk_exp11_8072659/807265900.skin
 8087553;models/world/unk_exp11_8072659/8072659_lod01.skin
 8087554;models/world/unk_exp11_8072659/8072659_lod02.skin
@@ -228501,6 +228478,7 @@
 8475675;Sound/Creature/humanmalekid2/humanmalekid2_fidget_8475675.ogg
 8475677;Sound/Creature/humanmalekid2/humanmalekid2_fidget_8475677.ogg
 8475803;Creature/WinterBroom/WinterBroom_8475803.blp
+8475804;models/unktextures/8FX_Ribbon_Swirly_A_8475804.blp
 8475805;Creature/WinterBroom/WinterBroom_8475805.blp
 8477103;models/unktextures/White8x8_8477103.blp
 8477104;models/unktextures/grey50percentsquare16x16_a_8477104.blp
@@ -229731,12 +229709,9 @@
 8532000;models/creature/unk_exp00_8531436/8531436_lod02.skin
 8532001;models/creature/unk_exp00_8531436/8531436_lod03.skin
 8532114;Creature/StegodonPrimalMount/StegodonPrimalMount_8532114.blp
-8532116;Creature/StegodonPrimalMount/StegodonPrimalMount_8532116.blp
 8532118;Creature/StegodonPrimalMount/StegodonPrimalMount_8532118.blp
 8532140;Creature/StegodonPrimalMount/StegodonPrimalMount_8532140.blp
 8532142;Creature/StegodonPrimalMount/StegodonPrimalMount_8532142.blp
-8532144;Creature/StegodonPrimalMount/StegodonPrimalMount_8532144.blp
-8532148;Creature/StegodonPrimalMount/StegodonPrimalMount_8532148.blp
 8533004;SPELLS/DeathCoil_Missile_8533004.blp
 8533006;SPELLS/DeathCoil_Missile_8533006.blp
 8533010;SPELLS/Pestilence_Impact_Chest_8533010.blp

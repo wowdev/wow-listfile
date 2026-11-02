@@ -214842,6 +214842,7 @@
 4064751;world/nodxt/detail/expansion09/10GSLFoothillsShrub04.m2
 4064753;world/expansion08/doodads/maw/Smoke_Generic_PaintyMask02_Blend.blp
 4064755;world/expansion08/doodads/maw/9FX_SandScroll_A.blp
+4064756;world/expansion08/doodads/maw/8FX_Painted_CloudScroll_03.blp
 4064759;world/expansion08/doodads/maw/Gray8x8.blp
 4064873;world/nodxt/detail/expansion09/10GSLFoothillsGrass0100.skin
 4064874;world/nodxt/detail/expansion09/10GSLFoothillsShrub0100.skin
@@ -221884,6 +221885,7 @@
 4280169;world/expansion08/doodads/necro/9nc_maldraxxusarena_largepillar02.m2
 4280201;world/expansion08/doodads/fx/9fx_progenitor_keeperwindow.m2
 4280209;world/expansion09/doodads/dragon/8fx_precast_smoke.blp
+4280212;world/expansion09/doodads/dragon/8FX_Painted_CloudScroll_03.blp
 4280214;world/expansion09/doodads/explorersleague/10el_explorersleague_torch02.m2
 4280230;world/expansion08/doodads/necro/9nc_maldraxxusarena_largepillar0100.skin
 4280231;world/expansion08/doodads/necro/9nc_maldraxxusarena_largepillar01_lod01.skin
@@ -224688,6 +224690,7 @@
 4381558;World/Expansion09/Doodads/Centaur/10CT_Centaur_RitualPot03_lod03.skin
 4381765;world/expansion09/doodads/reliquary/glowwhite32.blp
 4381768;world/expansion09/doodads/reliquary/candleflameorange.blp
+4381781;world/expansion08/doodads/fx/8FX_Painted_CloudScroll_03.blp
 4381783;world/expansion08/doodads/fx/dirt_02.blp
 4381784;world/expansion08/doodads/fx/9FX_Chunky_Dirt_01.blp
 4381785;world/expansion08/doodads/fx/9fx_generic_earth_barrier00.skin
@@ -225704,6 +225707,7 @@
 4420771;World/Expansion09/Doodads/Primalist/10PM_Primalist_FireTotem01_lod03.skin
 4420773;World/Expansion09/Doodads/Primalist/8FX_Dirt_Bits.blp
 4420774;World/Expansion09/Doodads/Primalist/Gray8x8.blp
+4420776;World/Expansion09/Doodads/Primalist/8FX_Painted_CloudScroll_03.blp
 4420778;World/Expansion09/Doodads/Primalist/7fx_alphamask_shockwavesoft_contrast_256.blp
 4420780;World/Expansion09/Doodads/Primalist/7FX_Chunky_Soft_A_01.blp
 4420782;World/Expansion09/Doodads/Primalist/dirt_02.blp
@@ -228328,6 +228332,7 @@
 4520138;World/Expansion09/Doodads/Highlands/10HGL_Highlands_CaveRock02_lod03.skin
 4520481;World/Expansion09/Doodads/Primalist/10FX_Leaf_Litter_01.blp
 4520483;world/expansion09/doodads/primalist/7fx_alphamask_shockwavesoft_256.blp
+4520484;World/Expansion09/Doodads/Primalist/10FX_Leaf_Litter_02.blp
 4520486;world/expansion09/doodads/primalist/AlphaMask_VerticalGradient.blp
 4520492;World/Expansion09/Doodads/Primalist/10fx_general_windtile_04.blp
 4520506;World/Expansion09/Doodads/Primalist/10FX_Fire_Line_04.blp
@@ -229550,6 +229555,7 @@
 4546505;World/Expansion09/Doodads/Furbolg/10FB_Furbolg_WoodenLog01_Snow.m2
 4546506;World/Expansion09/Doodads/Furbolg/10FB_Furbolg_WoodenWall01_Snow.m2
 4546507;World/Expansion09/Doodads/Furbolg/10FB_Furbolg_WoodenWall02_Snow.m2
+4546771;world/expansion09/doodads/dragon/8FX_HeadingVelocity_01.blp
 4546772;world/expansion09/doodads/dragon/7FX_Arcane_Starfield_Holy.blp
 4546773;world/expansion09/doodads/dragon/Sand_Scroll.blp
 4546774;World/Expansion09/Doodads/Dragon/Smoke_Generic_PaintyMask02_Blend.blp
@@ -244413,6 +244419,7 @@
 4995955;World/Expansion09/Doodads/Primalist/10PM_Primalist_SwirlyBlob01_lod02.skin
 4995956;World/Expansion09/Doodads/Primalist/10PM_Primalist_SwirlyBlob01_lod03.skin
 4995963;World/Expansion09/Doodads/Primalist/7fx_smoketile_contrast_a.blp
+4995968;World/Expansion09/Doodads/Primalist/8FX_HashEnergy_A.blp
 4995972;World/Expansion09/Doodads/Primalist/Cloud_WispySoft_CutoutBright_Alpha_2.blp
 4995973;World/Expansion09/Doodads/Primalist/7FX_Desat_Ghostly_Fire_WrapFull_A.blp
 4995974;World/Expansion09/Doodads/Primalist/10PM_Primalist_ElementalPylon0500.skin
@@ -272911,6 +272918,7 @@
 5789508;World/Expansion10/Doodads/Dalaran/dirt_02.blp
 5789509;World/Expansion10/Doodads/Dalaran/Gray8x8.blp
 5789510;World/Expansion10/Doodads/smoke_loose_02_256_blend_contrast.blp
+5789511;World/Expansion10/Doodads/Dalaran/8FX_Painted_CloudScroll_03.blp
 5789512;World/Expansion10/Doodads/Dalaran/7DL_Dalaran_RhoninSculpture06.blp
 5789513;World/Expansion10/Doodads/Dalaran/fire_reflection.blp
 5789514;World/Expansion10/Doodads/Dalaran/7DL_Dalaran_RhoninAlpha01.blp
@@ -274544,6 +274552,7 @@
 5869828;World/Expansion10/Doodads/Nerubian/7FX_Chunky_Soft_A_01.blp
 5869829;World/Expansion10/Doodads/Nerubian/dirt_02.blp
 5869830;World/Expansion10/Doodads/Nerubian/7fx_flipbook_fire_style_blur_a.blp
+5869831;World/Expansion10/Doodads/Nerubian/8FX_Painted_CloudScroll_03.blp
 5869832;World/Expansion10/Doodads/Nerubian/8FX_LightShard_02.blp
 5869833;World/Expansion10/Doodads/Nerubian/7FX_AlphaMask_ShockwaveSoft2.blp
 5869834;World/Expansion10/Doodads/Nerubian/7fx_wind_rift_double_thick_ba.blp
@@ -283593,6 +283602,7 @@
 6216686;World/MapTextures/2735/2735_27_27.blp
 6216688;World/MapTextures/2735/2735_27_29.blp
 6216690;World/MapTextures/2735/2735_27_28.blp
+6216755;world/expansion10/doodads/goblin/8FX_Painted_CloudScroll_03.blp
 6216761;World/Expansion10/Doodads/Goblin/11GO_Goblin_TrashCan03.m2
 6216762;World/Expansion10/Doodads/Goblin/11GO_Goblin_TrashCanLid01.m2
 6216861;World/Expansion11/Doodads/Void/12VD_Void_Defense_Spikes0300.skin
@@ -303056,6 +303066,7 @@
 7429136;World/Expansion10/Doodads/WildElves/dirt_02.blp
 7429138;World/Expansion10/Doodads/WildElves/8FX_Dirt_Bits.blp
 7429140;World/Expansion10/Doodads/WildElves/7FX_Smoke_WispyMask_Yellow.blp
+7429142;World/Expansion10/Doodads/WildElves/8FX_Painted_CloudScroll_03.blp
 7429143;World/Expansion10/Doodads/WildElves/7fx_alphamask_shockwavesoft_contrast_256.blp
 7429145;World/Expansion10/Doodads/WildElves/7FX_AlphaMask_Glow_YellowOrange.blp
 7429147;World/Expansion10/Doodads/WildElves/7FX_AlphaMask_Glow_DirtyYellow512.blp
@@ -304255,6 +304266,7 @@
 7480053;World/Expansion10/Doodads/WildElves/ember_offset_shape_ba_128.blp
 7480054;World/Expansion10/Doodads/WildElves/10FX_Shockwave_Soft.blp
 7480056;World/Expansion10/Doodads/WildElves/wispymagic_vert_azeritemist_blue_128_greyrotate.blp
+7480057;World/Expansion10/Doodads/WildElves/10FX_Leaf_Litter_02.blp
 7480062;World/Expansion10/Doodads/WildElves/9FX_Flare_B.blp
 7481138;World/Expansion10/Doodads/10XP_Generic_Toy_DragonPillarToy01/Flare.blp
 7481139;World/Expansion10/Doodads/10XP_Generic_Toy_DragonPillarToy01/7FX_AlphaMask_Glow_Alt.blp
@@ -307130,6 +307142,7 @@
 7728493;World/GENERIC/UPPERDECK/gradient.blp
 7728494;World/GENERIC/UPPERDECK/MoonBeam.blp
 7728495;World/GENERIC/UPPERDECK/RibbonNE1_blue.blp
+7728610;World/Expansion11/Doodads/PlayerHousing/8FX_Ribbon_Twin_A.blp
 7735073;World/MapTextures/3074/3074_37_19_n.blp
 7735075;World/MapTextures/3074/3074_38_19_n.blp
 7735077;World/MapTextures/3074/3074_39_19_n.blp
