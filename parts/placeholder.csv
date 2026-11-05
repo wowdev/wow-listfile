@@ -186794,6 +186794,8 @@
 7425045;Housing/Icons/INV_12PH_Elwynn_Furniture_Torch02_7425045.blp
 7425047;Housing/Thumbnails/12PH_Durotar_Decor_Planter01_7425047.blp
 7425049;Housing/Icons/INV_12PH_Durotar_Decor_Planter01_7425049.blp
+7425159;Housing/Thumbnails/7NE_NightElf_Light01_WreckedOff_7425159.blp
+7425161;Housing/Icons/INV_7NE_NightElf_Light01_WreckedOff_7425161.blp
 7425177;Housing/Icons/INV_12FN_Fungarian_Lighting_HangingLight01_Unlit_7425177.blp
 7425181;Housing/Icons/INV_12FN_Fungarian_Lighting_HangingLight02_Unlit_7425181.blp
 7425185;Housing/Icons/INV_12FN_Fungarian_Special_TargetDummy01_7425185.blp
@@ -186860,6 +186862,8 @@
 7425369;Housing/Icons/INV_10TR_Tuskarr_CookingPot01_7425369.blp
 7425371;Housing/Thumbnails/7277022_7425371.blp
 7425373;Housing/Icons/INV_7277022_7425373.blp
+7425383;Housing/Thumbnails/6OC_OrcClans_Book02_7425383.blp
+7425385;Housing/Icons/INV_6OC_OrcClans_Book02_7425385.blp
 7425451;Housing/Thumbnails/12be_bloodelf_decor_wallart06_7425451.blp
 7425509;Housing/Icons/INV_12FN_Fungarian_Crafting_WeaponRack01_7425509.blp
 7425513;Housing/Icons/INV_12FN_Fungarian_Crafting_WeaponRack01_Empty_7425513.blp
@@ -206872,6 +206876,8 @@
 7758226;models/unknown/unk_exp11_7757874/7757874_lod01.skin
 7758227;models/unknown/unk_exp11_7757874/7757874_lod02.skin
 7758228;models/unknown/unk_exp11_7757874/7757874_lod03.skin
+7758234;Sound/Creature/Taklejo/VO_121_Taklejo_7758234.ogg
+7758237;Sound/Creature/Taklejo/VO_121_Taklejo_7758237.ogg
 7758240;Sound/Creature/Taklejo/VO_121_Taklejo_7758240.ogg
 7758243;Sound/Creature/Dakzor/VO_121_Dakzor_7758243.ogg
 7758246;Sound/Creature/Dakzor/VO_121_Dakzor_7758246.ogg
@@ -210027,6 +210033,7 @@
 7823378;Sound/Spell/DevotedReturn_channelstart_loop_7823378.ogg
 7823382;Sound/Spell/TestSoundMassiveScifiRattleLarge_cast_oneshot_7823382.ogg
 7823385;Sound/Spell/FlingFish_precaststart_loop_7823385.ogg
+7823388;Sound/Spell/HeartBeam_cast_oneshot_7823388.ogg
 7823392;Sound/Spell/CarryingOddballIngredient_cast_oneshot_7823392.ogg
 7823406;Sound/Spell/DevotedReturn_channelstart_loop_7823406.ogg
 7823413;Sound/Spell/CreateCure_cast_oneshot_7823413.ogg
@@ -211774,6 +211781,7 @@
 7850442;Sound/Spell/CataclysmicInvocation_precaststart_loop_7850442.ogg
 7850450;Sound/Spell/Imbibe_precaststart_loop_7850450.ogg
 7850454;Sound/Spell/UnstableMiasma_aurastart_loop_7850454.ogg
+7850462;Sound/Spell/SoulExplosion_areatriggerstart_loop_7850462.ogg
 7850490;Sound/Spell/DeathlyDecay_aurastart_loop_7850490.ogg
 7850492;Sound/Spell/DeathlyDecay_aurastart_loop_7850492.ogg
 7850494;Sound/Spell/DeathlyDecay_aurastart_loop_7850494.ogg
@@ -218129,9 +218137,36 @@
 7977498;World/Kalimdor/MAURADON/PASSIVEDOODADS/SatyrFloorBraziers/SatyrFloorBrazierBlue01_7977498.blp
 7977525;creature/trolllich/trolllich_7977525.blp
 7977537;Sound/Creature/Kinduru/VO_1215_Kinduru_7977537.ogg
+7977540;Sound/Creature/Kinduru/VO_1215_Kinduru_7977540.ogg
+7977541;Sound/Creature/Kinduru/VO_1215_Kinduru_7977541.ogg
 7977542;Sound/Creature/Kinduru/VO_1215_Kinduru_7977542.ogg
+7977543;Sound/Creature/Kinduru/VO_1215_Kinduru_7977543.ogg
+7977544;Sound/Creature/Kinduru/VO_1215_Kinduru_7977544.ogg
+7977545;Sound/Creature/Kinduru/VO_1215_Kinduru_7977545.ogg
+7977546;Sound/Creature/Kinduru/VO_1215_Kinduru_7977546.ogg
+7977547;Sound/Creature/Kinduru/VO_1215_Kinduru_7977547.ogg
+7977548;Sound/Creature/Kinduru/VO_1215_Kinduru_7977548.ogg
+7977549;Sound/Creature/Kinduru/VO_1215_Kinduru_7977549.ogg
+7977550;Sound/Creature/Kinduru/VO_1215_Kinduru_7977550.ogg
+7977551;Sound/Creature/Kinduru/VO_1215_Kinduru_7977551.ogg
+7977552;Sound/Creature/Kinduru/VO_1215_Kinduru_7977552.ogg
+7977553;Sound/Creature/Kinduru/VO_1215_Kinduru_7977553.ogg
+7977554;Sound/Creature/Kinduru/VO_1215_Kinduru_7977554.ogg
+7977555;Sound/Creature/Kinduru/VO_1215_Kinduru_7977555.ogg
+7977556;Sound/Creature/Kinduru/VO_1215_Kinduru_7977556.ogg
+7977557;Sound/Creature/Kinduru/VO_1215_Kinduru_7977557.ogg
+7977558;Sound/Creature/Kinduru/VO_1215_Kinduru_7977558.ogg
+7977559;Sound/Creature/Kinduru/VO_1215_Kinduru_7977559.ogg
+7977560;Sound/Creature/Kinduru/VO_1215_Kinduru_7977560.ogg
+7977561;Sound/Creature/Kinduru/VO_1215_Kinduru_7977561.ogg
+7977562;Sound/Creature/Kinduru/VO_1215_Kinduru_7977562.ogg
 7977563;Sound/Creature/Kinduru/VO_1215_Kinduru_7977563.ogg
-7977564;Sound/Creature/Ancestral_Shaman/VO_1215_Ancestral_Shaman_7977564.ogg
+7977564;Sound/Creature/Kinduru/VO_1215_Kinduru_7977564ogg
+7977565;Sound/Creature/Kinduru/VO_1215_Kinduru_7977565ogg
+7977566;Sound/Creature/Kinduru/VO_1215_Kinduru_7977566ogg
+7977567;Sound/Creature/Kinduru/VO_1215_Kinduru_7977567ogg
+7977568;Sound/Creature/Kinduru/VO_1215_Kinduru_7977568ogg
+7977569;Sound/Creature/Kinduru/VO_1215_Kinduru_7977569ogg
 7977570;Sound/Creature/Kinduru/VO_1215_Kinduru_7977570.ogg
 7977642;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977642.ogg
 7977646;Sound/Creature/Valeera_Sanguinar/VO_1215_Valeera_Sanguinar_7977646.ogg
@@ -230386,5 +230421,58 @@
 8575680;World/Generic/Doodads/Greench_Stash/G_Greench_Stash_8575680.blp
 8575686;World/Generic/Doodads/Greench_Stash/G_Greench_Stash_8575686.blp
 8575689;World/Generic/Doodads/Greench_Stash/G_Greench_Stash_8575689.blp
+8576336;Item/ObjectComponents/Head/Helm_Leather_PVPAlliance_A_01_8576336.blp
+8576338;ITEM/ObjectComponents/Shoulder/LShoulder_Leather_PVPAlliance_A_01_8576338.blp
+8576414;Item/ObjectComponents/Head/Helm_Leather_PVPAlliance_A_01_8576414.blp
+8576415;ITEM/ObjectComponents/Shoulder/LShoulder_Leather_PVPAlliance_A_01_8576415.blp
 8578905;models/unknown/unk_exp11_7874166/7874166_8578905.blp
 8578906;models/unknown/unk_exp11_7874166/7874166_8578906.blp
+8579214;Item/ObjectComponents/Shoulder/LShoulder_Plate_PVPAlliance_A_01_8579214.blp
+8579215;Item/ObjectComponents/Shoulder/LShoulder_Plate_PVPAlliance_A_01_8579215.blp
+8579216;Item/ObjectComponents/Shoulder/LShoulder_Plate_PVPAlliance_A_01_8579216.blp
+8579217;Item/ObjectComponents/Shoulder/LShoulder_Plate_PVPAlliance_A_01_8579217.blp
+8579218;Item/ObjectComponents/Head/Helm_Plate_PVPAlliance_A_01_8579218.blp
+8579219;Item/ObjectComponents/Head/Helm_Plate_PVPAlliance_A_01_8579219.blp
+8584736;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Walk_8584736.mp3
+8584738;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Vampire_8584738.mp3
+8584740;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Walk_8584740.mp3
+8584742;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Walk_8584742.mp3
+8584744;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Vampire_8584744.mp3
+8584746;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Vampire_8584746.mp3
+8584748;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Walk_8584748.mp3
+8584750;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Vampire_8584750.mp3
+8584752;Sound/Music/Unknown/Intro - 12.1.7 - Talebound - Final Confrontation_8584752.mp3
+8584754;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Final Confrontation - General - Walk_8584754.mp3
+8584756;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Final Confrontation - General - Walk_8584756.mp3
+8584758;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Final Confrontation - General - Walk_8584758.mp3
+8584768;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Greywake's Expedition - General - Walk_8584768.mp3
+8584770;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Greywake's Expedition - General - Walk_8584770.mp3
+8584772;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Greywake's Expedition - General - Walk_8584772.mp3
+8584774;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Greywake's Expedition - General - Walk_8584774.mp3
+8584776;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Greywake's Expedition - General - Walk_8584776.mp3
+8584778;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Grove - Dream - Walk_8584778.mp3
+8584780;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Grove - Dream - Walk_8584780.mp3
+8584782;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Grove - Dream - Walk_8584782.mp3
+8584784;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Grove - Dream - Walk_8584784.mp3
+8584786;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Grove - Dream - Walk_8584786.mp3
+8584788;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Grove - Nightmare - Walk_8584788.mp3
+8584790;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Grove - Nightmare - Walk_8584790.mp3
+8584792;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Grove - Nightmare - Walk_8584792.mp3
+8584794;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Grove - Nightmare - Walk_8584794.mp3
+8584796;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Grove - Nightmare - Walk_8584796.mp3
+8584798;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Hub - Quillgrave - Walk_8584798.mp3
+8584800;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Hub - Quillgrave - Walk_8584800.mp3
+8584802;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Hub - Quillgrave - Walk_8584802.mp3
+8584804;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Hub - Quillgrave - Walk_8584804.mp3
+8584814;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Red Hollow - General - Walk_8584814.mp3
+8584816;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Red Hollow - General - Walk_8584816.mp3
+8584818;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Red Hollow - General - Walk_8584818.mp3
+8584820;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Red Hollow - General - Walk_8584820.mp3
+8584860;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Greenthistle Woods - General - Walk_8584860.mp3
+8584862;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Greenthistle Woods - General - Walk_8584862.mp3
+8584864;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Greenthistle Woods - General - Walk_8584864.mp3
+8584866;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Greenthistle Woods - General - Walk_8584866.mp3
+8586493;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Boss 2_8586493.mp3
+8586495;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Boss 2_8586495.mp3
+8586497;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Boss 2_8586497.mp3
+8586499;Sound/Music/Unknown/Zone 12.1.7 - Talebound - Darkhaven - General - Boss 2_8586499.mp3
