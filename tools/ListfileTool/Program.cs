@@ -239,14 +239,11 @@ namespace ListfileTool
 
                 if (uint.TryParse(split[0], out var fileDataID))
                 {
-                    ulong lookup = 0;
-                    var lookupMismatch = false;
-                    if (lookups.TryGetValue(fileDataID, out lookup))
+                    if (lookups.TryGetValue(fileDataID, out ulong lookup))
                     {
                         if (lookup != hasher.ComputeHash(inputName))
                         {
                             Console.WriteLine("!!! Warning: Suggestion for FDID " + fileDataID + " (" + inputName + ") does not match known lookup.");
-                            lookupMismatch = true;
                             if (!inputName.Contains(fileDataID.ToString()))
                             {
                                 Console.WriteLine("Skipping addition, does not appear to be a placeholder.");
@@ -494,7 +491,7 @@ namespace ListfileTool
                     catch (IOException e)
                     {
                         tries++;
-                        Console.WriteLine("Error writing file, retrying " + tries + "/10");
+                        Console.WriteLine("Error writing file (" + e.Message + "), retrying " + tries + "/10");
                     }
                 }
 
@@ -541,7 +538,7 @@ namespace ListfileTool
             if (verifiedNames)
             {
                 // meta/lookup.csv should be one path above inputDir
-                var lookupFile = Path.Combine(Directory.GetParent(inputDir).FullName, "meta", "lookup.csv");
+                var lookupFile = Path.Combine(Directory.GetParent(inputDir)!.FullName, "meta", "lookup.csv");
 
                 if (!File.Exists(lookupFile))
                 {
