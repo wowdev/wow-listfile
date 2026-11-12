@@ -176734,5 +176734,12 @@
 8575208;Interface/AddOns/Blizzard_SharedTalentUI/WoWHack/Blizzard_WoWHackCharacterStats.lua
 8578853;Interface/Splash/Splash1217.blp
 8587058;Interface/AddOns/Blizzard_GamepadSmartNavigation/SecureHelper.lua
+8613697;Interface/AddOns/Blizzard_GamepadInfoHUD/Blizzard_GamepadInfoHUD.toc
+8613698;Interface/AddOns/Blizzard_GamepadInfoHUD/InfoHUD.xml
+8613699;Interface/AddOns/Blizzard_GamepadInfoHUD/InfoHUD.lua
+8625461;Interface/AddOns/Blizzard_StaticPopup_Game/Vanilla/GameDialogDefs.lua
+8628653;Interface/AddOns/Blizzard_FrameXMLUtil/WoWHack/DifficultyUtilOverrides.lua
+8628654;Interface/AddOns/Blizzard_Minimap/WoWHack/InstanceDifficultyOverrides.lua
+8629287;Interface/AddOns/Blizzard_ObjectiveTracker/WoWHack/Blizzard_AutoQuestPopUpTrackerOverride.lua
 8631109;Interface/AddOns/Blizzard_Game/Camelot/EventImplementationUtils.lua
 8631110;Interface/AddOns/Blizzard_Game/Mainline/EventImplementationUtils.lua
