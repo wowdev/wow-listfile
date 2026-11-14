@@ -146270,8 +146270,8 @@
 6433285;models/creature/unk_exp10_6433189/T_VFX_FLAR_BLUR_64.blp
 6433288;models/creature/unk_exp10_6433189/T_VFX_FLARE05_A.blp
 6433292;models/creature/unk_exp10_6433189/ShaHauntFlakes01_white.blp
-6433296;models/creature/unk_exp10_6433189/6433189_6433296.blp
-6433300;models/creature/unk_exp10_6433189/6433189_6433300.blp
+6433296;models/creature/unk_exp10_6433189/T_VFX_Smoke_C64.blp
+6433300;models/creature/unk_exp10_6433189/T_VFX_EXPLOSION01_ALPHA.blp
 6433304;models/creature/unk_exp10_6433189/T_VFX_HERO_AURA_01.blp
 6433308;models/creature/unk_exp10_6433189/T_VFX_FLARE05_DARK.blp
 6433313;models/creature/unk_exp10_6433189/T_VFX_SmokeAnim02_Blured.blp
@@ -231402,3 +231402,4 @@
 8626035;models/unknown/unk_exp11_8625241/8625241_lod01.skin
 8626039;models/unknown/unk_exp11_8625241/8625241_lod02.skin
 8626044;models/unknown/unk_exp11_8625241/8625241_lod03.skin
+8626130;Housing/Icons/INV_8625241_8626130.blp
