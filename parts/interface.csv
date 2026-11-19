@@ -175920,6 +175920,7 @@
 8246088;Interface/AdventureMap/12_15_Labyrinth/12_15_Labyrinth_Taxi60.blp
 8246089;Interface/AdventureMap/12_15_Labyrinth/12_15_Labyrinth_Taxi61.blp
 8246090;Interface/AdventureMap/12_15_Labyrinth/12_15_Labyrinth_Taxi62.blp
+8246091;Interface/ICONS/INV_OffHand_1H_Krampus_C_01.blp
 8246092;Interface/AdventureMap/12_15_Labyrinth/12_15_Labyrinth_Taxi63.blp
 8246093;Interface/AdventureMap/12_15_Labyrinth/12_15_Labyrinth_Taxi64.blp
 8246094;Interface/AdventureMap/12_15_Labyrinth/12_15_Labyrinth_Taxi65.blp
@@ -175960,6 +175961,7 @@
 8246134;Interface/AdventureMap/12_15_Labyrinth/12_15_Labyrinth_Taxi97.blp
 8246135;Interface/AdventureMap/12_15_Labyrinth/12_15_Labyrinth_Taxi98.blp
 8246136;Interface/AdventureMap/12_15_Labyrinth/12_15_Labyrinth_Taxi99.blp
+8246169;Interface/ICONS/INV_Bow_1H_Krampus_C_01.blp
 8246401;Interface/WorldMap/12_15_Labyrinth/12_15_Labyrinth_A100.blp
 8246402;Interface/WorldMap/12_15_Labyrinth/12_15_Labyrinth_A101.blp
 8246403;Interface/WorldMap/12_15_Labyrinth/12_15_Labyrinth_A102.blp
@@ -176108,6 +176110,7 @@
 8254786;Interface/Common/CommonSideTabMask2xc60.blp
 8260962;Interface/Gamepad/GamepadMenuIconsc60.blp
 8260979;Interface/Gamepad/GamepadActionBarIconsc60.blp
+8261021;Interface/ICONS/INV_Polearm_2H_Krampus_C_01.blp
 8261112;Interface/ICONS/INV_Staff_2H_Baker_C_01.blp
 8261163;Interface/COMMON/CommonStatBarc60.blp
 8261265;Interface/COMMON/CommonStatBar2xc60.blp
@@ -176126,6 +176129,14 @@
 8262637;Interface/Icons/INV_12PH_ArtisanalRooms.blp
 8263017;Interface/AddOns/Blizzard_CharacterSelectNavBar/Camelot/CharacterSelectNavBar.lua
 8263018;Interface/AddOns/Blizzard_UnitPopup/Blizzard_UnitPopup.toc
+8263309;Interface/ICONS/INV_Boot_Armor_Krampus_D_01.blp
+8263311;Interface/ICONS/INV_Cape_Armor_Krampus_D_01.blp
+8263312;Interface/ICONS/INV_Chest _Armor_Krampus_D_01.blp
+8263313;Interface/ICONS/INV_Glove_Armor_Krampus_D_01.blp
+8263314;Interface/ICONS/INV_Helm _Armor_Krampus_D_01.blp
+8263315;Interface/ICONS/INV_Pants_Armor_Krampus_D_01.blp
+8263316;Interface/ICONS/INV_Shoulder_Armor_Krampus_D_01.blp
+8263317;Interface/ICONS/INV_Belt_Armor_Krampus_D_01.blp
 8266404;Interface/AddOns/Blizzard_Deprecated/Mainline/Deprecated_12_0_5.lua
 8267112;Interface/ICONS/INV_Mace_2H_Candy_C_01.blp
 8267853;Interface/AddOns/Blizzard_UIPanels_Game/Camelot/QuestMapFrameOverrides.lua
@@ -176291,6 +176302,7 @@
 8286112;Interface/AddOns/Blizzard_UnitFrame/Blizzard_UnitFrame.toc
 8286113;Interface/AddOns/Blizzard_UnitPopupShared/Blizzard_UnitPopupShared.toc
 8286114;Interface/AddOns/Blizzard_ZoneAbility/Blizzard_ZoneAbility.toc
+8292909;Interface/ICONS/INV_Cape_Special_XmasWreath_C_01.blp
 8293420;Interface/AddOns/Blizzard_DelvesDifficultyPicker/WoWHack/DelveChallengesWoWHack.lua
 8293421;Interface/AddOns/Blizzard_SharedTalentUI/WoWHack/Blizzard_TalentFrameGridSelection.lua
 8293422;Interface/AddOns/Blizzard_SharedTalentUI/WoWHack/Blizzard_TalentFrameGridSelection.xml
@@ -176419,6 +176431,7 @@
 8419630;Interface/AddOns/Blizzard_GlueXML/Camelot/CharacterServicesHardcoreCharacterTransfer.lua
 8419631;Interface/AddOns/Blizzard_GlueXML/Camelot/CharacterServicesHardcoreCharacterTransfer.xml
 8424995;Interface/DressUpFrame/DressingRoomc60.BLP
+8425294;Interface/RoomHalloweenManor/RoomHalloweenManor.blp
 8426725;Interface/COMMON/CommonInternalTabc60.blp
 8426727;Interface/COMMON/CommonInternalTab2xc60.blp
 8426737;Interface/Collections/Collectionsc60.BLP
@@ -176478,6 +176491,7 @@
 8461419;Interface/WorldMap/World_Transport/World10.blp
 8461420;Interface/WorldMap/World_Transport/World11.blp
 8461421;Interface/WorldMap/World_Transport/World12.blp
+8462692;Interface/ICONS/INV_Cape_Special_TaleboundAlchemy_D_01.blp
 8462799;Interface/AddOns/Blizzard_Channels/Classic/ChannelFrame.xml
 8462800;Interface/AddOns/Blizzard_Channels/Classic/ChannelButton.xml
 8462801;Interface/AddOns/Blizzard_Channels/Classic/ChannelFrame.lua
@@ -176562,6 +176576,7 @@
 8489160;Interface/AddOns/Blizzard_QueueStatusFrame/WoWHack/QueueStatusFrameOverrides.lua
 8489399;Interface/AddOns/Blizzard_UnitFrame/Shared/UnitFrameUtil.lua
 8490157;Interface/AddOns/Blizzard_APIDocumentationGenerated/NameUtilDocumentation.lua
+8490226;Interface/ICONS/INV_Cape_Special_TaleboundScribe_D_01.blp
 8490350;Interface/Common/CommonStatBarHeavyc60.blp
 8490352;Interface/Common/CommonStatBarHeavy2xc60.blp
 8490356;Interface/Common/CommonStatBarHeavyMaskc60.blp
@@ -176636,6 +176651,8 @@
 8526248;Interface/HUD/UIUnitFramePlayerHealthMaskc60.blp
 8526250;Interface/HUD/UIUnitFrameMinusMobHealthMask2xc60.blp
 8526252;Interface/HUD/UIUnitFrameMinusMobHealthMaskc60.blp
+8526319;Interface/ICONS/INV_Sword_2H_Primal_C_01.blp
+8526331;Interface/ICONS/INV_Mace_2H_Primal_C_01.blp
 8526420;Interface/AddOns/Blizzard_InspectUI/Camelot/InspectGuildFrame.xml
 8526421;Interface/AddOns/Blizzard_InspectUI/Camelot/InspectGuildFrame.lua
 8526422;Interface/AddOns/Blizzard_InspectUI/Camelot/InspectPVPFrame.lua
@@ -176727,12 +176744,25 @@
 8571978;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchResults.xml
 8571979;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchScoreboard.lua
 8571980;Interface/AddOns/Blizzard_PVPMatch/Camelot/PVPMatchScoreboard.xml
+8572143;Interface/ICONS/INV_Shield_1H_Tough_C_01.blp
+8572716;Interface/ICONS/INV_Cape_Special_Tough_C_01.blp
 8572884;Interface/AddOns/Blizzard_ActionBar/Camelot/ActionButtonUtilOverrides.lua
 8573816;Interface/AddOns/Blizzard_LFGUtil/Shared/LFGVoiceChatUtil.lua
 8574807;Interface/AddOns/Blizzard_SettingsDefinitions_Shared/Preset.lua
+8575025;Interface/ICONS/INV_Axe_2H_Tough_C_01.blp
 8575111;Interface/Glues/COMMON/Glues-WoW-TaleboundLogo.blp
 8575208;Interface/AddOns/Blizzard_SharedTalentUI/WoWHack/Blizzard_WoWHackCharacterStats.lua
+8575547;Interface/ICONS/INV_Axe_1H_Tough_C_01.blp
 8578853;Interface/Splash/Splash1217.blp
+8583857;Interface/ICONS/INV_Polearm_2H_Tough_C_01.blp
+8586362;Interface/ICONS/INV_Cape_Armor_Tough_D_01.blp
+8586363;Interface/ICONS/INV_Chest_Armor_Tough_D_01.blp
+8586364;Interface/ICONS/INV_Glove_Armor_Tough_D_01.blp
+8586365;Interface/ICONS/INV_Helm_Armor_Tough_D_01.blp
+8586366;Interface/ICONS/INV_Pant_Armor_Tough_D_01.blp
+8586367;Interface/ICONS/INV_Shoulder_Armor_Tough_D_01.blp
+8586368;Interface/ICONS/INV_Belt_Armor_Tough_D_01.blp
+8586369;Interface/ICONS/INV_Boot_Armor_Tough_D_01.blp
 8587058;Interface/AddOns/Blizzard_GamepadSmartNavigation/SecureHelper.lua
 8613697;Interface/AddOns/Blizzard_GamepadInfoHUD/Blizzard_GamepadInfoHUD.toc
 8613698;Interface/AddOns/Blizzard_GamepadInfoHUD/InfoHUD.xml
