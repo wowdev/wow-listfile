@@ -146270,8 +146270,8 @@
 6433285;models/creature/unk_exp10_6433189/T_VFX_FLAR_BLUR_64.blp
 6433288;models/creature/unk_exp10_6433189/T_VFX_FLARE05_A.blp
 6433292;models/creature/unk_exp10_6433189/ShaHauntFlakes01_white.blp
-6433296;models/creature/unk_exp10_6433189/T_VFX_Smoke_C64.blp
-6433300;models/creature/unk_exp10_6433189/T_VFX_EXPLOSION01_ALPHA.blp
+6433296;models/creature/unk_exp10_6433189/6433189_6433296.blp
+6433300;models/creature/unk_exp10_6433189/6433189_6433300.blp
 6433304;models/creature/unk_exp10_6433189/T_VFX_HERO_AURA_01.blp
 6433308;models/creature/unk_exp10_6433189/T_VFX_FLARE05_DARK.blp
 6433313;models/creature/unk_exp10_6433189/T_VFX_SmokeAnim02_Blured.blp
@@ -210240,6 +210240,7 @@
 7823484;Sound/Spell/RecoveredStolenPresent_cast_oneshot_7823484.ogg
 7823498;Sound/Spell/MadcapRedcap_cast_oneshot_7823498.ogg
 7823502;Sound/Spell/KCPCollectSpareWood_cast_oneshot_7823502.ogg
+7823509;Sound/Spell/Interact_cast_oneshot_7823509.ogg
 7823516;Sound/Spell/NapMat_cast_oneshot_7823516.ogg
 7823523;Sound/Spell/Placing_cast_oneshot_7823523.ogg
 7823555;Sound/Spell/Visual_cast_oneshot_7823555.ogg
@@ -223358,8 +223359,10 @@
 8147980;Housing/Icons/INV_11GO_Goblin_Canholder02_8147980.blp
 8147982;Housing/Icons/INV_10CAN_Volcanic_lavapool02_8147982.blp
 8147984;Housing/Icons/INV_11GO_Goblin_Sign04_8147984.blp
+8147988;Housing/Thumbnails/12PH_Dice01_8147988.blp
 8147990;Housing/Icons/INV_TreasureChest01_8147990.blp
 8147992;Housing/Thumbnails/9cas_castlebriar_a01_8147992.blp
+8147994;Housing/Thumbnails/12PH_Dice02_8147994.blp
 8147996;Housing/Thumbnails/10CAN_Volcanic_lavapool02_8147996.blp
 8147998;Housing/Icons/INV_9cas_castlebriar_a01_8147998.blp
 8148000;Housing/Thumbnails/9cas_castlebriarbase_c01_8148000.blp
@@ -223371,6 +223374,7 @@
 8148012;Housing/Thumbnails/9cas_castlebriar_a02_8148012.blp
 8148014;Housing/Icons/INV_9cas_castlebriarbase_c03_8148014.blp
 8148016;Housing/Icons/INV_11GO_Goblin_Dice02_8148016.blp
+8148018;Housing/Thumbnails/12PH_PlayingCards_Deck01_8148018.blp
 8148020;Housing/Icons/INV_9cas_castlebriarbase_c01_8148020.blp
 8148022;Housing/Thumbnails/6HU_ENCHANTING_CANDLES01_8148022.blp
 8148024;Housing/Thumbnails/TreasureChest01_8148024.blp
@@ -230989,12 +230993,12 @@
 8586388;item/texturecomponents/armlowertexture/8572630_al_u_8586388.blp
 8586389;item/texturecomponents/armlowertexture/8572630_al_u_8586389.blp
 8586390;item/texturecomponents/armlowertexture/8572630_al_u_8586390.blp
-8586391;models/item/unk_exp11_8572630_be_m/8572630_8586391.blp
+8586391;models/item/unk_exp11_8572630_be_m/8572630_Be_m_8586391.blp
 8586392;item/texturecomponents/armlowertexture/8572630_al_u_8586392.blp
 8586393;item/texturecomponents/armlowertexture/8572630_al_u_8586393.blp
 8586394;models/item/unk_exp11_8572710/8572710_8586394.blp
 8586395;item/texturecomponents/armlowertexture/8572630_al_u_8586395.blp
-8586396;models/item/unk_exp11_8572630_be_m/8572630_8586396.blp
+8586396;models/item/unk_exp11_8572630_be_m/8572630_Be_m_8586396.blp
 8586397;item/texturecomponents/handtexture/8572630_ha_u_8586397.blp
 8586398;models/item/unk_exp11_8572708_l/8572708_l_8586398.blp
 8586399;item/texturecomponents/handtexture/8572630_ha_u_8586399.blp
@@ -231002,14 +231006,14 @@
 8586401;item/texturecomponents/handtexture/8572630_ha_u_8586401.blp
 8586402;item/texturecomponents/leglowertexture/8572630_ll_u_8586402.blp
 8586403;item/texturecomponents/leglowertexture/8572630_ll_u_8586403.blp
-8586404;models/item/unk_exp11_8572630_be_m/8572630_8586404.blp
+8586404;models/item/unk_exp11_8572630_be_m/8572630_Be_m_8586404.blp
 8586405;item/texturecomponents/leglowertexture/8572630_ll_u_8586405.blp
 8586406;models/item/unk_exp11_8572710/8572710_8586406.blp
 8586407;item/texturecomponents/leglowertexture/8572630_ll_u_8586407.blp
 8586408;models/item/unk_exp11_8572708_l/8572708_l_8586408.blp
 8586409;item/texturecomponents/leglowertexture/8572630_ll_u_8586409.blp
 8586410;item/texturecomponents/leglowertexture/8572630_ll_u_8586410.blp
-8586411;models/item/unk_exp11_8572630_be_m/8572630_8586411.blp
+8586411;models/item/unk_exp11_8572630_be_m/8572630_Be_m_8586411.blp
 8586412;item/texturecomponents/leglowertexture/8572630_ll_u_8586412.blp
 8586413;item/texturecomponents/leguppertexture/8572630_lu_u_8586413.blp
 8586414;item/texturecomponents/leguppertexture/8572710_lu_u_8586414.blp
@@ -231019,21 +231023,21 @@
 8586418;item/texturecomponents/leguppertexture/8572710_lu_u_8586418.blp
 8586419;item/texturecomponents/leguppertexture/8572710_lu_u_8586419.blp
 8586420;models/item/unk_exp11_8572708_l/8572708_l_8586420.blp
-8586421;models/item/unk_exp11_8572669_be_m/8572669_8586421.blp
+8586421;models/item/unk_exp11_8572669_be_m/8572669_Be_m_8586421.blp
 8586422;item/texturecomponents/leguppertexture/8572630_lu_u_8586422.blp
 8586423;item/texturecomponents/leguppertexture/8572710_lu_u_8586423.blp
 8586424;models/item/unk_exp11_8572710/8572710_8586424.blp
 8586425;item/texturecomponents/armuppertexture/8572630_au_u_8586425.blp
 8586426;item/texturecomponents/armuppertexture/8572630_au_u_8586426.blp
 8586427;item/texturecomponents/armuppertexture/8572630_au_u_8586427.blp
-8586428;models/item/unk_exp11_8572669_be_m/8572669_8586428.blp
+8586428;models/item/unk_exp11_8572669_be_m/8572669_Be_m_8586428.blp
 8586429;item/texturecomponents/armuppertexture/8572630_au_u_8586429.blp
 8586430;item/texturecomponents/foottexture/8572630_fo_u_8586430.blp
 8586431;item/texturecomponents/foottexture/8572630_fo_u_8586431.blp
 8586432;item/texturecomponents/foottexture/8572630_fo_u_8586432.blp
 8586433;item/texturecomponents/foottexture/8572630_fo_u_8586433.blp
-8586434;models/item/unk_exp11_8572669_be_m/8572669_8586434.blp
-8586435;models/item/unk_exp11_8572669_be_m/8572669_8586435.blp
+8586434;models/item/unk_exp11_8572669_be_m/8572669_Be_m_8586434.blp
+8586435;models/item/unk_exp11_8572669_be_m/8572669_Be_m_8586435.blp
 8586493;Sound/Music/Midnight/Zone 12.1.7 - Talebound - Grove - General - Boss 2_8586493.mp3
 8586495;Sound/Music/Midnight/Zone 12.1.7 - Talebound - Final Confrontation - Stage 3_8586495.mp3
 8586497;Sound/Music/Midnight/Zone 12.1.7 - Talebound - Greenthistle Woods - Boss 2_8586497.mp3
@@ -231395,11 +231399,13 @@
 8614809;Sound/Creature/WinterBroom/WinterBroom_loop_8614809.ogg
 8614811;Sound/Creature/WinterBroom/WinterBroom_loop_8614811.ogg
 8614813;Sound/Creature/WinterBroom/WinterBroom_loop_8614813.ogg
-8625241;models/unknown/unk_exp11_8625241/8625241.m2
+8625241;models/unknown/unk_exp11_argentcrusade_small01/ARGENTCRUSADE_SMALL01.m2
 8625465;models/unknown/unk_exp11_8625465/8625465.m2
-8626027;models/unknown/unk_exp11_8625241/ARGENTCRUSADE_TENT.blp
-8626029;models/unknown/unk_exp11_8625241/862524100.skin
-8626035;models/unknown/unk_exp11_8625241/8625241_lod01.skin
-8626039;models/unknown/unk_exp11_8625241/8625241_lod02.skin
-8626044;models/unknown/unk_exp11_8625241/8625241_lod03.skin
+8626027;models/unknown/unk_exp11_argentcrusade_small01/ARGENTCRUSADE_TENT.blp
+8626029;models/unknown/unk_exp11_argentcrusade_small01/ARGENTCRUSADE_SMALL0100.skin
+8626035;models/unknown/unk_exp11_argentcrusade_small01/ARGENTCRUSADE_SMALL01_lod01.skin
+8626039;models/unknown/unk_exp11_argentcrusade_small01/ARGENTCRUSADE_SMALL01_lod02.skin
+8626044;models/unknown/unk_exp11_argentcrusade_small01/ARGENTCRUSADE_SMALL01_lod03.skin
 8626130;Housing/Icons/INV_8625241_8626130.blp
+8643311;models/unknown/unk_exp11_8298764/8298764_8643311.blp
+8643312;models/unknown/unk_exp11_8298764/8298764_8643312.blp

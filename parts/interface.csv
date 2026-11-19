@@ -176743,3 +176743,8 @@
 8629287;Interface/AddOns/Blizzard_ObjectiveTracker/WoWHack/Blizzard_AutoQuestPopUpTrackerOverride.lua
 8631109;Interface/AddOns/Blizzard_Game/Camelot/EventImplementationUtils.lua
 8631110;Interface/AddOns/Blizzard_Game/Mainline/EventImplementationUtils.lua
+8642479;Interface/AddOns/Blizzard_Tutorials/Camelot/Blizzard_TutorialsOverrides.lua
+8647083;Interface/AddOns/Blizzard_APIDocumentationGenerated/LegacySystemDocumentation.lua
+8647084;Interface/AddOns/Blizzard_APIDocumentationGenerated/MawBuffsDocumentation.lua
+8648861;Interface/AddOns/Blizzard_GamepadSharedUtility/Tab/TabStrip.lua
+8648862;Interface/AddOns/Blizzard_GamepadSharedUtility/Tab/TabStrip.xml
