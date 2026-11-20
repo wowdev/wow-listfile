@@ -117900,8 +117900,12 @@
 6399835;World/Minimaps/2865/map18_36.blp
 6399837;World/Minimaps/2865/map19_36.blp
 6399845;World/Minimaps/2865/map20_36.blp
+6399885;World/Minimaps/2865/map21_33.blp
+6399889;World/Minimaps/2865/map22_33.blp
+6399891;World/Minimaps/2865/map23_33.blp
 6399893;World/Minimaps/2865/map22_34.blp
 6399895;World/Minimaps/2865/map21_34.blp
+6399897;World/Minimaps/2865/map23_34.blp
 6399899;World/Minimaps/2865/map22_35.blp
 6399901;World/Minimaps/2865/map23_35.blp
 6399905;World/Minimaps/2865/map21_35.blp
@@ -132850,6 +132854,9 @@
 7790494;World/Minimaps/WMO/Expansion11/Troll/12TR_Amani_Crypts01_019_00_00.blp
 7790496;World/Minimaps/WMO/Expansion11/Troll/12TR_Amani_Crypts01_020_00_00.blp
 7790498;World/Minimaps/WMO/Expansion11/Troll/12TR_Amani_Crypts01_021_00_00.blp
+7790520;World/Minimaps/WMO/Expansion11/12XP_CorewayEntrance01_001_00_00.blp
+7790522;World/Minimaps/WMO/Expansion11/12XP_CorewayEntrance01_002_00_00.blp
+7790524;World/Minimaps/WMO/Expansion11/12XP_CorewayEntrance01_002_01_00.blp
 7792463;World/Minimaps/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid01_056_00_00.blp
 7792465;World/Minimaps/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid01_056_01_00.blp
 7792467;World/Minimaps/WMO/Dungeon/Ulatek/12DU_Ulatek_Raid01_056_02_00.blp
@@ -134195,6 +134202,7 @@
 8396621;World/Minimaps/2910/map38_27.blp
 8396623;World/Minimaps/2910/map36_28.blp
 8396625;World/Minimaps/2910/map36_29.blp
+8420324;World/Minimaps/WMO/Expansion11/12XP_CorewayEntrance01_001_01_00.blp
 8469806;World/Minimaps/WMO/Expansion11/Troll/12TR_Ulatek_Tomb01_008_01_00.blp
 8469808;World/Minimaps/WMO/Expansion11/Troll/12TR_Ulatek_Tomb01_008_02_00.blp
 8469810;World/Minimaps/WMO/Expansion11/Troll/12TR_Ulatek_Tomb01_008_03_00.blp
