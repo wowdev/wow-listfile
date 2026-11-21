@@ -171213,6 +171213,14 @@
 7802445;Interface/AddOns/Blizzard_MainMenuBarBagButtons/Classic/MainMenuBarBagButtonsConsts.lua
 7802446;Interface/AddOns/Blizzard_MainMenuBarBagButtons/Mists/MainMenuBarBagButtonsConsts.lua
 7802447;Interface/AddOns/Blizzard_MainMenuBarBagButtons/Wrath/MainMenuBarBagButtonsConsts.lua
+7802575;Interface/ICONS/INV_Belt_Armor_Varian_D_01.blp
+7802576;Interface/ICONS/INV_Boot_Armor_Varian_D_01.blp
+7802577;Interface/ICONS/INV_Cape_Armor_Varian_D_01.blp
+7802578;Interface/ICONS/INV_Chest_Armor_Varian_D_01.blp
+7802579;Interface/ICONS/INV_Glove_Armor_Varian_D_01.blp
+7802580;Interface/ICONS/INV_Helm_Armor_Varian_D_01.blp
+7802581;Interface/ICONS/INV_Pant_Armor_Varian_D_01.blp
+7802582;Interface/ICONS/INV_Shoulder_Armor_Varian_D_01.blp
 7807102;Interface/EncounterJournal/UI-EJ-BACKGROUND-MythicDungeon.blp
 7807103;Interface/EncounterJournal/UI-EJ-DUNGEONBUTTON-MythicDungeon.blp
 7807104;Interface/EncounterJournal/UI-EJ-LOREBG-MythicDungeon.blp
@@ -176778,3 +176786,11 @@
 8647084;Interface/AddOns/Blizzard_APIDocumentationGenerated/MawBuffsDocumentation.lua
 8648861;Interface/AddOns/Blizzard_GamepadSharedUtility/Tab/TabStrip.lua
 8648862;Interface/AddOns/Blizzard_GamepadSharedUtility/Tab/TabStrip.xml
+8649838;Interface/AddOns/Blizzard_GlueXML/Shared/StarterEditionPopUpTemplates.xml
+8649992;Interface/AddOns/Blizzard_SettingsDefinitions_Frame/Shared/SocialOverrides.lua
+8650709;Interface/AddOns/Blizzard_SettingsDefinitions_Shared/Mainline/TextOverrides.lua
+8650710;Interface/AddOns/Blizzard_SharedXML/NameMaskingUtil.lua
+8652205;Interface/AddOns/Blizzard_SettingsDefinitions_Shared/Camelot/TextOverrides.lua
+8653614;Interface/AddOns/Blizzard_NamePlates/Camelot/Blizzard_NamePlateClassificationFrameOverrides.lua
+8653615;Interface/AddOns/Blizzard_SettingsDefinitions_Frame/Camelot/CombatOverrides.lua
+8653616;Interface/AddOns/Blizzard_SocialUI/Camelot/SocialUITemplatesOverrides.lua
